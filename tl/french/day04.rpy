@@ -1,4 +1,4 @@
-﻿# TODO: Translation updated at 2019-02-01 17:22
+﻿# TODO: Translation updated at 2019-02-22 22:04
 
 # game/day04.rpy:19
 translate french day04_716cca4a_1:
@@ -1593,7 +1593,7 @@ translate french day04_evening_choices_76db6500_1:
 # game/day04.rpy:672
 translate french day04_evening_choices_95a45cb5_1:
 
-    # p "Could spin around for me?"
+    # p "Could you spin around for me?"
     p "Tu pourrais te retourner pour moi ?"
 
 # game/day04.rpy:674

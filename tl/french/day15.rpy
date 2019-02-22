@@ -1,4 +1,4 @@
-﻿# TODO: Translation updated at 2019-02-01 17:22
+﻿# TODO: Translation updated at 2019-02-22 22:04
 
 # game/day15.rpy:21
 translate french day15_f0bda93d_1:
@@ -363,8 +363,8 @@ translate french day15_home_choices_6ac31017_1:
 # game/day15.rpy:118
 translate french day15_home_choices_1a74236b_1:
 
-    # m "Why yes, dear."
-    m "Mais oui, mon cher."
+    # m "Why, yes dear."
+    m "Mais, oui mon cher."
 
 # game/day15.rpy:119
 translate french day15_home_choices_f3feb97f_1:

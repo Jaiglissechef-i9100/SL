@@ -1,4 +1,4 @@
-﻿# TODO: Translation updated at 2019-02-01 17:22
+﻿# TODO: Translation updated at 2019-02-22 22:04
 
 # game/day09.rpy:27
 translate french day09_4c4ab8d0_1:
@@ -2427,7 +2427,7 @@ translate french day09_r_l_shopping_choices_5e3f7915_1:
 # game/day09.rpy:736
 translate french day09_r_l_shopping_choices_d5dd56da_1:
 
-    # er "Good. Very glad to see you keeping other company than that Ana and Alina."
+    # er "Good. Very glad to see you keeping other company than Ana and Alina."
     er "Bien. Ravi de voir que vous avez d'autres fréquentations qu'Ana et Alina."
 
 # game/day09.rpy:738

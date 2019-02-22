@@ -1,4 +1,4 @@
-﻿# TODO: Translation updated at 2019-02-01 17:22
+﻿# TODO: Translation updated at 2019-02-22 22:04
 
 # game/day07.rpy:21
 translate french day07_0dc2d14d_1:
@@ -1869,7 +1869,7 @@ translate french day07_p_room_choices_4149e4c2_1:
 # game/day07.rpy:594
 translate french day07_p_room_choices_9dc14efa_1:
 
-    # p "{i}(It's really time I did something about Brody.)"
+    # p "{i}(It's really time I do something about Brody.)"
     p "{i}(Il est vraiment temps que je fasse quelque chose à propos de Brody.)"
 
 # game/day07.rpy:595
@@ -1971,8 +1971,8 @@ translate french day07_p_room_choices_a1822108_1:
 # game/day07.rpy:622
 translate french day07_p_room_choices_d55d2bd1_1:
 
-    # p "{i}(My guess is that they she's not here for a job interview...)"
-    p "{i}(Je pense qu'elle n'est pas là pour un entretien d'embauche.)"
+    # p "{i}(My guess is, that they she's not here for a job interview...)"
+    p "{i}(Je pense, qu'elle n'est pas là pour un entretien d'embauche.)"
 
 # game/day07.rpy:624
 translate french day07_p_room_choices_48cae724_1:
@@ -2133,8 +2133,8 @@ translate french day07_p_room_choices_67f83d3f_1:
 # game/day07.rpy:654
 translate french day07_p_room_choices_fa76bf41_1:
 
-    # ri "I wouldn't mind the company and maybe the manager will keep his hands from himself with you around."
-    ri "Ça ne me dérangerait pas pour la compagnie et peut-être que le gérant gardera ses mains loin de moi avec vous dans les parages."
+    # ri "I wouldn't mind the company and maybe the manager will keep his hands to himself with you around."
+    ri "Ça ne me dérangerait pas d'avoir de la compagnie et peut-être que le gérant gardera ses mains loin de moi avec vous dans les parages."
 
 # game/day07.rpy:656
 translate french day07_p_room_choices_f260a3fe_1:

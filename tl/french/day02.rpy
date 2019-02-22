@@ -1,4 +1,4 @@
-﻿# TODO: Translation updated at 2019-02-01 17:22
+﻿# TODO: Translation updated at 2019-02-22 22:04
 
 # game/day02.rpy:8
 translate french day02_07e48f6f_1:
@@ -1437,8 +1437,8 @@ translate french day02_living_room_conversation_c2e814dd_1:
 # game/day02.rpy:596
 translate french day02_living_room_conversation_2a053e98_1:
 
-    # l "You haven't said much [r_name]?"
-    l "Tu n'as pas dit grand-chose [r_name] ?"
+    # l "You haven't eaten much [r_name]?"
+    l "Tu n'as pas manger grand-chose [r_name] ?"
 
 # game/day02.rpy:597
 translate french day02_living_room_conversation_388ae3ab_1:

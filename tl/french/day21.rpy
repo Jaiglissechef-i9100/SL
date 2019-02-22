@@ -1,4 +1,4 @@
-﻿# TODO: Translation updated at 2019-02-01 17:22
+﻿# TODO: Translation updated at 2019-02-22 22:04
 
 # game/day21.rpy:16
 translate french day21_12f2210b_1:
@@ -477,7 +477,7 @@ translate french day21_choices_f151c2f9_1:
 # game/day21.rpy:133
 translate french day21_choices_4c0c52a6_1:
 
-    # b "Haha, you're such dork a sometimes."
+    # b "Haha, you're such a dork sometimes."
     b "Haha, t'es vraiment un abruti parfois."
 
 # game/day21.rpy:134
@@ -3753,8 +3753,8 @@ translate french day21_flashback_5e065bfd_1:
 # game/day21.rpy:936
 translate french day21_flashback_090d08fc_1:
 
-    # "{i}There I was, sitting next to a woman twice my age, who now started softly touching the entire length of my shaft. When her fingers eventually tiptoed over my exposed glans, I stopped breathing for several seconds."
-    "{i}J'étais assis à côté d'une femme de deux fois mon âge, qui a commencé à toucher doucement tout mon corps. Lorsque ses doigts ont fini par glisser sur mon gland exposé, j'ai cessé de respirer pendant plusieurs secondes."
+    # "{i}There I was, standing next to a woman twice my age, who now started softly touching the entire length of my shaft. When her fingers eventually tiptoed over my exposed glans, I stopped breathing for several seconds."
+    "{i}J'étais là, debout à côté d'une femme de deux fois mon âge, qui a commencé à toucher doucement tout mon corps. Lorsque ses doigts ont fini par glisser sur mon gland exposé, j'ai cessé de respirer pendant plusieurs secondes."
 
 # game/day21.rpy:937
 translate french day21_flashback_e2d25499_1:

@@ -1,4 +1,4 @@
-﻿# TODO: Translation updated at 2019-02-01 17:22
+﻿# TODO: Translation updated at 2019-02-22 22:04
 
 # game/day17.rpy:19
 translate french day17_a85bc899_1:
@@ -1503,7 +1503,7 @@ translate french day17_dinner_dbaf0a9e_1:
 # game/day17.rpy:454
 translate french day17_dinner_a006230b_1:
 
-    # p "It was, but I think we we came out of it pretty well, don't you think [r_name]?"
+    # p "It was, but I think we came out of it pretty well, don't you think [r_name]?"
     p "Ça l'était, mais je crois qu'on s'en est plutôt bien sortis, tu ne crois pas [r_name] ?"
 
 # game/day17.rpy:456

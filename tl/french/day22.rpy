@@ -1,4 +1,4 @@
-﻿# TODO: Translation updated at 2019-02-01 17:22
+﻿# TODO: Translation updated at 2019-02-22 22:04
 
 # game/day22.rpy:23
 translate french day22_b37a99fa_1:
@@ -2451,8 +2451,8 @@ translate french day22_evening_choices_fae265e5_1:
 # game/day22.rpy:673
 translate french day22_evening_choices_01aa4ad2_1:
 
-    # ju "What would you like something to drink?"
-    ju "Qu'est-ce que tu veux boire ?"
+    # ju "Would you like something to drink?"
+    ju "Veux-tu boire quelque chose ?"
 
 # game/day22.rpy:675
 translate french day22_evening_choices_21452ca8_1:
@@ -2631,8 +2631,8 @@ translate french day22_evening_choices_54dc8b27_1:
 # game/day22.rpy:708
 translate french day22_evening_choices_fb944553_1:
 
-    # p "You have an admirer, [l_name]?"
-    p "Tu as un admirateur, [l_name] ?"
+    # p "You have an admirer, [l_name]!"
+    p "Tu as un admirateur, [l_name] !"
 
 # game/day22.rpy:709
 translate french day22_evening_choices_c321a1ca_1:
@@ -3417,7 +3417,7 @@ translate french day22_evening_choices_1ca90c30_1:
 # game/day22.rpy:871
 translate french day22_evening_choices_b90296e4_1:
 
-    # "{i}You're about to get ready for bed, when there's a soft knock on you door."
+    # "{i}You're about to get ready for bed, when there's a soft knock on your door."
     "{i}Tu es sur le point d'aller te coucher, quand on frappe doucement à ta porte."
 
 # game/day22.rpy:873

@@ -1,4 +1,4 @@
-﻿# TODO: Translation updated at 2019-02-01 17:22
+﻿# TODO: Translation updated at 2019-02-22 22:04
 
 # game/day11.rpy:25
 translate french day11_f2bcf4e4_1:
@@ -2643,8 +2643,8 @@ translate french day11_b_conversation_a30a191d_1:
 # game/day11.rpy:763
 translate french day11_b_conversation_f9bc67a3_1:
 
-    # b "It does. [l_name] wasn't too affected by the whole situation. [r_name] is too young to remember much of him."
-    b "C'est le cas. [l_name] n'a pas été trop affecté par toute la situation. [r_name] est trop jeune pour se souvenir de lui."
+    # b "It does. [l_name] wasn't too affected by the whole situation. [r_name] was too young to remember much of him."
+    b "C'est le cas. [l_name] n'a pas été trop affecté par toute la situation. [r_name] était trop jeune pour se souvenir de lui."
 
 # game/day11.rpy:764
 translate french day11_b_conversation_d3de13fb_1:

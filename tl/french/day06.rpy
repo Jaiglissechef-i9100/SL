@@ -1,4 +1,4 @@
-﻿# TODO: Translation updated at 2019-02-01 17:22
+﻿# TODO: Translation updated at 2019-02-22 22:04
 
 # game/day06.rpy:16
 translate french day06_06623250_1:
@@ -1557,8 +1557,8 @@ translate french day06_cinema_5fbc5fe3_1:
 # game/day06.rpy:459
 translate french day06_cinema_17ebe79e_1:
 
-    # p "What the girl in the film? Yeah, she's quite sexy."
-    p "Que veut dire la fille dans le film ? Oui, elle est assez sexy."
+    # p "What, the girl in the film? Yeah, she's quite sexy."
+    p "Quoi, la fille du film ? Oui, elle est assez sexy."
 
 # game/day06.rpy:460
 translate french day06_cinema_264f62a6_1:

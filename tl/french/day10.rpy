@@ -1,4 +1,4 @@
-﻿# TODO: Translation updated at 2019-02-01 17:22
+﻿# TODO: Translation updated at 2019-02-22 22:04
 
 # game/day10.rpy:18
 translate french day10_1c7cf5ff_1:
@@ -273,7 +273,7 @@ translate french day10_843d74ce_1:
 # game/day10.rpy:100
 translate french day10_28f6d9a4_1:
 
-    # p "We'll show that Mrs. Steel that your an independent girl who doesn't need school camps or meddling counsellors."
+    # p "We'll show that Mrs. Steel that you're an independent girl, who doesn't need school camps or meddling counsellors."
     p "Nous montrerons à Mme Steel que tu es une fille indépendante qui n'a pas besoin de camps scolaires ou de conseillers."
 
 # game/day10.rpy:101

@@ -1,4 +1,4 @@
-﻿# TODO: Translation updated at 2019-02-01 17:22
+﻿# TODO: Translation updated at 2019-02-22 22:04
 
 # game/day18.rpy:18
 translate french day18_06be7dc0_1:
@@ -525,8 +525,8 @@ translate french day18_choices_8ec13cd0_1:
 # game/day18.rpy:179
 translate french day18_choices_954d7495_1:
 
-    # p "{i}(Let's see where how our hero and his maid are doing...)"
-    p "{i}(Voyons où en sont notre héros et sa bonne...)"
+    # p "{i}(Let's see how our hero and his maid are doing...)"
+    p "{i}(Voyons comment vont notre héros et sa bonne...)"
 
 # game/day18.rpy:181
 translate french day18_choices_1cb6ad89_1:

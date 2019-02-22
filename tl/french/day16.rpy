@@ -1,4 +1,4 @@
-﻿# TODO: Translation updated at 2019-02-01 17:22
+﻿# TODO: Translation updated at 2019-02-22 22:04
 
 # game/day16.rpy:26
 translate french day16_8e90f4f7_1:
@@ -3627,7 +3627,7 @@ translate french day16_b_restaurant_choices_soft_b87fab88_1:
 # game/day16.rpy:994
 translate french day16_b_restaurant_choices_soft_c2ddbdc9_1:
 
-    # p "Come one, you can say it to me."
+    # p "Come on, you can say it to me."
     p "Aller, tu peux me le dire."
 
 # game/day16.rpy:995
@@ -3759,8 +3759,8 @@ translate french day16_b_restaurant_choices_soft_49062072_1:
 # game/day16.rpy:1017
 translate french day16_b_restaurant_choices_soft_bb4294e1_1:
 
-    # "{i}After a short while, [l_name]'s soft moans of pleasure slow and then stop completely. She's no longer enjoying herself and appears to have reverted back to stiff and pleasure-less grinding."
-    "{i}Peu de temps après, les doux gémissements de plaisir de [l_name]  s'arrêtent complètement. Elle ne s'amuse plus et semble être revenue à un travail raide et sans plaisir."
+    # "{i}After a short while, [l_name]'s soft moans of pleasure slow down and then stop completely. She's no longer enjoying herself and appears to have reverted back to stiff and pleasure-less grinding."
+    "{i}Peu de temps après, les doux gémissements de plaisir de [l_name] ralentissent et s'arrêtent complètement. Elle ne s'amuse plus et semble être revenue à un travail raide et sans plaisir."
 
 # game/day16.rpy:1018
 translate french day16_b_restaurant_choices_soft_36fe35c9_1:

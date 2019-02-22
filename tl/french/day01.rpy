@@ -1,10 +1,10 @@
-﻿# TODO: Translation updated at 2019-02-01 17:22
+﻿# TODO: Translation updated at 2019-02-22 22:04
 
 # game/day01.rpy:6
 translate french day01_67bf77e3_1:
 
-    # m "O, hi [p_name]! You're right on time."
-    m "O, salut [p_name] ! Tu es pile à l'heure."
+    # m "Oh, hi [p_name]! You're right on time."
+    m "Oh, salut [p_name] ! Tu es pile à l'heure."
 
 # game/day01.rpy:9
 translate french day01_152cb63c_1:
@@ -123,8 +123,8 @@ translate french enter_apartment_981e998f_1:
 # game/day01.rpy:79
 translate french enter_apartment_76734aaf_1:
 
-    # r "O, right. Hi, I'm [r_name]!"
-    r "O, c'est vrai. Salut, je suis [r_name] !"
+    # r "Oh, right. Hi, I'm [r_name]!"
+    r "Oh, c'est vrai. Salut, je suis [r_name] !"
 
 # game/day01.rpy:82
 translate french enter_apartment_2494dc32_1:

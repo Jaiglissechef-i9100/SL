@@ -1,4 +1,4 @@
-﻿# TODO: Translation updated at 2019-02-01 17:22
+﻿# TODO: Translation updated at 2019-02-22 22:04
 
 # game/day05.rpy:25
 translate french day05_43a3b4e7_1:
@@ -1000,7 +1000,7 @@ translate french day05_al_bj_7c04e579_1:
 translate french day05_al_bj_15f9d00e_1:
 
     # al "Mmmmm, nice!"
-    al "Mmmmmmm, sympa !"
+    al "Mmmmm, sympa !"
 
 # game/day05.rpy:361
 translate french day05_al_bj_83d55ae5_1:
@@ -1011,8 +1011,8 @@ translate french day05_al_bj_83d55ae5_1:
 # game/day05.rpy:364
 translate french day05_al_bj_965449ef_1:
 
-    # al "Ana was right, you taste very nice and there so much of it as well!"
-    al "Ana avait raison, tu as très bon goût et il y en a tellement aussi !"
+    # al "Ana was right, you taste very nice and there's so much of it as well!
+    al "Ana avait raison, tu as très bon goût et ils y en a tellement aussi !"
 
 # game/day05.rpy:366
 translate french day05_al_bj_d7c57646_1:
