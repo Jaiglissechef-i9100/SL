@@ -136,7 +136,7 @@ translate french enter_apartment_2494dc32_1:
 translate french enter_apartment_d90fb484_1:
 
     # p "({i}Woah. [r_name] looks very nice!)"
-    p "Woah. [r_name] est très joli !"
+    p "({i}Woah. [r_name] est très joli !)"
 
 # game/day01.rpy:90
 translate french enter_apartment_4f22f0ef_1:
@@ -154,7 +154,7 @@ translate french enter_apartment_953b0ac8_1:
 translate french day01_leave_p_room_33cb256e_1:
 
     # p "{i}(She smells nice too.)"
-    p "Elle sent aussi très bon."
+    p "{i}(Elle sent aussi très bon.)"
 
 # game/day01.rpy:105
 translate french day01_leave_p_room_d8993691_1:
@@ -196,7 +196,7 @@ translate french day01_leave_p_room_e10a4b45_1:
 translate french empty_p_room_c6556e2b_1:
 
     # p "{i}(Well. That went all right, I think.)"
-    p "Ça s'est bien passé, je crois."
+    p "{i}(Ça s'est bien passé, enfin je crois.)"
 
 # game/day01.rpy:125
 translate french empty_p_room_7e95c934_1:
@@ -292,13 +292,13 @@ translate french post_shower_choices_f6c64a4e_1:
 translate french post_shower_choices_faf85feb_1:
 
     # "{i}As soon as you lie down you fall asleep. Your journey and the events of today have certainly taken their toll."
-    "Dès que tu t'allonges, tu t'endors. Ton voyage et les événements d'aujourd'hui ont certainement causé des dégâts."
+    "{i}Dès que tu t'allonges, tu t'endors. Ton voyage et les événements d'aujourd'hui ont certainement causé des dégâts."
 
 # game/day01.rpy:200
 translate french post_shower_choices_38b77e69_1:
 
     # "{i}You awake a few hours later at the beginning of the evening."
-    "Tu te réveilles quelques heures plus tard, en début de soirée."
+    "{i}Tu te réveilles quelques heures plus tard, en début de soirée."
 
 # game/day01.rpy:206
 translate french day01_r_bedroom_d1beb9e8_1:
@@ -340,7 +340,7 @@ translate french day01_r_bedroom_85da1649_1:
 translate french day01_r_bedroom_4db5f92d_1:
 
     # "{i}You go back to your room to dress yourself."
-    "Tu retournes dans ta chambre pour t'habiller."
+    "{i}Tu retournes dans ta chambre pour t'habiller."
 
 # game/day01.rpy:222
 translate french day01_r_bedroom_1ac62488_1:
@@ -1186,7 +1186,7 @@ translate french day01_b_conversation_1978dc2b_1:
 translate french day01_b_conversation_a81e5530_1:
 
     # "{i}You go back to your room. Despite having slept already you fall asleep very quickly."
-    "Tu retournes dans ta chambre. Malgré le fait d'avoir déjà dormi, tu t'endors rapidement."
+    "{i}Tu retournes dans ta chambre. Malgré le fait d'avoir déjà dormi, tu t'endors rapidement."
 
 translate french strings:
 

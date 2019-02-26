@@ -1,4 +1,4 @@
-﻿# TODO: Translation updated at 2019-02-01 17:22
+﻿# TODO: Translation updated at 2019-02-22 22:04
 
 # game/day30.rpy:16
 translate french day30_965f6063_1:
@@ -1323,7 +1323,7 @@ translate french day30_choices_6c99710b_1:
 # game/day30.rpy:336
 translate french day30_choices_5c41ad4c_1:
 
-    # p "The smile on you face tells me something completely different."
+    # p "The smile on your face tells me something completely different."
     p "Le sourire sur ton visage me dit quelque chose de complètement différent."
 
 # game/day30.rpy:337
@@ -1551,7 +1551,7 @@ translate french day30_choices_8eebc736_1:
 # game/day30.rpy:391
 translate french day30_choices_b0ab0768_1:
 
-    # p "[r_name] has just proven to me that's she really, really bad at this."
+    # p "[r_name] has just proven to me that she's really, really bad at this."
     p "[r_name] vient de me prouver qu'elle est vraiment, vraiment nulle pour ça."
 
 # game/day30.rpy:392
@@ -1767,7 +1767,7 @@ translate french day30_choices_432d51eb_6:
 # game/day30.rpy:451
 translate french day30_choices_414c0fdd_1:
 
-    # "{i}As you show [r_name] how to negotiate a particular hard level, she presses her body against your's."
+    # "{i}As you show [r_name] how to negotiate a particular hard level, she presses her body against yours."
     "{i}Pendant que vous montrez à [r_name] comment négocier un niveau particulièrement difficile, elle presse son corps contre le vôtre."
 
 # game/day30.rpy:452
