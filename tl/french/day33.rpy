@@ -1,4 +1,4 @@
-﻿# TODO: Translation updated at 2019-02-27 03:23
+﻿# TODO: Translation updated at 2019-02-22 22:04
 
 # game/day33.rpy:20
 translate french day33_f03211b0:
@@ -1081,10 +1081,10 @@ translate french day33_ed2f7f52:
     "{i}You want to touch her everywhere, but your hands linger on her buttocks, her delicious cheeks bouncing on the rhythm of your fucking."
 
 # game/day33.rpy:285
-translate french day33_6e49843b:
+translate french day33_5bced380:
 
-    # "{i}An exhausted Valentina is still lying on the couch, regarding you both with hooded eyes, though the first of [r_name]'s moans seem to spark something inside her again."
-    "{i}An exhausted Valentina is still lying on the couch, regarding you both with hooded eyes, though the first of [r_name]'s moans seem to spark something inside her again."
+    # "{i}An exhausted Valentina is still lying on the couch, regarding you both with hooded eyes, thought he first of [r_name]'s moans seem to spark something inside her again."
+    "{i}An exhausted Valentina is still lying on the couch, regarding you both with hooded eyes, thought he first of [r_name]'s moans seem to spark something inside her again."
 
 # game/day33.rpy:287
 translate french day33_8d36a3d4:
@@ -2664,2479 +2664,2473 @@ translate french day33_choices_f15380a0:
     # "{i}The hours tick away as you play some games and surf the web."
     "{i}The hours tick away as you play some games and surf the web."
 
-# game/day33.rpy:701
+# game/day33.rpy:697
 translate french day33_evening_choices_c8de8992:
 
     # p "Hey!"
     p "Hey!"
 
-# game/day33.rpy:702
+# game/day33.rpy:698
 translate french day33_evening_choices_e6563b22:
 
     # l "Oh, [p_name]!"
     l "Oh, [p_name]!"
 
-# game/day33.rpy:703
+# game/day33.rpy:699
 translate french day33_evening_choices_d8f3da18:
 
     # p "You were about to go to sleep?"
     p "You were about to go to sleep?"
 
-# game/day33.rpy:704
+# game/day33.rpy:700
 translate french day33_evening_choices_8420bcd9:
 
     # l "I'm so tired."
     l "I'm so tired."
 
-# game/day33.rpy:705
+# game/day33.rpy:701
 translate french day33_evening_choices_c1b42500:
 
     # p "Do you want to go do something together tomorrow?"
     p "Do you want to go do something together tomorrow?"
 
-# game/day33.rpy:707
+# game/day33.rpy:703
 translate french day33_evening_choices_0b40cda9:
 
     # l "Of course!"
     l "Of course!"
 
-# game/day33.rpy:708
+# game/day33.rpy:704
 translate french day33_evening_choices_1c8655a3:
 
     # p "Cool, I'll come pick you up."
     p "Cool, I'll come pick you up."
 
-# game/day33.rpy:709
+# game/day33.rpy:705
 translate french day33_evening_choices_991b15ea:
 
     # p "Good night, [l_name]."
     p "Good night, [l_name]."
 
-# game/day33.rpy:711
+# game/day33.rpy:707
 translate french day33_evening_choices_f9646008:
 
     # l "[p_name]! Wait!"
     l "[p_name]! Wait!"
 
-# game/day33.rpy:712
+# game/day33.rpy:708
 translate french day33_evening_choices_0ede743f:
 
     # l "If you... Do you want to stay?"
     l "If you... Do you want to stay?"
 
-# game/day33.rpy:713
+# game/day33.rpy:709
 translate french day33_evening_choices_aebcb022:
 
     # l "Cuddle... Keep each other warm, like we did in the delivery van?"
     l "Cuddle... Keep each other warm, like we did in the delivery van?"
 
-# game/day33.rpy:714
+# game/day33.rpy:710
 translate french day33_evening_choices_aa4b2ca1:
 
     # p "Of course!"
     p "Of course!"
 
-# game/day33.rpy:717
+# game/day33.rpy:713
 translate french day33_evening_choices_81191c57:
 
     # "{i}Your sister nestles herself against your chest and closes her eyes contently."
     "{i}Your sister nestles herself against your chest and closes her eyes contently."
 
-# game/day33.rpy:719
+# game/day33.rpy:715
 translate french day33_evening_choices_04f05fa0:
 
     # "{i}Your friend nestles herself against your chest and closes her eyes contently."
     "{i}Your friend nestles herself against your chest and closes her eyes contently."
 
-# game/day33.rpy:721
+# game/day33.rpy:717
 translate french day33_evening_choices_19d4b678:
 
     # l "[p_name]?"
     l "[p_name]?"
 
-# game/day33.rpy:722
+# game/day33.rpy:718
 translate french day33_evening_choices_d8b01cc0:
 
     # l "Have you ever heard of squirting?"
     l "Have you ever heard of squirting?"
 
-# game/day33.rpy:723
+# game/day33.rpy:719
 translate french day33_evening_choices_6428e499:
 
     # p "{i}(What?!)"
     p "{i}(What?!)"
 
-# game/day33.rpy:724
+# game/day33.rpy:720
 translate french day33_evening_choices_fbeabbba:
 
     # p "Errr..."
     p "Errr..."
 
-# game/day33.rpy:726
+# game/day33.rpy:722
 translate french day33_evening_choices_0c3c0485:
 
     # l "Sorry, that came out of nowhere."
     l "Sorry, that came out of nowhere."
 
-# game/day33.rpy:727
+# game/day33.rpy:723
 translate french day33_evening_choices_3fdd6ed9:
 
     # p "No problem, yes I've heard of it."
     p "No problem, yes I've heard of it."
 
-# game/day33.rpy:728
+# game/day33.rpy:724
 translate french day33_evening_choices_6428e499_1:
 
     # p "{i}(What?!)"
     p "{i}(What?!)"
 
-# game/day33.rpy:729
+# game/day33.rpy:725
 translate french day33_evening_choices_bbcaa3af:
 
     # p "It's like when a girl has this really intense orgasm."
     p "It's like when a girl has this really intense orgasm."
 
-# game/day33.rpy:730
+# game/day33.rpy:726
 translate french day33_evening_choices_a11e42f8:
 
     # l "Is it common?"
     l "Is it common?"
 
-# game/day33.rpy:733
+# game/day33.rpy:729
 translate french day33_evening_choices_b5b0c156:
 
     # p "{i}(I know for a fact [b_name] does it.)"
     p "{i}(I know for a fact [b_name] does it.)"
 
-# game/day33.rpy:734
+# game/day33.rpy:730
 translate french day33_evening_choices_c86bd702:
 
     # p "{i}(But better not share that info...)"
     p "{i}(But better not share that info...)"
 
-# game/day33.rpy:736
+# game/day33.rpy:732
 translate french day33_evening_choices_65d2f593:
 
     # p "I don't know, but in porn, yes."
     p "I don't know, but in porn, yes."
 
-# game/day33.rpy:740
+# game/day33.rpy:736
 translate french day33_evening_choices_2679c1de:
 
     # l "How do you know?"
     l "How do you know?"
 
-# game/day33.rpy:741
+# game/day33.rpy:737
 translate french day33_evening_choices_2a9bddb8:
 
     # p "Because I've watched it."
     p "Because I've watched it."
 
-# game/day33.rpy:742
+# game/day33.rpy:738
 translate french day33_evening_choices_75a94dbe:
 
     # l "Seriously?"
     l "Seriously?"
 
-# game/day33.rpy:743
+# game/day33.rpy:739
 translate french day33_evening_choices_f7be47a7:
 
     # p "[l_name]... Everyone watches porn, even girls."
     p "[l_name]... Everyone watches porn, even girls."
 
-# game/day33.rpy:744
+# game/day33.rpy:740
 translate french day33_evening_choices_e56ae719:
 
     # l "I've never..."
     l "I've never..."
 
-# game/day33.rpy:745
+# game/day33.rpy:741
 translate french day33_evening_choices_353c624e:
 
     # p "{i}(That doesn't surprise me at all.)"
     p "{i}(That doesn't surprise me at all.)"
 
-# game/day33.rpy:747
+# game/day33.rpy:743
 translate french day33_evening_choices_cfe645ec:
 
     # l "Did you know [b_name] can do it?"
     l "Did you know [b_name] can do it?"
 
-# game/day33.rpy:748
+# game/day33.rpy:744
 translate french day33_evening_choices_14298fba:
 
     # p "{i}(Wah?!)"
     p "{i}(Wah?!)"
 
-# game/day33.rpy:750
+# game/day33.rpy:746
 translate french day33_evening_choices_4728677d:
 
     # p "{i}(Why is she telling me this?)"
     p "{i}(Why is she telling me this?)"
 
-# game/day33.rpy:752
+# game/day33.rpy:748
 translate french day33_evening_choices_f0ecb600:
 
     # p "{i}([b_name], a squirter, interesting...)"
     p "{i}([b_name], a squirter, interesting...)"
 
-# game/day33.rpy:753
+# game/day33.rpy:749
 translate french day33_evening_choices_382b0ab2:
 
     # p "Oh?"
     p "Oh?"
 
-# game/day33.rpy:754
+# game/day33.rpy:750
 translate french day33_evening_choices_cb7ff5c6:
 
     # l "She... uh... told me."
     l "She... uh... told me."
 
-# game/day33.rpy:755
+# game/day33.rpy:751
 translate french day33_evening_choices_e3b71eb2:
 
     # l "It supposed to be a really intense feeling."
     l "It supposed to be a really intense feeling."
 
-# game/day33.rpy:756
+# game/day33.rpy:752
 translate french day33_evening_choices_fd6146cf:
 
     # p "So I've heard."
     p "So I've heard."
 
-# game/day33.rpy:758
+# game/day33.rpy:754
 translate french day33_evening_choices_4863e00c:
 
     # l "I know..."
     l "I know..."
 
-# game/day33.rpy:759
+# game/day33.rpy:755
 translate french day33_evening_choices_4e47dc3c:
 
     # p "You do?"
     p "You do?"
 
-# game/day33.rpy:760
+# game/day33.rpy:756
 translate french day33_evening_choices_9507647c:
 
     # l "Yes..."
     l "Yes..."
 
-# game/day33.rpy:761
+# game/day33.rpy:757
 translate french day33_evening_choices_35b3af4b:
 
     # l "I've been watching..."
     l "I've been watching..."
 
-# game/day33.rpy:762
+# game/day33.rpy:758
 translate french day33_evening_choices_6ec8037a:
 
     # l "To get in the mood..."
     l "To get in the mood..."
 
-# game/day33.rpy:763
+# game/day33.rpy:759
 translate french day33_evening_choices_645b92ed:
 
     # l "Just a couple of clips to get me going..."
     l "Just a couple of clips to get me going..."
 
-# game/day33.rpy:764
+# game/day33.rpy:760
 translate french day33_evening_choices_c85073bf:
 
     # l "Not that I need it."
     l "Not that I need it."
 
-# game/day33.rpy:765
+# game/day33.rpy:761
 translate french day33_evening_choices_18f3e428:
 
     # p "Don't worry."
     p "Don't worry."
 
-# game/day33.rpy:766
+# game/day33.rpy:762
 translate french day33_evening_choices_2cb710a1:
 
     # p "Everyone watches porn, girls included."
     p "Everyone watches porn, girls included."
 
-# game/day33.rpy:768
+# game/day33.rpy:764
 translate french day33_evening_choices_79e0281e:
 
     # l "It felt dirty at first, but now I don't mind it so much."
     l "It felt dirty at first, but now I don't mind it so much."
 
-# game/day33.rpy:769
+# game/day33.rpy:765
 translate french day33_evening_choices_8651cfe0:
 
     # l "But there was this one girl and she... you know... did it."
     l "But there was this one girl and she... you know... did it."
 
-# game/day33.rpy:770
+# game/day33.rpy:766
 translate french day33_evening_choices_222b95cc:
 
     # l "And she really seemed to enjoy it."
     l "And she really seemed to enjoy it."
 
-# game/day33.rpy:771
+# game/day33.rpy:767
 translate french day33_evening_choices_e3b71eb2_1:
 
     # l "It supposed to be a really intense feeling."
     l "It supposed to be a really intense feeling."
 
-# game/day33.rpy:772
+# game/day33.rpy:768
 translate french day33_evening_choices_9cb8fa9e:
 
     # p "{i}(I think she's been reading up on the whole thing as well.)"
     p "{i}(I think she's been reading up on the whole thing as well.)"
 
-# game/day33.rpy:773
+# game/day33.rpy:769
 translate french day33_evening_choices_fd6146cf_1:
 
     # p "So I've heard."
     p "So I've heard."
 
-# game/day33.rpy:775
+# game/day33.rpy:771
 translate french day33_evening_choices_84c0a14c:
 
     # l "Do you think I could do it?"
     l "Do you think I could do it?"
 
-# game/day33.rpy:777
+# game/day33.rpy:773
 translate french day33_evening_choices_420b90d6:
 
     # p "Well, if you say it runs in the family..."
     p "Well, if you say it runs in the family..."
 
-# game/day33.rpy:779
+# game/day33.rpy:775
 translate french day33_evening_choices_ca9cd134:
 
     # p "Well, there's always a chance."
     p "Well, there's always a chance."
 
-# game/day33.rpy:780
+# game/day33.rpy:776
 translate french day33_evening_choices_93d06ca8:
 
     # p "Would you like that?"
     p "Would you like that?"
 
-# game/day33.rpy:781
+# game/day33.rpy:777
 translate french day33_evening_choices_b87fab88:
 
     # l "I..."
     l "I..."
 
-# game/day33.rpy:782
+# game/day33.rpy:778
 translate french day33_evening_choices_ee63843b:
 
     # l "I'm a little curious, yes."
     l "I'm a little curious, yes."
 
-# game/day33.rpy:784
+# game/day33.rpy:780
 translate french day33_evening_choices_7d2c2dff:
 
     # l "I've read there's this technique."
     l "I've read there's this technique."
 
-# game/day33.rpy:785
+# game/day33.rpy:781
 translate french day33_evening_choices_397d64f6:
 
     # l "You know, with your fingers."
     l "You know, with your fingers."
 
-# game/day33.rpy:786
+# game/day33.rpy:782
 translate french day33_evening_choices_a472dd87:
 
     # p "Yes, I know."
     p "Yes, I know."
 
-# game/day33.rpy:787
+# game/day33.rpy:783
 translate french day33_evening_choices_8721f00a:
 
     # p "{i}(Oh boy, do I know...)"
     p "{i}(Oh boy, do I know...)"
 
-# game/day33.rpy:788
+# game/day33.rpy:784
 translate french day33_evening_choices_67e52b72:
 
     # l "Do you think we could..."
     l "Do you think we could..."
 
-# game/day33.rpy:789
+# game/day33.rpy:785
 translate french day33_evening_choices_645fb2e4:
 
     # l "Try?"
     l "Try?"
 
-# game/day33.rpy:790
+# game/day33.rpy:786
 translate french day33_evening_choices_580fe4ba:
 
     # p "Of course, but have you seen the technique?"
     p "Of course, but have you seen the technique?"
 
-# game/day33.rpy:791
+# game/day33.rpy:787
 translate french day33_evening_choices_ccb0353a:
 
     # p "It's a little aggressive."
     p "It's a little aggressive."
 
-# game/day33.rpy:794
+# game/day33.rpy:790
 translate french day33_evening_choices_ffba53c9:
 
     # l "I don't mind."
     l "I don't mind."
 
-# game/day33.rpy:796
+# game/day33.rpy:792
 translate french day33_evening_choices_10927e57:
 
     # l "I've watched a couple of clips, I don't mind."
     l "I've watched a couple of clips, I don't mind."
 
-# game/day33.rpy:797
+# game/day33.rpy:793
 translate french day33_evening_choices_555dcd28:
 
     # p "In that case, I'm all yours!"
     p "In that case, I'm all yours!"
 
-# game/day33.rpy:799
+# game/day33.rpy:795
 translate french day33_evening_choices_aefcedc9:
 
     # "{i}[l_name] sighs in relief and slips out of her bra and panties."
     "{i}[l_name] sighs in relief and slips out of her bra and panties."
 
-# game/day33.rpy:800
+# game/day33.rpy:796
 translate french day33_evening_choices_c483f160:
 
     # l "I'm ready."
     l "I'm ready."
 
-# game/day33.rpy:801
+# game/day33.rpy:797
 translate french day33_evening_choices_a9db017a:
 
     # l "Don't hold back."
     l "Don't hold back."
 
-# game/day33.rpy:802
+# game/day33.rpy:798
 translate french day33_evening_choices_cc2617ba:
 
     # l "I really want this."
     l "I really want this."
 
-# game/day33.rpy:804
+# game/day33.rpy:800
 translate french day33_evening_choices_fdcef237:
 
     # "{i}That statement alone makes your cock rock-hard, you attempt to ignore it by turning your attention to [l_name]'s breasts."
     "{i}That statement alone makes your cock rock-hard, you attempt to ignore it by turning your attention to [l_name]'s breasts."
 
-# game/day33.rpy:805
+# game/day33.rpy:801
 translate french day33_evening_choices_e223cfdd:
 
     # l "Oh! I like it so much when you do that."
     l "Oh! I like it so much when you do that."
 
-# game/day33.rpy:807
+# game/day33.rpy:803
 translate french day33_evening_choices_21fea5ba:
 
     # "{i}Her nipples are soon covered in an abundance of your saliva as you lick and suck them."
     "{i}Her nipples are soon covered in an abundance of your saliva as you lick and suck them."
 
-# game/day33.rpy:808
+# game/day33.rpy:804
 translate french day33_evening_choices_013191b8:
 
     # "{i}[l_name] touches herself and moans a little harder with each caress of your mouth."
     "{i}[l_name] touches herself and moans a little harder with each caress of your mouth."
 
-# game/day33.rpy:810
+# game/day33.rpy:806
 translate french day33_evening_choices_6858d52b:
 
     # "{i}As [l_name] takes over the massaging of her breasts, you move down towards her sex, lingering at the sensitive area of her navel."
     "{i}As [l_name] takes over the massaging of her breasts, you move down towards her sex, lingering at the sensitive area of her navel."
 
-# game/day33.rpy:811
+# game/day33.rpy:807
 translate french day33_evening_choices_d185372a:
 
     # l "Are y-you... are you going to use your tongue?"
     l "Are y-you... are you going to use your tongue?"
 
-# game/day33.rpy:812
+# game/day33.rpy:808
 translate french day33_evening_choices_115982f8:
 
     # p "Maybe..."
     p "Maybe..."
 
-# game/day33.rpy:813
+# game/day33.rpy:809
 translate french day33_evening_choices_cba9ca70:
 
     # p "Just wait and see..."
     p "Just wait and see..."
 
-# game/day33.rpy:814
+# game/day33.rpy:810
 translate french day33_evening_choices_77e00a8f:
 
     # l "I'm really wet down there already."
     l "I'm really wet down there already."
 
-# game/day33.rpy:815
+# game/day33.rpy:811
 translate french day33_evening_choices_980d3dc7:
 
     # p "So? The wetter, the better."
     p "So? The wetter, the better."
 
-# game/day33.rpy:817
+# game/day33.rpy:813
 translate french day33_evening_choices_6c88ddfd:
 
     # "{i}You push apart her legs and test her claim by pressing the tip of your tongue against her labia, which sends a shiver through [l_name]'s body."
     "{i}You push apart her legs and test her claim by pressing the tip of your tongue against her labia, which sends a shiver through [l_name]'s body."
 
-# game/day33.rpy:819
+# game/day33.rpy:815
 translate french day33_evening_choices_c0c4b7da:
 
     # "{i}The wet sensation of salt and perfume bolsters your resolve to give your sister the best orgasm of her life."
     "{i}The wet sensation of salt and perfume bolsters your resolve to give your sister the best orgasm of her life."
 
-# game/day33.rpy:821
+# game/day33.rpy:817
 translate french day33_evening_choices_60a4a4db:
 
     # "{i}The wet sensation of salt and perfume bolsters your resolve to give your friend the best orgasm of her life."
     "{i}The wet sensation of salt and perfume bolsters your resolve to give your friend the best orgasm of her life."
 
-# game/day33.rpy:822
+# game/day33.rpy:818
 translate french day33_evening_choices_1de5cddf:
 
     # l "Oh! That w-wasn't in those videos!"
     l "Oh! That w-wasn't in those videos!"
 
-# game/day33.rpy:823
-translate french day33_evening_choices_cd6c7564:
-
-    # p "{i}(So she has watched porn, little liar!)"
-    p "{i}(So she has watched porn, little liar!)"
-
-# game/day33.rpy:824
+# game/day33.rpy:819
 translate french day33_evening_choices_0fa76638:
 
     # l "B-but don't stop!"
     l "B-but don't stop!"
 
-# game/day33.rpy:826
+# game/day33.rpy:821
 translate french day33_evening_choices_ee27b8e5:
 
     # "{i}[l_name] tousles your hair as you begin to lick her pussy."
     "{i}[l_name] tousles your hair as you begin to lick her pussy."
 
-# game/day33.rpy:827
+# game/day33.rpy:822
 translate french day33_evening_choices_adb09cbf:
 
     # "{i}You're less delicate than before, forceful even, licking and sucking her labia and pushing her further to her limit."
     "{i}You're less delicate than before, forceful even, licking and sucking her labia and pushing her further to her limit."
 
-# game/day33.rpy:828
+# game/day33.rpy:823
 translate french day33_evening_choices_3563fed8:
 
     # "{i}From her heavy breathing, you gather she's close to orgasming, so you stop."
     "{i}From her heavy breathing, you gather she's close to orgasming, so you stop."
 
-# game/day33.rpy:830
+# game/day33.rpy:825
 translate french day33_evening_choices_3ed9fc10:
 
     # l "Wuh, why did you stop?"
     l "Wuh, why did you stop?"
 
-# game/day33.rpy:831
+# game/day33.rpy:826
 translate french day33_evening_choices_b52a6030:
 
     # p "Sssh, I know what I'm doing."
     p "Sssh, I know what I'm doing."
 
-# game/day33.rpy:833
+# game/day33.rpy:828
 translate french day33_evening_choices_7fadb4f3:
 
     # "{i}Smothering any protest with a passionate kiss, [l_name] gives in and lets herself be treated by you."
     "{i}Smothering any protest with a passionate kiss, [l_name] gives in and lets herself be treated by you."
 
-# game/day33.rpy:834
+# game/day33.rpy:829
 translate french day33_evening_choices_a2883af2:
 
     # "{i}When her body has entered a more relaxed state, you go down on her again."
     "{i}When her body has entered a more relaxed state, you go down on her again."
 
-# game/day33.rpy:836
+# game/day33.rpy:831
 translate french day33_evening_choices_bdd0fd5f:
 
     # l "Aaah! T-that s-so intense!"
     l "Aaah! T-that s-so intense!"
 
-# game/day33.rpy:837
+# game/day33.rpy:832
 translate french day33_evening_choices_fbd664ee:
 
     # "{i}With a few well-placed flicks of your tongue you have her ready in moments, her vagina creamy with her juices."
     "{i}With a few well-placed flicks of your tongue you have her ready in moments, her vagina creamy with her juices."
 
-# game/day33.rpy:838
+# game/day33.rpy:833
 translate french day33_evening_choices_c4a2c2f2:
 
     # "{i}Right at the edge, you wrestle yourself from her hands with which she attempts to push you closer inside her and stop licking her again."
     "{i}Right at the edge, you wrestle yourself from her hands with which she attempts to push you closer inside her and stop licking her again."
 
-# game/day33.rpy:839
+# game/day33.rpy:834
 translate french day33_evening_choices_da5ade18:
 
     # l "No!"
     l "No!"
 
-# game/day33.rpy:841
+# game/day33.rpy:836
 translate french day33_evening_choices_67984514:
 
     # "{i}After you kiss away her agony, you touch her moist pussy with your fingers and slip one in."
     "{i}After you kiss away her agony, you touch her moist pussy with your fingers and slip one in."
 
-# game/day33.rpy:842
+# game/day33.rpy:837
 translate french day33_evening_choices_06b222aa:
 
     # "{i}As she gasps to adjust to the sudden penetration, you slip another finger inside her."
     "{i}As she gasps to adjust to the sudden penetration, you slip another finger inside her."
 
-# game/day33.rpy:844
+# game/day33.rpy:839
 translate french day33_evening_choices_2d489eb2:
 
     # "{i}Allowing her to get familiar with the feeling, you look deeply into her eyes."
     "{i}Allowing her to get familiar with the feeling, you look deeply into her eyes."
 
-# game/day33.rpy:845
+# game/day33.rpy:840
 translate french day33_evening_choices_7bd07015:
 
     # "{i}When you see the acceptance flash across her face, you hook your fingers inside her and start to penetrate her with short thrusts."
     "{i}When you see the acceptance flash across her face, you hook your fingers inside her and start to penetrate her with short thrusts."
 
-# game/day33.rpy:848
+# game/day33.rpy:843
 translate french day33_evening_choices_63f96824:
 
     # "{i}It takes a moment for you to find the right spot, but when you see your sister's eyes widen you know you've struck gold."
     "{i}It takes a moment for you to find the right spot, but when you see your sister's eyes widen you know you've struck gold."
 
-# game/day33.rpy:850
+# game/day33.rpy:845
 translate french day33_evening_choices_8bb89d35:
 
     # "{i}It takes a moment for you to find the right spot, but when you see your friend's eyes widen you know you've struck gold."
     "{i}It takes a moment for you to find the right spot, but when you see your friend's eyes widen you know you've struck gold."
 
-# game/day33.rpy:851
+# game/day33.rpy:846
 translate french day33_evening_choices_b640cf42:
 
     # "{i}[l_name] begins to shudder uncontrollably and at one point she even attempts to remove your hand momentarily, before pressing your fingers even deeper inside her."
     "{i}[l_name] begins to shudder uncontrollably and at one point she even attempts to remove your hand momentarily, before pressing your fingers even deeper inside her."
 
-# game/day33.rpy:852
+# game/day33.rpy:847
 translate french day33_evening_choices_9f7293f5:
 
     # "{i}When every muscle in the girl's body begins to contract the moment of truth has come."
     "{i}When every muscle in the girl's body begins to contract the moment of truth has come."
 
-# game/day33.rpy:853
+# game/day33.rpy:848
 translate french day33_evening_choices_ec807b08:
 
     # l "I-it... a-aaah..."
     l "I-it... a-aaah..."
 
-# game/day33.rpy:855
+# game/day33.rpy:850
 translate french day33_evening_choices_317fb225:
 
     # "{i}White cream is slathered all over her pussy and thighs and your fingers make those characteristic wet sounds you always associate with an oncoming avalanche of squirt."
     "{i}White cream is slathered all over her pussy and thighs and your fingers make those characteristic wet sounds you always associate with an oncoming avalanche of squirt."
 
-# game/day33.rpy:856
+# game/day33.rpy:851
 translate french day33_evening_choices_500b03cb:
 
     # l "I-have to... p-pee..."
     l "I-have to... p-pee..."
 
-# game/day33.rpy:861
+# game/day33.rpy:856
 translate french day33_evening_choices_9546d3ca:
 
     # "{i}The convulsions of her vagina force your fingers out and are subsequently sprayed with your sister's ejaculate."
     "{i}The convulsions of her vagina force your fingers out and are subsequently sprayed with your sister's ejaculate."
 
-# game/day33.rpy:863
+# game/day33.rpy:858
 translate french day33_evening_choices_9cb122f0:
 
     # "{i}The convulsions of her vagina force your fingers out and are subsequently sprayed with your girl's ejaculate."
     "{i}The convulsions of her vagina force your fingers out and are subsequently sprayed with your girl's ejaculate."
 
-# game/day33.rpy:864
+# game/day33.rpy:859
 translate french day33_evening_choices_434e914b:
 
     # "{i}[l_name], normally so reserved, roars with pleasure as she shakes and shivers, still releasing fluid on her bedsheets."
     "{i}[l_name], normally so reserved, roars with pleasure as she shakes and shivers, still releasing fluid on her bedsheets."
 
-# game/day33.rpy:867
+# game/day33.rpy:862
 translate french day33_evening_choices_5ebbfd58:
 
     # "{i}Your sister continues to hold you in a tight embrace, breathing sighs of relief and quivering involuntarily at irregular intervals."
     "{i}Your sister continues to hold you in a tight embrace, breathing sighs of relief and quivering involuntarily at irregular intervals."
 
-# game/day33.rpy:869
+# game/day33.rpy:864
 translate french day33_evening_choices_d9822a5e:
 
     # "{i}Your friend continues to hold you in a tight embrace, breathing sighs of relief and quivering involuntarily at irregular intervals."
     "{i}Your friend continues to hold you in a tight embrace, breathing sighs of relief and quivering involuntarily at irregular intervals."
 
-# game/day33.rpy:870
+# game/day33.rpy:865
 translate french day33_evening_choices_619ac3f5:
 
     # p "I think that's proof enough."
     p "I think that's proof enough."
 
-# game/day33.rpy:872
+# game/day33.rpy:867
 translate french day33_evening_choices_4caf62cc:
 
     # l "Wow."
     l "Wow."
 
-# game/day33.rpy:873
+# game/day33.rpy:868
 translate french day33_evening_choices_a4bf1c05:
 
     # l "I can still feel it."
     l "I can still feel it."
 
-# game/day33.rpy:874
+# game/day33.rpy:869
 translate french day33_evening_choices_5c82d382:
 
     # l "I've never felt something so intense in my life."
     l "I've never felt something so intense in my life."
 
-# game/day33.rpy:875
+# game/day33.rpy:870
 translate french day33_evening_choices_d38a1c27:
 
     # l "It was scary and wonderful at the same time."
     l "It was scary and wonderful at the same time."
 
-# game/day33.rpy:876
+# game/day33.rpy:871
 translate french day33_evening_choices_16603430:
 
     # p "You were beautiful."
     p "You were beautiful."
 
-# game/day33.rpy:877
+# game/day33.rpy:872
 translate french day33_evening_choices_ef606a57:
 
     # l "You made me lose control and I just didn't care."
     l "You made me lose control and I just didn't care."
 
-# game/day33.rpy:878
+# game/day33.rpy:873
 translate french day33_evening_choices_1eb9828c:
 
     # l "I wanted you to go on... forever..."
     l "I wanted you to go on... forever..."
 
-# game/day33.rpy:879
+# game/day33.rpy:874
 translate french day33_evening_choices_7ddd1c86:
 
     # l "And then it came... I thought I..."
     l "And then it came... I thought I..."
 
-# game/day33.rpy:881
+# game/day33.rpy:876
 translate french day33_evening_choices_4caf62cc_1:
 
     # l "Wow."
     l "Wow."
 
-# game/day33.rpy:882
+# game/day33.rpy:877
 translate french day33_evening_choices_cf3e8835:
 
     # p "I'm proud of you."
     p "I'm proud of you."
 
-# game/day33.rpy:883
+# game/day33.rpy:878
 translate french day33_evening_choices_8179b31a:
 
     # l "I love you."
     l "I love you."
 
-# game/day33.rpy:884
+# game/day33.rpy:879
 translate french day33_evening_choices_3c07dcc8:
 
     # p "I love you too, [l_name], ever more each day."
     p "I love you too, [l_name], ever more each day."
 
-# game/day33.rpy:888
+# game/day33.rpy:883
 translate french day33_evening_choices_763ee5d8:
 
     # "{i}You cuddle for a very long time, until it's time to go to sleep, you kiss [l_name] good night and go back to your room."
     "{i}You cuddle for a very long time, until it's time to go to sleep, you kiss [l_name] good night and go back to your room."
 
-# game/day33.rpy:892
+# game/day33.rpy:887
 translate french day33_evening_choices_dba75653:
 
     # "{i}You cuddle for a very long time and then kiss [l_name] good night and go to sleep."
     "{i}You cuddle for a very long time and then kiss [l_name] good night and go to sleep."
 
-# game/day33.rpy:912
+# game/day33.rpy:906
 translate french day33_p_room_scene_2437de46:
 
     # p "I can explain!"
     p "I can explain!"
 
-# game/day33.rpy:914
+# game/day33.rpy:908
 translate french day33_p_room_scene_92159d23:
 
     # m "I'm sure you can, but I'm going to ask the questions."
     m "I'm sure you can, but I'm going to ask the questions."
 
-# game/day33.rpy:916
+# game/day33.rpy:910
 translate french day33_p_room_scene_a20cefa7:
 
     # "..."
     "..."
 
-# game/day33.rpy:918
+# game/day33.rpy:912
 translate french day33_p_room_scene_0e7d7b80:
 
     # m "You've got nothing to say for yourself?"
     m "You've got nothing to say for yourself?"
 
-# game/day33.rpy:919
+# game/day33.rpy:913
 translate french day33_p_room_scene_713cabf2:
 
     # m "I hope you have the decency to answer some of my questions."
     m "I hope you have the decency to answer some of my questions."
 
-# game/day33.rpy:920
+# game/day33.rpy:914
 translate french day33_p_room_scene_a13599c9:
 
     # p "I will."
     p "I will."
 
-# game/day33.rpy:921
+# game/day33.rpy:915
 translate french day33_p_room_scene_c08bc8f4:
 
     # m "Good."
     m "Good."
 
-# game/day33.rpy:923
+# game/day33.rpy:917
 translate french day33_p_room_scene_75d8a4e9:
 
     # m "What the fuck were you thinking?!"
     m "What the fuck were you thinking?!"
 
-# game/day33.rpy:924
+# game/day33.rpy:918
 translate french day33_p_room_scene_1444a86a:
 
     # p "I didn't think really."
     p "I didn't think really."
 
-# game/day33.rpy:925
+# game/day33.rpy:919
 translate french day33_p_room_scene_1b8092c6:
 
     # m "That much is clear."
     m "That much is clear."
 
-# game/day33.rpy:926
+# game/day33.rpy:920
 translate french day33_p_room_scene_c3b072b9:
 
     # p "This is all going to sound like a lame excuse, but it's what happened."
     p "This is all going to sound like a lame excuse, but it's what happened."
 
-# game/day33.rpy:927
+# game/day33.rpy:921
 translate french day33_p_room_scene_85e2ee90:
 
     # p "You were so vague about your work when I first got here."
     p "You were so vague about your work when I first got here."
 
-# game/day33.rpy:928
+# game/day33.rpy:922
 translate french day33_p_room_scene_4b3a0466:
 
     # p "So I started to search for clues."
     p "So I started to search for clues."
 
-# game/day33.rpy:929
+# game/day33.rpy:923
 translate french day33_p_room_scene_d9ae1e31:
 
     # m "Search for clues?"
     m "Search for clues?"
 
-# game/day33.rpy:930
+# game/day33.rpy:924
 translate french day33_p_room_scene_330937b4:
 
     # p "I kinda went through your stuff in your room."
     p "I kinda went through your stuff in your room."
 
-# game/day33.rpy:932
+# game/day33.rpy:926
 translate french day33_p_room_scene_e56a4e5a:
 
     # m "You did what?! You little shit."
     m "You did what?! You little shit."
 
-# game/day33.rpy:933
+# game/day33.rpy:927
 translate french day33_p_room_scene_d1d33f6c:
 
     # p "That's where I found a business card with a phone number on it."
     p "That's where I found a business card with a phone number on it."
 
-# game/day33.rpy:934
+# game/day33.rpy:928
 translate french day33_p_room_scene_e5d3f35d:
 
     # p "I called it and before I knew it I had an appointment and was making this weird test."
     p "I called it and before I knew it I had an appointment and was making this weird test."
 
-# game/day33.rpy:935
+# game/day33.rpy:929
 translate french day33_p_room_scene_ddb6755b:
 
     # p "When I finally stood before you I just couldn't say anything."
     p "When I finally stood before you I just couldn't say anything."
 
-# game/day33.rpy:937
+# game/day33.rpy:931
 translate french day33_p_room_scene_2edd1508:
 
     # m "Right, and afterwards you made your next appointment..."
     m "Right, and afterwards you made your next appointment..."
 
-# game/day33.rpy:938
+# game/day33.rpy:932
 translate french day33_p_room_scene_7be2603f:
 
     # p "I did."
     p "I did."
 
-# game/day33.rpy:939
+# game/day33.rpy:933
 translate french day33_p_room_scene_86782f79:
 
     # m "Why?"
     m "Why?"
 
-# game/day33.rpy:942
+# game/day33.rpy:936
 translate french day33_p_room_scene_4dd29ec7:
 
     # p "That should be clear by now."
     p "That should be clear by now."
 
-# game/day33.rpy:943
+# game/day33.rpy:937
 translate french day33_p_room_scene_c6a8832e:
 
     # p "Because I love you."
     p "Because I love you."
 
-# game/day33.rpy:944
+# game/day33.rpy:938
 translate french day33_p_room_scene_7f4d7ec4:
 
     # p "Every aspect of you, including your Discreet persona."
     p "Every aspect of you, including your Discreet persona."
 
-# game/day33.rpy:946
+# game/day33.rpy:940
 translate french day33_p_room_scene_91f04b58:
 
     # p "Because I'm in love with you."
     p "Because I'm in love with you."
 
-# game/day33.rpy:948
+# game/day33.rpy:942
 translate french day33_p_room_scene_de238c83:
 
     # m "What?!"
     m "What?!"
 
-# game/day33.rpy:949
+# game/day33.rpy:943
 translate french day33_p_room_scene_76e5312c:
 
     # p "Yes, I love you."
     p "Yes, I love you."
 
-# game/day33.rpy:951
+# game/day33.rpy:945
 translate french day33_p_room_scene_3434e82a:
 
     # p "As a mother and something more."
     p "As a mother and something more."
 
-# game/day33.rpy:953
+# game/day33.rpy:947
 translate french day33_p_room_scene_e8fcc988:
 
     # p "As a friend and something more."
     p "As a friend and something more."
 
-# game/day33.rpy:955
+# game/day33.rpy:949
 translate french day33_p_room_scene_48758449:
 
     # p "And I think you feel the same way."
     p "And I think you feel the same way."
 
-# game/day33.rpy:956
+# game/day33.rpy:950
 translate french day33_p_room_scene_32c81f6b:
 
     # p "Our sessions at Discreet were special."
     p "Our sessions at Discreet were special."
 
-# game/day33.rpy:958
+# game/day33.rpy:952
 translate french day33_p_room_scene_5e1bce6c:
 
     # m "Don't be ridiculous..."
     m "Don't be ridiculous..."
 
-# game/day33.rpy:959
+# game/day33.rpy:953
 translate french day33_p_room_scene_980faf41:
 
     # p "I'm not."
     p "I'm not."
 
-# game/day33.rpy:962
+# game/day33.rpy:956
 translate french day33_p_room_scene_5c434767:
 
     # p "The kiss we accidentally shared before, that was something profound."
     p "The kiss we accidentally shared before, that was something profound."
 
-# game/day33.rpy:965
+# game/day33.rpy:959
 translate french day33_p_room_scene_9a895aed:
 
     # p "Adriana even told me our sessions were something special."
     p "Adriana even told me our sessions were something special."
 
-# game/day33.rpy:966
+# game/day33.rpy:960
 translate french day33_p_room_scene_15c7df95:
 
     # m "She did, did she?"
     m "She did, did she?"
 
-# game/day33.rpy:967
+# game/day33.rpy:961
 translate french day33_p_room_scene_0a16cec1:
 
     # m "I thought I trained her better than that."
     m "I thought I trained her better than that."
 
-# game/day33.rpy:968
+# game/day33.rpy:962
 translate french day33_p_room_scene_29555144:
 
     # p "I think it says something important that she confided in me."
     p "I think it says something important that she confided in me."
 
-# game/day33.rpy:969
+# game/day33.rpy:963
 translate french day33_p_room_scene_09dc8229:
 
     # m "Or she's just loose-lipped."
     m "Or she's just loose-lipped."
 
-# game/day33.rpy:971
+# game/day33.rpy:965
 translate french day33_p_room_scene_6fda36d9:
 
     # m "You're in love with me?"
     m "You're in love with me?"
 
-# game/day33.rpy:972
+# game/day33.rpy:966
 translate french day33_p_room_scene_8200bb82:
 
     # p "Yes, I want you."
     p "Yes, I want you."
 
-# game/day33.rpy:973
+# game/day33.rpy:967
 translate french day33_p_room_scene_9316ac19:
 
     # m "Bold words for someone who's chained to a bed."
     m "Bold words for someone who's chained to a bed."
 
-# game/day33.rpy:974
+# game/day33.rpy:968
 translate french day33_p_room_scene_1d6e0ade:
 
     # p "I don't care."
     p "I don't care."
 
-# game/day33.rpy:977
+# game/day33.rpy:971
 translate french day33_p_room_scene_50f65579:
 
     # p "With every session we had together it became harder to tell you."
     p "With every session we had together it became harder to tell you."
 
-# game/day33.rpy:978
+# game/day33.rpy:972
 translate french day33_p_room_scene_bd168324:
 
     # m "Because you're ashamed of it?"
     m "Because you're ashamed of it?"
 
-# game/day33.rpy:979
+# game/day33.rpy:973
 translate french day33_p_room_scene_7dc817f8:
 
     # p "No, because of the intimacy we shared."
     p "No, because of the intimacy we shared."
 
-# game/day33.rpy:980
+# game/day33.rpy:974
 translate french day33_p_room_scene_a3595288:
 
     # p "So what started as a stupid stunt to find out the truth ended up becoming something incredible."
     p "So what started as a stupid stunt to find out the truth ended up becoming something incredible."
 
-# game/day33.rpy:981
+# game/day33.rpy:975
 translate french day33_p_room_scene_041e0fbb:
 
     # p "I've tasted you and I became addicted."
     p "I've tasted you and I became addicted."
 
-# game/day33.rpy:983
+# game/day33.rpy:977
 translate french day33_p_room_scene_13e1f3c4:
 
     # p "That's before we confessed our feelings to each other."
     p "That's before we confessed our feelings to each other."
 
-# game/day33.rpy:984
+# game/day33.rpy:978
 translate french day33_p_room_scene_e5ee174c:
 
     # p "And that made it harder to tell you the truth."
     p "And that made it harder to tell you the truth."
 
-# game/day33.rpy:985
+# game/day33.rpy:979
 translate french day33_p_room_scene_86782f79_1:
 
     # m "Why?"
     m "Why?"
 
-# game/day33.rpy:986
+# game/day33.rpy:980
 translate french day33_p_room_scene_879fb852:
 
     # p "Because it was still too vulnerable."
     p "Because it was still too vulnerable."
 
-# game/day33.rpy:988
+# game/day33.rpy:982
 translate french day33_p_room_scene_bd8cae9a:
 
     # p "My confession about Discreet on top of our forbidden love would have destroyed things."
     p "My confession about Discreet on top of our forbidden love would have destroyed things."
 
-# game/day33.rpy:990
+# game/day33.rpy:984
 translate french day33_p_room_scene_2978ee14:
 
     # p "My confession about Discreet on top of our love would have destroyed things."
     p "My confession about Discreet on top of our love would have destroyed things."
 
-# game/day33.rpy:991
+# game/day33.rpy:985
 translate french day33_p_room_scene_05b08415:
 
     # m "And what makes you think it isn't destroyed right now?"
     m "And what makes you think it isn't destroyed right now?"
 
-# game/day33.rpy:992
+# game/day33.rpy:986
 translate french day33_p_room_scene_dcad3d3a:
 
     # p "Because we're still talking."
     p "Because we're still talking."
 
-# game/day33.rpy:995
+# game/day33.rpy:989
 translate french day33_p_room_scene_9ed220c3:
 
     # m "Addicted?"
     m "Addicted?"
 
-# game/day33.rpy:996
+# game/day33.rpy:990
 translate french day33_p_room_scene_e892f82c:
 
     # p "Yes, I want to be near you, share that intimacy again and again..."
     p "Yes, I want to be near you, share that intimacy again and again..."
 
-# game/day33.rpy:997
+# game/day33.rpy:991
 translate french day33_p_room_scene_91db3b0c:
 
     # p "You do too, I felt it!"
     p "You do too, I felt it!"
 
-# game/day33.rpy:999
+# game/day33.rpy:993
 translate french day33_p_room_scene_fe1f57c6:
 
     # m "I don't deny that I was intrigued by you when you first walked in."
     m "I don't deny that I was intrigued by you when you first walked in."
 
-# game/day33.rpy:1000
+# game/day33.rpy:994
 translate french day33_p_room_scene_e5e978c6:
 
     # m "At first the attraction was just physical, but later I desired to know the man behind that mask."
     m "At first the attraction was just physical, but later I desired to know the man behind that mask."
 
-# game/day33.rpy:1004
+# game/day33.rpy:998
 translate french day33_p_room_scene_8e6ed39b:
 
     # m "But you're my son!"
     m "But you're my son!"
 
-# game/day33.rpy:1006
+# game/day33.rpy:1000
 translate french day33_p_room_scene_118dd098:
 
     # m "But I'm supposed to be your friend!"
     m "But I'm supposed to be your friend!"
 
-# game/day33.rpy:1007
+# game/day33.rpy:1001
 translate french day33_p_room_scene_7b5d073d:
 
     # p "So?"
     p "So?"
 
-# game/day33.rpy:1008
+# game/day33.rpy:1002
 translate french day33_p_room_scene_48ee4fe7:
 
     # p "That fact didn't stop me from visiting you."
     p "That fact didn't stop me from visiting you."
 
-# game/day33.rpy:1009
+# game/day33.rpy:1003
 translate french day33_p_room_scene_02366bb0:
 
     # p "You've just admitted you felt a strong attraction."
     p "You've just admitted you felt a strong attraction."
 
-# game/day33.rpy:1011
+# game/day33.rpy:1005
 translate french day33_p_room_scene_d2d6cf82:
 
     # p "You've even kissed me without wearing a mask."
     p "You've even kissed me without wearing a mask."
 
-# game/day33.rpy:1012
+# game/day33.rpy:1006
 translate french day33_p_room_scene_8e7a3054:
 
     # m "I was delirious."
     m "I was delirious."
 
-# game/day33.rpy:1013
+# game/day33.rpy:1007
 translate french day33_p_room_scene_33d6ba8c:
 
     # p "But you didn't hold back."
     p "But you didn't hold back."
 
-# game/day33.rpy:1014
+# game/day33.rpy:1008
 translate french day33_p_room_scene_df5b5dbc:
 
     # p "If I were any other man, we'd be together."
     p "If I were any other man, we'd be together."
 
-# game/day33.rpy:1015
+# game/day33.rpy:1009
 translate french day33_p_room_scene_d4c35f45:
 
     # m "But you're not."
     m "But you're not."
 
-# game/day33.rpy:1016
+# game/day33.rpy:1010
 translate french day33_p_room_scene_b58fd14d:
 
     # p "No, I'm not and I don't care."
     p "No, I'm not and I don't care."
 
-# game/day33.rpy:1019
+# game/day33.rpy:1013
 translate french day33_p_room_scene_3cade1e2:
 
     # m "But what we did, what you propose, it's... illegal..."
     m "But what we did, what you propose, it's... illegal..."
 
-# game/day33.rpy:1020
+# game/day33.rpy:1014
 translate french day33_p_room_scene_70230923:
 
     # p "I still don't care."
     p "I still don't care."
 
-# game/day33.rpy:1021
+# game/day33.rpy:1015
 translate french day33_p_room_scene_99495586:
 
     # p "I want to be with you."
     p "I want to be with you."
 
-# game/day33.rpy:1022
+# game/day33.rpy:1016
 translate french day33_p_room_scene_6703e1e6:
 
     # m "Whatever the consequences?"
     m "Whatever the consequences?"
 
-# game/day33.rpy:1023
+# game/day33.rpy:1017
 translate french day33_p_room_scene_43372743:
 
     # p "Fuck those consequences!"
     p "Fuck those consequences!"
 
-# game/day33.rpy:1025
+# game/day33.rpy:1019
 translate french day33_p_room_scene_1c7abb9f:
 
     # m "Language!"
     m "Language!"
 
-# game/day33.rpy:1026
+# game/day33.rpy:1020
 translate french day33_p_room_scene_d6850028:
 
     # "{i}[m_name] sighs and stares into the distance, when she looks at you again you see a resolve in her eyes."
     "{i}[m_name] sighs and stares into the distance, when she looks at you again you see a resolve in her eyes."
 
-# game/day33.rpy:1027
+# game/day33.rpy:1021
 translate french day33_p_room_scene_b03a93ae:
 
     # m "For too long I let my life be influenced by others, holding me back."
     m "For too long I let my life be influenced by others, holding me back."
 
-# game/day33.rpy:1028
+# game/day33.rpy:1022
 translate french day33_p_room_scene_1a33f7f4:
 
     # m "I'm done with that."
     m "I'm done with that."
 
-# game/day33.rpy:1030
+# game/day33.rpy:1024
 translate french day33_p_room_scene_d9e60033:
 
     # m "And you're right, I have genuine feelings for you, that go beyond a mother's love for her son."
     m "And you're right, I have genuine feelings for you, that go beyond a mother's love for her son."
 
-# game/day33.rpy:1032
+# game/day33.rpy:1026
 translate french day33_p_room_scene_8df8ef9d:
 
     # m "And your right, I have genuine feelings for you."
     m "And your right, I have genuine feelings for you."
 
-# game/day33.rpy:1033
+# game/day33.rpy:1027
 translate french day33_p_room_scene_edcb7275:
 
     # m "But this can only work if you accept both me and my Discreet persona."
     m "But this can only work if you accept both me and my Discreet persona."
 
-# game/day33.rpy:1037
+# game/day33.rpy:1031
 translate french day33_p_room_scene_7988a01b:
 
     # p "I do."
     p "I do."
 
-# game/day33.rpy:1038
+# game/day33.rpy:1032
 translate french day33_p_room_scene_ba7975b3:
 
     # p "{i}(Especially if it means more Adriana...)"
     p "{i}(Especially if it means more Adriana...)"
 
-# game/day33.rpy:1040
+# game/day33.rpy:1034
 translate french day33_p_room_scene_c08bc8f4_1:
 
     # m "Good."
     m "Good."
 
-# game/day33.rpy:1045
+# game/day33.rpy:1039
 translate french day33_p_room_scene_cdc4ba35:
 
     # p "I'm sorry, but I can't."
     p "I'm sorry, but I can't."
 
-# game/day33.rpy:1046
+# game/day33.rpy:1040
 translate french day33_p_room_scene_8f3e17a6:
 
     # m "I feared as much."
     m "I feared as much."
 
-# game/day33.rpy:1048
+# game/day33.rpy:1042
 translate french day33_p_room_scene_31dd4c20:
 
     # p "Hey! Where are you going?"
     p "Hey! Where are you going?"
 
-# game/day33.rpy:1049
+# game/day33.rpy:1043
 translate french day33_p_room_scene_c1fb01f0:
 
     # m "Downstairs, there's nothing left for me here."
     m "Downstairs, there's nothing left for me here."
 
-# game/day33.rpy:1050
+# game/day33.rpy:1044
 translate french day33_p_room_scene_714e9c50:
 
     # p "{i}(Fuck!)"
     p "{i}(Fuck!)"
 
-# game/day33.rpy:1051
+# game/day33.rpy:1045
 translate french day33_p_room_scene_7f1b8e04:
 
     # p "I'm still chained to the bed."
     p "I'm still chained to the bed."
 
-# game/day33.rpy:1052
+# game/day33.rpy:1046
 translate french day33_p_room_scene_dfcec202:
 
     # m "Oh yes."
     m "Oh yes."
 
-# game/day33.rpy:1054
+# game/day33.rpy:1048
 translate french day33_p_room_scene_d255f680:
 
     # "{i}Wearing a sad expression, your mother unlocks one of the shackles and throws you the key."
     "{i}Wearing a sad expression, your mother unlocks one of the shackles and throws you the key."
 
-# game/day33.rpy:1056
+# game/day33.rpy:1050
 translate french day33_p_room_scene_40d68934:
 
     # "{i}Wearing a sad expression, [m_name] unlocks one of the shackles and throws you the key."
     "{i}Wearing a sad expression, [m_name] unlocks one of the shackles and throws you the key."
 
-# game/day33.rpy:1057
+# game/day33.rpy:1051
 translate french day33_p_room_scene_243d799b:
 
     # m "I'm sure you can manage from here."
     m "I'm sure you can manage from here."
 
-# game/day33.rpy:1058
+# game/day33.rpy:1052
 translate french day33_p_room_scene_48796c9d:
 
     # p "But [m_name]!"
     p "But [m_name]!"
 
-# game/day33.rpy:1059
+# game/day33.rpy:1053
 translate french day33_p_room_scene_c3f7d378:
 
     # m "It's better if we don't speak of this anymore."
     m "It's better if we don't speak of this anymore."
 
-# game/day33.rpy:1061
+# game/day33.rpy:1055
 translate french day33_p_room_scene_aad0b75c:
 
     # "{i}The woman leaves you to fumble with the locks, after a while you manage to unchain yourself."
     "{i}The woman leaves you to fumble with the locks, after a while you manage to unchain yourself."
 
-# game/day33.rpy:1063
+# game/day33.rpy:1057
 translate french day33_p_room_scene_57caa901:
 
     # m "And then it all became so confusing."
     m "And then it all became so confusing."
 
-# game/day33.rpy:1065
+# game/day33.rpy:1059
 translate french day33_p_room_scene_2af3afdc:
 
     # m "Do you understand I feel played?"
     m "Do you understand I feel played?"
 
-# game/day33.rpy:1066
+# game/day33.rpy:1060
 translate french day33_p_room_scene_7988a01b_1:
 
     # p "I do."
     p "I do."
 
-# game/day33.rpy:1070
+# game/day33.rpy:1064
 translate french day33_p_room_scene_192b8baf:
 
     # p "And I'm sorry."
     p "And I'm sorry."
 
-# game/day33.rpy:1071
+# game/day33.rpy:1065
 translate french day33_p_room_scene_b36a6eb5:
 
     # p "I just want to love you."
     p "I just want to love you."
 
-# game/day33.rpy:1072
+# game/day33.rpy:1066
 translate french day33_p_room_scene_cc951259:
 
     # p "All of you."
     p "All of you."
 
-# game/day33.rpy:1074
+# game/day33.rpy:1068
 translate french day33_p_room_scene_42b2cd54:
 
     # m "I believe you."
     m "I believe you."
 
-# game/day33.rpy:1075
+# game/day33.rpy:1069
 translate french day33_p_room_scene_99c3e8b7:
 
     # m "You'd accept my Discreet persona?"
     m "You'd accept my Discreet persona?"
 
-# game/day33.rpy:1076
+# game/day33.rpy:1070
 translate french day33_p_room_scene_3b88c420:
 
     # p "Yes."
     p "Yes."
 
-# game/day33.rpy:1077
+# game/day33.rpy:1071
 translate french day33_p_room_scene_ba7975b3_1:
 
     # p "{i}(Especially if it means more Adriana...)"
     p "{i}(Especially if it means more Adriana...)"
 
-# game/day33.rpy:1078
+# game/day33.rpy:1072
 translate french day33_p_room_scene_c08bc8f4_2:
 
     # m "Good."
     m "Good."
 
-# game/day33.rpy:1085
+# game/day33.rpy:1079
 translate french day33_p_room_scene_1ea4935c:
 
     # p "But I can't change anything about it."
     p "But I can't change anything about it."
 
-# game/day33.rpy:1086
+# game/day33.rpy:1080
 translate french day33_p_room_scene_f4e4bc17:
 
     # m "I guess not."
     m "I guess not."
 
-# game/day33.rpy:1088
+# game/day33.rpy:1082
 translate french day33_p_room_scene_31dd4c20_1:
 
     # p "Hey! Where are you going?"
     p "Hey! Where are you going?"
 
-# game/day33.rpy:1089
+# game/day33.rpy:1083
 translate french day33_p_room_scene_c1fb01f0_1:
 
     # m "Downstairs, there's nothing left for me here."
     m "Downstairs, there's nothing left for me here."
 
-# game/day33.rpy:1090
+# game/day33.rpy:1084
 translate french day33_p_room_scene_714e9c50_1:
 
     # p "{i}(Fuck!)"
     p "{i}(Fuck!)"
 
-# game/day33.rpy:1091
+# game/day33.rpy:1085
 translate french day33_p_room_scene_7f1b8e04_1:
 
     # p "I'm still chained to the bed."
     p "I'm still chained to the bed."
 
-# game/day33.rpy:1092
+# game/day33.rpy:1086
 translate french day33_p_room_scene_dfcec202_1:
 
     # m "Oh yes."
     m "Oh yes."
 
-# game/day33.rpy:1094
+# game/day33.rpy:1088
 translate french day33_p_room_scene_d255f680_1:
 
     # "{i}Wearing a sad expression, your mother unlocks one of the shackles and throws you the key."
     "{i}Wearing a sad expression, your mother unlocks one of the shackles and throws you the key."
 
-# game/day33.rpy:1096
+# game/day33.rpy:1090
 translate french day33_p_room_scene_40d68934_1:
 
     # "{i}Wearing a sad expression, [m_name] unlocks one of the shackles and throws you the key."
     "{i}Wearing a sad expression, [m_name] unlocks one of the shackles and throws you the key."
 
-# game/day33.rpy:1097
+# game/day33.rpy:1091
 translate french day33_p_room_scene_243d799b_1:
 
     # m "I'm sure you can manage from here."
     m "I'm sure you can manage from here."
 
-# game/day33.rpy:1098
+# game/day33.rpy:1092
 translate french day33_p_room_scene_48796c9d_1:
 
     # p "But [m_name]!"
     p "But [m_name]!"
 
-# game/day33.rpy:1099
+# game/day33.rpy:1093
 translate french day33_p_room_scene_c3f7d378_1:
 
     # m "It's better if we don't speak of this anymore."
     m "It's better if we don't speak of this anymore."
 
-# game/day33.rpy:1101
+# game/day33.rpy:1095
 translate french day33_p_room_scene_aad0b75c_1:
 
     # "{i}The woman leaves you to fumble with the locks, after a while you manage to unchain yourself."
     "{i}The woman leaves you to fumble with the locks, after a while you manage to unchain yourself."
 
-# game/day33.rpy:1111
+# game/day33.rpy:1105
 translate french day33_m_bj_c7640ca7:
 
     # "{i}For several minutes you're silent and just look at each other, smiling, having found a new depth to your relationship."
     "{i}For several minutes you're silent and just look at each other, smiling, having found a new depth to your relationship."
 
-# game/day33.rpy:1112
+# game/day33.rpy:1106
 translate french day33_m_bj_dbfe4b60:
 
     # p "Are you going to unchain me now?"
     p "Are you going to unchain me now?"
 
-# game/day33.rpy:1113
+# game/day33.rpy:1107
 translate french day33_m_bj_47ba7d94:
 
     # m "No."
     m "No."
 
-# game/day33.rpy:1114
+# game/day33.rpy:1108
 translate french day33_m_bj_dfce56c9:
 
     # p "{i}(What?)"
     p "{i}(What?)"
 
-# game/day33.rpy:1115
+# game/day33.rpy:1109
 translate french day33_m_bj_df9dc5ca:
 
     # m "We're going to have some fun first."
     m "We're going to have some fun first."
 
-# game/day33.rpy:1117
+# game/day33.rpy:1111
 translate french day33_m_bj_79a739c1:
 
     # "{i}When you're almost asleep you hear the door creak and someone tiptoes inside."
     "{i}When you're almost asleep you hear the door creak and someone tiptoes inside."
 
-# game/day33.rpy:1119
+# game/day33.rpy:1113
 translate french day33_m_bj_68a2fd0e:
 
     # m "Hey sweetie."
     m "Hey sweetie."
 
-# game/day33.rpy:1120
+# game/day33.rpy:1114
 translate french day33_m_bj_af4d8c3b:
 
     # p "Hey [m_name]."
     p "Hey [m_name]."
 
-# game/day33.rpy:1121
+# game/day33.rpy:1115
 translate french day33_m_bj_70411709:
 
     # m "I didn't wake you, did I?"
     m "I didn't wake you, did I?"
 
-# game/day33.rpy:1122
+# game/day33.rpy:1116
 translate french day33_m_bj_f1c98617:
 
     # p "Not at all."
     p "Not at all."
 
-# game/day33.rpy:1123
+# game/day33.rpy:1117
 translate french day33_m_bj_2b301d3c:
 
     # m "Good, I wanted to have some fun."
     m "Good, I wanted to have some fun."
 
-# game/day33.rpy:1124
+# game/day33.rpy:1118
 translate french day33_m_bj_b8ccce46:
 
     # p "I like the sound of that."
     p "I like the sound of that."
 
-# game/day33.rpy:1128
+# game/day33.rpy:1122
 translate french day33_m_bj_18522975:
 
     # m "Don't move dear, let me do all the work."
     m "Don't move dear, let me do all the work."
 
-# game/day33.rpy:1129
+# game/day33.rpy:1123
 translate french day33_m_bj_873b55ab:
 
     # p "Very funny..."
     p "Very funny..."
 
-# game/day33.rpy:1130
+# game/day33.rpy:1124
 translate french day33_m_bj_d678fd69:
 
     # m "Hey now, I could just leave you here."
     m "Hey now, I could just leave you here."
 
-# game/day33.rpy:1131
+# game/day33.rpy:1125
 translate french day33_m_bj_371909b2:
 
     # p "I'll be silent."
     p "I'll be silent."
 
-# game/day33.rpy:1132
+# game/day33.rpy:1126
 translate french day33_m_bj_c4467659:
 
     # m "That's not necessary, I don't think you'll be able to stay silent anyway."
     m "That's not necessary, I don't think you'll be able to stay silent anyway."
 
-# game/day33.rpy:1134
+# game/day33.rpy:1128
 translate french day33_m_bj_6a09a33b:
 
     # m "Don't move sweetie, let me do all the work."
     m "Don't move sweetie, let me do all the work."
 
-# game/day33.rpy:1137
+# game/day33.rpy:1131
 translate french day33_m_bj_dbf387bb:
 
     # "{i}Your mother's soft hand wraps around your proud erection and when she slowly jerks you off, a small moan escapes you."
     "{i}Your mother's soft hand wraps around your proud erection and when she slowly jerks you off, a small moan escapes you."
 
-# game/day33.rpy:1139
+# game/day33.rpy:1133
 translate french day33_m_bj_61d4e2af:
 
     # "{i}[m_name]'s soft hand wraps around your proud erection and when she slowly jerks you off a small moan escapes you."
     "{i}[m_name]'s soft hand wraps around your proud erection and when she slowly jerks you off a small moan escapes you."
 
-# game/day33.rpy:1140
+# game/day33.rpy:1134
 translate french day33_m_bj_17856191:
 
     # m "That's my beautiful boy."
     m "That's my beautiful boy."
 
-# game/day33.rpy:1141
+# game/day33.rpy:1135
 translate french day33_m_bj_21cb3370:
 
     # m "Would you like to see more of me?"
     m "Would you like to see more of me?"
 
-# game/day33.rpy:1142
+# game/day33.rpy:1136
 translate french day33_m_bj_f91fcc14:
 
     # p "A-always!"
     p "A-always!"
 
-# game/day33.rpy:1147
+# game/day33.rpy:1141
 translate french day33_m_bj_91f9e695:
 
     # p "Goddamn, [m_name], you have such a beautiful body."
     p "Goddamn, [m_name], you have such a beautiful body."
 
-# game/day33.rpy:1149
+# game/day33.rpy:1143
 translate french day33_m_bj_41fc79eb:
 
     # m "Such a shame you can't touch any of it..."
     m "Such a shame you can't touch any of it..."
 
-# game/day33.rpy:1150
+# game/day33.rpy:1144
 translate french day33_m_bj_36c33192:
 
     # p "Just you wait until you come too close to my mouth."
     p "Just you wait until you come too close to my mouth."
 
-# game/day33.rpy:1151
+# game/day33.rpy:1145
 translate french day33_m_bj_1699df1a:
 
     # m "Easy there, tiger."
     m "Easy there, tiger."
 
-# game/day33.rpy:1153
+# game/day33.rpy:1147
 translate french day33_m_bj_73b08e6d:
 
     # m "Thanks, dear!"
     m "Thanks, dear!"
 
-# game/day33.rpy:1155
+# game/day33.rpy:1149
 translate french day33_m_bj_943f699d:
 
     # "{i}When [m_name] kneels down again, she looks at your cock and smiles approvingly as she notices the droplets of precum escaping the head."
     "{i}When [m_name] kneels down again, she looks at your cock and smiles approvingly as she notices the droplets of precum escaping the head."
 
-# game/day33.rpy:1156
+# game/day33.rpy:1150
 translate french day33_m_bj_b077a0c8:
 
     # m "You're excited, aren't you?"
     m "You're excited, aren't you?"
 
-# game/day33.rpy:1159
+# game/day33.rpy:1153
 translate french day33_m_bj_d0f0018c:
 
     # "{i}Just when you think she's about to grab your penis again, your mother lowers her head and licks the ejaculate from your glans, maintaining eye-contact all the while."
     "{i}Just when you think she's about to grab your penis again, your mother lowers her head and licks the ejaculate from your glans, maintaining eye-contact all the while."
 
-# game/day33.rpy:1161
+# game/day33.rpy:1155
 translate french day33_m_bj_e85c7b17:
 
     # "{i}Just when you think she's about to grab your penis again, your friend lowers her head and licks the ejaculate from your glans, maintaining eye-contact all the while."
     "{i}Just when you think she's about to grab your penis again, your friend lowers her head and licks the ejaculate from your glans, maintaining eye-contact all the while."
 
-# game/day33.rpy:1162
+# game/day33.rpy:1156
 translate french day33_m_bj_8d8ebda5:
 
     # m "Mmmmm, do you mind if I have a taste?"
     m "Mmmmm, do you mind if I have a taste?"
 
-# game/day33.rpy:1163
+# game/day33.rpy:1157
 translate french day33_m_bj_c4d7f825:
 
     # p "F-fuck no!"
     p "F-fuck no!"
 
-# game/day33.rpy:1164
+# game/day33.rpy:1158
 translate french day33_m_bj_8919f68e:
 
     # m "I can stop if you want to."
     m "I can stop if you want to."
 
-# game/day33.rpy:1165
+# game/day33.rpy:1159
 translate french day33_m_bj_a81e2f1b:
 
     # m "Just say so..."
     m "Just say so..."
 
-# game/day33.rpy:1166
+# game/day33.rpy:1160
 translate french day33_m_bj_cdeb33be:
 
     # p "N-O!"
     p "N-O!"
 
-# game/day33.rpy:1168
+# game/day33.rpy:1162
 translate french day33_m_bj_9a99bf0b:
 
     # "{i}The older woman's tongue swirls over your entire glans, lingering at the rim and probing the nerve endings."
     "{i}The older woman's tongue swirls over your entire glans, lingering at the rim and probing the nerve endings."
 
-# game/day33.rpy:1170
+# game/day33.rpy:1164
 translate french day33_m_bj_d38a89b5:
 
     # "{i}The sensation makes you arch your back, lifting your buttocks from the bed and pulling the chains fastened to your arms and legs taut."
     "{i}The sensation makes you arch your back, lifting your buttocks from the bed and pulling the chains fastened to your arms and legs taut."
 
-# game/day33.rpy:1172
+# game/day33.rpy:1166
 translate french day33_m_bj_84105227:
 
     # "{i}The sensation makes you arch your back, lifting your buttocks from the bed."
     "{i}The sensation makes you arch your back, lifting your buttocks from the bed."
 
-# game/day33.rpy:1174
+# game/day33.rpy:1168
 translate french day33_m_bj_63448113:
 
     # "{i}Your mother grins as another spurt of precum emerges from your glans and oozes down your shaft."
     "{i}Your mother grins as another spurt of precum emerges from your glans and oozes down your shaft."
 
-# game/day33.rpy:1176
+# game/day33.rpy:1170
 translate french day33_m_bj_3543bacb:
 
     # "{i}[m_name] grins as another spurt of precum emerges from your glans and oozes down your shaft."
     "{i}[m_name] grins as another spurt of precum emerges from your glans and oozes down your shaft."
 
-# game/day33.rpy:1177
+# game/day33.rpy:1171
 translate french day33_m_bj_f9e47847:
 
     # m "I wonder how long I can keep doing this..."
     m "I wonder how long I can keep doing this..."
 
-# game/day33.rpy:1178
+# game/day33.rpy:1172
 translate french day33_m_bj_ca048d63:
 
     # m "We don't want you making a mess of my face now, do we?"
     m "We don't want you making a mess of my face now, do we?"
 
-# game/day33.rpy:1179
+# game/day33.rpy:1173
 translate french day33_m_bj_676a06a3:
 
     # p "N-no?"
     p "N-no?"
 
-# game/day33.rpy:1180
+# game/day33.rpy:1174
 translate french day33_m_bj_ed24bcfd:
 
     # m "Right."
     m "Right."
 
-# game/day33.rpy:1181
+# game/day33.rpy:1175
 translate french day33_m_bj_85fdf078:
 
     # m "So do I swallow or do you cum on my chest?"
     m "So do I swallow or do you cum on my chest?"
 
-# game/day33.rpy:1186
+# game/day33.rpy:1180
 translate french day33_m_bj_2a536123:
 
     # p "S-swallow it!"
     p "S-swallow it!"
 
-# game/day33.rpy:1188
+# game/day33.rpy:1182
 translate french day33_m_bj_9f3ed5f9:
 
     # m "'Swallow it, please.'"
     m "'Swallow it, please.'"
 
-# game/day33.rpy:1189
+# game/day33.rpy:1183
 translate french day33_m_bj_173ec07c:
 
     # p "Swallow my load, please Mistress."
     p "Swallow my load, please Mistress."
 
-# game/day33.rpy:1190
+# game/day33.rpy:1184
 translate french day33_m_bj_6ad5100d:
 
     # m "Good boy!"
     m "Good boy!"
 
-# game/day33.rpy:1193
+# game/day33.rpy:1187
 translate french day33_m_bj_f7890d4e:
 
     # p "Y-your beautiful breasts!"
     p "Y-your beautiful breasts!"
 
-# game/day33.rpy:1195
+# game/day33.rpy:1189
 translate french day33_m_bj_cd3d66d3:
 
     # m "'Your beautiful breasts, please.'"
     m "'Your beautiful breasts, please.'"
 
-# game/day33.rpy:1196
+# game/day33.rpy:1190
 translate french day33_m_bj_bc3fbce5:
 
     # p "Allow me to cum on your beautiful breasts, please Mistress."
     p "Allow me to cum on your beautiful breasts, please Mistress."
 
-# game/day33.rpy:1197
+# game/day33.rpy:1191
 translate french day33_m_bj_6ad5100d_1:
 
     # m "Good boy!"
     m "Good boy!"
 
-# game/day33.rpy:1200
+# game/day33.rpy:1194
 translate french day33_m_bj_d5d93022:
 
     # "{i}Pleased with your answer, [m_name] guides your cock inside her warm mouth and starts blowing you."
     "{i}Pleased with your answer, [m_name] guides your cock inside her warm mouth and starts blowing you."
 
-# game/day33.rpy:1201
+# game/day33.rpy:1195
 translate french day33_m_bj_aae4465c:
 
     # "{i}She uses her tongue expertly and twists her head just at the right moment to let the tip of your cock brush against the wet, velvety insides of her cheeks."
     "{i}She uses her tongue expertly and twists her head just at the right moment to let the tip of your cock brush against the wet, velvety insides of her cheeks."
 
-# game/day33.rpy:1205
+# game/day33.rpy:1199
 translate french day33_m_bj_409ead75:
 
     # "{i}As your hands are chained, you cannot guide your mother's cocksucking and she's therefore completely in control."
     "{i}As your hands are chained, you cannot guide your mother's cocksucking and she's therefore completely in control."
 
-# game/day33.rpy:1207
+# game/day33.rpy:1201
 translate french day33_m_bj_596cec38:
 
     # "{i}As your hands are chained, you cannot guide your friend's cocksucking and she's therefore completely in control."
     "{i}As your hands are chained, you cannot guide your friend's cocksucking and she's therefore completely in control."
 
-# game/day33.rpy:1210
+# game/day33.rpy:1204
 translate french day33_m_bj_e54a37e4:
 
     # "{i}When you extend a hand to guide your mother's cocksucking she brushes it violently aside, she obviously wants to be completely in control."
     "{i}When you extend a hand to guide your mother's cocksucking she brushes it violently aside, she obviously wants to be completely in control."
 
-# game/day33.rpy:1212
+# game/day33.rpy:1206
 translate french day33_m_bj_ff7b05aa:
 
     # "{i}When you extend a hand to guide your friend's cocksucking she brushes it violently aside, she obviously wants to be completely in control."
     "{i}When you extend a hand to guide your friend's cocksucking she brushes it violently aside, she obviously wants to be completely in control."
 
-# game/day33.rpy:1213
+# game/day33.rpy:1207
 translate french day33_m_bj_3780881c:
 
     # "{i}[m_name] doesn't actually need guidance from you and the helpless feeling actually arouses you even more."
     "{i}[m_name] doesn't actually need guidance from you and the helpless feeling actually arouses you even more."
 
-# game/day33.rpy:1215
+# game/day33.rpy:1209
 translate french day33_m_bj_95d8314a:
 
     # m "Do you have a big load for me to swallow, [p_name]?"
     m "Do you have a big load for me to swallow, [p_name]?"
 
-# game/day33.rpy:1217
+# game/day33.rpy:1211
 translate french day33_m_bj_0e49c5ef:
 
     # m "Do you have a big load for me, [p_name]?"
     m "Do you have a big load for me, [p_name]?"
 
-# game/day33.rpy:1218
+# game/day33.rpy:1212
 translate french day33_m_bj_8e76c6f3:
 
     # p "G-god, yes."
     p "G-god, yes."
 
-# game/day33.rpy:1219
+# game/day33.rpy:1213
 translate french day33_m_bj_b67bf661:
 
     # m "Good, because I want it."
     m "Good, because I want it."
 
-# game/day33.rpy:1220
+# game/day33.rpy:1214
 translate french day33_m_bj_67a869cd:
 
     # p "Y-yes!"
     p "Y-yes!"
 
-# game/day33.rpy:1221
+# game/day33.rpy:1215
 translate french day33_m_bj_6083f78d:
 
     # m "Come on baby."
     m "Come on baby."
 
-# game/day33.rpy:1226
+# game/day33.rpy:1220
 translate french day33_m_bj_efccf411:
 
     # "{i}A few flicks of [m_name]'s tongue are enough to start a torrent of cum flooding your mother's mouth."
     "{i}A few flicks of [m_name]'s tongue are enough to start a torrent of cum flooding your mother's mouth."
 
-# game/day33.rpy:1228
+# game/day33.rpy:1222
 translate french day33_m_bj_33c7ef11:
 
     # "{i}A few flicks of [m_name]'s tongue are enough to start a torrent of cum flooding your friend's mouth."
     "{i}A few flicks of [m_name]'s tongue are enough to start a torrent of cum flooding your friend's mouth."
 
-# game/day33.rpy:1229
+# game/day33.rpy:1223
 translate french day33_m_bj_ece04793:
 
     # "{i}Semen leaks from the corners of her mouth as your cock keeps pumping semen, when she allows your pulsing cock to escape she swallows everything."
     "{i}Semen leaks from the corners of her mouth as your cock keeps pumping semen, when she allows your pulsing cock to escape she swallows everything."
 
-# game/day33.rpy:1234
+# game/day33.rpy:1228
 translate french day33_m_bj_ece3b8bf:
 
     # "{i}A few flicks of [m_name]'s tongue are enough to start a torrent of cum flooding your mother's chest as she allows your member to escape her mouth."
     "{i}A few flicks of [m_name]'s tongue are enough to start a torrent of cum flooding your mother's chest as she allows your member to escape her mouth."
 
-# game/day33.rpy:1236
+# game/day33.rpy:1230
 translate french day33_m_bj_56e7676c:
 
     # "{i}A few flicks of [m_name]'s tongue are enough to start a torrent of cum flooding your friend's chest as she allows your member to escape her mouth."
     "{i}A few flicks of [m_name]'s tongue are enough to start a torrent of cum flooding your friend's chest as she allows your member to escape her mouth."
 
-# game/day33.rpy:1237
+# game/day33.rpy:1231
 translate french day33_m_bj_e0fd1121:
 
     # "{i}She rubs the semen all over her big breasts until everything is covered in a glistening sheen."
     "{i}She rubs the semen all over her big breasts until everything is covered in a glistening sheen."
 
-# game/day33.rpy:1239
+# game/day33.rpy:1233
 translate french day33_m_bj_0ca00368:
 
     # m "Mmmm, that was such a treat."
     m "Mmmm, that was such a treat."
 
-# game/day33.rpy:1241
+# game/day33.rpy:1235
 translate french day33_m_bj_b4e21290:
 
     # m "I'm sure you want to be unchained now?"
     m "I'm sure you want to be unchained now?"
 
-# game/day33.rpy:1242
+# game/day33.rpy:1236
 translate french day33_m_bj_0341c077:
 
     # p "Yes please."
     p "Yes please."
 
-# game/day33.rpy:1243
+# game/day33.rpy:1237
 translate french day33_m_bj_8ebf654b:
 
     # "{i}[m_name] unlocks the manacles and kisses the angry red marks the bonds have left."
     "{i}[m_name] unlocks the manacles and kisses the angry red marks the bonds have left."
 
-# game/day33.rpy:1244
+# game/day33.rpy:1238
 translate french day33_m_bj_63b085bf:
 
     # m "There now."
     m "There now."
 
-# game/day33.rpy:1245
+# game/day33.rpy:1239
 translate french day33_m_bj_21911f34:
 
     # m "Apology accepted."
     m "Apology accepted."
 
-# game/day33.rpy:1246
+# game/day33.rpy:1240
 translate french day33_m_bj_a47e2c45:
 
     # m "We're even now."
     m "We're even now."
 
-# game/day33.rpy:1247
+# game/day33.rpy:1241
 translate french day33_m_bj_3878e50c:
 
     # p "We are?"
     p "We are?"
 
-# game/day33.rpy:1249
+# game/day33.rpy:1243
 translate french day33_m_bj_89458684:
 
     # m "I think so."
     m "I think so."
 
-# game/day33.rpy:1250
+# game/day33.rpy:1244
 translate french day33_m_bj_c0f331b6:
 
     # p "Will we continue the Discreet sessions?"
     p "Will we continue the Discreet sessions?"
 
-# game/day33.rpy:1251
+# game/day33.rpy:1245
 translate french day33_m_bj_f467958f:
 
     # m "Do you want to?"
     m "Do you want to?"
 
-# game/day33.rpy:1256
+# game/day33.rpy:1250
 translate french day33_m_bj_62ac004a:
 
     # p "I think I do."
     p "I think I do."
 
-# game/day33.rpy:1257
+# game/day33.rpy:1251
 translate french day33_m_bj_c08bc8f4:
 
     # m "Good."
     m "Good."
 
-# game/day33.rpy:1258
+# game/day33.rpy:1252
 translate french day33_m_bj_d985e550:
 
     # p "Will Adriana be a problem?"
     p "Will Adriana be a problem?"
 
-# game/day33.rpy:1259
+# game/day33.rpy:1253
 translate french day33_m_bj_0a976c62:
 
     # m "Adriana? No."
     m "Adriana? No."
 
-# game/day33.rpy:1260
+# game/day33.rpy:1254
 translate french day33_m_bj_ee41275c:
 
     # m "She's loyal and very open-minded."
     m "She's loyal and very open-minded."
 
-# game/day33.rpy:1261
+# game/day33.rpy:1255
 translate french day33_m_bj_e9d0e1a5:
 
     # p "I like her."
     p "I like her."
 
-# game/day33.rpy:1262
+# game/day33.rpy:1256
 translate french day33_m_bj_c8560025:
 
     # m "I know, I do too."
     m "I know, I do too."
 
-# game/day33.rpy:1263
+# game/day33.rpy:1257
 translate french day33_m_bj_c66f9747:
 
     # p "{i}(Interesting...)"
     p "{i}(Interesting...)"
 
-# game/day33.rpy:1268
+# game/day33.rpy:1262
 translate french day33_m_bj_b4fd0cad:
 
     # p "Not really."
     p "Not really."
 
-# game/day33.rpy:1269
+# game/day33.rpy:1263
 translate french day33_m_bj_182b1f9e:
 
     # p "You were all I ever wanted."
     p "You were all I ever wanted."
 
-# game/day33.rpy:1270
+# game/day33.rpy:1264
 translate french day33_m_bj_0f562c9d:
 
     # m "Fair enough."
     m "Fair enough."
 
-# game/day33.rpy:1271
+# game/day33.rpy:1265
 translate french day33_m_bj_bd3736eb:
 
     # m "Adriana already knows about the difficulties I have with Mr. Holmes, so she won't be suspicious when I cancel the account."
     m "Adriana already knows about the difficulties I have with Mr. Holmes, so she won't be suspicious when I cancel the account."
 
-# game/day33.rpy:1272
+# game/day33.rpy:1266
 translate french day33_m_bj_432d51eb:
 
     # p "Good."
     p "Good."
 
-# game/day33.rpy:1274
+# game/day33.rpy:1268
 translate french day33_m_bj_7988a01b:
 
     # p "I do."
     p "I do."
 
-# game/day33.rpy:1275
+# game/day33.rpy:1269
 translate french day33_m_bj_c08bc8f4_1:
 
     # m "Good."
     m "Good."
 
-# game/day33.rpy:1276
+# game/day33.rpy:1270
 translate french day33_m_bj_d985e550_1:
 
     # p "Will Adriana be a problem?"
     p "Will Adriana be a problem?"
 
-# game/day33.rpy:1277
+# game/day33.rpy:1271
 translate french day33_m_bj_0a976c62_1:
 
     # m "Adriana? No."
     m "Adriana? No."
 
-# game/day33.rpy:1278
+# game/day33.rpy:1272
 translate french day33_m_bj_ee41275c_1:
 
     # m "She's loyal and very open-minded."
     m "She's loyal and very open-minded."
 
-# game/day33.rpy:1279
+# game/day33.rpy:1273
 translate french day33_m_bj_e9d0e1a5_1:
 
     # p "I like her."
     p "I like her."
 
-# game/day33.rpy:1280
+# game/day33.rpy:1274
 translate french day33_m_bj_c8560025_1:
 
     # m "I know, I do too."
     m "I know, I do too."
 
-# game/day33.rpy:1281
+# game/day33.rpy:1275
 translate french day33_m_bj_c66f9747_1:
 
     # p "{i}(Interesting...)"
     p "{i}(Interesting...)"
 
-# game/day33.rpy:1283
+# game/day33.rpy:1277
 translate french day33_m_bj_d7c5e783:
 
     # m "I have to go now, if the girls find me here..."
     m "I have to go now, if the girls find me here..."
 
-# game/day33.rpy:1284
+# game/day33.rpy:1278
 translate french day33_m_bj_2f0673b5:
 
     # p "I wish you could stay."
     p "I wish you could stay."
 
-# game/day33.rpy:1285
+# game/day33.rpy:1279
 translate french day33_m_bj_34608ef1:
 
     # m "Me too, but another time."
     m "Me too, but another time."
 
-# game/day33.rpy:1287
+# game/day33.rpy:1281
 translate french day33_m_bj_63b085bf_1:
 
     # m "There now."
     m "There now."
 
-# game/day33.rpy:1288
+# game/day33.rpy:1282
 translate french day33_m_bj_34fdd3ed:
 
     # m "Do you think you'll be able to sleep?"
     m "Do you think you'll be able to sleep?"
 
-# game/day33.rpy:1289
+# game/day33.rpy:1283
 translate french day33_m_bj_7b738afe:
 
     # p "After that good night's kiss, I'm sure of it."
     p "After that good night's kiss, I'm sure of it."
 
-# game/day33.rpy:1290
+# game/day33.rpy:1284
 translate french day33_m_bj_2aa83aec:
 
     # p "But it might even be better if you lie with me."
     p "But it might even be better if you lie with me."
 
-# game/day33.rpy:1291
+# game/day33.rpy:1285
 translate french day33_m_bj_27f3d810:
 
     # m "Another time, too many people in the house."
     m "Another time, too many people in the house."
 
-# game/day33.rpy:1292
+# game/day33.rpy:1286
 translate french day33_m_bj_3fce49ce:
 
     # p "{i}(Damn.)"
     p "{i}(Damn.)"
 
-# game/day33.rpy:1294
+# game/day33.rpy:1288
 translate french day33_m_bj_12f74c0f:
 
     # m "Sleep well, dear."
     m "Sleep well, dear."
 
-# game/day33.rpy:1295
+# game/day33.rpy:1289
 translate french day33_m_bj_1cb12314:
 
     # p "Good night [m_name]."
     p "Good night [m_name]."
 
-# game/day33.rpy:1300
+# game/day33.rpy:1294
 translate french day33_b_harem_talk_92cc654b:
 
     # b "I've been doing a lot of thinking."
     b "I've been doing a lot of thinking."
 
-# game/day33.rpy:1301
+# game/day33.rpy:1295
 translate french day33_b_harem_talk_be7c5023:
 
     # b "About what you said."
     b "About what you said."
 
-# game/day33.rpy:1302
+# game/day33.rpy:1296
 translate french day33_b_harem_talk_871f5903:
 
     # b "And I think you're right about a couple of things."
     b "And I think you're right about a couple of things."
 
-# game/day33.rpy:1303
+# game/day33.rpy:1297
 translate french day33_b_harem_talk_cc6102a1:
 
     # p "{i}(I hope it's the important things.)"
     p "{i}(I hope it's the important things.)"
 
-# game/day33.rpy:1304
+# game/day33.rpy:1298
 translate french day33_b_harem_talk_f75ee427:
 
     # b "The biggest thing that has stung me, is the fact that you were so secretive about it all."
     b "The biggest thing that has stung me, is the fact that you were so secretive about it all."
 
-# game/day33.rpy:1305
+# game/day33.rpy:1299
 translate french day33_b_harem_talk_94737042:
 
     # b "That's the biggest realization I had."
     b "That's the biggest realization I had."
 
-# game/day33.rpy:1306
+# game/day33.rpy:1300
 translate french day33_b_harem_talk_0783ae0c:
 
     # b "Not that you have feelings for [r_name], but that you acted on them behind my back."
     b "Not that you have feelings for [r_name], but that you acted on them behind my back."
 
-# game/day33.rpy:1308
+# game/day33.rpy:1302
 translate french day33_b_harem_talk_95dc13ad:
 
     # b "That stung."
     b "That stung."
 
-# game/day33.rpy:1309
+# game/day33.rpy:1303
 translate french day33_b_harem_talk_01bab72a:
 
     # b "But you've apologized and I believe you're sincere."
     b "But you've apologized and I believe you're sincere."
 
-# game/day33.rpy:1310
+# game/day33.rpy:1304
 translate french day33_b_harem_talk_88d56c4c:
 
     # b "So that leaves your proposal."
     b "So that leaves your proposal."
 
-# game/day33.rpy:1312
+# game/day33.rpy:1306
 translate french day33_b_harem_talk_ac959e29:
 
     # b "I think [r_name] could be more than a sister to me."
     b "I think [r_name] could be more than a sister to me."
 
-# game/day33.rpy:1313
+# game/day33.rpy:1307
 translate french day33_b_harem_talk_196efe97:
 
     # b "I mean, you're my brother, but also my lover, there's no reason why that couldn't work with [r_name]."
     b "I mean, you're my brother, but also my lover, there's no reason why that couldn't work with [r_name]."
 
-# game/day33.rpy:1315
+# game/day33.rpy:1309
 translate french day33_b_harem_talk_1b703639:
 
     # b "I think [r_name] could be more than a friend to me."
     b "I think [r_name] could be more than a friend to me."
 
-# game/day33.rpy:1316
+# game/day33.rpy:1310
 translate french day33_b_harem_talk_865a106f:
 
     # b "Maybe I've always had feelings for girls, I just haven't acted on it."
     b "Maybe I've always had feelings for girls, I just haven't acted on it."
 
-# game/day33.rpy:1317
+# game/day33.rpy:1311
 translate french day33_b_harem_talk_58c7ba54:
 
     # b "I've said I want you for myself, but I don't want you to break up with [r_name] and hurt her."
     b "I've said I want you for myself, but I don't want you to break up with [r_name] and hurt her."
 
-# game/day33.rpy:1318
+# game/day33.rpy:1312
 translate french day33_b_harem_talk_22ed1e4c:
 
     # b "And I certainly don't want us to break up."
     b "And I certainly don't want us to break up."
 
-# game/day33.rpy:1319
+# game/day33.rpy:1313
 translate french day33_b_harem_talk_44cd969f:
 
     # b "So I'm willing to give this a try."
     b "So I'm willing to give this a try."
 
-# game/day33.rpy:1320
+# game/day33.rpy:1314
 translate french day33_b_harem_talk_c4eb0f6c:
 
     # b "Including [r_name] in our relationship, if she's willing."
     b "Including [r_name] in our relationship, if she's willing."
 
-# game/day33.rpy:1322
+# game/day33.rpy:1316
 translate french day33_b_harem_talk_444e28fe:
 
     # b "But I hope there will still be times where I have you for myself exclusively."
     b "But I hope there will still be times where I have you for myself exclusively."
 
-# game/day33.rpy:1323
+# game/day33.rpy:1317
 translate french day33_b_harem_talk_705da620:
 
     # p "You don't know how happy that makes me feel."
     p "You don't know how happy that makes me feel."
 
-# game/day33.rpy:1324
+# game/day33.rpy:1318
 translate french day33_b_harem_talk_6f5bc9fe:
 
     # b "Well, to give at least an indication, you could kiss me, of course."
     b "Well, to give at least an indication, you could kiss me, of course."
 
-# game/day33.rpy:1326
+# game/day33.rpy:1320
 translate french day33_b_harem_talk_a31b0592:
 
     # "{i}You oblige immediately and kiss her smiling face, the next moment you're involved in a tight embrace and a passionate tongue kiss."
     "{i}You oblige immediately and kiss her smiling face, the next moment you're involved in a tight embrace and a passionate tongue kiss."
 
-# game/day33.rpy:1328
+# game/day33.rpy:1322
 translate french day33_b_harem_talk_08ab1f3d:
 
     # p "I'm going to be the best boyfriend to the both of you."
     p "I'm going to be the best boyfriend to the both of you."
 
-# game/day33.rpy:1329
+# game/day33.rpy:1323
 translate french day33_b_harem_talk_6759547e:
 
     # b "You're going to be very busy, I'm sure of it."
     b "You're going to be very busy, I'm sure of it."
 
-# game/day33.rpy:1330
+# game/day33.rpy:1324
 translate french day33_b_harem_talk_f273c995:
 
     # p "Anything for you!"
     p "Anything for you!"
 
-# game/day33.rpy:1331
+# game/day33.rpy:1325
 translate french day33_b_harem_talk_d3f25f5e:
 
     # b "God, I'm glad this is off my chest."
     b "God, I'm glad this is off my chest."
 
-# game/day33.rpy:1332
+# game/day33.rpy:1326
 translate french day33_b_harem_talk_47944aaa:
 
     # p "I can relate."
     p "I can relate."
 
-# game/day33.rpy:1333
+# game/day33.rpy:1327
 translate french day33_b_harem_talk_bdccf104:
 
     # p "You're doing a very brave thing."
     p "You're doing a very brave thing."
 
-# game/day33.rpy:1334
+# game/day33.rpy:1328
 translate french day33_b_harem_talk_9652ee41:
 
     # b "Oh come on, I'm just allowing you to have unlimited threesomes."
     b "Oh come on, I'm just allowing you to have unlimited threesomes."
 
-# game/day33.rpy:1335
+# game/day33.rpy:1329
 translate french day33_b_harem_talk_ddacbd93:
 
     # b "Every boy's naughty fantasy."
     b "Every boy's naughty fantasy."
 
-# game/day33.rpy:1336
+# game/day33.rpy:1330
 translate french day33_b_harem_talk_b8cf89bb:
 
     # p "True, but it also takes trust."
     p "True, but it also takes trust."
 
-# game/day33.rpy:1337
+# game/day33.rpy:1331
 translate french day33_b_harem_talk_ec172498:
 
     # p "I'm glad you trust our relationship enough to allow [r_name] to share with us."
     p "I'm glad you trust our relationship enough to allow [r_name] to share with us."
 
-# game/day33.rpy:1339
+# game/day33.rpy:1333
 translate french day33_b_harem_talk_9eec9df7:
 
     # b "Has anybody every told you, you have a very peculiar way of looking at things?"
     b "Has anybody every told you, you have a very peculiar way of looking at things?"
 
-# game/day33.rpy:1340
+# game/day33.rpy:1334
 translate french day33_b_harem_talk_115982f8:
 
     # p "Maybe..."
     p "Maybe..."
 
-# game/day33.rpy:1341
+# game/day33.rpy:1335
 translate french day33_b_harem_talk_b766ac40:
 
     # b "Why am I not surprised!"
     b "Why am I not surprised!"
 
-# game/day33.rpy:1344
+# game/day33.rpy:1338
 translate french day33_b_harem_talk_9dcf9163:
 
     # "{i}You talk some more, until you hear one of your other sister's coming home and you leave [b_name] to avoid any suspicion"
     "{i}You talk some more, until you hear one of your other sister's coming home and you leave [b_name] to avoid any suspicion"
 
-# game/day33.rpy:1346
+# game/day33.rpy:1340
 translate french day33_b_harem_talk_f53220a3:
 
     # "{i}You talk some more, until you hear one of your other friend's coming home and you leave [b_name] to avoid any suspicion."
@@ -5172,23 +5166,19 @@ translate french strings:
     old "Creampie [r_name]"
     new "Creampie [r_name]"
 
-    # day33.rpy:697
-    old "[day35_l_sleep_label] [l_name]"
-    new "[day35_l_sleep_label] [l_name]"
-
-    # day33.rpy:1068
+    # day33.rpy:1062
     old "Don't apologize"
     new "Don't apologize"
 
-    # day33.rpy:1183
+    # day33.rpy:1177
     old "Chest"
     new "Chest"
 
-    # day33.rpy:1254
+    # day33.rpy:1248
     old "I do"
     new "I do"
 
-    # day33.rpy:1254
+    # day33.rpy:1248
     old "I don't"
     new "I don't"
 
