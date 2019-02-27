@@ -1,4 +1,4 @@
-﻿# TODO: Translation updated at 2019-02-22 22:04
+﻿# TODO: Translation updated at 2019-02-27 03:23
 
 # game/day34.rpy:15
 translate french day34_5a640ca6:
@@ -3307,10 +3307,10 @@ translate french day34_flashback_aae80393:
     "{i}When it came to intimacy, Miley was very reserved, afraid even."
 
 # game/day34.rpy:902
-translate french day34_flashback_5fb71153:
+translate french day34_flashback_03db21ea:
 
-    # "{i}Sasha was off course the complete opposite."
-    "{i}Sasha was off course the complete opposite."
+    # "{i}Sasha was of course the complete opposite."
+    "{i}Sasha was of course the complete opposite."
 
 # game/day34.rpy:903
 translate french day34_flashback_031e9acc:

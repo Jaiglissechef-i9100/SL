@@ -1,3328 +1,3334 @@
-﻿# TODO: Translation updated at 2019-02-22 22:04
+﻿# TODO: Translation updated at 2019-02-27 03:23
 
 # game/day32.rpy:16
-translate french day32_53456d3d_1:
+translate french day32_53456d3d:
 
     # centered "DAY {b}32"
-    centered "JOUR {b}32"
+    centered "DAY {b}32"
 
 # game/day32.rpy:22
-translate french day32_31cfa718_1:
+translate french day32_31cfa718:
 
     # "{i}You're rudely awakened by a door slamming open and shut."
-    "{i}Vous êtes brutalement réveillé par une porte qui s'ouvre et se ferme."
+    "{i}You're rudely awakened by a door slamming open and shut."
 
 # game/day32.rpy:24
-translate french day32_43abc171_1:
+translate french day32_43abc171:
 
     # r "[p_name]!!!"
-    r "[p_name] !!!!!"
+    r "[p_name]!!!"
 
 # game/day32.rpy:25
-translate french day32_f358abc5_1:
+translate french day32_f358abc5:
 
     # p "Errr... morning, [r_name]?"
-    p "Euh... matin, [r_name] ?"
+    p "Errr... morning, [r_name]?"
 
 # game/day32.rpy:26
-translate french day32_f87fd610_1:
+translate french day32_f87fd610:
 
     # r "You're the best ever!!!"
-    r "Tu es le meilleur de tous les temps !!!!!"
+    r "You're the best ever!!!"
 
 # game/day32.rpy:27
-translate french day32_1cc67810_1:
+translate french day32_1cc67810:
 
     # p "What did I do?"
-    p "Qu'est-ce que j'ai fait ?"
+    p "What did I do?"
 
 # game/day32.rpy:28
-translate french day32_cd52a54d_1:
+translate french day32_cd52a54d:
 
     # r "Don't play coy, I found your gifts this morning."
-    r "Ne jouez pas les timides, j'ai trouvé vos cadeaux ce matin."
+    r "Don't play coy, I found your gifts this morning."
 
 # game/day32.rpy:30
-translate french day32_4972fc3b_1:
+translate french day32_4972fc3b:
 
     # r "You got tickets for the Valentina Glorious show!"
-    r "Tu as des billets pour le spectacle de Valentina Glorious !"
+    r "You got tickets for the Valentina Glorious show!"
 
 # game/day32.rpy:31
-translate french day32_67b6f78a_1:
+translate french day32_67b6f78a:
 
     # r "Where on earth did you get those, it was completely sold out?!"
-    r "Où diable as-tu trouvé ça, il n'y en avait plus du tout ?!"
+    r "Where on earth did you get those, it was completely sold out?!"
 
 # game/day32.rpy:32
-translate french day32_5287750a_1:
+translate french day32_5287750a:
 
     # r "How did you know that she was my all-time favorite?!"
-    r "Comment savais-tu qu'elle était ma préférée ?!"
+    r "How did you know that she was my all-time favorite?!"
 
 # game/day32.rpy:33
-translate french day32_a74121ad_1:
+translate french day32_a74121ad:
 
     # r "And those shoes, they were crazy-expensive, right?!"
-    r "Et ces chaussures, elles étaient follement chères, non ?!"
+    r "And those shoes, they were crazy-expensive, right?!"
 
 # game/day32.rpy:34
-translate french day32_54823cd2_1:
+translate french day32_54823cd2:
 
     # p "Would you like me to address your questions in alphabetical or chronological order?"
-    p "Souhaitez-vous que je réponde à vos questions par ordre alphabétique ou chronologique ?"
+    p "Would you like me to address your questions in alphabetical or chronological order?"
 
 # game/day32.rpy:35
-translate french day32_d231ce31_1:
+translate french day32_d231ce31:
 
     # r "I'm just so happy!"
-    r "Je suis tellement heureuse !"
+    r "I'm just so happy!"
 
 # game/day32.rpy:36
-translate french day32_1f98ab13_1:
+translate french day32_1f98ab13:
 
     # p "That was the objective."
-    p "C'était l'objectif."
+    p "That was the objective."
 
 # game/day32.rpy:38
-translate french day32_b9b124c7_1:
+translate french day32_b9b124c7:
 
     # r "You're the best brother, ever!"
-    r "Tu es le meilleur frère du monde !"
+    r "You're the best brother, ever!"
 
 # game/day32.rpy:39
-translate french day32_c18f3955_3:
+translate french day32_c18f3955:
 
     # p "But..."
-    p "Mais...."
+    p "But..."
 
 # game/day32.rpy:41
-translate french day32_b8c51f71_1:
+translate french day32_b8c51f71:
 
     # p "You're free to decide, but may I come with you to the concert?"
-    p "Tu es libre de décider, mais je peux venir avec toi au concert ?"
+    p "You're free to decide, but may I come with you to the concert?"
 
 # game/day32.rpy:42
-translate french day32_09a5a437_1:
+translate french day32_09a5a437:
 
     # r "Of course, silly!"
-    r "Bien sûr, idiot !"
+    r "Of course, silly!"
 
 # game/day32.rpy:43
-translate french day32_ff2cda45_1:
+translate french day32_ff2cda45:
 
     # r "There's no-one else I'd like to spend more time with than you."
-    r "Il n'y a personne d'autre avec qui j'aimerais passer plus de temps que toi."
+    r "There's no-one else I'd like to spend more time with than you."
 
 # game/day32.rpy:44
-translate french day32_4138019f_1:
+translate french day32_4138019f:
 
     # p "Good, I was really looking forward to seeing you in that dress."
-    p "Bien, j'avais vraiment hâte de te voir dans cette robe."
+    p "Good, I was really looking forward to seeing you in that dress."
 
 # game/day32.rpy:45
-translate french day32_d71c7037_1:
+translate french day32_d71c7037:
 
     # r "Wait!"
-    r "Attendez !"
+    r "Wait!"
 
 # game/day32.rpy:46
-translate french day32_a9e4854f_1:
+translate french day32_a9e4854f:
 
     # r "I'll pose for you right now."
-    r "Je pose pour vous tout de suite."
+    r "I'll pose for you right now."
 
 # game/day32.rpy:47
-translate french day32_ff46700f_1:
+translate french day32_ff46700f:
 
     # r "Just a sec."
-    r "Juste une seconde."
+    r "Just a sec."
 
 # game/day32.rpy:49
-translate french day32_9e6b7781_1:
+translate french day32_9e6b7781:
 
     # p "{i}(That was totally the reaction I was hoping for.)"
-    p "{i}(C'était totalement la réaction que j'espérais.)"
+    p "{i}(That was totally the reaction I was hoping for.)"
 
 # game/day32.rpy:50
-translate french day32_766d85f5_1:
+translate french day32_766d85f5:
 
     # p "{i}(I'm pretty sure the music is not for me, but I get to spend time with [r_name] in a nice dress and that's good enough for me.)"
-    p "{i}(Je suis presque sûr que la musique n'est pas pour moi, mais je peux passer du temps avec [r_name] dans une belle robe et c'est assez bien pour moi.)"
+    p "{i}(I'm pretty sure the music is not for me, but I get to spend time with [r_name] in a nice dress and that's good enough for me.)"
 
 # game/day32.rpy:55
-translate french day32_66d2621a_1:
+translate french day32_66d2621a:
 
     # p "Sweet. Baby. Jesus."
-    p "C'est mignon. Bébé. Jésus."
+    p "Sweet. Baby. Jesus."
 
 # game/day32.rpy:56
-translate french day32_0cae1c66_1:
+translate french day32_0cae1c66:
 
     # r "Do you think I'm ready to rock tonight?"
-    r "Tu crois que je suis prêt pour ce soir ?"
+    r "Do you think I'm ready to rock tonight?"
 
 # game/day32.rpy:61
-translate french day32_7edc0e9b_1:
+translate french day32_7edc0e9b:
 
     # p "More than ready."
-    p "Plus que prêt."
+    p "More than ready."
 
 # game/day32.rpy:62
-translate french day32_87f3e913_1:
+translate french day32_87f3e913:
 
     # p "Wow."
     p "Wow."
 
 # game/day32.rpy:63
-translate french day32_f28d86a6_1:
+translate french day32_f28d86a6:
 
     # r "You should see the look on your face right now."
-    r "Tu devrais voir la tête que tu fais en ce moment."
+    r "You should see the look on your face right now."
 
 # game/day32.rpy:64
-translate french day32_716cbe14_1:
+translate french day32_716cbe14:
 
     # r "Mr. Googly Eyes!"
-    r "M. Googly Eyes !"
+    r "Mr. Googly Eyes!"
 
 # game/day32.rpy:65
-translate french day32_29b14d97_1:
+translate french day32_29b14d97:
 
     # p "Can't help it!"
-    p "Je n'y peux rien !"
+    p "Can't help it!"
 
 # game/day32.rpy:66
-translate french day32_5c26b2e0_1:
+translate french day32_5c26b2e0:
 
     # r "Now I'm going to tell all my friends I'm going to the concert and make them insanely jealous."
-    r "Maintenant, je vais dire à tous mes amis que je vais aller au concert et les rendre follement jaloux."
+    r "Now I'm going to tell all my friends I'm going to the concert and make them insanely jealous."
 
 # game/day32.rpy:67
-translate french day32_4a605451_1:
+translate french day32_4a605451:
 
     # p "Have fun and see you tonight!"
-    p "Amusez-vous bien et à ce soir !"
+    p "Have fun and see you tonight!"
 
 # game/day32.rpy:68
-translate french day32_2cb47667_1:
+translate french day32_2cb47667:
 
     # r "You betcha!"
-    r "Bien sûr que oui !"
+    r "You betcha!"
 
 # game/day32.rpy:70
-translate french day32_a391d4eb_1:
+translate french day32_a391d4eb:
 
     # "{i}An urgent knock on your door awakes you from a terrible night's sleep."
-    "{i}Un coup urgent à votre porte vous réveille d'une terrible nuit de sommeil."
+    "{i}An urgent knock on your door awakes you from a terrible night's sleep."
 
 # game/day32.rpy:72
-translate french day32_6eeeb7c7_1:
+translate french day32_6eeeb7c7:
 
     # r "Hey."
     r "Hey."
 
 # game/day32.rpy:73
-translate french day32_f365b329_1:
+translate french day32_f365b329:
 
     # p "Oh, hey [r_name]."
-    p "Oh, salut [r_name]."
+    p "Oh, hey [r_name]."
 
 # game/day32.rpy:74
-translate french day32_4af5df66_1:
+translate french day32_4af5df66:
 
     # r "Can we talk?"
-    r "On peut parler ?"
+    r "Can we talk?"
 
 # game/day32.rpy:75
-translate french day32_05224883_1:
+translate french day32_05224883:
 
     # p "Sure."
-    p "Bien sûr."
+    p "Sure."
 
 # game/day32.rpy:78
-translate french day32_aee0c9a7_1:
+translate french day32_aee0c9a7:
 
     # r "I just got your gift and your letter."
-    r "Je viens de recevoir ton cadeau et ta lettre."
+    r "I just got your gift and your letter."
 
 # game/day32.rpy:79
-translate french day32_f111f7b1_1:
+translate french day32_f111f7b1:
 
     # p "Good, I hope you liked it."
-    p "Bien, j'espère que ça vous a plu."
+    p "Good, I hope you liked it."
 
 # game/day32.rpy:80
-translate french day32_0c5a5ca3_1:
+translate french day32_0c5a5ca3:
 
     # r "Yes, thank you."
-    r "Oui, je vous remercie."
+    r "Yes, thank you."
 
 # game/day32.rpy:81
-translate french day32_9475cf1e_1:
+translate french day32_9475cf1e:
 
     # r "Do you think giving me expensive concert tickets, some shoes and a nice dress will make it all good?"
-    r "Tu crois que me donner des billets de concert chers, des chaussures et une belle robe me fera du bien ?"
+    r "Do you think giving me expensive concert tickets, some shoes and a nice dress will make it all good?"
 
 # game/day32.rpy:82
-translate french day32_15f34587_1:
+translate french day32_15f34587:
 
     # p "No, not at all."
-    p "Non, pas du tout."
+    p "No, not at all."
 
 # game/day32.rpy:83
-translate french day32_10c5dbcf_1:
+translate french day32_10c5dbcf:
 
     # p "I just wanted to break the ice."
-    p "Je voulais juste briser la glace."
+    p "I just wanted to break the ice."
 
 # game/day32.rpy:84
-translate french day32_5e6552b7_1:
+translate french day32_5e6552b7:
 
     # r "Break the ice?!"
-    r "Briser la glace ?!"
+    r "Break the ice?!"
 
 # game/day32.rpy:86
-translate french day32_bb30c685_2:
+translate french day32_bb30c685:
 
     # r "I'm done with you."
-    r "J'en ai fini avec toi."
+    r "I'm done with you."
 
 # game/day32.rpy:87
-translate french day32_a02dbca3_1:
+translate french day32_a02dbca3:
 
     # p "But [r_name]!"
-    p "Mais [r_name] !"
+    p "But [r_name]!"
 
 # game/day32.rpy:88
-translate french day32_19fcb7b1_2:
+translate french day32_19fcb7b1:
 
     # r "What?"
-    r "Quoi ? Quoi ?"
+    r "What?"
 
 # game/day32.rpy:89
-translate french day32_ead6b6e5_1:
+translate french day32_ead6b6e5:
 
     # p "I can explain..."
-    p "Je peux expliquer...."
+    p "I can explain..."
 
 # game/day32.rpy:96
-translate french day32_6fd4e2f0_1:
+translate french day32_6fd4e2f0:
 
     # r "You fucking betrayed me with my own sister!"
-    r "Tu m'as trahi avec ma propre soeur !"
+    r "You fucking betrayed me with my own sister!"
 
 # game/day32.rpy:98
-translate french day32_f8ecdbe3_1:
+translate french day32_f8ecdbe3:
 
     # r "You fucking betrayed me with my own friend!"
-    r "Tu m'as trahi avec mon propre ami !"
+    r "You fucking betrayed me with my own friend!"
 
 # game/day32.rpy:100
-translate french day32_b861c62a_1:
+translate french day32_b861c62a:
 
     # r "I'm so done with you, [p_name]."
-    r "J'en ai fini avec toi, [p_name]."
+    r "I'm so done with you, [p_name]."
 
 # game/day32.rpy:102
-translate french day32_01cfd374_1:
+translate french day32_01cfd374:
 
     # r "What's there to explain?"
-    r "Qu'y a-t-il à expliquer ?"
+    r "What's there to explain?"
 
 # game/day32.rpy:103
-translate french day32_25aee72f_1:
+translate french day32_25aee72f:
 
     # r "You just play with other people's feelings."
-    r "Tu joues avec les sentiments des autres."
+    r "You just play with other people's feelings."
 
 # game/day32.rpy:104
-translate french day32_b05af334_1:
+translate french day32_b05af334:
 
     # r "You and your fucking little games."
-    r "Toi et tes petits jeux de merde."
+    r "You and your fucking little games."
 
 # game/day32.rpy:105
-translate french day32_2f63008f_1:
+translate french day32_2f63008f:
 
     # r "So it's over."
-    r "Alors, c'est fini."
+    r "So it's over."
 
 # game/day32.rpy:106
-translate french day32_bb30c685_3:
+translate french day32_bb30c685_1:
 
     # r "I'm done with you."
-    r "J'en ai fini avec toi."
+    r "I'm done with you."
 
 # game/day32.rpy:107
-translate french day32_c18f3955_4:
+translate french day32_c18f3955_1:
 
     # p "But..."
-    p "Mais...."
+    p "But..."
 
 # game/day32.rpy:108
-translate french day32_96a43e6a_1:
+translate french day32_96a43e6a:
 
     # r "Don't you even try."
-    r "N'essaie même pas."
+    r "Don't you even try."
 
 # game/day32.rpy:110
-translate french day32_7765808e_1:
+translate french day32_7765808e:
 
     # r "And if you're worrying I'll run to mom and tell her everything: don't worry."
-    r "Et si tu t'inquiètes, je courrai voir maman et je lui dirai tout : ne t'inquiète pas."
+    r "And if you're worrying I'll run to mom and tell her everything: don't worry."
 
 # game/day32.rpy:112
-translate french day32_b1366b1b_1:
+translate french day32_b1366b1b:
 
     # r "And if you're worrying I'll run to [m_name] and tell her everything: don't worry."
-    r "Et si tu t'inquiètes, je courrai voir [m_name] et je lui dirai tout : ne t'inquiète pas."
+    r "And if you're worrying I'll run to [m_name] and tell her everything: don't worry."
 
 # game/day32.rpy:113
-translate french day32_0275104e_1:
+translate french day32_0275104e:
 
     # r "I'll keep my mouth shut, for [b_name]'s sake."
-    r "Je me tairai, pour [b_name]."
+    r "I'll keep my mouth shut, for [b_name]'s sake."
 
 # game/day32.rpy:114
-translate french day32_a00f6f7d_1:
+translate french day32_a00f6f7d:
 
     # r "But you can't stop me from talking to [b_name] about you."
-    r "Mais tu ne peux pas m'empêcher de parler de toi à [b_name]."
+    r "But you can't stop me from talking to [b_name] about you."
 
 # game/day32.rpy:121
-translate french day32_1c2c91ed_1:
+translate french day32_1c2c91ed:
 
     # p "Please don't."
-    p "S'il vous plaît, ne faites pas ça."
+    p "Please don't."
 
 # game/day32.rpy:122
-translate french day32_0626854c_1:
+translate french day32_0626854c:
 
     # p "I'll tell her myself."
-    p "Je lui dirai moi-même."
+    p "I'll tell her myself."
 
 # game/day32.rpy:123
-translate french day32_25814d45_1:
+translate french day32_25814d45:
 
     # r "Fine."
-    r "Très bien."
+    r "Fine."
 
 # game/day32.rpy:124
-translate french day32_fb750ee7_1:
+translate french day32_fb750ee7:
 
     # r "But if I find out you didn't, I'll make sure she'll hear every detail."
-    r "Mais si je découvre que tu ne l'as pas fait, je m'assurerai qu'elle entende tous les détails."
+    r "But if I find out you didn't, I'll make sure she'll hear every detail."
 
 # game/day32.rpy:126
-translate french day32_46cb95ad_1:
+translate french day32_46cb95ad:
 
     # p "Do as you please."
-    p "Faites ce que vous voulez."
+    p "Do as you please."
 
 # game/day32.rpy:127
-translate french day32_25425410_1:
+translate french day32_25425410:
 
     # p "I'm convinced [b_name] will see my love for what it really is."
-    p "Je suis convaincu que [b_name] verra mon amour pour ce qu'il est vraiment."
+    p "I'm convinced [b_name] will see my love for what it really is."
 
 # game/day32.rpy:128
-translate french day32_4ea3c597_1:
+translate french day32_4ea3c597:
 
     # r "A load of nothing."
-    r "Un tas de rien du tout."
+    r "A load of nothing."
 
 # game/day32.rpy:129
-translate french day32_69ded3f4_1:
+translate french day32_69ded3f4:
 
     # r "God, you're such an arrogant dickhead."
-    r "Mon Dieu, t'es vraiment un connard arrogant."
+    r "God, you're such an arrogant dickhead."
 
 # game/day32.rpy:130
-translate french day32_3d587cb3_1:
+translate french day32_3d587cb3:
 
     # r "Why didn't I see that before?!"
-    r "Pourquoi je ne l'ai pas vu avant ?!"
+    r "Why didn't I see that before?!"
 
 # game/day32.rpy:132
-translate french day32_d999ae12_1:
+translate french day32_d999ae12:
 
     # p "I already told [b_name] everything there is to know."
-    p "J'ai déjà tout dit à [b_name]."
+    p "I already told [b_name] everything there is to know."
 
 # game/day32.rpy:133
-translate french day32_f760b24a_1:
+translate french day32_f760b24a:
 
     # r "Okay, that's surprising, but well enough."
-    r "Ok, c'est surprenant, mais assez bien."
+    r "Okay, that's surprising, but well enough."
 
 # game/day32.rpy:134
-translate french day32_93ee6e8d_1:
+translate french day32_93ee6e8d:
 
     # r "That's it then."
-    r "C'est tout alors."
+    r "That's it then."
 
 # game/day32.rpy:135
-translate french day32_e6b498a4_1:
+translate french day32_e6b498a4:
 
     # "{i}Without saying anything further, [r_name] leaves."
-    "{i}Sans rien dire de plus, [r_name] s'en va."
+    "{i}Without saying anything further, [r_name] leaves."
 
 # game/day32.rpy:137
-translate french day32_4499bf6f_1:
+translate french day32_4499bf6f:
 
     # r "Break the ice..."
-    r "Briser la glace...."
+    r "Break the ice..."
 
 # game/day32.rpy:138
-translate french day32_80130b87_1:
+translate french day32_80130b87:
 
     # r "Okay, I'll hear you out."
-    r "D'accord, je vais t'écouter."
+    r "Okay, I'll hear you out."
 
 # game/day32.rpy:139
-translate french day32_2778ef1b_1:
+translate french day32_2778ef1b:
 
     # p "What we have..."
-    p "Ce que nous avons...."
+    p "What we have..."
 
 # game/day32.rpy:140
-translate french day32_0cbec047_1:
+translate french day32_0cbec047:
 
     # p "{i}(Had?)"
-    p "{i}(Avait ?)"
+    p "{i}(Had?)"
 
 # game/day32.rpy:141
-translate french day32_6ed2eedd_1:
+translate french day32_6ed2eedd:
 
     # p "Us two... together... It's something special."
-    p "Nous deux.... ensemble.... C'est quelque chose de spécial."
+    p "Us two... together... It's something special."
 
 # game/day32.rpy:143
-translate french day32_7f1bd4dc_1:
+translate french day32_7f1bd4dc:
 
     # r "Don't toy with me, I know what I saw."
-    r "Ne jouez pas avec moi, je sais ce que j'ai vu."
+    r "Don't toy with me, I know what I saw."
 
 # game/day32.rpy:144
-translate french day32_da023630_1:
+translate french day32_da023630:
 
     # r "Just lying there, with [b_name]..."
-    r "Allongé là, avec [b_name]...."
+    r "Just lying there, with [b_name]..."
 
 # game/day32.rpy:146
-translate french day32_98957ca7_1:
+translate french day32_98957ca7:
 
     # r "My own sister, for God's sake."
-    r "Ma propre soeur, pour l'amour de Dieu."
+    r "My own sister, for God's sake."
 
 # game/day32.rpy:148
-translate french day32_6b0ec435_1:
+translate french day32_6b0ec435:
 
     # r "One of my best friends, for God's sake."
-    r "Un de mes meilleurs amis, pour l'amour de Dieu."
+    r "One of my best friends, for God's sake."
 
 # game/day32.rpy:149
-translate french day32_17d6e458_1:
+translate french day32_17d6e458:
 
     # p "I know and I feel like a total scumbag."
-    p "Je sais et je me sens comme une ordure."
+    p "I know and I feel like a total scumbag."
 
 # game/day32.rpy:150
-translate french day32_d8082042_1:
+translate french day32_d8082042:
 
     # p "Every explanation I'll give you will sound like a very weak excuse, but I'm going to try anyway."
-    p "Chaque explication que je vais vous donner aura l'air d'une excuse très faible, mais je vais quand même essayer."
+    p "Every explanation I'll give you will sound like a very weak excuse, but I'm going to try anyway."
 
 # game/day32.rpy:151
-translate french day32_fac45e6a_1:
+translate french day32_fac45e6a:
 
     # p "I loved you from the moment I saw you."
-    p "Je t'ai aimé dès que je t'ai vu."
+    p "I loved you from the moment I saw you."
 
 # game/day32.rpy:152
-translate french day32_df040e59_1:
+translate french day32_df040e59:
 
     # p "And our love grew into something more."
-    p "Et notre amour s'est transformé en quelque chose de plus."
+    p "And our love grew into something more."
 
 # game/day32.rpy:153
-translate french day32_159011ce_1:
+translate french day32_159011ce:
 
     # p "Every time I look at you, I feel that spark..."
-    p "Chaque fois que je te regarde, je sens cette étincelle..."
+    p "Every time I look at you, I feel that spark..."
 
 # game/day32.rpy:155
-translate french day32_3cf84267_1:
+translate french day32_3cf84267:
 
     # r "Nice words, doesn't mean anything anymore."
-    r "De belles paroles, ça ne veut plus rien dire."
+    r "Nice words, doesn't mean anything anymore."
 
 # game/day32.rpy:156
-translate french day32_20d68e47_1:
+translate french day32_20d68e47:
 
     # p "At the same time, [b_name] and I developed feelings for each other."
-    p "En même temps, [b_name] et moi avons développé des sentiments l'un pour l'autre."
+    p "At the same time, [b_name] and I developed feelings for each other."
 
 # game/day32.rpy:158
-translate french day32_2276dc2b_1:
+translate french day32_2276dc2b:
 
     # p "{i}(Well not exactly, but there are certainly feelings between [b_name] and me.)"
-    p "{i}Pas exactement, mais il y a certainement des sentiments entre [b_name] et moi."
+    p "{i}(Well not exactly, but there are certainly feelings between [b_name] and me.)"
 
 # game/day32.rpy:159
-translate french day32_48e48324_1:
+translate french day32_48e48324:
 
     # p "{i}(Don't think [r_name] is ready to hear about the exact nature of our relationship.)"
-    p "{i}(Ne pensez pas que [r_name] est prête à entendre parler de la nature exacte de notre relation.)"
+    p "{i}(Don't think [r_name] is ready to hear about the exact nature of our relationship.)"
 
 # game/day32.rpy:160
-translate french day32_55811cde_1:
+translate french day32_55811cde:
 
     # r "And you acted on them, despite being with me."
-    r "Et tu as agi en conséquence, même si tu étais avec moi."
+    r "And you acted on them, despite being with me."
 
 # game/day32.rpy:161
-translate french day32_85c7fdf8_1:
+translate french day32_85c7fdf8:
 
     # p "You're both amazing women."
-    p "Vous êtes toutes les deux des femmes incroyables."
+    p "You're both amazing women."
 
 # game/day32.rpy:163
-translate french day32_f4812227_1:
+translate french day32_f4812227:
 
     # p "I mean, of course you are, you're sisters."
-    p "Je veux dire, bien sûr que vous l'êtes, vous êtes soeurs."
+    p "I mean, of course you are, you're sisters."
 
 # game/day32.rpy:164
-translate french day32_6509d662_1:
+translate french day32_6509d662:
 
     # p "And I thought I could love you both and reconcile those feelings."
-    p "Et j'ai pensé que je pourrais vous aimer tous les deux et réconcilier ces sentiments."
+    p "And I thought I could love you both and reconcile those feelings."
 
 # game/day32.rpy:165
-translate french day32_2b0849bd_1:
+translate french day32_2b0849bd:
 
     # r "You would have told me eventually?"
-    r "Tu me l'aurais dit un jour ou l'autre ?"
+    r "You would have told me eventually?"
 
 # game/day32.rpy:166
-translate french day32_3b88c420_2:
+translate french day32_3b88c420:
 
     # p "Yes."
-    p "Oui."
+    p "Yes."
 
 # game/day32.rpy:168
-translate french day32_8c2817b6_1:
+translate french day32_8c2817b6:
 
     # r "Yeah, right."
-    r "Ouais, c'est vrai."
+    r "Yeah, right."
 
 # game/day32.rpy:169
-translate french day32_7deab164_1:
+translate french day32_7deab164:
 
     # p "No, really."
-    p "Non, vraiment, vraiment."
+    p "No, really."
 
 # game/day32.rpy:170
-translate french day32_febaa3f8_1:
+translate french day32_febaa3f8:
 
     # p "It's how I understand love, so of course I would have told you."
-    p "C'est comme ça que je comprends l'amour, alors bien sûr que je te l'aurais dit."
+    p "It's how I understand love, so of course I would have told you."
 
 # game/day32.rpy:171
-translate french day32_f48cdfb5_1:
+translate french day32_f48cdfb5:
 
     # p "But it's a difficult topic, so I hesitated, creating the mess we're in now."
-    p "Mais c'est un sujet difficile, alors j'ai hésité, créant le désordre dans lequel nous sommes maintenant."
+    p "But it's a difficult topic, so I hesitated, creating the mess we're in now."
 
 # game/day32.rpy:172
-translate french day32_42bb0a5b_1:
+translate french day32_42bb0a5b:
 
     # r "It's how you understand love?"
-    r "C'est comme ça que tu comprends l'amour ?"
+    r "It's how you understand love?"
 
 # game/day32.rpy:174
-translate french day32_daeabb5f_1:
+translate french day32_daeabb5f:
 
     # p "Ever since my first relationship I've loved different women simultaneously, it's one of the principles Sasha taught me."
-    p "Depuis ma première relation, j'ai aimé différentes femmes simultanément, c'est un des principes que Sasha m'a appris."
+    p "Ever since my first relationship I've loved different women simultaneously, it's one of the principles Sasha taught me."
 
 # game/day32.rpy:175
-translate french day32_4df17867_1:
+translate french day32_4df17867:
 
     # p "When I was with Miley, there was Sasha and later others."
-    p "Quand j'étais avec Miley, il y avait Sasha et d'autres plus tard."
+    p "When I was with Miley, there was Sasha and later others."
 
 # game/day32.rpy:177
-translate french day32_73b48a78_1:
+translate french day32_73b48a78:
 
     # p "Ever since my first relationship I've loved different women simultaneously."
-    p "Depuis ma première relation, j'ai aimé différentes femmes en même temps."
+    p "Ever since my first relationship I've loved different women simultaneously."
 
 # game/day32.rpy:178
-translate french day32_874e16b7_1:
+translate french day32_874e16b7:
 
     # r "It's just an excuse."
-    r "C'est juste une excuse."
+    r "It's just an excuse."
 
 # game/day32.rpy:179
-translate french day32_4509861e_1:
+translate french day32_4509861e:
 
     # r "You're a player."
-    r "Vous êtes un joueur."
+    r "You're a player."
 
 # game/day32.rpy:180
-translate french day32_b33dd2eb_1:
+translate french day32_b33dd2eb:
 
     # r "A heartless player."
-    r "Un joueur sans cœur."
+    r "A heartless player."
 
 # game/day32.rpy:181
-translate french day32_6737c776_1:
+translate french day32_6737c776:
 
     # p "When we were together, did you ever feel like I wasn't there for you, that I loved you less?"
-    p "Quand on était ensemble, tu n'as jamais eu l'impression que je n'étais pas là pour toi, que je t'aimais moins ?"
+    p "When we were together, did you ever feel like I wasn't there for you, that I loved you less?"
 
 # game/day32.rpy:183
-translate french day32_bec3b4af_1:
+translate french day32_bec3b4af:
 
     # r "Yes."
-    r "Oui."
+    r "Yes."
 
 # game/day32.rpy:184
-translate french day32_29d55aa4_1:
+translate french day32_29d55aa4:
 
     # r "We even talked about that."
-    r "On en a même parlé."
+    r "We even talked about that."
 
 # game/day32.rpy:185
-translate french day32_70a00110_1:
+translate french day32_70a00110:
 
     # p "{i}(Shit, she's right...)"
-    p "{i}(Merde, elle a raison...)"
+    p "{i}(Shit, she's right...)"
 
 # game/day32.rpy:187
-translate french day32_b9b755e5_7:
+translate french day32_b9b755e5:
 
     # r "..."
     r "..."
 
 # game/day32.rpy:188
-translate french day32_73ae705d_1:
+translate french day32_73ae705d:
 
     # r "No."
-    r "Non."
+    r "No."
 
 # game/day32.rpy:189
-translate french day32_5c951b11_1:
+translate french day32_5c951b11:
 
     # p "I'm fully committed to you, [r_name]."
-    p "Je suis entièrement dévoué à toi, [r_name]."
+    p "I'm fully committed to you, [r_name]."
 
 # game/day32.rpy:190
-translate french day32_40b89e88_1:
+translate french day32_40b89e88:
 
     # p "You're my princess."
-    p "Tu es ma princesse."
+    p "You're my princess."
 
 # game/day32.rpy:191
-translate french day32_b25d7f63_1:
+translate french day32_b25d7f63:
 
     # p "My relationship with [b_name] doesn't diminish that."
-    p "Ma relation avec [b_name] ne diminue pas ça."
+    p "My relationship with [b_name] doesn't diminish that."
 
 # game/day32.rpy:193
-translate french day32_80066568_1:
+translate french day32_80066568:
 
     # r "But you lied to me!"
-    r "Mais tu m'as menti !"
+    r "But you lied to me!"
 
 # game/day32.rpy:194
-translate french day32_6343d636_1:
+translate french day32_6343d636:
 
     # p "I kept things from you and I shouldn't have."
-    p "Je t'ai caché des choses et je n'aurais pas dû."
+    p "I kept things from you and I shouldn't have."
 
 # game/day32.rpy:195
-translate french day32_b3382edb_1:
+translate french day32_b3382edb:
 
     # p "For that I'm really sorry."
-    p "Pour ça, je suis vraiment désolé."
+    p "For that I'm really sorry."
 
 # game/day32.rpy:196
-translate french day32_5a674bb8_1:
+translate french day32_5a674bb8:
 
     # p "{i}(I'm not sure she's convinced...)"
-    p "{i}(Je ne suis pas sûr qu'elle soit convaincue...)"
+    p "{i}(I'm not sure she's convinced...)"
 
 # game/day32.rpy:197
-translate french day32_3df93d7c_1:
+translate french day32_3df93d7c:
 
     # p "{i}(Am I convinced?)"
-    p "{i}(Suis-je convaincu ?)"
+    p "{i}(Am I convinced?)"
 
 # game/day32.rpy:202
-translate french day32_bb9d01a7_1:
+translate french day32_bb9d01a7:
 
     # p "There's a way this could work out."
-    p "Il y a un moyen pour que ça marche."
+    p "There's a way this could work out."
 
 # game/day32.rpy:204
-translate french day32_a52ecbd4_1:
+translate french day32_a52ecbd4:
 
     # r "Is there?"
-    r "Il y en a un ?"
+    r "Is there?"
 
 # game/day32.rpy:205
-translate french day32_6e311994_1:
+translate french day32_6e311994:
 
     # p "Yes, if we're open to each other."
-    p "Oui, si nous sommes ouverts l'un à l'autre."
+    p "Yes, if we're open to each other."
 
 # game/day32.rpy:206
-translate french day32_dafbdb95_1:
+translate french day32_dafbdb95:
 
     # r "What do you mean?"
-    r "Qu'est-ce que tu veux dire ?"
+    r "What do you mean?"
 
 # game/day32.rpy:207
-translate french day32_60566c6b_1:
+translate french day32_60566c6b:
 
     # p "Do you love [b_name]?"
-    p "Tu aimes [b_name] ?"
+    p "Do you love [b_name]?"
 
 # game/day32.rpy:208
-translate french day32_c424e602_1:
+translate french day32_c424e602:
 
     # r "Yes, of course."
-    r "Oui, bien sûr, bien sûr."
+    r "Yes, of course."
 
 # game/day32.rpy:210
-translate french day32_90105ddf_1:
+translate french day32_90105ddf:
 
     # r "As a sister."
-    r "En tant que sœur."
+    r "As a sister."
 
 # game/day32.rpy:212
-translate french day32_bab3cbab_1:
+translate french day32_bab3cbab:
 
     # r "As a friend."
-    r "En tant qu'ami."
+    r "As a friend."
 
 # game/day32.rpy:213
-translate french day32_0b6225ee_1:
+translate french day32_0b6225ee:
 
     # p "Couldn't it be something more?"
-    p "Ça ne pourrait pas être autre chose ?"
+    p "Couldn't it be something more?"
 
 # game/day32.rpy:214
-translate french day32_19fcb7b1_3:
+translate french day32_19fcb7b1_1:
 
     # r "What?"
-    r "Quoi ? Quoi ?"
+    r "What?"
 
 # game/day32.rpy:215
-translate french day32_ed912e80_1:
+translate french day32_ed912e80:
 
     # r "No..."
-    r "Non..."
+    r "No..."
 
 # game/day32.rpy:216
-translate french day32_b9b755e5_8:
+translate french day32_b9b755e5_1:
 
     # r "..."
     r "..."
 
 # game/day32.rpy:217
-translate french day32_b3ae6db6_1:
+translate french day32_b3ae6db6:
 
     # r "I don't know, I've never thought about it."
-    r "Je ne sais pas, je n'y ai jamais pensé."
+    r "I don't know, I've never thought about it."
 
 # game/day32.rpy:219
-translate french day32_ff70edaf_1:
+translate french day32_ff70edaf:
 
     # p "You like girls too, right?"
-    p "Tu aimes les filles aussi, non ?"
+    p "You like girls too, right?"
 
 # game/day32.rpy:220
-translate french day32_44b72828_1:
+translate french day32_44b72828:
 
     # r "Huh?"
-    r "Hein ?"
+    r "Huh?"
 
 # game/day32.rpy:221
-translate french day32_3255b4fc_1:
+translate french day32_3255b4fc:
 
     # p "Well, you and Nia..."
-    p "Eh bien, toi et Nia...."
+    p "Well, you and Nia..."
 
 # game/day32.rpy:223
-translate french day32_7f5febbb_1:
+translate french day32_7f5febbb:
 
     # r "Don't bring that up!"
-    r "Ne parle pas de ça !"
+    r "Don't bring that up!"
 
 # game/day32.rpy:224
-translate french day32_96d12794_1:
+translate french day32_96d12794:
 
     # r "I was really drunk at the time."
-    r "J'étais vraiment ivre à l'époque."
+    r "I was really drunk at the time."
 
 # game/day32.rpy:225
-translate french day32_e88a0767_1:
+translate french day32_e88a0767:
 
     # p "Sorry."
-    p "Désolée."
+    p "Sorry."
 
 # game/day32.rpy:226
-translate french day32_b6dc9e8c_1:
+translate french day32_b6dc9e8c:
 
     # p "But what if I talked to [b_name], told her everything."
-    p "Mais si je parlais à [b_name], que je lui racontais tout."
+    p "But what if I talked to [b_name], told her everything."
 
 # game/day32.rpy:227
-translate french day32_3eae596f_1:
+translate french day32_3eae596f:
 
     # p "We could make this work."
-    p "On pourrait faire en sorte que ça marche."
+    p "We could make this work."
 
 # game/day32.rpy:229
-translate french day32_4ff376de_1:
+translate french day32_4ff376de:
 
     # r "But I want you for myself."
-    r "Mais je te veux pour moi."
+    r "But I want you for myself."
 
 # game/day32.rpy:230
-translate french day32_f7e9bb18_1:
+translate french day32_f7e9bb18:
 
     # p "There'll be plenty of opportunities for that."
-    p "Il y aura plein d'opportunités pour ça."
+    p "There'll be plenty of opportunities for that."
 
 # game/day32.rpy:231
-translate french day32_e01f5c90_1:
+translate french day32_e01f5c90:
 
     # p "All we're aiming for now, is honesty."
-    p "Tout ce que nous visons maintenant, c'est l'honnêteté."
+    p "All we're aiming for now, is honesty."
 
 # game/day32.rpy:232
-translate french day32_7cf42c90_1:
+translate french day32_7cf42c90:
 
     # p "No more half-truths."
-    p "Plus de demi-vérités."
+    p "No more half-truths."
 
 # game/day32.rpy:233
-translate french day32_4b92fd25_1:
+translate french day32_4b92fd25:
 
     # p "This could be the start of something beautiful, I'm sure of it."
-    p "C'est peut-être le début de quelque chose de beau, j'en suis sûr."
+    p "This could be the start of something beautiful, I'm sure of it."
 
 # game/day32.rpy:234
-translate french day32_72d3dff3_1:
+translate french day32_72d3dff3:
 
     # r "But you'll continue your... thing with [b_name]?"
-    r "Mais tu vas continuer ton... truc avec [b_name] ?"
+    r "But you'll continue your... thing with [b_name]?"
 
 # game/day32.rpy:235
-translate french day32_8e8c7f34_1:
+translate french day32_8e8c7f34:
 
     # p "Yes, but no more secrets."
-    p "Oui, mais plus de secrets."
+    p "Yes, but no more secrets."
 
 # game/day32.rpy:236
-translate french day32_a9bb8a24_1:
+translate french day32_a9bb8a24:
 
     # p "This could really work out."
-    p "Ça pourrait vraiment marcher."
+    p "This could really work out."
 
 # game/day32.rpy:237
-translate french day32_fb7f1266_1:
+translate french day32_fb7f1266:
 
     # r "I don't know."
-    r "Je ne sais pas, je ne sais pas."
+    r "I don't know."
 
 # game/day32.rpy:238
-translate french day32_748a6955_1:
+translate french day32_748a6955:
 
     # p "Are you willing to try?"
-    p "Êtes-vous prêt à essayer ?"
+    p "Are you willing to try?"
 
 # game/day32.rpy:240
-translate french day32_b9b755e5_9:
+translate french day32_b9b755e5_2:
 
     # r "..."
     r "..."
 
 # game/day32.rpy:241
-translate french day32_b569e522_1:
+translate french day32_b569e522:
 
     # r "Shit [p_name]..."
-    r "Merde [p_name]...."
+    r "Shit [p_name]..."
 
 # game/day32.rpy:242
-translate french day32_0cc4366b_1:
+translate french day32_0cc4366b:
 
     # r "I don't want to cry, I've done that enough."
-    r "Je ne veux pas pleurer, j'en ai assez fait."
+    r "I don't want to cry, I've done that enough."
 
 # game/day32.rpy:243
-translate french day32_d91004f2_1:
+translate french day32_d91004f2:
 
     # r "I'm not sure if I like what you're proposing."
-    r "Je ne suis pas sûr d'aimer ce que vous proposez."
+    r "I'm not sure if I like what you're proposing."
 
 # game/day32.rpy:244
-translate french day32_b2341203_1:
+translate french day32_b2341203:
 
     # r "And I'm still really hurt by what you did."
-    r "Et je suis toujours vraiment blessé par ce que tu as fait."
+    r "And I'm still really hurt by what you did."
 
 # game/day32.rpy:245
-translate french day32_6e6bbc96_1:
+translate french day32_6e6bbc96:
 
     # r "But I'm willing to give you the benefit of the doubt."
-    r "Mais je suis prêt à vous donner le bénéfice du doute."
+    r "But I'm willing to give you the benefit of the doubt."
 
 # game/day32.rpy:246
-translate french day32_e4c20008_1:
+translate french day32_e4c20008:
 
     # p "May I hug you?"
-    p "Je peux te serrer dans mes bras ?"
+    p "May I hug you?"
 
 # game/day32.rpy:247
-translate french day32_b9b755e5_10:
+translate french day32_b9b755e5_3:
 
     # r "..."
     r "..."
 
 # game/day32.rpy:249
-translate french day32_fb27fbed_1:
+translate french day32_fb27fbed:
 
     # r "Yes, I think you may."
-    r "Oui, je pense que vous pouvez."
+    r "Yes, I think you may."
 
 # game/day32.rpy:251
-translate french day32_9cc09ae9_1:
+translate french day32_9cc09ae9:
 
     # p "I'm sorry, [r_name]."
-    p "Je suis désolée, [r_name]."
+    p "I'm sorry, [r_name]."
 
 # game/day32.rpy:254
-translate french day32_b762ff48_1:
+translate french day32_b762ff48:
 
     # p "You know what?"
-    p "Vous savez quoi ?"
+    p "You know what?"
 
 # game/day32.rpy:255
-translate french day32_964566ed_1:
+translate french day32_964566ed:
 
     # p "This isn't worth it."
-    p "Ça n'en vaut pas la peine."
+    p "This isn't worth it."
 
 # game/day32.rpy:256
-translate french day32_8f0b5e8f_1:
+translate french day32_8f0b5e8f:
 
     # p "I'll break up with [b_name]."
-    p "Je vais rompre avec [b_name]."
+    p "I'll break up with [b_name]."
 
 # game/day32.rpy:257
-translate french day32_43074f89_3:
+translate french day32_43074f89:
 
     # r "What?!"
-    r "Quoi ?!"
+    r "What?!"
 
 # game/day32.rpy:259
-translate french day32_9fadb578_1:
+translate french day32_9fadb578:
 
     # p "You're the one I really love."
-    p "C'est toi que j'aime vraiment."
+    p "You're the one I really love."
 
 # game/day32.rpy:260
-translate french day32_05e16b81_1:
+translate french day32_05e16b81:
 
     # p "And I've hurt you."
-    p "Et je t'ai blessé."
+    p "And I've hurt you."
 
 # game/day32.rpy:261
-translate french day32_4d5e7fbd_1:
+translate french day32_4d5e7fbd:
 
     # p "Treated you unfairly."
-    p "Il t'a traité injustement."
+    p "Treated you unfairly."
 
 # game/day32.rpy:262
-translate french day32_efffddff_1:
+translate french day32_efffddff:
 
     # p "You never deserved all those secrets and half-truths."
-    p "Tu n'as jamais mérité tous ces secrets et demi-vérités."
+    p "You never deserved all those secrets and half-truths."
 
 # game/day32.rpy:263
-translate french day32_4de11442_1:
+translate french day32_4de11442:
 
     # p "So I'm ending things with [b_name] and I'm going to work on making it up to you."
-    p "Alors, je mets fin à mes relations avec [b_name] et je vais m'efforcer de me racheter auprès de toi."
+    p "So I'm ending things with [b_name] and I'm going to work on making it up to you."
 
 # game/day32.rpy:264
-translate french day32_1605697c_1:
+translate french day32_1605697c:
 
     # r "What if I don't want you to?"
-    r "Et si je ne le veux pas ?"
+    r "What if I don't want you to?"
 
 # game/day32.rpy:265
-translate french day32_078c5a26_1:
+translate french day32_078c5a26:
 
     # p "Oh..."
-    p "Oh...."
+    p "Oh..."
 
 # game/day32.rpy:266
-translate french day32_31bf279a_1:
+translate french day32_31bf279a:
 
     # p "You don't?"
-    p "Vous n'en avez pas ?"
+    p "You don't?"
 
 # game/day32.rpy:267
-translate french day32_b9b755e5_11:
+translate french day32_b9b755e5_4:
 
     # r "..."
     r "..."
 
 # game/day32.rpy:269
-translate french day32_6b1b6cb1_1:
+translate french day32_6b1b6cb1:
 
     # r "Yes, of course I want you to."
-    r "Oui, bien sûr que je le veux."
+    r "Yes, of course I want you to."
 
 # game/day32.rpy:271
-translate french day32_6e38bd96_1:
+translate french day32_6e38bd96:
 
     # r "Though I'm not sure what to think of you hurting my sister's feelings."
-    r "Bien que je ne sois pas sûr de ce que je peux penser de vous en train de blesser ma soeur."
+    r "Though I'm not sure what to think of you hurting my sister's feelings."
 
 # game/day32.rpy:273
-translate french day32_42bac4fc_1:
+translate french day32_42bac4fc:
 
     # r "Though I'm not sure what to think of you hurting [b_name]'s feelings."
-    r "Mais je ne sais pas trop quoi penser de votre façon de blesser [b_name]."
+    r "Though I'm not sure what to think of you hurting [b_name]'s feelings."
 
 # game/day32.rpy:274
-translate french day32_637c5ac9_1:
+translate french day32_637c5ac9:
 
     # p "I can't continue like this."
-    p "Je ne peux pas continuer comme ça."
+    p "I can't continue like this."
 
 # game/day32.rpy:275
-translate french day32_8d81f40c_1:
+translate french day32_8d81f40c:
 
     # p "Seeing you hurt like that, it breaks my heart."
-    p "Te voir souffrir comme ça, ça me brise le cœur."
+    p "Seeing you hurt like that, it breaks my heart."
 
 # game/day32.rpy:276
-translate french day32_887a3e20_1:
+translate french day32_887a3e20:
 
     # r "Good, you heartless poophead!"
-    r "Bien, espèce d'abruti sans cœur !"
+    r "Good, you heartless poophead!"
 
 # game/day32.rpy:277
-translate french day32_70d14d32_1:
+translate french day32_70d14d32:
 
     # p "Poophead?"
-    p "Poophead ?"
+    p "Poophead?"
 
 # game/day32.rpy:278
-translate french day32_b90b6a2e_1:
+translate french day32_b90b6a2e:
 
     # r "That's the first thing that came to my mind."
-    r "C'est la première chose qui m'est venue à l'esprit."
+    r "That's the first thing that came to my mind."
 
 # game/day32.rpy:279
-translate french day32_03af3c91_1:
+translate french day32_03af3c91:
 
     # r "Could we just hug instead?"
-    r "Est-ce qu'on pourrait juste s'embrasser à la place ?"
+    r "Could we just hug instead?"
 
 # game/day32.rpy:281
-translate french day32_faf0fec5_1:
+translate french day32_faf0fec5:
 
     # p "From this day, it'll be just you."
-    p "A partir d'aujourd'hui, il n'y aura plus que toi."
+    p "From this day, it'll be just you."
 
 # game/day32.rpy:283
-translate french day32_a0a03d6d_2:
+translate french day32_a0a03d6d:
 
     # p "{i}(And I'm lying to her again.)"
-    p "{i}Et je lui mens encore."
+    p "{i}(And I'm lying to her again.)"
 
 # game/day32.rpy:284
-translate french day32_3092c952_1:
+translate french day32_3092c952:
 
     # p "{i}(But how to tell her I'm involved with [m_name] and [l_name] too?)"
-    p "{i}(Mais comment lui dire que je suis impliqué avec [m_name] et [l_name] aussi ?)"
+    p "{i}(But how to tell her I'm involved with [m_name] and [l_name] too?)"
 
 # game/day32.rpy:285
-translate french day32_988f077e_1:
+translate french day32_988f077e:
 
     # p "{i}(She can't handle that.)"
-    p "{i}Elle ne peut pas gérer ça."
+    p "{i}(She can't handle that.)"
 
 # game/day32.rpy:286
-translate french day32_6745c3b2_2:
+translate french day32_6745c3b2:
 
     # p "{i}(I could break up with them quietly, spare her the details and the grief.)"
-    p "{i}(Je pourrais rompre tranquillement avec eux, lui épargner les détails et le chagrin.)"
+    p "{i}(I could break up with them quietly, spare her the details and the grief.)"
 
 # game/day32.rpy:287
-translate french day32_65f47afb_4:
+translate french day32_65f47afb:
 
     # p "{i}(Or hope for the best...)"
-    p "{i}(Ou espérer pour le mieux...)"
+    p "{i}(Or hope for the best...)"
 
 # game/day32.rpy:288
-translate french day32_2a2fdc6d_4:
+translate french day32_2a2fdc6d:
 
     # p "{i}(Fuck...)"
-    p "{i}(Putain...)"
+    p "{i}(Fuck...)"
 
 # game/day32.rpy:290
-translate french day32_a0a03d6d_3:
+translate french day32_a0a03d6d_1:
 
     # p "{i}(And I'm lying to her again.)"
-    p "{i}Et je lui mens encore."
+    p "{i}(And I'm lying to her again.)"
 
 # game/day32.rpy:291
-translate french day32_1acea4d7_2:
+translate french day32_1acea4d7:
 
     # p "{i}(I'm not sure if she's ready to hear about my other amorous ventures...)"
-    p "{i}(Je ne suis pas sûr qu'elle soit prête à entendre parler de mes autres aventures amoureuses...)"
+    p "{i}(I'm not sure if she's ready to hear about my other amorous ventures...)"
 
 # game/day32.rpy:292
-translate french day32_eb0f6afd_2:
+translate french day32_eb0f6afd:
 
     # p "{i}(I could break up quietly, spare her the details and the grief.)"
-    p "{i}(Je pourrais rompre tranquillement, lui épargner les détails et le chagrin.)"
+    p "{i}(I could break up quietly, spare her the details and the grief.)"
 
 # game/day32.rpy:293
-translate french day32_65f47afb_5:
+translate french day32_65f47afb_1:
 
     # p "{i}(Or hope for the best...)"
-    p "{i}(Ou espérer pour le mieux...)"
+    p "{i}(Or hope for the best...)"
 
 # game/day32.rpy:294
-translate french day32_2a2fdc6d_5:
+translate french day32_2a2fdc6d_1:
 
     # p "{i}(Fuck...)"
-    p "{i}(Putain...)"
+    p "{i}(Fuck...)"
 
 # game/day32.rpy:296
-translate french day32_6282ccb2_1:
+translate french day32_6282ccb2:
 
     # p "My darling [r_name]."
-    p "Ma [r_name] chérie."
+    p "My darling [r_name]."
 
 # game/day32.rpy:300
-translate french day32_0e380131_2:
+translate french day32_0e380131:
 
     # p "But maybe this isn't working out between us."
-    p "Mais peut-être que ça ne marche pas entre nous."
+    p "But maybe this isn't working out between us."
 
 # game/day32.rpy:302
-translate french day32_43074f89_4:
+translate french day32_43074f89_1:
 
     # r "What?!"
-    r "Quoi ?!"
+    r "What?!"
 
 # game/day32.rpy:303
-translate french day32_d239de97_1:
+translate french day32_d239de97:
 
     # p "The thing is, I can't change who I am."
-    p "Le truc, c'est que je ne peux pas changer qui je suis."
+    p "The thing is, I can't change who I am."
 
 # game/day32.rpy:304
-translate french day32_4247b29d_1:
+translate french day32_4247b29d:
 
     # p "So if you can't stand the idea of me being with [b_name], I guess things end here."
-    p "Donc si tu ne supportes pas l'idée que je sois avec [b_name], je suppose que les choses s'arrêtent là."
+    p "So if you can't stand the idea of me being with [b_name], I guess things end here."
 
 # game/day32.rpy:305
-translate french day32_05221c8d_2:
+translate french day32_05221c8d:
 
     # r "No!"
-    r "Non !"
+    r "No!"
 
 # game/day32.rpy:306
-translate french day32_057dc11f_1:
+translate french day32_057dc11f:
 
     # p "You don't want that?"
-    p "Tu ne veux pas ça ?"
+    p "You don't want that?"
 
 # game/day32.rpy:307
-translate french day32_b9b755e5_12:
+translate french day32_b9b755e5_5:
 
     # r "..."
     r "..."
 
 # game/day32.rpy:308
-translate french day32_055a80f1_1:
+translate french day32_055a80f1:
 
     # r "I want you! Only you!"
-    r "Je te veux toi ! Il n'y a que toi !"
+    r "I want you! Only you!"
 
 # game/day32.rpy:309
-translate french day32_b17bb653_1:
+translate french day32_b17bb653:
 
     # p "That's just..."
-    p "C'est juste que...."
+    p "That's just..."
 
 # game/day32.rpy:310
-translate french day32_dee17665_1:
+translate french day32_dee17665:
 
     # p "I can't."
-    p "Je ne peux pas. Je ne peux pas."
+    p "I can't."
 
 # game/day32.rpy:311
-translate french day32_b812745f_1:
+translate french day32_b812745f:
 
     # p "I'm so sorry, [r_name]."
-    p "Je suis désolée, [r_name]."
+    p "I'm so sorry, [r_name]."
 
 # game/day32.rpy:312
-translate french day32_5f3c809b_2:
+translate french day32_5f3c809b:
 
     # "{i}Unable to say anything else, you leave a stunned [r_name] behind as you walk out the door."
-    "{i}Incapable de dire quoi que ce soit d'autre, vous laissez une [r_name] stupéfaite derrière vous alors que vous passez la porte."
+    "{i}Unable to say anything else, you leave a stunned [r_name] behind as you walk out the door."
 
 # game/day32.rpy:315
-translate french day32_c8a6d285_1:
+translate french day32_c8a6d285:
 
     # "{i}(The hug lasts longer than you could have hoped for and after you sit across each other again, [r_name] smiles at you.)"
-    "{i}(L'accolade dure plus longtemps que vous ne l'auriez espéré et après que vous vous soyez de nouveau croisés, [r_name] vous sourit.)"
+    "{i}(The hug lasts longer than you could have hoped for and after you sit across each other again, [r_name] smiles at you.)"
 
 # game/day32.rpy:317
-translate french day32_f10a23af_1:
+translate french day32_f10a23af:
 
     # r "So what to do with those tickets..."
-    r "Alors que faire de ces billets...."
+    r "So what to do with those tickets..."
 
 # game/day32.rpy:318
-translate french day32_67565f97_1:
+translate french day32_67565f97:
 
     # r "There are so many friends who'd want to go with me..."
-    r "Il y a tellement d'amis qui voudraient venir avec moi...."
+    r "There are so many friends who'd want to go with me..."
 
 # game/day32.rpy:319
-translate french day32_f0925b76_1:
+translate french day32_f0925b76:
 
     # p "You're free to invite whomever you want."
-    p "Tu es libre d'inviter qui tu veux."
+    p "You're free to invite whomever you want."
 
 # game/day32.rpy:320
-translate french day32_ab74d093_1:
+translate french day32_ab74d093:
 
     # p "{i}(Pick me! Pick me!)"
-    p "{i}(Choisis-moi ! Choisis-moi !)"
+    p "{i}(Pick me! Pick me!)"
 
 # game/day32.rpy:321
-translate french day32_0837c79a_1:
+translate french day32_0837c79a:
 
     # r "Difficult... difficult..."
-    r "Difficile... difficile.... difficile..."
+    r "Difficult... difficult..."
 
 # game/day32.rpy:323
-translate french day32_8641f2b4_1:
+translate french day32_8641f2b4:
 
     # r "Hahaha!"
-    r "Hahahaha !"
+    r "Hahaha!"
 
 # game/day32.rpy:324
-translate french day32_b898763d_1:
+translate french day32_b34fe088:
 
     # r "You should see the look on your face, you look like a drowned puppy."
-    r "Tu devrais avoir l'air d'un chiot noyé."
+    r "You should see the look on your face, you look like a drowned puppy."
 
 # game/day32.rpy:325
-translate french day32_e5f8ddf1_1:
+translate french day32_e5f8ddf1:
 
     # p "Totally the look I was going for."
-    p "Tout à fait le look que je voulais."
+    p "Totally the look I was going for."
 
 # game/day32.rpy:326
-translate french day32_a32e6697_1:
+translate french day32_a32e6697:
 
     # r "I want to go with you, silly."
-    r "Je veux venir avec toi, idiot."
+    r "I want to go with you, silly."
 
 # game/day32.rpy:327
-translate french day32_501f386f_1:
+translate french day32_501f386f:
 
     # r "Wear that nice dress and those shoes and have a great time with you, without all that sorrow."
-    r "Portez cette belle robe et ces chaussures et passez un bon moment avec vous, sans tout ce chagrin."
+    r "Wear that nice dress and those shoes and have a great time with you, without all that sorrow."
 
 # game/day32.rpy:328
-translate french day32_a2b98fed_1:
+translate french day32_a2b98fed:
 
     # p "Sound like a great idea."
-    p "Ça a l'air d'être une bonne idée."
+    p "Sound like a great idea."
 
 # game/day32.rpy:329
-translate french day32_cae1c647_1:
+translate french day32_cae1c647:
 
     # r "Cool, now I'm going to message everyone to make them jealous about having those tickets to a sold-out concert!"
-    r "Cool, maintenant je vais envoyer un message à tout le monde pour les rendre jaloux d'avoir ces billets pour un concert à guichets fermés !"
+    r "Cool, now I'm going to message everyone to make them jealous about having those tickets to a sold-out concert!"
 
 # game/day32.rpy:330
-translate french day32_b8fb6521_1:
+translate french day32_b8fb6521:
 
     # p "Have fun!"
-    p "Amusez-vous bien !"
+    p "Have fun!"
 
 # game/day32.rpy:331
-translate french day32_e6654634_1:
+translate french day32_e6654634:
 
     # r "I will!"
-    r "Je le ferai !"
+    r "I will!"
 
 # game/day32.rpy:332
-translate french day32_2b2617a6_1:
+translate french day32_2b2617a6:
 
     # "{i}You leave a smiling [r_name] who's already tapping out messages to everyone she knows."
-    "{i}Tu laisses une [r_name] souriante qui transmet déjà des messages à tous ceux qu'elle connaît."
+    "{i}You leave a smiling [r_name] who's already tapping out messages to everyone she knows."
 
 # game/day32.rpy:334
-translate french day32_2bc742a1_1:
+translate french day32_2bc742a1:
 
     # p "{i}(I think that went quite well, considering...)"
-    p "{i}(Je pense que ça s'est plutôt bien passé, vu que...)"
+    p "{i}(I think that went quite well, considering...)"
 
 # game/day32.rpy:336
-translate french day32_5e69d6e7_1:
+translate french day32_5e69d6e7:
 
     # p "{i}(Now, I just have to get through the ugly part of breaking up with [b_name].)"
-    p "{i}Maintenant, je dois juste passer à travers la partie laide de la rupture avec [b_name]."
+    p "{i}(Now, I just have to get through the ugly part of breaking up with [b_name].)"
 
 # game/day32.rpy:337
-translate french day32_d3b7b0b5_1:
+translate french day32_d3b7b0b5:
 
     # p "{i}(What a mess.)"
-    p "{i}(Quel désordre.)"
+    p "{i}(What a mess.)"
 
 # game/day32.rpy:340
-translate french day32_06b16769_1:
+translate french day32_06b16769:
 
     # p "{i}(I just hope [b_name] takes it as well as [r_name] did.)"
-    p "{i}(J'espère juste que [b_name] le prend aussi bien que [r_name].)"
+    p "{i}(I just hope [b_name] takes it as well as [r_name] did.)"
 
 # game/day32.rpy:344
-translate french day32_a224c875_1:
+translate french day32_a224c875:
 
     # "{i}When you want to go downstairs and walk past [b_name]'s room, her door opens."
-    "{i}Quand tu veux descendre et passer devant la chambre de [b_name], sa porte s'ouvre."
+    "{i}When you want to go downstairs and walk past [b_name]'s room, her door opens."
 
 # game/day32.rpy:345
-translate french day32_169d59b4_1:
+translate french day32_169d59b4:
 
     # b "Could you come in?"
-    b "Pourriez-vous entrer ?"
+    b "Could you come in?"
 
 # game/day32.rpy:346
-translate french day32_d24c9c81_1:
+translate french day32_d24c9c81:
 
     # p "{i}(I think she was lying in wait for me?)"
-    p "{i}(Je pense qu'elle m'attendait ?)"
+    p "{i}(I think she was lying in wait for me?)"
 
 # game/day32.rpy:350
-translate french day32_beddbeba_1:
+translate french day32_beddbeba:
 
     # b "I've had time to think and cry a lot."
-    b "J'ai eu le temps de réfléchir et de pleurer beaucoup."
+    b "I've had time to think and cry a lot."
 
 # game/day32.rpy:351
-translate french day32_d2575066_1:
+translate french day32_d2575066:
 
     # b "And yes, you are a fucking scumbag."
-    b "Et oui, t'es un putain de salaud."
+    b "And yes, you are a fucking scumbag."
 
 # game/day32.rpy:353
-translate french day32_e9999824_1:
+translate french day32_e9999824:
 
     # b "One who doesn't respect my boundaries too..."
-    b "Celui qui ne respecte pas mes limites aussi...."
+    b "One who doesn't respect my boundaries too..."
 
 # game/day32.rpy:354
-translate french day32_45a0a705_1:
+translate french day32_45a0a705:
 
     # b "At the same time I've been trying to understand what made you do all this."
-    b "En même temps, j'ai essayé de comprendre ce qui t'a poussé à faire tout ça."
+    b "At the same time I've been trying to understand what made you do all this."
 
 # game/day32.rpy:355
-translate french day32_2bd7b2c1_1:
+translate french day32_2bd7b2c1:
 
     # p "{i}(She's being awfully rational about it all.)"
-    p "{i}Elle est terriblement rationnelle à propos de tout ça."
+    p "{i}(She's being awfully rational about it all.)"
 
 # game/day32.rpy:356
-translate french day32_f96c8b16_1:
+translate french day32_f96c8b16:
 
     # p "{i}(Is that a good thing?)"
-    p "{i}C'est une bonne chose ?"
+    p "{i}(Is that a good thing?)"
 
 # game/day32.rpy:358
-translate french day32_180b2ca9_1:
+translate french day32_180b2ca9:
 
     # b "But I just can't imagine why."
-    b "Mais je ne peux pas imaginer pourquoi."
+    b "But I just can't imagine why."
 
 # game/day32.rpy:359
-translate french day32_60e3257b_1:
+translate french day32_60e3257b:
 
     # p "Do you want me to explain?"
-    p "Tu veux que je t'explique ?"
+    p "Do you want me to explain?"
 
 # game/day32.rpy:360
-translate french day32_ddd8abed_1:
+translate french day32_ddd8abed:
 
     # b "Yes."
-    b "Oui."
+    b "Yes."
 
 # game/day32.rpy:361
-translate french day32_90d4f236_1:
+translate french day32_90d4f236:
 
     # p "It's a weak excuse, but [r_name] and me happened before our feelings for each other turned into something more."
-    p "C'est une faible excuse, mais [r_name] et moi, c'est arrivé avant que nos sentiments l'un pour l'autre ne se transforment en quelque chose de plus."
+    p "It's a weak excuse, but [r_name] and me happened before our feelings for each other turned into something more."
 
 # game/day32.rpy:362
-translate french day32_9cc02669_1:
+translate french day32_9cc02669:
 
     # p "Heck, I thought you fucking hated my guts."
-    p "Je croyais que tu me détestais."
+    p "Heck, I thought you fucking hated my guts."
 
 # game/day32.rpy:364
-translate french day32_59878201_1:
+translate french day32_59878201:
 
     # p "As you know, the love we have is complicated."
-    p "Comme vous le savez, l'amour que nous avons est compliqué."
+    p "As you know, the love we have is complicated."
 
 # game/day32.rpy:366
-translate french day32_8d412ee5_1:
+translate french day32_8d412ee5:
 
     # p "Being siblings and in love just creates a lot of problems."
-    p "Être frères et sœurs et amoureux crée beaucoup de problèmes."
+    p "Being siblings and in love just creates a lot of problems."
 
 # game/day32.rpy:367
-translate french day32_ca89b9d3_1:
+translate french day32_ca89b9d3:
 
     # p "With [r_name] it was no different."
-    p "Avec [r_name], ce n'était pas différent."
+    p "With [r_name] it was no different."
 
 # game/day32.rpy:369
-translate french day32_3099cca9_1:
+translate french day32_3099cca9:
 
     # p "My love for [r_name] is no different."
-    p "Mon amour pour [r_name] n'est pas différent."
+    p "My love for [r_name] is no different."
 
 # game/day32.rpy:370
-translate french day32_d85e0fa7_1:
+translate french day32_d85e0fa7:
 
     # p "I'm not going to defend my actions, because I could have told you sooner."
-    p "Je ne vais pas défendre mes actions, parce que j'aurais pu te le dire plus tôt."
+    p "I'm not going to defend my actions, because I could have told you sooner."
 
 # game/day32.rpy:371
-translate french day32_c7dc2461_1:
+translate french day32_c7dc2461:
 
     # p "I could have broken up with [r_name]."
-    p "J'aurais pu rompre avec [r_name]."
+    p "I could have broken up with [r_name]."
 
 # game/day32.rpy:372
-translate french day32_9978ecf6_1:
+translate french day32_9978ecf6:
 
     # p "Also, I could have refrained from acting on my feelings for you."
-    p "Aussi, j'aurais pu m'abstenir d'agir selon mes sentiments pour toi."
+    p "Also, I could have refrained from acting on my feelings for you."
 
 # game/day32.rpy:374
-translate french day32_94ba0558_1:
+translate french day32_94ba0558:
 
     # p "But I love you, [b_name]."
-    p "Mais je t'aime, [b_name]."
+    p "But I love you, [b_name]."
 
 # game/day32.rpy:376
-translate french day32_2c4c0501_1:
+translate french day32_2c4c0501:
 
     # b "You say that, yet you have a relationship with my youngest sister."
-    b "Tu dis ça, mais tu as une relation avec ma plus jeune sœur."
+    b "You say that, yet you have a relationship with my youngest sister."
 
 # game/day32.rpy:378
-translate french day32_3532ed72_1:
+translate french day32_3532ed72:
 
     # b "You say that, yet you have a relationship with my friend."
-    b "Vous dites ça, mais vous avez une relation avec mon ami."
+    b "You say that, yet you have a relationship with my friend."
 
 # game/day32.rpy:379
-translate french day32_75a08e6b_1:
+translate french day32_75a08e6b:
 
     # b "I still don't understand..."
-    b "Je ne comprends toujours pas...."
+    b "I still don't understand..."
 
 # game/day32.rpy:380
-translate french day32_6801fba9_1:
+translate french day32_6801fba9:
 
     # p "I love you both, plain and simple."
-    p "Je vous aime tous les deux, purement et simplement."
+    p "I love you both, plain and simple."
 
 # game/day32.rpy:385
-translate french day32_0a55c190_1:
+translate french day32_5f5542b1:
 
     # p "I don't want to choose."
-    p "Je ne veux pas choisir."
+    p "I don't want to choose."
 
 # game/day32.rpy:386
-translate french day32_772c90e9_1:
+translate french day32_772c90e9:
 
     # p "Not because I'm selfish, you have to believe me."
-    p "Pas parce que je suis égoïste, tu dois me croire."
+    p "Not because I'm selfish, you have to believe me."
 
 # game/day32.rpy:387
-translate french day32_213c92cf_1:
+translate french day32_213c92cf:
 
     # b "This all sounds pretty self-centered to me."
-    b "Tout ça me semble plutôt égoïste."
+    b "This all sounds pretty self-centered to me."
 
 # game/day32.rpy:388
-translate french day32_504cc0a1_1:
+translate french day32_504cc0a1:
 
     # p "I'm sorry for that."
-    p "Je suis désolé pour ça."
+    p "I'm sorry for that."
 
 # game/day32.rpy:389
-translate french day32_48904ea6_1:
+translate french day32_48904ea6:
 
     # p "But in my mind, it's a different view on the subject."
-    p "Mais dans mon esprit, c'est un point de vue différent sur le sujet."
+    p "But in my mind, it's a different view on the subject."
 
 # game/day32.rpy:390
-translate french day32_0d6f1e1d_1:
+translate french day32_0d6f1e1d:
 
     # p "I love you both and I want to make you both happy."
-    p "Je vous aime tous les deux et je veux vous rendre heureux."
+    p "I love you both and I want to make you both happy."
 
 # game/day32.rpy:391
-translate french day32_ae3c3e90_1:
+translate french day32_ae3c3e90:
 
     # b "You're not at the moment."
-    b "Vous ne l'êtes pas en ce moment."
+    b "You're not at the moment."
 
 # game/day32.rpy:392
-translate french day32_60e9611c_1:
+translate french day32_60e9611c:
 
     # b "Lying to someone has that effect on people."
-    b "Mentir à quelqu'un a cet effet sur les gens."
+    b "Lying to someone has that effect on people."
 
 # game/day32.rpy:393
-translate french day32_5a4448bd_1:
+translate french day32_5a4448bd:
 
     # p "But is it just the fact that I kept certain things from you that stings you?"
-    p "Mais est-ce juste le fait que je t'ai caché certaines choses qui te piquent ?"
+    p "But is it just the fact that I kept certain things from you that stings you?"
 
 # game/day32.rpy:394
-translate french day32_a8edf1b9_1:
+translate french day32_a8edf1b9:
 
     # p "Or do you feel that I've cheated on you?"
-    p "Ou as-tu l'impression que je t'ai trompé ?"
+    p "Or do you feel that I've cheated on you?"
 
 # game/day32.rpy:396
-translate french day32_36d8c73e_1:
+translate french day32_36d8c73e:
 
     # b "You have cheated on me, [p_name], simple as that."
-    b "Tu m'as trompé, [p_name], aussi simple que ça."
+    b "You have cheated on me, [p_name], simple as that."
 
 # game/day32.rpy:397
-translate french day32_4c65b164_1:
+translate french day32_4c65b164:
 
     # p "Yes, but is that what bothers you the most?"
-    p "Oui, mais est-ce ce qui vous dérange le plus ?"
+    p "Yes, but is that what bothers you the most?"
 
 # game/day32.rpy:398
-translate french day32_c644b901_1:
+translate french day32_c644b901:
 
     # b "I don't know."
-    b "Je ne sais pas, je ne sais pas."
+    b "I don't know."
 
 # game/day32.rpy:399
-translate french day32_1b086637_1:
+translate french day32_1b086637:
 
     # b "Actually, the thought of sharing you with another woman makes me sick."
-    b "En fait, l'idée de te partager avec une autre femme me rend malade."
+    b "Actually, the thought of sharing you with another woman makes me sick."
 
 # game/day32.rpy:400
-translate french day32_db1f5e1a_1:
+translate french day32_db1f5e1a:
 
     # p "Why?"
-    p "Pourquoi ?"
+    p "Why?"
 
 # game/day32.rpy:402
-translate french day32_66324063_1:
+translate french day32_66324063:
 
     # b "Why?!"
-    b "Pourquoi ?!"
+    b "Why?!"
 
 # game/day32.rpy:403
-translate french day32_9b0e61e4_1:
+translate french day32_9b0e61e4:
 
     # b "Because you're fucking mine, that's why."
-    b "Parce que tu es à moi, voilà pourquoi."
+    b "Because you're fucking mine, that's why."
 
 # game/day32.rpy:404
-translate french day32_7962cdaa_1:
+translate french day32_7962cdaa:
 
     # p "But I am, aren't I?"
-    p "Mais je le suis, n'est-ce pas ?"
+    p "But I am, aren't I?"
 
 # game/day32.rpy:405
-translate french day32_9dd414f2_1:
+translate french day32_9dd414f2:
 
     # b "Not exclusively."
-    b "Pas exclusivement."
+    b "Not exclusively."
 
 # game/day32.rpy:406
-translate french day32_7e193e66_1:
+translate french day32_7e193e66:
 
     # p "Would it be different if I was open about my relationship with [r_name]?"
-    p "Ce serait différent si j'étais ouvert sur ma relation avec [r_name] ?"
+    p "Would it be different if I was open about my relationship with [r_name]?"
 
 # game/day32.rpy:407
-translate french day32_758d78b2_1:
+translate french day32_758d78b2:
 
     # b "Hear stories about her and you?"
-    b "Tu as entendu des histoires sur elle et toi ?"
+    b "Hear stories about her and you?"
 
 # game/day32.rpy:408
-translate french day32_fd3a2786_1:
+translate french day32_fd3a2786:
 
     # b "No, that would make it worse."
-    b "Non, ça ne ferait qu'empirer les choses."
+    b "No, that would make it worse."
 
 # game/day32.rpy:409
-translate french day32_4db296c9_1:
+translate french day32_4db296c9:
 
     # p "You know I'd allow you the same freedom?"
-    p "Tu sais que je t'accorderais la même liberté ?"
+    p "You know I'd allow you the same freedom?"
 
 # game/day32.rpy:410
-translate french day32_93376918_1:
+translate french day32_93376918:
 
     # b "What, I could fuck other men or women on the side?"
-    b "Quoi, je pourrais baiser d'autres hommes ou femmes sur le côté ?"
+    b "What, I could fuck other men or women on the side?"
 
 # game/day32.rpy:411
-translate french day32_3b88c420_3:
+translate french day32_3b88c420_1:
 
     # p "Yes."
-    p "Oui."
+    p "Yes."
 
 # game/day32.rpy:412
-translate french day32_f44b780c_1:
+translate french day32_f44b780c:
 
     # p "{i}(NO! NO! NO!)"
-    p "{i}(NON ! NON ! NON ! NON !)"
+    p "{i}(NO! NO! NO!)"
 
 # game/day32.rpy:414
-translate french day32_28d805e6_1:
+translate french day32_28d805e6:
 
     # b "I don't want that, [p_name]!"
-    b "Je ne veux pas ça, [p_name] !"
+    b "I don't want that, [p_name]!"
 
 # game/day32.rpy:415
-translate french day32_371e0e34_1:
+translate french day32_371e0e34:
 
     # b "I just want you."
-    b "Je te veux juste toi."
+    b "I just want you."
 
 # game/day32.rpy:416
-translate french day32_531f58ef_1:
+translate french day32_531f58ef:
 
     # p "And you can have me."
-    p "Et tu peux m'avoir."
+    p "And you can have me."
 
 # game/day32.rpy:417
-translate french day32_a5f96224_1:
+translate french day32_a5f96224:
 
     # p "You know what my dream was for us?"
-    p "Tu sais quel était mon rêve pour nous ?"
+    p "You know what my dream was for us?"
 
 # game/day32.rpy:418
-translate french day32_fdd1ff31_1:
+translate french day32_fdd1ff31:
 
     # b "No?"
-    b "Non ?"
+    b "No?"
 
 # game/day32.rpy:419
-translate french day32_a3731d8b_1:
+translate french day32_a3731d8b:
 
     # p "That we could date, the three of us."
-    p "Qu'on pourrait sortir ensemble, tous les trois."
+    p "That we could date, the three of us."
 
 # game/day32.rpy:421
-translate french day32_aec14a90_1:
+translate french day32_aec14a90:
 
     # p "That you would come to love [r_name] as something more than a sister."
-    p "Que tu en viendrais à aimer [r_name] plus qu'une sœur."
+    p "That you would come to love [r_name] as something more than a sister."
 
 # game/day32.rpy:423
-translate french day32_36d0403b_1:
+translate french day32_36d0403b:
 
     # p "That you would come to love [r_name] as something more than a friend."
-    p "Que tu en viendrais à aimer [r_name] comme quelque chose de plus qu'un ami."
+    p "That you would come to love [r_name] as something more than a friend."
 
 # game/day32.rpy:424
-translate french day32_fe34b5e6_1:
+translate french day32_fe34b5e6:
 
     # p "That we three would become lovers."
-    p "Que nous trois devenions amants."
+    p "That we three would become lovers."
 
 # game/day32.rpy:426
-translate french day32_af17e0ca_1:
+translate french day32_af17e0ca:
 
     # b "Your very own dirty fantasy... are you joking?!"
-    b "Ton propre fantasme sale... Tu plaisantes ?!"
+    b "Your very own dirty fantasy... are you joking?!"
 
 # game/day32.rpy:427
-translate french day32_73c2b20e_1:
+translate french day32_73c2b20e:
 
     # p "No, [b_name], I'm very serious."
-    p "Non, [b_name], je suis très sérieux."
+    p "No, [b_name], I'm very serious."
 
 # game/day32.rpy:428
-translate french day32_83463e7e_1:
+translate french day32_83463e7e:
 
     # p "It could be something beautiful."
-    p "Ça pourrait être quelque chose de beau."
+    p "It could be something beautiful."
 
 # game/day32.rpy:429
-translate french day32_ab476fe6_1:
+translate french day32_ab476fe6:
 
     # b "Sure, in your dreams."
-    b "Bien sûr, dans tes rêves."
+    b "Sure, in your dreams."
 
 # game/day32.rpy:430
-translate french day32_b12f8301_1:
+translate french day32_b12f8301:
 
     # p "I've experienced it first-hand."
-    p "J'en ai fait l'expérience de première main."
+    p "I've experienced it first-hand."
 
 # game/day32.rpy:431
-translate french day32_a19bc93c_1:
+translate french day32_a19bc93c:
 
     # b "You've what?"
-    b "Vous avez quoi ?"
+    b "You've what?"
 
 # game/day32.rpy:432
-translate french day32_9cfa7ef6_1:
+translate french day32_9cfa7ef6:
 
     # b "You've pulled this stunt before?"
-    b "Vous avez déjà fait cette cascade ?"
+    b "You've pulled this stunt before?"
 
 # game/day32.rpy:433
-translate french day32_ba830241_1:
+translate french day32_ba830241:
 
     # p "It wasn't a stunt, the four of us just grew into it."
-    p "Ce n'était pas une cascade, on a grandi tous les quatre."
+    p "It wasn't a stunt, the four of us just grew into it."
 
 # game/day32.rpy:435
-translate french day32_f54ea356_1:
+translate french day32_f54ea356:
 
     # b "Four, there were four of you?"
-    b "Quatre, vous étiez quatre ?"
+    b "Four, there were four of you?"
 
 # game/day32.rpy:436
-translate french day32_dc3d6741_1:
+translate french day32_dc3d6741:
 
     # p "There was no jealousy there, just love."
-    p "Il n'y avait pas de jalousie, juste de l'amour."
+    p "There was no jealousy there, just love."
 
 # game/day32.rpy:437
-translate french day32_464e608c_1:
+translate french day32_464e608c:
 
     # b "I'm sorry, but don't believe you."
-    b "Je suis désolé, mais ne vous croyez pas."
+    b "I'm sorry, but don't believe you."
 
 # game/day32.rpy:438
-translate french day32_bb7dfb49_1:
+translate french day32_bb7dfb49:
 
     # p "I understand."
-    p "Je comprends."
+    p "I understand."
 
 # game/day32.rpy:440
-translate french day32_f78c647a_1:
+translate french day32_f78c647a:
 
     # p "I didn't think it would work out either, but it did."
-    p "Je ne pensais pas que ça marcherait non plus, mais ça a marché."
+    p "I didn't think it would work out either, but it did."
 
 # game/day32.rpy:441
-translate french day32_2de214dd_1:
+translate french day32_2de214dd:
 
     # p "All I can ask you is to think about it."
-    p "Tout ce que je peux vous demander, c'est d'y réfléchir."
+    p "All I can ask you is to think about it."
 
 # game/day32.rpy:442
-translate french day32_eb5438a5_1:
+translate french day32_eb5438a5:
 
     # p "[r_name] is willing to consider it."
-    p "[r_name] est prête à y réfléchir."
+    p "[r_name] is willing to consider it."
 
 # game/day32.rpy:443
-translate french day32_ffe00647_1:
+translate french day32_ffe00647:
 
     # b "She is?"
-    b "Elle l'est ?"
+    b "She is?"
 
 # game/day32.rpy:444
-translate french day32_a3d831f9_1:
+translate french day32_a3d831f9:
 
     # p "Yes, I already talked to her about it."
-    p "Oui, je lui en ai déjà parlé."
+    p "Yes, I already talked to her about it."
 
 # game/day32.rpy:445
-translate french day32_ab3c55c5_1:
+translate french day32_ab3c55c5:
 
     # p "I'll leave you some space now."
-    p "Je vais te laisser un peu d'espace maintenant."
+    p "I'll leave you some space now."
 
 # game/day32.rpy:446
-translate french day32_9f2ef063_1:
+translate french day32_9f2ef063:
 
     # p "Just talk to me when you've made a decision."
-    p "Parle-moi quand tu auras pris ta décision."
+    p "Just talk to me when you've made a decision."
 
 # game/day32.rpy:448
-translate french day32_ab6298ce_1:
+translate french day32_ab6298ce:
 
     # p "Just keep in mind that I'm willing to do anything for you."
-    p "Gardez à l'esprit que je suis prêt à faire n'importe quoi pour vous."
+    p "Just keep in mind that I'm willing to do anything for you."
 
 # game/day32.rpy:449
-translate french day32_255baa5d_1:
+translate french day32_255baa5d:
 
     # p "Please, don't forget that."
-    p "S'il vous plaît, n'oubliez pas ça."
+    p "Please, don't forget that."
 
 # game/day32.rpy:451
-translate french day32_295db2da_1:
+translate french day32_295db2da:
 
     # b "I won't."
-    b "Je ne le ferai pas."
+    b "I won't."
 
 # game/day32.rpy:452
-translate french day32_d66bf142_1:
+translate french day32_d66bf142:
 
     # b "I have to go to work."
-    b "Je dois aller travailler."
+    b "I have to go to work."
 
 # game/day32.rpy:453
-translate french day32_38cb3437_1:
+translate french day32_38cb3437:
 
     # b "Could we... maybe..."
-    b "Pourrions-nous.... peut-être... ?"
+    b "Could we... maybe..."
 
 # game/day32.rpy:454
-translate french day32_4cdab35d_1:
+translate french day32_4cdab35d:
 
     # b "I... I just want a hug."
-    b "I... Je veux juste un câlin."
+    b "I... I just want a hug."
 
 # game/day32.rpy:456
-translate french day32_c1f6b499_1:
+translate french day32_c1f6b499:
 
     # "{i}After sweeping up [b_name] in your arms you embrace for a very long time, both completely caught up in thought."
-    "{i}Après avoir balayé [b_name] dans vos bras, vous l'embrassez pendant très longtemps, tous deux complètement pris dans vos pensées."
+    "{i}After sweeping up [b_name] in your arms you embrace for a very long time, both completely caught up in thought."
 
 # game/day32.rpy:457
-translate french day32_f9b596c3_1:
+translate french day32_f9b596c3:
 
     # p "I really hope we can work it out."
-    p "J'espère vraiment qu'on pourra s'arranger."
+    p "I really hope we can work it out."
 
 # game/day32.rpy:458
-translate french day32_35f37a1c_1:
+translate french day32_35f37a1c:
 
     # p "I've been such an ass."
-    p "J'ai été un vrai con."
+    p "I've been such an ass."
 
 # game/day32.rpy:460
-translate french day32_fcd400eb_1:
+translate french day32_fcd400eb:
 
     # b "Yes you have."
-    b "Si, tu l'as fait."
+    b "Yes you have."
 
 # game/day32.rpy:461
-translate french day32_86d0861c_1:
+translate french day32_86d0861c:
 
     # b "We'll talk soon."
-    b "On se reparle bientôt."
+    b "We'll talk soon."
 
 # game/day32.rpy:462
-translate french day32_3356672c_1:
+translate french day32_3356672c:
 
     # p "{i}(Pfff, this could go either way...)"
-    p "{i}(Pfff, ça peut aller dans les deux sens...)"
+    p "{i}(Pfff, this could go either way...)"
 
 # game/day32.rpy:466
-translate french day32_90fbce21_1:
+translate french day32_90fbce21:
 
     # p "But if you make me choose, I'm afraid there will be no us anymore."
-    p "Mais si tu me fais choisir, j'ai peur qu'il n'y ait plus de nous."
+    p "But if you make me choose, I'm afraid there will be no us anymore."
 
 # game/day32.rpy:468
-translate french day32_35ba70ca_2:
+translate french day32_35ba70ca:
 
     # b "What?"
-    b "Quoi ? Quoi ?"
+    b "What?"
 
 # game/day32.rpy:469
-translate french day32_e9170220_1:
+translate french day32_e9170220:
 
     # b "You'll break up with me?"
-    b "Tu vas rompre avec moi ?"
+    b "You'll break up with me?"
 
 # game/day32.rpy:470
-translate french day32_d3f4c6c0_1:
+translate french day32_d3f4c6c0:
 
     # p "I don't see any other option."
-    p "Je ne vois pas d'autre option."
+    p "I don't see any other option."
 
 # game/day32.rpy:472
-translate french day32_a1e6ac84_1:
+translate french day32_a1e6ac84:
 
     # p "I really don't want to lose, [r_name]."
-    p "Je ne veux vraiment pas perdre, [r_name]."
+    p "I really don't want to lose, [r_name]."
 
 # game/day32.rpy:473
-translate french day32_3044692f_2:
+translate french day32_3044692f:
 
     # p "I'm sorry, [b_name]."
-    p "Je suis désolé, [b_name]."
+    p "I'm sorry, [b_name]."
 
 # game/day32.rpy:475
-translate french day32_80326ff2_1:
+translate french day32_80326ff2:
 
     # b "GET OUT!"
-    b "SORTIR !"
+    b "GET OUT!"
 
 # game/day32.rpy:476
-translate french day32_c36ba831_1:
+translate french day32_c36ba831:
 
     # "{i}Shocked by her sudden outburst, you escape [b_name]'s room, leaving her crying on the bed."
-    "{i}Choquée par sa soudaine explosion, tu t'échappes de la chambre de [b_name], la laissant pleurer sur le lit."
+    "{i}Shocked by her sudden outburst, you escape [b_name]'s room, leaving her crying on the bed."
 
 # game/day32.rpy:479
-translate french day32_2d0de0ce_1:
+translate french day32_2d0de0ce:
 
     # p "But if you make me choose, I'm willing to choose you."
-    p "Mais si tu me fais choisir, je suis prêt à te choisir."
+    p "But if you make me choose, I'm willing to choose you."
 
 # game/day32.rpy:480
-translate french day32_af4e62bc_1:
+translate french day32_af4e62bc:
 
     # p "I you let me."
-    p "Tu m'as laissé faire."
+    p "I you let me."
 
 # game/day32.rpy:481
-translate french day32_255e8567_1:
+translate french day32_255e8567:
 
     # b "You'll break up with [r_name]?"
-    b "Tu vas rompre avec [r_name] ?"
+    b "You'll break up with [r_name]?"
 
 # game/day32.rpy:482
-translate french day32_a13599c9_2:
+translate french day32_a13599c9:
 
     # p "I will."
-    p "Je vais le faire."
+    p "I will."
 
 # game/day32.rpy:483
-translate french day32_a5182a21_1:
+translate french day32_a5182a21:
 
     # b "I want that."
-    b "C'est ce que je veux."
+    b "I want that."
 
 # game/day32.rpy:484
-translate french day32_f8b7093a_1:
+translate french day32_f8b7093a:
 
     # b "For us."
-    b "Pour nous."
+    b "For us."
 
 # game/day32.rpy:485
-translate french day32_ab91af8c_1:
+translate french day32_ab91af8c:
 
     # b "It's the only way to repair the trust between us."
-    b "C'est le seul moyen de rétablir la confiance entre nous."
+    b "It's the only way to repair the trust between us."
 
 # game/day32.rpy:486
-translate french day32_c4585dbc_1:
+translate french day32_c4585dbc:
 
     # p "I want that."
-    p "C'est ce que je veux."
+    p "I want that."
 
 # game/day32.rpy:487
-translate french day32_50f40c98_1:
+translate french day32_50f40c98:
 
     # p "I don't want to hide things from you."
-    p "Je ne veux pas te cacher des choses."
+    p "I don't want to hide things from you."
 
 # game/day32.rpy:490
-translate french day32_446bca8b_1:
+translate french day32_446bca8b:
 
     # p "{i}(I'm not sure if she's ready to hear about my involvement with [m_name] and [l_name]...)"
-    p "{i}(Je ne sais pas si elle est prête à entendre parler de mon implication avec [m_name] et [l_name]...)"
+    p "{i}(I'm not sure if she's ready to hear about my involvement with [m_name] and [l_name]...)"
 
 # game/day32.rpy:491
-translate french day32_6745c3b2_3:
+translate french day32_6745c3b2_1:
 
     # p "{i}(I could break up with them quietly, spare her the details and the grief.)"
-    p "{i}(Je pourrais rompre tranquillement avec eux, lui épargner les détails et le chagrin.)"
+    p "{i}(I could break up with them quietly, spare her the details and the grief.)"
 
 # game/day32.rpy:492
-translate french day32_65f47afb_6:
+translate french day32_65f47afb_2:
 
     # p "{i}(Or hope for the best...)"
-    p "{i}(Ou espérer pour le mieux...)"
+    p "{i}(Or hope for the best...)"
 
 # game/day32.rpy:493
-translate french day32_2a2fdc6d_6:
+translate french day32_2a2fdc6d_2:
 
     # p "{i}(Fuck...)"
-    p "{i}(Putain...)"
+    p "{i}(Fuck...)"
 
 # game/day32.rpy:495
-translate french day32_1acea4d7_3:
+translate french day32_1acea4d7_1:
 
     # p "{i}(I'm not sure if she's ready to hear about my other amorous ventures...)"
-    p "{i}(Je ne suis pas sûr qu'elle soit prête à entendre parler de mes autres aventures amoureuses...)"
+    p "{i}(I'm not sure if she's ready to hear about my other amorous ventures...)"
 
 # game/day32.rpy:496
-translate french day32_eb0f6afd_3:
+translate french day32_eb0f6afd_1:
 
     # p "{i}(I could break up quietly, spare her the details and the grief.)"
-    p "{i}(Je pourrais rompre tranquillement, lui épargner les détails et le chagrin.)"
+    p "{i}(I could break up quietly, spare her the details and the grief.)"
 
 # game/day32.rpy:497
-translate french day32_65f47afb_7:
+translate french day32_65f47afb_3:
 
     # p "{i}(Or hope for the best...)"
-    p "{i}(Ou espérer pour le mieux...)"
+    p "{i}(Or hope for the best...)"
 
 # game/day32.rpy:498
-translate french day32_2a2fdc6d_7:
+translate french day32_2a2fdc6d_3:
 
     # p "{i}(Fuck...)"
-    p "{i}(Putain...)"
+    p "{i}(Fuck...)"
 
 # game/day32.rpy:499
-translate french day32_8a2cafbb_1:
+translate french day32_8a2cafbb:
 
     # b "It's a start."
-    b "C'est un début."
+    b "It's a start."
 
 # game/day32.rpy:500
-translate french day32_2e145eee_1:
+translate french day32_2e145eee:
 
     # p "I'll work hard, because you're worth it."
-    p "Je travaillerai dur, parce que tu en vaux la peine."
+    p "I'll work hard, because you're worth it."
 
 # game/day32.rpy:501
-translate french day32_65e175ca_1:
+translate french day32_65e175ca:
 
     # b "Damn right I am."
-    b "Bien sûr que je le suis."
+    b "Damn right I am."
 
 # game/day32.rpy:503
-translate french day32_71e1f672_1:
+translate french day32_71e1f672:
 
     # b "Have you talked to [r_name] yet?"
-    b "Tu as parlé à [r_name] ?"
+    b "Have you talked to [r_name] yet?"
 
 # game/day32.rpy:504
-translate french day32_7be2603f_1:
+translate french day32_7be2603f:
 
     # p "I did."
-    p "C'est ce que j'ai fait."
+    p "I did."
 
 # game/day32.rpy:505
-translate french day32_2d44c1f1_1:
+translate french day32_2d44c1f1:
 
     # b "And?"
-    b "Et ?"
+    b "And?"
 
 # game/day32.rpy:506
-translate french day32_6797fbfb_1:
+translate french day32_6797fbfb:
 
     # p "I think we have an understanding."
-    p "Je pense que nous avons un accord."
+    p "I think we have an understanding."
 
 # game/day32.rpy:507
-translate french day32_34369540_1:
+translate french day32_34369540:
 
     # b "Thinking is not enough, [p_name], you have to be sure."
-    b "Réfléchir ne suffit pas, [p_name], tu dois être sûr."
+    b "Thinking is not enough, [p_name], you have to be sure."
 
 # game/day32.rpy:508
-translate french day32_5e75b6b7_1:
+translate french day32_5e75b6b7:
 
     # p "We have to see how it all works out."
-    p "On doit voir comment ça se passe."
+    p "We have to see how it all works out."
 
 # game/day32.rpy:513
-translate french day32_b9fc4838_1:
+translate french day32_b9fc4838:
 
     # p "But it made me realize something."
-    p "Mais ça m'a fait réaliser quelque chose."
+    p "But it made me realize something."
 
 # game/day32.rpy:515
-translate french day32_35ba70ca_3:
+translate french day32_35ba70ca_1:
 
     # b "What?"
-    b "Quoi ? Quoi ?"
+    b "What?"
 
 # game/day32.rpy:516
-translate french day32_d8db6e7c_1:
+translate french day32_d8db6e7c:
 
     # p "That we can't continue like this."
-    p "Qu'on ne peut pas continuer comme ça."
+    p "That we can't continue like this."
 
 # game/day32.rpy:517
-translate french day32_7c11eb1e_1:
+translate french day32_7c11eb1e:
 
     # p "It's too risky, people won't understand..."
-    p "C'est trop risqué, les gens ne comprendront pas...."
+    p "It's too risky, people won't understand..."
 
 # game/day32.rpy:518
-translate french day32_87f8ab69_1:
+translate french day32_87f8ab69:
 
     # p "We'll live in constant fear of being discovered."
-    p "Nous vivrons dans la peur constante d'être découverts."
+    p "We'll live in constant fear of being discovered."
 
 # game/day32.rpy:519
-translate french day32_a7b87cd8_1:
+translate french day32_a7b87cd8:
 
     # p "What's to say [m_name] or [l_name] won't walk in next time?"
-    p "Qu'est-ce qui dit que [m_name] ou [l_name] ne viendra pas la prochaine fois ?"
+    p "What's to say [m_name] or [l_name] won't walk in next time?"
 
 # game/day32.rpy:520
-translate french day32_a0c4044c_1:
+translate french day32_a0c4044c:
 
     # b "What are you saying?"
-    b "Qu'est-ce que tu veux dire ?"
+    b "What are you saying?"
 
 # game/day32.rpy:521
-translate french day32_efaed1be_1:
+translate french day32_efaed1be:
 
     # p "{i}(Something I don't want to.)"
-    p "{i}Quelque chose que je ne veux pas."
+    p "{i}(Something I don't want to.)"
 
 # game/day32.rpy:522
-translate french day32_57022438_1:
+translate french day32_57022438:
 
     # p "I think we should end this."
-    p "Je pense qu'on devrait en finir."
+    p "I think we should end this."
 
 # game/day32.rpy:523
-translate french day32_eadf9810_1:
+translate french day32_eadf9810:
 
     # b "What?!"
-    b "Quoi ?!"
+    b "What?!"
 
 # game/day32.rpy:524
-translate french day32_df44d03d_1:
+translate french day32_df44d03d:
 
     # b "No!"
-    b "Non !"
+    b "No!"
 
 # game/day32.rpy:525
-translate french day32_3044692f_3:
+translate french day32_3044692f_1:
 
     # p "I'm sorry, [b_name]."
-    p "Je suis désolé, [b_name]."
+    p "I'm sorry, [b_name]."
 
 # game/day32.rpy:526
-translate french day32_a93aef2b_1:
+translate french day32_a93aef2b:
 
     # b "You're breaking up with me?"
-    b "Tu romps avec moi ?"
+    b "You're breaking up with me?"
 
 # game/day32.rpy:527
-translate french day32_afc4ff76_1:
+translate french day32_afc4ff76:
 
     # p "I am."
-    p "C'est ce que je fais."
+    p "I am."
 
 # game/day32.rpy:529
-translate french day32_159a2d73_1:
+translate french day32_159a2d73:
 
     # "{i}As [b_name] starts to cry, you offer your hand on her shoulder, but she brushes it away."
-    "{i}Quand [b_name] se met à pleurer, vous lui tendez la main sur l'épaule, mais elle la brosse."
+    "{i}As [b_name] starts to cry, you offer your hand on her shoulder, but she brushes it away."
 
 # game/day32.rpy:530
-translate french day32_d9ac6b34_1:
+translate french day32_d9ac6b34:
 
     # b "Just leave me alone."
-    b "Laisse-moi tranquille."
+    b "Just leave me alone."
 
 # game/day32.rpy:531
-translate french day32_c0bf7ea1_1:
+translate french day32_c0bf7ea1:
 
     # b "Go away."
-    b "Va-t'en."
+    b "Go away."
 
 # game/day32.rpy:533
-translate french day32_4a283f45_1:
+translate french day32_4a283f45:
 
     # "{i}Hesitantly you step out of her room, leaving her crying on the bed."
-    "{i}Vous sortez de sa chambre avec hésitation, la laissant pleurer sur le lit."
+    "{i}Hesitantly you step out of her room, leaving her crying on the bed."
 
 # game/day32.rpy:534
-translate french day32_77ebbd00_1:
+translate french day32_77ebbd00:
 
     # p "{i}(It's better this way.)"
-    p "{i}(C'est mieux comme ça.)"
+    p "{i}(It's better this way.)"
 
 # game/day32.rpy:535
-translate french day32_f595e217_1:
+translate french day32_f595e217:
 
     # p "{i}(In the long run...)"
-    p "{i}(A long terme....)"
+    p "{i}(In the long run...)"
 
 # game/day32.rpy:538
-translate french day32_465d2f33_1:
+translate french day32_465d2f33:
 
     # p "[b_name]..."
-    p "[b_name]...."
+    p "[b_name]..."
 
 # game/day32.rpy:539
-translate french day32_806827b4_1:
+translate french day32_806827b4:
 
     # p "There something I have to tell you."
-    p "J'ai quelque chose à te dire."
+    p "There something I have to tell you."
 
 # game/day32.rpy:540
-translate french day32_32619a79_1:
+translate french day32_32619a79:
 
     # b "You're looking even more serious, all of a sudden."
-    b "Tu as l'air encore plus sérieux, tout d'un coup."
+    b "You're looking even more serious, all of a sudden."
 
 # game/day32.rpy:541
-translate french day32_09cfb2e3_1:
+translate french day32_09cfb2e3:
 
     # p "I've been thinking long and hard on how to tell you this."
-    p "J'ai réfléchi longuement à la façon de te le dire."
+    p "I've been thinking long and hard on how to tell you this."
 
 # game/day32.rpy:543
-translate french day32_e6cf6ca8_1:
+translate french day32_e6cf6ca8:
 
     # "{i}The look of anticipation and a hint of dread in [b_name]'s eyes is nearly too much for you and you want to break your confession off, but you soldier on."
-    "{i}Le regard d'anticipation et un soupçon d'effroi dans les yeux de [b_name] est presque trop pour vous et vous voulez rompre votre confession, mais vous continuez."
+    "{i}The look of anticipation and a hint of dread in [b_name]'s eyes is nearly too much for you and you want to break your confession off, but you soldier on."
 
 # game/day32.rpy:544
-translate french day32_bddae924_1:
+translate french day32_bddae924:
 
     # p "I'm..."
-    p "Je suis...."
+    p "I'm..."
 
 # game/day32.rpy:545
-translate french day32_cc357707_1:
+translate french day32_cc357707:
 
     # p "I love [r_name]."
-    p "J'aime [r_name]."
+    p "I love [r_name]."
 
 # game/day32.rpy:547
-translate french day32_07f9c1e2_1:
+translate french day32_07f9c1e2:
 
     # p "Both as a sister and as... something more..."
-    p "En tant que sœur et en tant que... quelque chose de plus....."
+    p "Both as a sister and as... something more..."
 
 # game/day32.rpy:549
-translate french day32_b4a95fe7_1:
+translate french day32_b4a95fe7:
 
     # p "Both as a friend and as... something more..."
-    p "En tant qu'ami et en tant que... quelque chose de plus....."
+    p "Both as a friend and as... something more..."
 
 # game/day32.rpy:550
-translate french day32_ed6a5622_1:
+translate french day32_ed6a5622:
 
     # p "Like what we have..."
-    p "Comme ce que nous avons...."
+    p "Like what we have..."
 
 # game/day32.rpy:551
-translate french day32_4807b7dd_1:
+translate french day32_4807b7dd:
 
     # p "That's why [r_name] was so shocked about it all..."
-    p "C'est pourquoi [r_name] était si choquée..."
+    p "That's why [r_name] was so shocked about it all..."
 
 # game/day32.rpy:552
-translate french day32_9cdad6a8_1:
+translate french day32_9cdad6a8:
 
     # p "And I meant to tell you, but..."
-    p "Et je voulais te le dire, mais...."
+    p "And I meant to tell you, but..."
 
 # game/day32.rpy:553
-translate french day32_b0a578e7_1:
+translate french day32_b0a578e7:
 
     # p "Fuck, this all sounds so weak now."
-    p "Putain, tout ça a l'air si faible maintenant."
+    p "Fuck, this all sounds so weak now."
 
 # game/day32.rpy:555
-translate french day32_24966679_1:
+translate french day32_24966679:
 
     # p "I'm sorry, I feel like such a scumbag."
-    p "Je suis désolé, je me sens comme une ordure."
+    p "I'm sorry, I feel like such a scumbag."
 
 # game/day32.rpy:560
-translate french day32_7dc606b5_1:
+translate french day32_7dc606b5:
 
     # b "OUT!"
-    b "OUT !"
+    b "OUT!"
 
 # game/day32.rpy:561
-translate french day32_4e791880_1:
+translate french day32_4e791880:
 
     # b "A mother-fucking scumbag doesn't even begin to describe you."
-    b "Un enfoiré de fils de pute ne commence même pas à te décrire."
+    b "A mother-fucking scumbag doesn't even begin to describe you."
 
 # game/day32.rpy:562
-translate french day32_c18f3955_5:
+translate french day32_c18f3955_2:
 
     # p "But..."
-    p "Mais...."
+    p "But..."
 
 # game/day32.rpy:563
-translate french day32_0bc01d83_1:
+translate french day32_0bc01d83:
 
     # b "GET THE FUCK OUT!"
-    b "FOUTEZ LE CAMP D'ICI !"
+    b "GET THE FUCK OUT!"
 
 # game/day32.rpy:564
-translate french day32_4be3b211_1:
+translate french day32_4be3b211:
 
     # b "NOW!"
-    b "MAINTENANT !"
+    b "NOW!"
 
 # game/day32.rpy:565
-translate french day32_e8f22dc6_1:
+translate french day32_e8f22dc6:
 
     # p "{i}(I went too far...)"
-    p "{i}(Je suis allé trop loin...)"
+    p "{i}(I went too far...)"
 
 # game/day32.rpy:566
-translate french day32_5e634c43_1:
+translate french day32_5e634c43:
 
     # p "{i}(Fuck, it's really over...)"
-    p "{i}(Putain, c'est vraiment fini...)"
+    p "{i}(Fuck, it's really over...)"
 
 # game/day32.rpy:568
-translate french day32_fe965077_1:
+translate french day32_fe965077:
 
     # p "{i}(Why isn't she saying something?)"
-    p "{i}(Pourquoi elle ne dit rien ?)"
+    p "{i}(Why isn't she saying something?)"
 
 # game/day32.rpy:569
-translate french day32_a82be15b_1:
+translate french day32_a82be15b:
 
     # p "It shouldn't be like this..."
-    p "Ça ne devrait pas se passer comme ça...."
+    p "It shouldn't be like this..."
 
 # game/day32.rpy:570
-translate french day32_c0e0cebb_1:
+translate french day32_c0e0cebb:
 
     # p "{i}(Or gauging my eyes out, at the very least?)"
-    p "{i}(Ou du moins à mesurer mes yeux, au moins ?)"
+    p "{i}(Or gauging my eyes out, at the very least?)"
 
 # game/day32.rpy:571
-translate french day32_300701d2_1:
+translate french day32_300701d2:
 
     # p "I..."
     p "I..."
 
 # game/day32.rpy:572
-translate french day32_a3c6230b_1:
+translate french day32_a3c6230b:
 
     # p "[b_name]?"
-    p "[b_name] ?"
+    p "[b_name]?"
 
 # game/day32.rpy:574
-translate french day32_f10504ea_1:
+translate french day32_f10504ea:
 
     # b "Could you please leave me alone, [p_name]?"
-    b "Pouvez-vous me laisser tranquille, [p_name] ?"
+    b "Could you please leave me alone, [p_name]?"
 
 # game/day32.rpy:575
-translate french day32_deb2e26f_1:
+translate french day32_deb2e26f:
 
     # "{i}[b_name] is still sitting in the same position, too stunned to act otherwise, as you leave her room."
-    "{i}[b_name] est toujours assise dans la même position, trop stupéfaite pour agir autrement, alors que vous quittez sa chambre."
+    "{i}[b_name] is still sitting in the same position, too stunned to act otherwise, as you leave her room."
 
 # game/day32.rpy:578
-translate french day32_a0105ea4_1:
+translate french day32_a0105ea4:
 
     # b "I couldn't sleep all night."
-    b "Je n'ai pas pu dormir de la nuit."
+    b "I couldn't sleep all night."
 
 # game/day32.rpy:579
-translate french day32_a932bad3_1:
+translate french day32_a932bad3:
 
     # p "That will soon be over."
-    p "Ce sera bientôt fini."
+    p "That will soon be over."
 
 # game/day32.rpy:580
-translate french day32_d7df4fd1_1:
+translate french day32_d7df4fd1:
 
     # b "I sure hope so."
-    b "Je l'espère bien."
+    b "I sure hope so."
 
 # game/day32.rpy:582
-translate french day32_c532adef_1:
+translate french day32_c532adef:
 
     # b "I have to get to work."
-    b "Je dois aller travailler."
+    b "I have to get to work."
 
 # game/day32.rpy:583
-translate french day32_5ee13802_1:
+translate french day32_5ee13802:
 
     # b "Keep me updated if anything changes, okay?"
-    b "Tenez-moi au courant si quelque chose change, d'accord ?"
+    b "Keep me updated if anything changes, okay?"
 
 # game/day32.rpy:584
-translate french day32_a13599c9_3:
+translate french day32_a13599c9_1:
 
     # p "I will."
-    p "Je vais le faire."
+    p "I will."
 
 # game/day32.rpy:592
-translate french day32_55162953_1:
+translate french day32_55162953:
 
     # p "Sorry, it's me again."
-    p "Désolé, c'est encore moi."
+    p "Sorry, it's me again."
 
 # game/day32.rpy:594
-translate french day32_42b01cbe_1:
+translate french day32_42b01cbe:
 
     # p "Hey."
     p "Hey."
 
 # game/day32.rpy:595
-translate french day32_965a3e55_1:
+translate french day32_965a3e55:
 
     # p "I've been thinking."
-    p "J'ai bien réfléchi."
+    p "I've been thinking."
 
 # game/day32.rpy:597
-translate french day32_f9de8497_1:
+translate french day32_f9de8497:
 
     # p "But maybe this isn't such a good idea after all."
-    p "Mais ce n'est peut-être pas une si bonne idée après tout."
+    p "But maybe this isn't such a good idea after all."
 
 # game/day32.rpy:599
-translate french day32_0e380131_3:
+translate french day32_0e380131_1:
 
     # p "But maybe this isn't working out between us."
-    p "Mais peut-être que ça ne marche pas entre nous."
+    p "But maybe this isn't working out between us."
 
 # game/day32.rpy:600
-translate french day32_b8b69197_1:
+translate french day32_b8b69197:
 
     # p "This can't work out between us."
-    p "Ça ne peut pas marcher entre nous."
+    p "This can't work out between us."
 
 # game/day32.rpy:602
-translate french day32_43074f89_5:
+translate french day32_43074f89_2:
 
     # r "What?!"
-    r "Quoi ?!"
+    r "What?!"
 
 # game/day32.rpy:603
-translate french day32_f9cfa7cf_1:
+translate french day32_f9cfa7cf:
 
     # p "The thing is, I've come to realize [b_name] is the one dearest to my heart."
-    p "Le truc, c'est que j'ai réalisé que [b_name] est celle qui me tient le plus à cœur."
+    p "The thing is, I've come to realize [b_name] is the one dearest to my heart."
 
 # game/day32.rpy:604
-translate french day32_0c31cad3_1:
+translate french day32_0c31cad3:
 
     # p "So I'm breaking up with you."
-    p "Alors je romps avec toi."
+    p "So I'm breaking up with you."
 
 # game/day32.rpy:605
-translate french day32_05221c8d_3:
+translate french day32_05221c8d_1:
 
     # r "No!"
-    r "Non !"
+    r "No!"
 
 # game/day32.rpy:606
-translate french day32_6d278f79_1:
+translate french day32_6d278f79:
 
     # p "I see no other way."
-    p "Je ne vois pas d'autre solution."
+    p "I see no other way."
 
 # game/day32.rpy:607
-translate french day32_0e850bc3_1:
+translate french day32_0e850bc3:
 
     # p "I can't do this anymore."
-    p "Je ne peux plus faire ça."
+    p "I can't do this anymore."
 
 # game/day32.rpy:608
-translate french day32_7bb7ea87_1:
+translate french day32_7bb7ea87:
 
     # p "I'm sorry."
-    p "Je suis désolée."
+    p "I'm sorry."
 
 # game/day32.rpy:609
-translate french day32_b9b755e5_13:
+translate french day32_b9b755e5_6:
 
     # r "..."
     r "..."
 
 # game/day32.rpy:610
-translate french day32_cefa85f4_1:
+translate french day32_cefa85f4:
 
     # r "You can't do this!"
-    r "Tu ne peux pas faire ça !"
+    r "You can't do this!"
 
 # game/day32.rpy:612
-translate french day32_15ef53b7_1:
+translate french day32_fabc36c3:
 
     # r "Not after our talk this morning!"
-    r "Pas après notre discussion de ce matin !"
+    r "Not after our talk this morning!"
 
 # game/day32.rpy:613
-translate french day32_5f3c809b_3:
+translate french day32_5f3c809b_1:
 
     # "{i}Unable to say anything else, you leave a stunned [r_name] behind as you walk out the door."
-    "{i}Incapable de dire quoi que ce soit d'autre, vous laissez une [r_name] stupéfaite derrière vous alors que vous passez la porte."
+    "{i}Unable to say anything else, you leave a stunned [r_name] behind as you walk out the door."
 
 # game/day32.rpy:616
-translate french day32_36f81f63_1:
+translate french day32_36f81f63:
 
     # "{i}You spend most of the morning and afternoon reading and gaming, until evening falls."
-    "{i}Vous passez la majeure partie de la matinée et de l'après-midi à lire et à jouer, jusqu'à la tombée de la nuit."
+    "{i}You spend most of the morning and afternoon reading and gaming, until evening falls."
 
 # game/day32.rpy:625
-translate french day32_evening_choices_b132d8c6_1:
+translate french day32_evening_choices_b132d8c6:
 
     # p "I was about to ask you if you we're ready, but I already have my answer."
-    p "J'allais vous demander si vous êtes prêts, mais j'ai déjà ma réponse."
+    p "I was about to ask you if you we're ready, but I already have my answer."
 
 # game/day32.rpy:626
-translate french day32_evening_choices_a861c8de_1:
+translate french day32_evening_choices_a861c8de:
 
     # r "Do you like it?"
-    r "Ça te plaît, toi ?"
+    r "Do you like it?"
 
 # game/day32.rpy:627
-translate french day32_evening_choices_46bc0cc0_1:
+translate french day32_evening_choices_46bc0cc0:
 
     # p "I love it."
-    p "J'adore ça."
+    p "I love it."
 
 # game/day32.rpy:628
-translate french day32_evening_choices_72f917f6_1:
+translate french day32_evening_choices_72f917f6:
 
     # p "It's just the right size for you."
-    p "C'est juste la bonne taille pour vous."
+    p "It's just the right size for you."
 
 # game/day32.rpy:629
-translate french day32_evening_choices_3295d2a1_1:
+translate french day32_evening_choices_3295d2a1:
 
     # p "You're so beautiful!"
-    p "Tu es si belle !"
+    p "You're so beautiful!"
 
 # game/day32.rpy:633
-translate french day32_evening_choices_98254a06_1:
+translate french day32_evening_choices_98254a06:
 
     # r "Before we go, I have to ask, did you talk with [b_name]?"
-    r "Avant de partir, je dois vous demander si vous avez parlé à [b_name]."
+    r "Before we go, I have to ask, did you talk with [b_name]?"
 
 # game/day32.rpy:634
-translate french day32_evening_choices_7be2603f_2:
+translate french day32_evening_choices_7be2603f:
 
     # p "I did."
-    p "C'est ce que j'ai fait."
+    p "I did."
 
 # game/day32.rpy:635
-translate french day32_evening_choices_af3243c4_1:
+translate french day32_evening_choices_af3243c4:
 
     # r "And?"
-    r "Et ?"
+    r "And?"
 
 # game/day32.rpy:636
-translate french day32_evening_choices_087b12a3_1:
+translate french day32_evening_choices_087b12a3:
 
     # p "It's over."
-    p "C'est fini. C'est fini."
+    p "It's over."
 
 # game/day32.rpy:637
-translate french day32_evening_choices_c265bda4_1:
+translate french day32_evening_choices_c265bda4:
 
     # r "Thank you."
-    r "Je vous remercie."
+    r "Thank you."
 
 # game/day32.rpy:638
-translate french day32_evening_choices_3edf2185_1:
+translate french day32_evening_choices_3edf2185:
 
     # r "I know it's awful, but I feel better about it."
-    r "Je sais que c'est horrible, mais je me sens mieux."
+    r "I know it's awful, but I feel better about it."
 
 # game/day32.rpy:639
-translate french day32_evening_choices_6c6330bb_1:
+translate french day32_evening_choices_6c6330bb:
 
     # p "{i}(I don't.)"
-    p "{i}(Je ne sais pas.)"
+    p "{i}(I don't.)"
 
 # game/day32.rpy:640
-translate french day32_evening_choices_f0a44d4b_1:
+translate french day32_evening_choices_f0a44d4b:
 
     # p "Shall we just have fun?"
-    p "Si on s'amusait, c'est tout ?"
+    p "Shall we just have fun?"
 
 # game/day32.rpy:641
-translate french day32_evening_choices_3f86efb6_1:
+translate french day32_evening_choices_3f86efb6:
 
     # r "Let's!"
-    r "Allons-y !"
+    r "Let's!"
 
 # game/day32.rpy:643
-translate french day32_evening_choices_f501173b_1:
+translate french day32_evening_choices_f501173b:
 
     # p "Ready to have fun?"
-    p "Prêt à vous amuser ?"
+    p "Ready to have fun?"
 
 # game/day32.rpy:644
-translate french day32_evening_choices_29a03eb7_1:
+translate french day32_evening_choices_29a03eb7:
 
     # r "You bet!"
-    r "Bien sûr que oui !"
+    r "You bet!"
 
 # game/day32.rpy:647
-translate french day32_evening_choices_bcb0e62a_1:
+translate french day32_evening_choices_bcb0e62a:
 
     # "{i}The trip to the hall where the concert is held isn't very far, you're amazed by the amount of people already waiting for the doors to open."
-    "{i}Le voyage jusqu'à la salle où se tient le concert n'est pas très loin, vous êtes étonné par le nombre de personnes qui attendent déjà que les portes s'ouvrent."
+    "{i}The trip to the hall where the concert is held isn't very far, you're amazed by the amount of people already waiting for the doors to open."
 
 # game/day32.rpy:649
-translate french day32_evening_choices_a67ad683_1:
+translate french day32_evening_choices_a67ad683:
 
     # p "Quite a crowd."
-    p "Il y a beaucoup de monde."
+    p "Quite a crowd."
 
 # game/day32.rpy:650
-translate french day32_evening_choices_98894885_1:
+translate french day32_evening_choices_98894885:
 
     # r "Yeah, I think every concert Valentina has done for the past two years has been completely sold out."
-    r "Oui, je pense que tous les concerts que Valentina a donnés ces deux dernières années ont été complets."
+    r "Yeah, I think every concert Valentina has done for the past two years has been completely sold out."
 
 # game/day32.rpy:651
-translate french day32_evening_choices_6c5290d1_1:
+translate french day32_evening_choices_6c5290d1:
 
     # p "Amazing."
-    p "Incroyable."
+    p "Amazing."
 
 # game/day32.rpy:652
-translate french day32_evening_choices_37b6ded2_1:
+translate french day32_evening_choices_37b6ded2:
 
     # r "She's amazing."
-    r "Elle est incroyable."
+    r "She's amazing."
 
 # game/day32.rpy:653
-translate french day32_evening_choices_3d3b7606_1:
+translate french day32_evening_choices_3d3b7606:
 
     # r "I do hope you'll like her music."
-    r "J'espère que vous aimerez sa musique."
+    r "I do hope you'll like her music."
 
 # game/day32.rpy:654
-translate french day32_evening_choices_2f561694_1:
+translate french day32_evening_choices_2f561694:
 
     # p "If I don't there's always this beautiful girl I can look at."
-    p "Si je ne le fais pas, il y a toujours cette belle fille que je peux regarder."
+    p "If I don't there's always this beautiful girl I can look at."
 
 # game/day32.rpy:656
-translate french day32_evening_choices_afcd9376_1:
+translate french day32_evening_choices_afcd9376:
 
     # r "I'll be too busy dancing!"
-    r "Je serai trop occupé à danser !"
+    r "I'll be too busy dancing!"
 
 # game/day32.rpy:657
-translate french day32_evening_choices_6e5e7b3c_1:
+translate french day32_evening_choices_6e5e7b3c:
 
     # p "Worst case scenario I'll be dancing with you."
-    p "Dans le pire des cas, je danserai avec toi."
+    p "Worst case scenario I'll be dancing with you."
 
 # game/day32.rpy:658
-translate french day32_evening_choices_555de188_1:
+translate french day32_evening_choices_555de188:
 
     # r "You know, I'd like that."
-    r "Tu sais, j'aimerais bien."
+    r "You know, I'd like that."
 
 # game/day32.rpy:659
-translate french day32_evening_choices_eefce7a9_1:
+translate french day32_evening_choices_eefce7a9:
 
     # r "Oh! The doors are opening."
-    r "Oh ! Les portes s'ouvrent."
+    r "Oh! The doors are opening."
 
 # game/day32.rpy:661
-translate french day32_evening_choices_7730c7b1_1:
+translate french day32_evening_choices_7730c7b1:
 
     # "{i}Your sister's excitement is affecting you and you both shuffle through the doors towards a large stage."
-    "{i}L'excitation de votre sœur vous affecte et vous vous traînez tous les deux à travers les portes vers une grande scène."
+    "{i}Your sister's excitement is affecting you and you both shuffle through the doors towards a large stage."
 
 # game/day32.rpy:663
-translate french day32_evening_choices_7b0a818f_1:
+translate french day32_evening_choices_7b0a818f:
 
     # "{i}The girl's excitement is affecting you and you both shuffle through the doors towards a large stage."
-    "{i}L'excitation de la jeune fille vous affecte et vous passez tous les deux les portes d'une grande scène."
+    "{i}The girl's excitement is affecting you and you both shuffle through the doors towards a large stage."
 
 # game/day32.rpy:665
-translate french day32_evening_choices_a9bea359_1:
+translate french day32_evening_choices_a9bea359:
 
     # r "We're going to try and get to the front, aren't we?"
-    r "On va essayer d'aller à l'avant, n'est-ce pas ?"
+    r "We're going to try and get to the front, aren't we?"
 
 # game/day32.rpy:666
-translate french day32_evening_choices_27e2cf5c_1:
+translate french day32_evening_choices_27e2cf5c:
 
     # p "Whatever you say, you're the boss tonight."
-    p "Comme tu veux, c'est toi le patron ce soir."
+    p "Whatever you say, you're the boss tonight."
 
 # game/day32.rpy:668
-translate french day32_evening_choices_ee4dc877_1:
+translate french day32_evening_choices_ee4dc877:
 
     # r "This is where the magic is going to happen!"
-    r "C'est ici que la magie va se produire !"
+    r "This is where the magic is going to happen!"
 
 # game/day32.rpy:669
-translate french day32_evening_choices_14a8a4a2_1:
+translate french day32_evening_choices_14a8a4a2:
 
     # r "But first we have to get through the support act."
-    r "Mais d'abord, nous devons passer à travers la loi de soutien."
+    r "But first we have to get through the support act."
 
 # game/day32.rpy:670
-translate french day32_evening_choices_521b893f_1:
+translate french day32_evening_choices_521b893f:
 
     # p "Do you know them?"
-    p "Vous les connaissez ?"
+    p "Do you know them?"
 
 # game/day32.rpy:671
-translate french day32_evening_choices_492d7423_1:
+translate french day32_evening_choices_492d7423:
 
     # r "Nah, some small-time band."
-    r "Non, un petit groupe."
+    r "Nah, some small-time band."
 
 # game/day32.rpy:672
-translate french day32_evening_choices_600f17e9_1:
+translate french day32_evening_choices_600f17e9:
 
     # r "A couple of guys with guitars."
-    r "Deux gars avec des guitares."
+    r "A couple of guys with guitars."
 
 # game/day32.rpy:673
-translate french day32_evening_choices_d45b5e6c_1:
+translate french day32_evening_choices_d45b5e6c:
 
     # p "That doesn't sound too bad."
-    p "Ça n'a pas l'air si mal."
+    p "That doesn't sound too bad."
 
 # game/day32.rpy:674
-translate french day32_evening_choices_29142ee9_1:
+translate french day32_evening_choices_29142ee9:
 
     # r "We'll see."
-    r "Nous verrons bien."
+    r "We'll see."
 
 # game/day32.rpy:675
-translate french day32_evening_choices_44f210fa_1:
+translate french day32_evening_choices_44f210fa:
 
     # "{i}People are still talking and laughing when the support act takes the stage, the singer tries to get everyone's attention."
-    "{i}Les gens continuent de parler et de rire quand le groupe de soutien monte sur scène, le chanteur essaie d'attirer l'attention de tout le monde."
+    "{i}People are still talking and laughing when the support act takes the stage, the singer tries to get everyone's attention."
 
 # game/day32.rpy:678
-translate french day32_evening_choices_3e5e926f_1:
+translate french day32_evening_choices_3e5e926f:
 
     # man "Hello guys, we're the Double Pandas and we're going to rock your world tonight."
-    man "Bonjour les gars, nous sommes les Double Pandas et nous allons faire vibrer votre monde ce soir."
+    man "Hello guys, we're the Double Pandas and we're going to rock your world tonight."
 
 # game/day32.rpy:679
-translate french day32_evening_choices_189eca2f_1:
+translate french day32_evening_choices_189eca2f:
 
     # "{i}The cheering isn't that enthusiastic and you have an idea why, when they start the first bars of their opening song."
-    "{i}Les applaudissements ne sont pas si enthousiastes et vous avez une idée pourquoi, quand ils commencent les premières mesures de leur chanson d'ouverture."
+    "{i}The cheering isn't that enthusiastic and you have an idea why, when they start the first bars of their opening song."
 
 # game/day32.rpy:681
-translate french day32_evening_choices_4b99354c_1:
+translate french day32_evening_choices_4b99354c:
 
     # p "God, they're terrible."
-    p "Mon Dieu, ils sont terribles."
+    p "God, they're terrible."
 
 # game/day32.rpy:682
-translate french day32_evening_choices_b3433b84_1:
+translate french day32_evening_choices_b3433b84:
 
     # r "Yup."
-    r "Ouaip."
+    r "Yup."
 
 # game/day32.rpy:683
-translate french day32_evening_choices_5cbe6eb2_1:
+translate french day32_evening_choices_5cbe6eb2:
 
     # r "Kiss me?"
-    r "M'embrasser ?"
+    r "Kiss me?"
 
 # game/day32.rpy:685
-translate french day32_evening_choices_28a8c138_1:
+translate french day32_evening_choices_28a8c138:
 
     # p "{i}(Wow, it seems she just wants to enjoy the concert with me.)"
-    p "{i}On dirait qu'elle veut juste profiter du concert avec moi."
+    p "{i}(Wow, it seems she just wants to enjoy the concert with me.)"
 
 # game/day32.rpy:686
-translate french day32_evening_choices_f85e49bd_1:
+translate french day32_evening_choices_f85e49bd:
 
     # p "{i}(I can get behind that.)"
-    p "{i}(Je peux me mettre derrière ça.)"
+    p "{i}(I can get behind that.)"
 
 # game/day32.rpy:689
-translate french day32_evening_choices_8eac2e11_1:
+translate french day32_evening_choices_8eac2e11:
 
     # "{i}As the band continues to play their terrible music, you passionately kiss your sister, your hands trailing the curve of her body."
-    "{i}Pendant que le groupe continue à jouer leur musique terrible, vous embrassez passionnément votre sœur, vos mains traînant la courbe de son corps."
+    "{i}As the band continues to play their terrible music, you passionately kiss your sister, your hands trailing the curve of her body."
 
 # game/day32.rpy:691
-translate french day32_evening_choices_7310d043_1:
+translate french day32_evening_choices_7310d043:
 
     # "{i}As the band continues to play their terrible music, you passionately kiss your girlfriend, your hands trailing the curve of her body through the thin fabric of her dress."
-    "{i}Pendant que le groupe continue à jouer leur musique terrible, vous embrassez passionnément votre petite amie, vos mains traînant la courbe de son corps à travers le tissu fin de sa robe."
+    "{i}As the band continues to play their terrible music, you passionately kiss your girlfriend, your hands trailing the curve of her body through the thin fabric of her dress."
 
 # game/day32.rpy:692
-translate french day32_evening_choices_892a2449_1:
+translate french day32_evening_choices_892a2449:
 
     # "{i}From the corner of your eye, you notice bored people looking at you, probably envious of your moment with a beautiful girl."
-    "{i}Du coin de l'œil, vous remarquez que les gens s'ennuient à vous regarder, probablement envieux de votre moment avec une belle fille."
+    "{i}From the corner of your eye, you notice bored people looking at you, probably envious of your moment with a beautiful girl."
 
 # game/day32.rpy:694
-translate french day32_evening_choices_c775872f_1:
+translate french day32_evening_choices_c775872f:
 
     # "{i}You barely hear the meagre applause the band gets after their first, second and third song, as you're caught up in [r_name]'s big, green eyes and the velvet touch of her lips."
-    "{i}On entend à peine les maigres applaudissements que le groupe reçoit après leur première, deuxième et troisième chanson, alors que vous êtes pris dans les grands yeux verts de [r_name] et la touche de velours de ses lèvres."
+    "{i}You barely hear the meagre applause the band gets after their first, second and third song, as you're caught up in [r_name]'s big, green eyes and the velvet touch of her lips."
 
 # game/day32.rpy:696
-translate french day32_evening_choices_dc3b8aca_1:
+translate french day32_evening_choices_dc3b8aca:
 
     # r "Are they still playing?"
-    r "Ils jouent toujours ?"
+    r "Are they still playing?"
 
 # game/day32.rpy:697
-translate french day32_evening_choices_1289e435_1:
+translate french day32_evening_choices_1289e435:
 
     # p "It seems so."
-    p "Il semble que oui."
+    p "It seems so."
 
 # game/day32.rpy:698
-translate french day32_evening_choices_8015f998_1:
+translate french day32_evening_choices_8015f998:
 
     # r "More kisses then."
-    r "Plus de baisers alors."
+    r "More kisses then."
 
 # game/day32.rpy:700
-translate french day32_evening_choices_cbc26a2f_1:
+translate french day32_evening_choices_cbc26a2f:
 
     # "{i}The band drones on, barely audible above the murmur of people talking and laughing."
-    "{i}Le groupe bourdonne, à peine audible au-dessus du murmure des gens qui parlent et rient."
+    "{i}The band drones on, barely audible above the murmur of people talking and laughing."
 
 # game/day32.rpy:701
-translate french day32_evening_choices_ea522564_1:
+translate french day32_evening_choices_97b24b86:
 
     # "{i}As they finish the last song on their set-list a slightly more enthusiastic applause can be heard, probably to get them off the stage as soon as possible."
-    "{i}A la fin de la dernière chanson de leur set-list, on peut entendre des applaudissements un peu plus enthousiastes, probablement pour les faire sortir de scène le plus vite possible."
+    "{i}As they finish the last song on their set-list a slightly more enthusiastic applause can be heard, probably to get them off the stage as soon as possible."
 
 # game/day32.rpy:703
-translate french day32_evening_choices_bc15c420_1:
+translate french day32_evening_choices_bc15c420:
 
     # r "They're going, right?"
-    r "Ils s'en vont, n'est-ce pas ?"
+    r "They're going, right?"
 
 # game/day32.rpy:704
-translate french day32_evening_choices_1b27e7b3_1:
+translate french day32_evening_choices_1b27e7b3:
 
     # p "They could come back for an encore."
-    p "Ils pourraient revenir pour un rappel."
+    p "They could come back for an encore."
 
 # game/day32.rpy:705
-translate french day32_evening_choices_9a031104_1:
+translate french day32_evening_choices_9a031104:
 
     # r "God no..."
-    r "Dieu non...."
+    r "God no..."
 
 # game/day32.rpy:707
-translate french day32_evening_choices_709b96d5_1:
+translate french day32_evening_choices_709b96d5:
 
     # man "Thank you!"
-    man "Je vous remercie !"
+    man "Thank you!"
 
 # game/day32.rpy:708
-translate french day32_evening_choices_a83070f9_1:
+translate french day32_evening_choices_a83070f9:
 
     # man "You've been such a wonderful audience!"
-    man "Vous avez été un public merveilleux !"
+    man "You've been such a wonderful audience!"
 
 # game/day32.rpy:709
-translate french day32_evening_choices_c775f5e4_1:
+translate french day32_evening_choices_c775f5e4:
 
     # man "The last song we're going to play for you is..."
-    man "La dernière chanson que nous allons jouer pour vous est...."
+    man "The last song we're going to play for you is..."
 
 # game/day32.rpy:711
-translate french day32_evening_choices_4c71c46d_1:
+translate french day32_evening_choices_4c71c46d:
 
     # r "Nooo!"
-    r "Nooon !"
+    r "Nooo!"
 
 # game/day32.rpy:713
-translate french day32_evening_choices_d254216e_1:
+translate french day32_evening_choices_d254216e:
 
     # "{i}You're forced to listen to one last insipid ballad, during which you tease [r_name] by playfully kissing her neck and naked shoulders."
-    "{i}Vous êtes forcé d'écouter une dernière ballade insipide, au cours de laquelle vous taquinez [r_name] en lui embrassant joyeusement le cou et les épaules nues."
+    "{i}You're forced to listen to one last insipid ballad, during which you tease [r_name] by playfully kissing her neck and naked shoulders."
 
 # game/day32.rpy:714
-translate french day32_evening_choices_31ab0d77_1:
+translate french day32_evening_choices_31ab0d77:
 
     # r "Mmmm, you're nasty."
-    r "Mmmm, tu es méchant."
+    r "Mmmm, you're nasty."
 
 # game/day32.rpy:715
-translate french day32_evening_choices_c6c9cfb6_1:
+translate french day32_evening_choices_c6c9cfb6:
 
     # p "The beautiful music is making me do naughty things."
-    p "La belle musique me fait faire des vilaines choses."
+    p "The beautiful music is making me do naughty things."
 
 # game/day32.rpy:716
-translate french day32_evening_choices_434e6df2_1:
+translate french day32_evening_choices_434e6df2:
 
     # r "Liar."
-    r "Menteur."
+    r "Liar."
 
 # game/day32.rpy:717
-translate french day32_evening_choices_636908f7_1:
+translate french day32_evening_choices_636908f7:
 
     # p "Okay, it's the dress."
-    p "Ok, c'est la robe."
+    p "Okay, it's the dress."
 
 # game/day32.rpy:718
-translate french day32_evening_choices_19fcb7b1_1:
+translate french day32_evening_choices_19fcb7b1:
 
     # r "What?"
-    r "Quoi ? Quoi ?"
+    r "What?"
 
 # game/day32.rpy:719
-translate french day32_evening_choices_c8ad6f5c_1:
+translate french day32_evening_choices_c8ad6f5c:
 
     # r "You're asking me to remove it?"
-    r "Vous me demandez de l'enlever ?"
+    r "You're asking me to remove it?"
 
 # game/day32.rpy:720
-translate french day32_evening_choices_6ba60343_1:
+translate french day32_evening_choices_6ba60343:
 
     # p "Great idea!"
-    p "Excellente idée !"
+    p "Great idea!"
 
 # game/day32.rpy:721
-translate french day32_evening_choices_6fdb9e31_1:
+translate french day32_evening_choices_6fdb9e31:
 
     # r "The audience is a little too big for my taste."
-    r "Le public est un peu trop nombreux à mon goût."
+    r "The audience is a little too big for my taste."
 
 # game/day32.rpy:722
-translate french day32_evening_choices_8eef431e_1:
+translate french day32_evening_choices_8eef431e:
 
     # p "I know what you mean."
-    p "Je vois ce que tu veux dire."
+    p "I know what you mean."
 
 # game/day32.rpy:724
-translate french day32_evening_choices_bcc81896_1:
+translate french day32_evening_choices_bcc81896:
 
     # "{i}The band hurriedly leaves the stage after a very lackluster applause and the stage is cleared for the main event."
-    "{i}Le groupe quitte précipitamment la scène après des applaudissements très terne et la scène est dégagée pour l'événement principal."
+    "{i}The band hurriedly leaves the stage after a very lackluster applause and the stage is cleared for the main event."
 
 # game/day32.rpy:726
-translate french day32_evening_choices_2733b8f4_1:
+translate french day32_evening_choices_2733b8f4:
 
     # r "So exciting!"
-    r "C'est tellement excitant !"
+    r "So exciting!"
 
 # game/day32.rpy:727
-translate french day32_evening_choices_e53f650e_1:
+translate french day32_evening_choices_e53f650e:
 
     # p "I would get us some drinks, but the crowd is so big."
-    p "Je nous apporterais bien quelques verres, mais la foule est si nombreuse."
+    p "I would get us some drinks, but the crowd is so big."
 
 # game/day32.rpy:728
-translate french day32_evening_choices_cba0c1ac_1:
+translate french day32_evening_choices_cba0c1ac:
 
     # r "No, don't go!"
-    r "Non, ne partez pas !"
+    r "No, don't go!"
 
 # game/day32.rpy:729
-translate french day32_evening_choices_f69af7c9_1:
+translate french day32_evening_choices_f69af7c9:
 
     # r "I don't want to lose you among this crowd."
-    r "Je ne veux pas te perdre dans cette foule."
+    r "I don't want to lose you among this crowd."
 
 # game/day32.rpy:733
-translate french day32_evening_choices_b284cdce_1:
+translate french day32_evening_choices_b284cdce:
 
     # r "Have you talked to [b_name] about... you know..."
-    r "Tu as parlé à [b_name] de... tu sais... ?"
+    r "Have you talked to [b_name] about... you know..."
 
 # game/day32.rpy:734
-translate french day32_evening_choices_923dbec8_1:
+translate french day32_evening_choices_923dbec8:
 
     # r "Us?"
-    r "Nous ?"
+    r "Us?"
 
 # game/day32.rpy:735
-translate french day32_evening_choices_7be2603f_3:
+translate french day32_evening_choices_7be2603f_1:
 
     # p "I did."
-    p "C'est ce que j'ai fait."
+    p "I did."
 
 # game/day32.rpy:736
-translate french day32_evening_choices_71f38aea_1:
+translate french day32_evening_choices_71f38aea:
 
     # r "How did she react?"
-    r "Comment a-t-elle réagi ?"
+    r "How did she react?"
 
 # game/day32.rpy:737
-translate french day32_evening_choices_2728735b_1:
+translate french day32_evening_choices_2728735b:
 
     # p "I don't know."
-    p "Je ne sais pas, je ne sais pas."
+    p "I don't know."
 
 # game/day32.rpy:738
-translate french day32_evening_choices_0ad71b91_1:
+translate french day32_evening_choices_0ad71b91:
 
     # p "It was a lot to take in for her."
-    p "C'était beaucoup à encaisser pour elle."
+    p "It was a lot to take in for her."
 
 # game/day32.rpy:739
-translate french day32_evening_choices_8874a1d9_1:
+translate french day32_evening_choices_8874a1d9:
 
     # p "We'll talk again when she's reached a decision."
-    p "On en reparlera quand elle aura pris sa décision."
+    p "We'll talk again when she's reached a decision."
 
 # game/day32.rpy:740
-translate french day32_evening_choices_1ada8197_1:
+translate french day32_evening_choices_1ada8197:
 
     # r "Okay."
-    r "D'accord."
+    r "Okay."
 
 # game/day32.rpy:741
-translate french day32_evening_choices_89790917_1:
+translate french day32_evening_choices_89790917:
 
     # "{i}Not wanting to spoil the moment, you stop talking and focus on the proceedings on stage."
-    "{i}Ne voulant pas gâcher le moment, vous arrêtez de parler et vous vous concentrez sur les procédures sur scène."
+    "{i}Not wanting to spoil the moment, you stop talking and focus on the proceedings on stage."
 
 # game/day32.rpy:742
-translate french day32_evening_choices_a609a867_1:
+translate french day32_evening_choices_a609a867:
 
     # r "I think it's about to begin."
-    r "Je crois que ça va commencer."
+    r "I think it's about to begin."
 
 # game/day32.rpy:743
-translate french day32_evening_choices_cd3efc51_1:
+translate french day32_evening_choices_cd3efc51:
 
     # r "You're in for a ride!"
-    r "Vous allez faire un tour !"
+    r "You're in for a ride!"
 
 # game/day32.rpy:745
-translate french day32_evening_choices_42458577_1:
+translate french day32_evening_choices_42458577:
 
     # "{i}The lights are dimmed and after a brief moment of silence you're treated to a wall of sound washing over you."
-    "{i}Les lumières s'assombrissent et après un bref moment de silence, vous êtes enveloppé d'un mur de sons."
+    "{i}The lights are dimmed and after a brief moment of silence you're treated to a wall of sound washing over you."
 
 # game/day32.rpy:747
-translate french day32_evening_choices_36da054d_1:
+translate french day32_evening_choices_36da054d:
 
     # va "HELLLOOOOOOOOO!!!"
-    va "HELLLOOOOOOOOOOOOOOOOON !!!!!!"
+    va "HELLLOOOOOOOOO!!!"
 
 # game/day32.rpy:748
-translate french day32_evening_choices_58dde628_1:
+translate french day32_evening_choices_58dde628:
 
     # "{i}A woman jumps on stage and starts a tightly choreographed dance routine, punctuated by her singing an overproduced piece of music about breaking up with a boyfriend."
-    "{i}Une femme saute sur scène et commence une chorégraphie très serrée, ponctuée par le chant d'un morceau de musique surproduit sur la rupture avec un petit ami."
+    "{i}A woman jumps on stage and starts a tightly choreographed dance routine, punctuated by her singing an overproduced piece of music about breaking up with a boyfriend."
 
 # game/day32.rpy:749
-translate french day32_evening_choices_7c17fad2_1:
+translate french day32_evening_choices_7c17fad2:
 
     # "{i}The bass of the song vibrates in the back of your skull and the flashing lights are blinding."
-    "{i}La basse de la chanson vibre à l'arrière de votre crâne et les lumières clignotantes sont aveuglantes."
+    "{i}The bass of the song vibrates in the back of your skull and the flashing lights are blinding."
 
 # game/day32.rpy:754
-translate french day32_evening_choices_1c284dbd_1:
+translate french day32_evening_choices_1c284dbd:
 
     # "{i}[r_name] seems completely caught up in all of it and starts to dance, while mouthing the lyrics."
-    "{i}[r_name] semble complètement absorbée par tout cela et se met à danser, tout en racontant les paroles."
+    "{i}[r_name] seems completely caught up in all of it and starts to dance, while mouthing the lyrics."
 
 # game/day32.rpy:755
-translate french day32_evening_choices_edb30bea_1:
+translate french day32_evening_choices_edb30bea:
 
     # "{i}You notice the crowd doing much of the same and pretty soon you're standing amongst a writhing mass of people dancing to a pumping beat."
-    "{i}Vous remarquez que la foule fait à peu près la même chose et vous vous retrouvez bientôt au milieu d'une masse tordante de gens qui dansent sur un rythme endiablé."
+    "{i}You notice the crowd doing much of the same and pretty soon you're standing amongst a writhing mass of people dancing to a pumping beat."
 
 # game/day32.rpy:756
-translate french day32_evening_choices_110406b4_1:
+translate french day32_evening_choices_110406b4:
 
     # p "{i}(God, I must be getting old.)"
-    p "{i}(Mon Dieu, je dois vieillir.)"
+    p "{i}(God, I must be getting old.)"
 
 # game/day32.rpy:758
-translate french day32_evening_choices_f0541add_1:
+translate french day32_evening_choices_f0541add:
 
     # r "Come on, [p_name], live a little!"
-    r "Allez, [p_name], vis un peu !"
+    r "Come on, [p_name], live a little!"
 
 # game/day32.rpy:760
-translate french day32_evening_choices_e2700cad_1:
+translate french day32_evening_choices_e2700cad:
 
     # va "I met a boy named Pete-Pete-Pete."
-    va "J'ai rencontré un garçon nommé Pete-Pete-Pete-Pete."
+    va "I met a boy named Pete-Pete-Pete."
 
 # game/day32.rpy:761
-translate french day32_evening_choices_d5dd8934_1:
+translate french day32_evening_choices_d5dd8934:
 
     # va "C'mon suck on my teat-teat-teat."
-    va "Allez, suce ma tétine tétine."
+    va "C'mon suck on my teat-teat-teat."
 
 # game/day32.rpy:762
-translate french day32_evening_choices_a02fc545_1:
+translate french day32_evening_choices_a02fc545:
 
     # p "{i}(What the holy fuck is she singing?)"
-    p "{i}Qu'est-ce qu'elle chante, bordel ?"
+    p "{i}(What the holy fuck is she singing?)"
 
 # game/day32.rpy:764
-translate french day32_evening_choices_fbfeb38d_1:
+translate french day32_evening_choices_fbfeb38d:
 
     # "{i}[r_name] deliberately rubs her ass against your crotch, laughing daringly at you."
-    "{i}[r_name] se frotte délibérément le cul contre ton entrejambe, se moquant de toi avec audace."
+    "{i}[r_name] deliberately rubs her ass against your crotch, laughing daringly at you."
 
 # game/day32.rpy:766
-translate french day32_evening_choices_b12dba4d_1:
+translate french day32_evening_choices_b12dba4d:
 
     # "{i}When you decide to focus just on the overpowering beat you're able to match your sister's dance moves."
-    "{i}Lorsque vous décidez de vous concentrer uniquement sur le rythme dominant, vous êtes en mesure d'égaler les mouvements de danse de votre sœur."
+    "{i}When you decide to focus just on the overpowering beat you're able to match your sister's dance moves."
 
 # game/day32.rpy:768
-translate french day32_evening_choices_8cc83238_1:
+translate french day32_evening_choices_8cc83238:
 
     # "{i}When you decide to focus just on the overpowering beat you're able to match your friend's dance moves."
-    "{i}Lorsque vous décidez de vous concentrer uniquement sur le rythme dominant, vous êtes capable de suivre les mouvements de danse de votre ami."
+    "{i}When you decide to focus just on the overpowering beat you're able to match your friend's dance moves."
 
 # game/day32.rpy:770
-translate french day32_evening_choices_8e6b3cce_1:
+translate french day32_evening_choices_8e6b3cce:
 
     # "{i}Pretty soon you're caught up in the rhythm and dance body-to-body with [r_name], your hands exploring the entirety of her lithe, supple body underneath the thin fabric of the dress."
-    "{i}Très vite, vous êtes pris dans le rythme et la danse corps à corps avec [r_name], vos mains explorant l'intégralité de son corps souple et souple sous le tissu fin de la robe."
+    "{i}Pretty soon you're caught up in the rhythm and dance body-to-body with [r_name], your hands exploring the entirety of her lithe, supple body underneath the thin fabric of the dress."
 
 # game/day32.rpy:772
-translate french day32_evening_choices_14f41e3b_1:
+translate french day32_evening_choices_14f41e3b:
 
     # "{i}Valentina Glorious show isn't characterized by moments of quiet introspection and if it weren't for [r_name] you'd tire of it very quickly."
-    "{i}Valentina Glorious show n'est pas caractérisé par des moments d'introspection tranquille et sans [r_name], on s'en lasserait très vite."
+    "{i}Valentina Glorious show isn't characterized by moments of quiet introspection and if it weren't for [r_name] you'd tire of it very quickly."
 
 # game/day32.rpy:774
-translate french day32_evening_choices_aceebf41_1:
+translate french day32_evening_choices_aceebf41:
 
     # "{i}Everyone seems to be completely engrossed by the performance, your sister included."
-    "{i}Tout le monde semble complètement absorbé par le spectacle, y compris votre sœur."
+    "{i}Everyone seems to be completely engrossed by the performance, your sister included."
 
 # game/day32.rpy:776
-translate french day32_evening_choices_80da28d2_1:
+translate french day32_evening_choices_80da28d2:
 
     # "{i}Everyone seems to be completely engrossed by the performance, your girlfriend included."
-    "{i}Tout le monde semble complètement absorbé par la performance, y compris votre petite amie."
+    "{i}Everyone seems to be completely engrossed by the performance, your girlfriend included."
 
 # game/day32.rpy:778
-translate french day32_evening_choices_83006318_1:
+translate french day32_evening_choices_83006318:
 
     # r "Isn't she the best?!"
-    r "N'est-elle pas la meilleure ?!"
+    r "Isn't she the best?!"
 
 # game/day32.rpy:779
-translate french day32_evening_choices_c5051af7_1:
+translate french day32_evening_choices_c5051af7:
 
     # p "She's quite something..."
-    p "C'est quelque chose...."
+    p "She's quite something..."
 
 # game/day32.rpy:780
-translate french day32_evening_choices_d543a4d0_1:
+translate french day32_evening_choices_d543a4d0:
 
     # r "Are you enjoying yourself?"
-    r "Tu t'amuses bien ?"
+    r "Are you enjoying yourself?"
 
 # game/day32.rpy:781
-translate french day32_evening_choices_afc4ff76_1:
+translate french day32_evening_choices_afc4ff76:
 
     # p "I am."
-    p "C'est ce que je fais."
+    p "I am."
 
 # game/day32.rpy:782
-translate french day32_evening_choices_8573efe3_1:
+translate french day32_evening_choices_8573efe3:
 
     # p "I'm with you and that's what counts."
-    p "Je suis avec toi et c'est ce qui compte."
+    p "I'm with you and that's what counts."
 
 # game/day32.rpy:783
-translate french day32_evening_choices_2eebe514_1:
+translate french day32_evening_choices_2eebe514:
 
     # r "I'm so happy, [p_name]!"
-    r "Je suis si heureuse, [p_name] !"
+    r "I'm so happy, [p_name]!"
 
 # game/day32.rpy:785
-translate french day32_evening_choices_5a91336d_1:
+translate french day32_evening_choices_5a91336d:
 
     # p "{i}(Did I hear her correctly?!)"
-    p "{i}(Je l'ai bien entendue ?!!)"
+    p "{i}(Did I hear her correctly?!)"
 
 # game/day32.rpy:787
-translate french day32_evening_choices_4891b90a_1:
+translate french day32_evening_choices_4891b90a:
 
     # "{i}[r_name] doesn't say anything further, but continues to press her ass against your crotch, stimulating your growing erection, until it has a proportion that she has to feel pressing against her butt."
-    "{i}[r_name] ne dit rien d'autre, mais continue à presser son cul contre votre entrejambe, stimulant votre érection en pleine croissance, jusqu'à ce qu'il y ait une proportion qu'elle doit sentir presser contre son derrière."
+    "{i}[r_name] doesn't say anything further, but continues to press her ass against your crotch, stimulating your growing erection, until it has a proportion that she has to feel pressing against her butt."
 
 # game/day32.rpy:789
-translate french day32_evening_choices_eec65d93_1:
+translate french day32_evening_choices_eec65d93:
 
     # r "Mmmm..."
-    r "Mmmm...."
+    r "Mmmm..."
 
 # game/day32.rpy:790
-translate french day32_evening_choices_353ffa42_1:
+translate french day32_evening_choices_353ffa42:
 
     # r "Do you want to hear a secret?"
-    r "Tu veux entendre un secret ?"
+    r "Do you want to hear a secret?"
 
 # game/day32.rpy:791
-translate french day32_evening_choices_b28aa72a_1:
+translate french day32_evening_choices_b28aa72a:
 
     # r "I forgot to wear my panties..."
-    r "J'ai oublié de mettre ma culotte...."
+    r "I forgot to wear my panties..."
 
 # game/day32.rpy:792
-translate french day32_evening_choices_96bb495a_1:
+translate french day32_evening_choices_96bb495a:
 
     # "{i}That comment has you at full battle-strength in an instant."
-    "{i}Ce commentaire vous met à pleine puissance de combat en un instant."
+    "{i}That comment has you at full battle-strength in an instant."
 
 # game/day32.rpy:795
-translate french day32_evening_choices_574c4105_1:
+translate french day32_evening_choices_574c4105:
 
     # "{i}Still smiling, your sister guides your hand towards the hem of her dress."
-    "{i}Toujours souriante, votre sœur guide votre main vers l'ourlet de sa robe."
+    "{i}Still smiling, your sister guides your hand towards the hem of her dress."
 
 # game/day32.rpy:797
-translate french day32_evening_choices_06e16258_1:
+translate french day32_evening_choices_06e16258:
 
     # "{i}Still smiling, your girl guides your hand towards the hem of her dress."
-    "{i}Toujours souriante, votre fille guide votre main vers l'ourlet de sa robe."
+    "{i}Still smiling, your girl guides your hand towards the hem of her dress."
 
 # game/day32.rpy:799
-translate french day32_evening_choices_785f467c_1:
+translate french day32_evening_choices_785f467c:
 
     # "{i}You lift the front of the garment and feel the bare skin of [r_name]'s pussy."
-    "{i}Vous soulevez le devant du vêtement et vous sentez la peau nue de la chatte de [r_name]."
+    "{i}You lift the front of the garment and feel the bare skin of [r_name]'s pussy."
+
+# game/day32.rpy:801
+translate french day32_evening_choices_b5689cfb:
+
+    # "{i}As Valentina Glorious launches into a particular violent song, you slide a finger along your sister's moist lips."
+    "{i}As Valentina Glorious launches into a particular violent song, you slide a finger along your sister's moist lips."
 
 # game/day32.rpy:803
 translate french day32_evening_choices_58a6dd38:

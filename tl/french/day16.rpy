@@ -1,4187 +1,4180 @@
-﻿# TODO: Translation updated at 2019-02-22 22:04
+﻿# TODO: Translation updated at 2019-02-27 03:23
 
 # game/day16.rpy:26
-translate french day16_8e90f4f7_1:
+translate french day16_8e90f4f7:
 
     # centered "DAY {b}16"
-    centered "JOUR {b}16"
+    centered "DAY {b}16"
 
 # game/day16.rpy:34
-translate french day16_choices_b22fdf86_1:
+translate french day16_choices_b22fdf86:
 
     # p "{i}(I overslept, must have been the jet-lag. Let's see if there's something to eat around here.)"
-    p "{i}(J'ai trop dormi, ça doit être le décalage horaire. Voyons s'il y a quelque chose à manger dans le coin.)"
+    p "{i}(I overslept, must have been the jet-lag. Let's see if there's something to eat around here.)"
 
 # game/day16.rpy:37
-translate french day16_choices_b0459485_1:
+translate french day16_choices_b0459485:
 
     # "{i}You awake in an empty room, [r_name] has already gone, presumably to get dressed and ready for the day. You sneak out of her room and don't encounter anyone in the hallway."
-    "{i}Tu te réveilles dans une chambre vide, [r_name] est déjà partie, probablement pour s'habiller et se préparer pour la journée. Tu sors en douce de sa chambre et tu ne vois personne dans le couloir."
+    "{i}You awake in an empty room, [r_name] has already gone, presumably to get dressed and ready for the day. You sneak out of her room and don't encounter anyone in the hallway."
 
 # game/day16.rpy:40
-translate french day16_choices_85be9c4e_1:
+translate french day16_choices_85be9c4e:
 
     # p "Hey [m_name]. Where's everybody?"
-    p "Salut [m_name]. Où sont-elles toutes passées ?"
+    p "Hey [m_name]. Where's everybody?"
 
 # game/day16.rpy:42
-translate french day16_choices_2003a1af_1:
+translate french day16_choices_2003a1af:
 
     # m "Your sisters are already at the beach."
-    m "Tes soeurs sont déjà à la plage."
+    m "Your sisters are already at the beach."
 
 # game/day16.rpy:44
-translate french day16_choices_c97f59d8_1:
+translate french day16_choices_c97f59d8:
 
     # m "The girls are already at the beach."
-    m "Les filles sont déjà à la plage."
+    m "The girls are already at the beach."
 
 # game/day16.rpy:45
-translate french day16_choices_8316fa62_1:
+translate french day16_choices_8316fa62:
 
     # p "Guess I needed more sleep than they did."
-    p "J'avais besoin de plus de sommeil qu'elles."
+    p "Guess I needed more sleep than they did."
 
 # game/day16.rpy:46
-translate french day16_choices_a44b9548_1:
+translate french day16_choices_a44b9548:
 
     # m "If you're hungry there's some food in the fridge."
-    m "Si tu as faim, il y a de la nourriture dans le frigo."
+    m "If you're hungry there's some food in the fridge."
 
 # game/day16.rpy:47
-translate french day16_choices_20fc0d6a_1:
+translate french day16_choices_20fc0d6a:
 
     # p "Thanks, [m_name]."
-    p "Merci, [m_name]."
+    p "Thanks, [m_name]."
 
 # game/day16.rpy:49
-translate french day16_choices_e9b4f560_1:
+translate french day16_choices_e9b4f560:
 
     # "{i}You make yourself a sandwich and have a seat next to your mother."
-    "{i}Tu te fais un sandwich et tu t'assois à côté de ta mère."
+    "{i}You make yourself a sandwich and have a seat next to your mother."
 
 # game/day16.rpy:51
-translate french day16_choices_b1982764_1:
+translate french day16_choices_b1982764:
 
     # "{i}You make yourself a sandwich and have a seat next to Mrs. Smith."
-    "{i}Tu te fais un sandwich et tu t'assois à côté de Mme Smith."
+    "{i}You make yourself a sandwich and have a seat next to Mrs. Smith."
 
 # game/day16.rpy:53
-translate french day16_choices_98cbe6a3_1:
+translate french day16_choices_98cbe6a3:
 
     # p "What are you watching?"
-    p "Qu'est-ce que tu regardes ?"
+    p "What are you watching?"
 
 # game/day16.rpy:54
-translate french day16_choices_53190e31_1:
+translate french day16_choices_53190e31:
 
     # m "The news. There's something happening back home, they're passing some new laws."
-    m "Les nouvelles. Il se passe quelque chose chez nous, ils adoptent de nouvelles lois."
+    m "The news. There's something happening back home, they're passing some new laws."
 
 # game/day16.rpy:55
-translate french day16_choices_ee01323c_1:
+translate french day16_choices_ee01323c:
 
     # p "Is that news?"
-    p "C'est une nouvelle ?"
+    p "Is that news?"
 
 # game/day16.rpy:56
-translate french day16_choices_22354c4d_1:
+translate french day16_choices_22354c4d:
 
     # m "Not normally, but this is an expedited procedure. New regulations to combat the moral decay that's supposedly been eating away at our society."
-    m "Pas en temps normal, mais c'est une procédure accélérée. De nouvelles lois pour lutter contre la décadence morale qui est censée ronger notre société."
+    m "Not normally, but this is an expedited procedure. New regulations to combat the moral decay that's supposedly been eating away at our society."
 
 # game/day16.rpy:57
-translate french day16_choices_bfdea31c_1:
+translate french day16_choices_bfdea31c:
 
     # p "You mean the anti porn laws?"
-    p "Tu veux dire la loi anti-porno ?"
+    p "You mean the anti porn laws?"
 
 # game/day16.rpy:58
-translate french day16_choices_ba855a9f_1:
+translate french day16_choices_ba855a9f:
 
     # m "That's part of it, yes. But it goes further than that."
-    m "Ça en fait partie, oui. Mais cela va plus loin que cela."
+    m "That's part of it, yes. But it goes further than that."
 
 # game/day16.rpy:61
-translate french day16_choices_dab6f186_1:
+translate french day16_choices_dab6f186:
 
     # man "...passed by a majority vote. The Taskforce for the Promotion of Moral Uplift and Wholesome Decency, the TPMUWD for short, will be responsible for outreach, education and assertion of the new policies starting effective immediately..."
-    man "...adoptée à la majorité. L'Équipe Spéciale pour la Promotion de l'Élévation de la Moralité et de la Décence, en abrégé ESPEMD, sera chargée de la sensibilisation, de l'éducation et de l'affirmation des nouvelles politiques à compter de maintenant...."
+    man "...passed by a majority vote. The Taskforce for the Promotion of Moral Uplift and Wholesome Decency, the TPMUWD for short, will be responsible for outreach, education and assertion of the new policies starting effective immediately..."
 
 # game/day16.rpy:62
-translate french day16_choices_b0b9ef12_1:
+translate french day16_choices_b0b9ef12:
 
     # p "Catchy name..."
-    p "Nom accrocheur...."
+    p "Catchy name..."
 
 # game/day16.rpy:64
-translate french day16_choices_22788063_1:
+translate french day16_choices_22788063:
 
     # man "...In the early days of its establishment, the TPMUWD will rely heavily on volunteers to propagate the main points of the program..."
-    man "...Dans les premiers jours de sa création, le ESPEMD s'appuiera fortement sur des volontaires pour diffuser les principaux points du programme...."
+    man "...In the early days of its establishment, the TPMUWD will rely heavily on volunteers to propagate the main points of the program..."
 
 # game/day16.rpy:65
-translate french day16_choices_4e8ba976_1:
+translate french day16_choices_4e8ba976:
 
     # man "...The government is keen on reports of immoral activity and indecent behavior as 'they unravel the moral fabric of society', according to one official..."
-    man "...Le gouvernement tient à ce que l'on signale des activités immorales et des comportements indécents qui, selon un fonctionnaire, “détruisent le tissu moral de la société”...."
+    man "...The government is keen on reports of immoral activity and indecent behavior as 'they unravel the moral fabric of society', according to one official..."
 
 # game/day16.rpy:66
-translate french day16_choices_4d87fb35_1:
+translate french day16_choices_4d87fb35:
 
     # p "In other words: they're trying to set up a network of people willing to snitch for free on their neighbors.."
-    p "En d'autres termes : ils essaient de mettre en place un réseau de personnes prêtes à dénoncer gratuitement leurs voisins."
+    p "In other words: they're trying to set up a network of people willing to snitch for free on their neighbors.."
 
 # game/day16.rpy:67
-translate french day16_choices_9edb41eb_1:
+translate french day16_choices_9edb41eb:
 
     # m "Exactly."
-    m "Exactement."
+    m "Exactly."
 
 # game/day16.rpy:68
-translate french day16_choices_ed380df7_1:
+translate french day16_choices_ed380df7:
 
     # man "...The production of pornography will be severely regulated, something feared by producers of adult content and sex workers as soon as the government's plans to combat moral decay became public..."
-    man "...La production de pornographie sera sévèrement réglementée, ce que craignent les producteurs de contenu pour adultes et les travailleuses et travailleurs sexuels dès que les plans du gouvernement pour combattre la décadence morale seront rendus publics...."
+    man "...The production of pornography will be severely regulated, something feared by producers of adult content and sex workers as soon as the government's plans to combat moral decay became public..."
 
 # game/day16.rpy:69
-translate french day16_choices_f1384dd3_1:
+translate french day16_choices_f1384dd3:
 
     # m "Patronizing bullshit, that's what it is."
-    m "Des conneries méprisantes, voilà ce que c'est."
+    m "Patronizing bullshit, that's what it is."
 
 # game/day16.rpy:71
-translate french day16_choices_e4d12743_1:
+translate french day16_choices_e4d12743:
 
     # p "{i}(I guess [m_name] is feeling threatened as well.)"
-    p "{i}(Je suppose que [m_name] se sent menacée aussi.)"
+    p "{i}(I guess [m_name] is feeling threatened as well.)"
 
 # game/day16.rpy:72
-translate french day16_choices_980a5324_1:
+translate french day16_choices_980a5324:
 
     # man "...wouldn't speculate on an outright ban on adult content, but it's public knowledge that there's broad political support for exactly those measures."
-    man "... ne spéculerait pas sur une interdiction pure et simple du contenu pour adultes, mais il est de notoriété publique que ces mesures bénéficient d'un large appui politique."
+    man "...wouldn't speculate on an outright ban on adult content, but it's public knowledge that there's broad political support for exactly those measures."
 
 # game/day16.rpy:73
-translate french day16_choices_7fd8b779_1:
+translate french day16_choices_7fd8b779:
 
     # m "Bah. I'm turning it off."
-    m "Bah. Je l'éteins."
+    m "Bah. I'm turning it off."
 
 # game/day16.rpy:74
-translate french day16_choices_b9ef8bb8_1:
+translate french day16_choices_b9ef8bb8:
 
     # man "...other news. Several sightings of the jabber..."
-    man "...d'autres nouvelles. Plusieurs observations du jabber....."
+    man "...other news. Several sightings of the jabber..."
 
 # game/day16.rpy:76
-translate french day16_choices_c29c8d82_1:
+translate french day16_choices_c29c8d82:
 
     # p "It all sounds nice enough, the focus on family values and restoring the nation , but underneath it all... It reeks of censorship, doesn't it?"
-    p "Tout cela semble bien beau, l'accent mis sur les valeurs familiales et la restauration de la nation, mais en dessous de tout cela.... Ça pue la censure, n'est-ce pas ?"
+    p "It all sounds nice enough, the focus on family values and restoring the nation , but underneath it all... It reeks of censorship, doesn't it?"
 
 # game/day16.rpy:77
-translate french day16_choices_8cee05e1_1:
+translate french day16_choices_8cee05e1:
 
     # m "It sure does. They pick the easiest target and erode your freedoms from there... I mean everybody watches porn or has some weird kink, it's beyond hypocritical to regulate it. Dangerous even."
-    m "Bien sûr que oui. Ils choisissent la cible la plus facile et érodent vos libertés à partir de là.... Je veux dire, tout le monde regarde du porno ou a un truc bizarre, c'est plus qu'hypocrite de le réglementer. Dangereux même."
+    m "It sure does. They pick the easiest target and erode your freedoms from there... I mean everybody watches porn or has some weird kink, it's beyond hypocritical to regulate it. Dangerous even."
 
 # game/day16.rpy:78
-translate french day16_choices_f98d8829_1:
+translate french day16_choices_f98d8829:
 
     # p "This thing really rattles you doesn't it?"
-    p "Ce truc te dérange vraiment, n'est-ce pas ?"
+    p "This thing really rattles you doesn't it?"
 
 # game/day16.rpy:79
-translate french day16_choices_cfc214af_1:
+translate french day16_choices_cfc214af:
 
     # m "Maybe because I spent several years living with a hypocritical bastard that..."
-    m "Peut-être parce que j'ai passé plusieurs années à vivre avec un bâtard hypocrite qui...."
+    m "Maybe because I spent several years living with a hypocritical bastard that..."
 
 # game/day16.rpy:81
-translate french day16_choices_04d5ca27_1:
+translate french day16_choices_04d5ca27:
 
     # m "Sorry... I shouldn't have..."
-    m "Désolé... Je n'aurais pas dû...."
+    m "Sorry... I shouldn't have..."
 
 # game/day16.rpy:82
-translate french day16_choices_a3acdd7c_1:
+translate french day16_choices_a3acdd7c:
 
     # m "I'm going to submerge myself in plenty of ocean water to cool off."
-    m "Je vais me baigner pour me rafraîchir."
+    m "I'm going to submerge myself in plenty of ocean water to cool off."
 
 # game/day16.rpy:84
-translate french day16_choices_88f6174b_1:
+translate french day16_choices_88f6174b:
 
     # p "{i}(Damnit, just when she was about to open up she leaves...)"
-    p "{i}(Merde, juste au moment où elle allait se confier elle s'en va.)"
+    p "{i}(Damnit, just when she was about to open up she leaves...)"
 
 # game/day16.rpy:86
-translate french day16_choices_9bc82eb7_1:
+translate french day16_choices_9bc82eb7:
 
     # p "{i}(Maybe we can finish our conversation later, when she's cooled down.)"
-    p "{i}On finira peut-être notre conversation plus tard, quand elle se sera calmée."
+    p "{i}(Maybe we can finish our conversation later, when she's cooled down.)"
 
 # game/day16.rpy:92
-translate french day16_choices_25b083e4_1:
+translate french day16_choices_25b083e4:
 
     # p "{i}(Good thing I brought my laptop, otherwise I might have missed a super important email.)"
-    p "{i}(Heureusement que j'ai apporté mon ordinateur portable, sinon j'aurais pu manquer un email super important.)"
+    p "{i}(Good thing I brought my laptop, otherwise I might have missed a super important email.)"
 
 # game/day16.rpy:95
-translate french day16_choices_f2db60f9_1:
+translate french day16_choices_f2db60f9:
 
     # p "{i}(I promised Riley to release the material on Brody. I still have the email address of the supermarket management. Wonder if they'd like to know what their store manager is up to on the company's time?)"
-    p "{i}(J'ai promis à Riley de publier le contenu sur Brody. J'ai toujours l'adresse e-mail de la direction du supermarché. Je me demande si ils aimeraient savoir ce que leur gérant fait sur son temps de travail ?)"
+    p "{i}(I promised Riley to release the material on Brody. I still have the email address of the supermarket management. Wonder if they'd like to know what their store manager is up to on the company's time?)"
 
 # game/day16.rpy:96
-translate french day16_choices_0fd30849_1:
+translate french day16_choices_0fd30849:
 
     # "{i}After taking some precautions to hide your identity, you upload the video of Brody to an anonymous file sharing site and compose an email."
-    "{i}Après avoir pris quelques précautions pour cacher ton identité, tu télécharges la vidéo de Brody sur un site de partage de fichiers anonyme et tu écris un email."
+    "{i}After taking some precautions to hide your identity, you upload the video of Brody to an anonymous file sharing site and compose an email."
 
 # game/day16.rpy:97
-translate french day16_choices_4135b175_1:
+translate french day16_choices_4135b175:
 
     # p "{i}Dear sir, madam, Attached you'll find footage made by a security camera in one of your stores. The male in question is an employee of yours, engaging in illicit activities with what we think is a prostitute, during work hours."
-    p "{i}Chère Madame, vous trouverez ci-joint des images filmées par une caméra de sécurité dans un de vos magasins. L'homme en question est un de vos employés qui se livre à des activités illicites avec ce que nous pensons être une prostituée, pendant les heures de travail."
+    p "{i}Dear sir, madam, Attached you'll find footage made by a security camera in one of your stores. The male in question is an employee of yours, engaging in illicit activities with what we think is a prostitute, during work hours."
 
 # game/day16.rpy:98
-translate french day16_choices_77bc389f_1:
+translate french day16_choices_77bc389f:
 
     # p "{i}We're fairly certain that this is not the kind of behavior your company condones nor promotes and I trust you will take the appropriate steps in order to ensure it will not happen in the future. Yours truly, A concerned citizen."
-    p "{i}Nous sommes presque certains que ce n'est pas le genre de comportement que votre entreprise tolère ou promeut et j'espère que vous prendrez les mesures appropriées afin de vous assurer que cela ne se reproduira pas à l'avenir. Vôtre sincèrement, un citoyen concerné."
+    p "{i}We're fairly certain that this is not the kind of behavior your company condones nor promotes and I trust you will take the appropriate steps in order to ensure it will not happen in the future. Yours truly, A concerned citizen."
 
 # game/day16.rpy:99
-translate french day16_choices_318f66d0_1:
+translate french day16_choices_318f66d0:
 
     # p "Normally I'd hate ratting someone out, but this is Brody we're talking about."
-    p "Normalement, je détesterais dénoncer quelqu'un, mais c'est de Brody qu'on parle."
+    p "Normally I'd hate ratting someone out, but this is Brody we're talking about."
 
 # game/day16.rpy:101
-translate french day16_choices_485564dc_1:
+translate french day16_choices_485564dc:
 
     # p "Hopefully good things will come of this for Riley, she deserves it."
-    p "J'espère qu'il en sortira de bonnes choses pour Riley, elle le mérite."
+    p "Hopefully good things will come of this for Riley, she deserves it."
 
 # game/day16.rpy:103
-translate french day16_choices_cc40485b_1:
+translate french day16_choices_cc40485b:
 
     # p "Hopefully good things will come of this for Riley and that it'll make up for the disappointment I caused her earlier."
-    p "J'espère qu'il en sortira de bonnes choses pour Riley et que cela compensera la déception que je lui ai causée plus tôt."
+    p "Hopefully good things will come of this for Riley and that it'll make up for the disappointment I caused her earlier."
 
 # game/day16.rpy:106
-translate french day16_choices_44bc607d_1:
+translate french day16_choices_44bc607d:
 
     # p "{i}(I think it's time to make Dwayne shit himself with fear.)"
-    p "{i}(Je pense qu'il est temps de faire flipper Dwayne !)"
+    p "{i}(I think it's time to make Dwayne shit himself with fear.)"
 
 # game/day16.rpy:107
-translate french day16_choices_f4f259b5_1:
+translate french day16_choices_f4f259b5:
 
     # p "{i}Hi Dwayne, You don't know me, but I know some interesting things about you. First, you've been blackmailing women. That's not a nice thing to do and it needs to stop."
-    p "{i}Salut Dwayne, tu ne me connais pas, mais je sais des choses intéressantes sur toi. D'abord, tu as fait chanter des femmes. Ce n'est pas une bonne chose à faire et il faut que ça cesse."
+    p "{i}Hi Dwayne, You don't know me, but I know some interesting things about you. First, you've been blackmailing women. That's not a nice thing to do and it needs to stop."
 
 # game/day16.rpy:110
-translate french day16_choices_9471dc45_1:
+translate french day16_choices_9471dc45:
 
     # p "{i}Secondly, you've been sneaking into your mom's bedroom to masturbate and ejaculate on her naked body. I don't give a fuck if you continue with that practice, but I have the photos that prove you're doing this."
-    p "{i}Deuxièmement, tu t'es faufilé dans la chambre de ta mère pour te masturber et éjaculer sur son corps nue. J'en ai rien à foutre si tu continues, mais j'ai les photos qui prouvent que tu fais ça."
+    p "{i}Secondly, you've been sneaking into your mom's bedroom to masturbate and ejaculate on her naked body. I don't give a fuck if you continue with that practice, but I have the photos that prove you're doing this."
 
 # game/day16.rpy:111
-translate french day16_choices_2a0f1aaa_1:
+translate french day16_choices_2a0f1aaa:
 
     # p "{i}So you're going to stop blackmailing, otherwise I'll release those pictures in any way I see fit. I've attached some of the photos for you to enjoy and so you know I'm not talking out of my ass."
-    p "{i}Donc tu vas arrêter le chantage, sinon je publierai ces photos comme bon me semble. J'ai joint quelques photos pour que tu en profites et que tu saches que je ne suis pas en train de parler de connerie."
+    p "{i}So you're going to stop blackmailing, otherwise I'll release those pictures in any way I see fit. I've attached some of the photos for you to enjoy and so you know I'm not talking out of my ass."
 
 # game/day16.rpy:113
-translate french day16_choices_3386d501_1:
+translate french day16_choices_3386d501:
 
     # p "{i}Secondly, I've have this very interesting video of your mom and it seems she really enjoys getting fucked. She's one glorious whore and even admits to being one on video!"
-    p "{i}Deuxièmement, j'ai cette vidéo très intéressante de ta mère et il semble qu'elle aime vraiment se faire baiser. C'est une merveilleuse prostituée et elle avoue même en être une sur la vidéo !"
+    p "{i}Secondly, I've have this very interesting video of your mom and it seems she really enjoys getting fucked. She's one glorious whore and even admits to being one on video!"
 
 # game/day16.rpy:114
-translate french day16_choices_9e1bd8ed_2:
+translate french day16_choices_9e1bd8ed:
 
     # p "{i}So you're going to stop blackmailing, otherwise I'll release that video in any way I see fit. I've attached a snippet of the footage for you to enjoy and so you know I'm not talking out of my ass."
-    p "{i}Donc tu vas arrêter le chantage, sinon je vais sortir cette vidéo de la façon que je veux. J'ai joint un extrait de la vidéo pour que tu puisses en profiter et que tu saches que je ne suis pas en train de parler de connerie."
+    p "{i}So you're going to stop blackmailing, otherwise I'll release that video in any way I see fit. I've attached a snippet of the footage for you to enjoy and so you know I'm not talking out of my ass."
 
 # game/day16.rpy:116
-translate french day16_choices_6a279b03_1:
+translate french day16_choices_6a279b03:
 
     # p "{i}Secondly, I've have this very interesting video of your mom and it seems she really enjoys getting fucked by a big black cock. She's one glorious whore and even admits to being one on video!"
-    p "{i}Deuxièmement, j'ai cette vidéo très intéressante de ta mère et il semble qu'elle aime vraiment se faire baiser par une grosse bite noire. C'est une merveilleuse prostituée et elle avoue même en être une sur la vidéo !"
+    p "{i}Secondly, I've have this very interesting video of your mom and it seems she really enjoys getting fucked by a big black cock. She's one glorious whore and even admits to being one on video!"
 
 # game/day16.rpy:117
-translate french day16_choices_9e1bd8ed_3:
+translate french day16_choices_9e1bd8ed_1:
 
     # p "{i}So you're going to stop blackmailing, otherwise I'll release that video in any way I see fit. I've attached a snippet of the footage for you to enjoy and so you know I'm not talking out of my ass."
-    p "{i}Donc tu vas arrêter le chantage, sinon je vais sortir cette vidéo de la façon que je veux. J'ai joint un extrait de la vidéo pour que tu puisses en profiter et que tu saches que je ne suis pas en train de parler de connerie."
+    p "{i}So you're going to stop blackmailing, otherwise I'll release that video in any way I see fit. I've attached a snippet of the footage for you to enjoy and so you know I'm not talking out of my ass."
 
 # game/day16.rpy:119
-translate french day16_choices_2e111dab_1:
+translate french day16_choices_2e111dab:
 
     # p "{i}These are the first of my demands. I'll contact you very soon with further instructions. Yours truly, MisterY"
-    p "{i}C'est la première de mes demandes. Je te contacterai très vite avec d'autres instructions. Bien à toi, MisterY"
+    p "{i}These are the first of my demands. I'll contact you very soon with further instructions. Yours truly, MisterY"
 
 # game/day16.rpy:120
-translate french day16_choices_4e7a0e42_1:
+translate french day16_choices_4e7a0e42:
 
     # p "{i}(Let's see how he reacts to this.)"
-    p "{i}(Voyons comment il réagit à ça.)"
+    p "{i}(Let's see how he reacts to this.)"
 
 # game/day16.rpy:122
-translate french day16_choices_e6786eed_1:
+translate french day16_choices_e6786eed:
 
     # p "{i}(Maybe [b_name] can help me invent some devious ways to punish him further.)"
-    p "{i}(Peut-être que [b_name] peut m'aider à inventer des façons sournoises de le punir plus sévèrement.)"
+    p "{i}(Maybe [b_name] can help me invent some devious ways to punish him further.)"
 
 # game/day16.rpy:124
-translate french day16_choices_01862e76_1:
+translate french day16_choices_01862e76:
 
     # p "{i}(Now I have to think on devious ways to punish him further.)"
-    p "{i}(Maintenant je dois réfléchir à des façons sournoises de le punir plus sévèrement.)"
+    p "{i}(Now I have to think on devious ways to punish him further.)"
 
 # game/day16.rpy:127
-translate french day16_choices_43f533f4_1:
+translate french day16_choices_43f533f4:
 
     # p "{i}(Nope, nothing.)"
-    p "{i}(Non, rien.)"
+    p "{i}(Nope, nothing.)"
 
 # game/day16.rpy:134
-translate french day16_choices_97ac9937_1:
+translate french day16_choices_97ac9937:
 
     # l "You finally came!"
-    l "Tu es enfin venu !"
+    l "You finally came!"
 
 # game/day16.rpy:135
-translate french day16_choices_7207aad4_1:
+translate french day16_choices_7207aad4:
 
     # p "I was jet-lagged... But you don't seem to suffer from it in the slightest."
-    p "J'étais en décalage horaire.... Mais tu n'as pas l'air d'en souffrir le moins du monde."
+    p "I was jet-lagged... But you don't seem to suffer from it in the slightest."
 
 # game/day16.rpy:138
-translate french day16_choices_3b0aa2b7_1:
+translate french day16_choices_3b0aa2b7:
 
     # p "God, you all look beautiful."
-    p "Mon Dieu, vous êtes toutes magnifiques."
+    p "God, you all look beautiful."
 
 # game/day16.rpy:140
-translate french day16_choices_7e3e1b6d_1:
+translate french day16_choices_7e3e1b6d:
 
     # b "When did our brother become such a charmer?"
-    b "Depuis quand notre frère est-il devenu un tel charmeur ?"
+    b "When did our brother become such a charmer?"
 
 # game/day16.rpy:142
-translate french day16_choices_cfde1ff1_1:
+translate french day16_choices_cfde1ff1:
 
     # b "When did [p_name] become such a charmer?"
-    b "Depuis quand [p_name] est-il devenu un tel charmeur ?"
+    b "When did [p_name] become such a charmer?"
 
 # game/day16.rpy:143
-translate french day16_choices_42a0883b_1:
+translate french day16_choices_42a0883b:
 
     # l "I don't know, but i like it."
-    l "Je ne sais pas, mais ça me plaît."
+    l "I don't know, but i like it."
 
 # game/day16.rpy:146
-translate french day16_choices_20828d18_1:
+translate french day16_choices_20828d18:
 
     # r "Can I speak with you for a moment, [p_name]?"
-    r "Je peux te parler un instant, [p_name] ?"
+    r "Can I speak with you for a moment, [p_name]?"
 
 # game/day16.rpy:147
-translate french day16_choices_05224883_1:
+translate french day16_choices_05224883:
 
     # p "Sure."
-    p "Bien sûr."
+    p "Sure."
 
 # game/day16.rpy:148
-translate french day16_choices_df6f14b6_1:
+translate french day16_choices_df6f14b6:
 
     # "{i}[r_name] clearly wants to have a private conversation because she leads you to a more secluded spot on the beach, out of hearing distance from [l_name] and [b_name]."
-    "{i}[r_name] veut clairement avoir une conversation privée elle t'emmène dans un endroit plus isolé sur la plage, éloignée de [l_name] et [b_name]."
+    "{i}[r_name] clearly wants to have a private conversation because she leads you to a more secluded spot on the beach, out of hearing distance from [l_name] and [b_name]."
 
 # game/day16.rpy:153
-translate french day16_choices_a9b828a7_1:
+translate french day16_choices_a9b828a7:
 
     # r "So, I thought we needed to talk. The past few days have been really awkward, at least for me."
-    r "J'ai pensé qu'il fallait qu'on parle. Ces derniers jours ont été très embarrassants, du moins pour moi."
+    r "So, I thought we needed to talk. The past few days have been really awkward, at least for me."
 
 # game/day16.rpy:154
-translate french day16_choices_7ce8f1f2_1:
+translate french day16_choices_7ce8f1f2:
 
     # p "For me as well."
-    p "Pour moi aussi."
+    p "For me as well."
 
 # game/day16.rpy:157
-translate french day16_choices_b5c36bba_1:
+translate french day16_choices_b5c36bba:
 
     # r "You know about what happened with Mrs. Steel and everything."
-    r "Tu sais ce qui s'est passé avec Mme Steel et tout."
+    r "You know about what happened with Mrs. Steel and everything."
 
 # game/day16.rpy:158
-translate french day16_choices_a4201c87_1:
+translate french day16_choices_a4201c87:
 
     # r "And our talk yesterday really helped me build my confidence again. I'm not going to ruin my life over some stupid school counsellor. I have to trust my feelings."
-    r "Et notre conversation d'hier m'a vraiment aidée à reprendre confiance en moi. Je ne vais pas gâcher ma vie pour une stupide conseillère scolaire. Je dois faire confiance en mes sentiments."
+    r "And our talk yesterday really helped me build my confidence again. I'm not going to ruin my life over some stupid school counsellor. I have to trust my feelings."
 
 # game/day16.rpy:159
-translate french day16_choices_cf6d0b68_1:
+translate french day16_choices_cf6d0b68:
 
     # p "I agree."
-    p "Je suis d'accord."
+    p "I agree."
 
 # game/day16.rpy:160
-translate french day16_choices_66047fbf_1:
+translate french day16_choices_66047fbf:
 
     # r "And when you said you loved me yesterday I felt so... so relieved and ecstatic at the same time. There's no way in hell that such a great feeling could be a bad influence in my life."
-    r "Et quand tu m'as dit que tu m'aimais hier, je me suis sentie si... si soulagée et extatique en même temps. Il n'y a aucune chance qu'un tel sentiment puisse avoir une mauvaise influence dans ma vie."
+    r "And when you said you loved me yesterday I felt so... so relieved and ecstatic at the same time. There's no way in hell that such a great feeling could be a bad influence in my life."
 
 # game/day16.rpy:161
-translate french day16_choices_34f40f02_1:
+translate french day16_choices_34f40f02:
 
     # r "So no more excuses or doubts. I'm your girl. I love you."
-    r "Donc plus d'excuses ni de doutes. Je suis ta copine. Je t'aime."
+    r "So no more excuses or doubts. I'm your girl. I love you."
 
 # game/day16.rpy:162
-translate french day16_choices_3880ebca_1:
+translate french day16_choices_3880ebca:
 
     # p "{i}(She's so beautiful when she's impassioned like that.)"
-    p "{i}(Elle est si belle quand elle est passionnée comme ça.)"
+    p "{i}(She's so beautiful when she's impassioned like that.)"
 
 # game/day16.rpy:163
-translate french day16_choices_cb7052b3_1:
+translate french day16_choices_cb7052b3:
 
     # r "This would be a great time to kiss me, [p_name]."
-    r "Ce serait le bon moment pour m'embrasser, [p_name]."
+    r "This would be a great time to kiss me, [p_name]."
 
 # game/day16.rpy:166
-translate french day16_choices_64bae5bd_3:
+translate french day16_choices_64bae5bd:
 
     # "{i}Your kiss is long and passionate and nearly takes your sister's breath away. Though you are in a secluded spot, anybody could see you, but you both clearly don't care about that."
-    "{i}Ton baiser est long et passionné il coupe presque le souffle à ta sœur. Bien que vous soyez dans un endroit isolé, n'importe qui pourrait vous voir, mais vous ne vous en souciez manifestement pas."
+    "{i}Your kiss is long and passionate and nearly takes your sister's breath away. Though you are in a secluded spot, anybody could see you, but you both clearly don't care about that."
 
 # game/day16.rpy:168
-translate french day16_choices_531714ef_3:
+translate french day16_choices_531714ef:
 
     # "{i}Your kiss is long and passionate and nearly takes [r_name]'s breath away. Though you are in a secluded spot, anybody could see you, but you both clearly don't care about that."
-    "{i}Ton baiser est long et passionné il coupe presque le souffle à [r_name]. Bien que vous soyez dans un endroit isolé, n'importe qui pourrait vous voir, mais vous ne vous en souciez manifestement pas."
+    "{i}Your kiss is long and passionate and nearly takes [r_name]'s breath away. Though you are in a secluded spot, anybody could see you, but you both clearly don't care about that."
 
 # game/day16.rpy:169
-translate french day16_choices_5e9f795a_2:
+translate french day16_choices_5e9f795a:
 
     # p "I love you so much, [r_name]."
-    p "Je t'aime tellement, [r_name]."
+    p "I love you so much, [r_name]."
 
 # game/day16.rpy:170
-translate french day16_choices_694b1a0a_2:
+translate french day16_choices_694b1a0a:
 
     # r "I love you too, [p_name]."
-    r "Je t'aime aussi, [p_name]."
+    r "I love you too, [p_name]."
 
 # game/day16.rpy:171
-translate french day16_choices_65229427_1:
+translate french day16_choices_65229427:
 
     # r "I'm sharing the room with [b_name] tonight, but as soon as I have a room to myself I'll let you know. I absolutely hated sleeping alone the past few days."
-    r "Je partage la chambre avec [b_name] ce soir, mais dès que j'aurai la chambre pour moi, je te le ferai savoir. Je détestais dormir seule ces derniers jours."
+    r "I'm sharing the room with [b_name] tonight, but as soon as I have a room to myself I'll let you know. I absolutely hated sleeping alone the past few days."
 
 # game/day16.rpy:172
-translate french day16_choices_3048c253_2:
+translate french day16_choices_3048c253:
 
     # "{i}After this exchange you both head back to [l_name] and [b_name]."
-    "{i}Après cet échange, vous retournerez vers [l_name] et [b_name]."
+    "{i}After this exchange you both head back to [l_name] and [b_name]."
 
 # game/day16.rpy:174
-translate french day16_choices_98831423_1:
+translate french day16_choices_98831423:
 
     # r "The past few days must have been awkward for you. They were for me as well."
-    r "Ces derniers jours ont dû être gênants pour toi. Ils l'étaient tout autant pour moi."
+    r "The past few days must have been awkward for you. They were for me as well."
 
 # game/day16.rpy:175
-translate french day16_choices_6bc6dd21_1:
+translate french day16_choices_6bc6dd21:
 
     # p "You could say that."
-    p "On peut dire ça."
+    p "You could say that."
 
 # game/day16.rpy:176
-translate french day16_choices_ebaec023_1:
+translate french day16_choices_ebaec023:
 
     # r "Some stuff happened which made me doubt the way things were going. With us, I mean."
-    r "Il s'est passé des choses qui m'ont fait douter de la tournure des événements. Entre nous, je veux dire."
+    r "Some stuff happened which made me doubt the way things were going. With us, I mean."
 
 # game/day16.rpy:177
-translate french day16_choices_20fe7038_1:
+translate french day16_choices_20fe7038:
 
     # p "Did someone say something to you?"
-    p "Quelqu'un t'a dit quelque chose ?"
+    p "Did someone say something to you?"
 
 # game/day16.rpy:178
-translate french day16_choices_4a6bd799_1:
+translate french day16_choices_4a6bd799:
 
     # r "Does it really matter?"
-    r "Est-ce vraiment important ?"
+    r "Does it really matter?"
 
 # game/day16.rpy:183
-translate french day16_choices_42eacd01_1:
+translate french day16_choices_42eacd01:
 
     # p "It kinda does. He or she must have a great deal of influence on you."
-    p "C'est un peu le cas. Il ou elle doit avoir beaucoup d'influence sur toi."
+    p "It kinda does. He or she must have a great deal of influence on you."
 
 # game/day16.rpy:184
-translate french day16_choices_07f06655_1:
+translate french day16_choices_07f06655:
 
     # r "Fine, it was Mrs. Steel, the school counsellor. She called me and said some harsh things."
-    r "C'était Mme Steel, la conseillère scolaire. Elle m'a appelé et m'a dit des choses cruelles."
+    r "Fine, it was Mrs. Steel, the school counsellor. She called me and said some harsh things."
 
 # game/day16.rpy:185
-translate french day16_choices_e96bd0fb_1:
+translate french day16_choices_e96bd0fb:
 
     # p "You think she's right?"
-    p "Tu crois qu'elle a raison ?"
+    p "You think she's right?"
 
 # game/day16.rpy:186
-translate french day16_choices_66cf9bfe_1:
+translate french day16_choices_66cf9bfe:
 
     # r "I don't know. All I know is that I wasn't so sure about us all of a sudden. Maybe we went too fast?"
-    r "Je ne sais pas. Tout ce que je sais, c'est que je n'étais pas si sûre de nous tout d'un coup. On est peut-être allés trop vite ?"
+    r "I don't know. All I know is that I wasn't so sure about us all of a sudden. Maybe we went too fast?"
 
 # game/day16.rpy:188
-translate french day16_choices_869e1e18_1:
+translate french day16_choices_869e1e18:
 
     # p "No, not really."
-    p "Non, pas vraiment."
+    p "No, not really."
 
 # game/day16.rpy:189
-translate french day16_choices_0b2b25f0_1:
+translate french day16_choices_0b2b25f0:
 
     # r "It really got me thinking... Maybe we went too fast?"
-    r "Cela m'a vraiment fait réfléchir... On est peut-être allés trop vite ?"
+    r "It really got me thinking... Maybe we went too fast?"
 
 # game/day16.rpy:190
-translate french day16_choices_43bfcfbf_1:
+translate french day16_choices_43bfcfbf:
 
     # p "I don't know about you, but I really enjoyed our time together. We were happy, that can't be a bad thing, right?"
-    p "Je ne sais pas pour toi, mais j'ai vraiment apprécié le temps que nous avons passé ensemble. On était heureux, ça ne peut pas être une mauvaise chose, non ?"
+    p "I don't know about you, but I really enjoyed our time together. We were happy, that can't be a bad thing, right?"
 
 # game/day16.rpy:191
-translate french day16_choices_6b33838d_1:
+translate french day16_choices_6b33838d:
 
     # r "I guess not... Maybe..."
-    r "Je suppose que non.... Peut-être...."
+    r "I guess not... Maybe..."
 
 # game/day16.rpy:192
-translate french day16_choices_5e194165_1:
+translate french day16_choices_5e194165:
 
     # r "But yesterday in the ocean I though we had a moment there, but nothing happened. And it made me doubt us even more. Are you really there for me, or am I just a plaything?"
-    r "Mais hier, dans l'océan, j'ai cru que nous avions eu un moment, mais rien ne s'est passé. Et ça m'a fait douter encore plus de nous. Tu es vraiment là pour moi ou je ne suis qu'un jouet ?"
+    r "But yesterday in the ocean I though we had a moment there, but nothing happened. And it made me doubt us even more. Are you really there for me, or am I just a plaything?"
 
 # game/day16.rpy:198
-translate french day16_choices_a1dc4e8f_1:
+translate french day16_choices_a1dc4e8f:
 
     # p "How could you think such a thing, [r_name]! You're the most wonderful, sweet girl I've ever met!"
-    p "Comment as-tu pu penser une telle chose, [r_name] ! Tu es la fille la plus merveilleuse et la plus gentille que j'aie jamais rencontrée !"
+    p "How could you think such a thing, [r_name]! You're the most wonderful, sweet girl I've ever met!"
 
 # game/day16.rpy:199
-translate french day16_choices_1d931287_1:
+translate french day16_choices_1d931287:
 
     # p "I just thought that, with the recent events, you needed some space to think. So I kept my distance."
-    p "J'ai juste pensé qu'avec les événements récents, tu avais besoin d'un peu d'espace pour réfléchir. Alors j'ai gardé mes distances."
+    p "I just thought that, with the recent events, you needed some space to think. So I kept my distance."
 
 # game/day16.rpy:200
-translate french day16_choices_8c653d6b_1:
+translate french day16_choices_8c653d6b:
 
     # p "There was a moment yesterday and I didn't act on it because I thought it would make you feel uncomfortable."
-    p "Il y a eu un moment hier et je n'ai pas agi parce que je pensais que cela te mettrait mal à l'aise."
+    p "There was a moment yesterday and I didn't act on it because I thought it would make you feel uncomfortable."
 
 # game/day16.rpy:201
-translate french day16_choices_8b2fb085_1:
+translate french day16_choices_8b2fb085:
 
     # p "I love you and I want to be with you, without question."
-    p "Je t'aime et je veux être avec toi, sans aucun doute."
+    p "I love you and I want to be with you, without question."
 
 # game/day16.rpy:203
-translate french day16_choices_783d7b19_1:
+translate french day16_choices_783d7b19:
 
     # r "That's... That's..."
-    r "C'est.... C'est...."
+    r "That's... That's..."
 
 # game/day16.rpy:204
-translate french day16_choices_d29d4d6d_1:
+translate french day16_choices_d29d4d6d:
 
     # r "You love me?"
-    r "Tu m'aimes ?"
+    r "You love me?"
 
 # game/day16.rpy:205
-translate french day16_choices_213ff27d_1:
+translate french day16_choices_213ff27d:
 
     # p "Yes. Very much."
-    p "Oui. Vraiment beaucoup."
+    p "Yes. Very much."
 
 # game/day16.rpy:206
-translate french day16_choices_4b0db348_1:
+translate french day16_choices_4b0db348:
 
     # r "Oh [p_name]! I've been so stupid! I'm so sorry. Can we make it up with a kiss?"
-    r "Oh [p_name] ! J'ai été si stupide ! Je suis vraiment désolée. On peut se réconcilier avec un baiser ?"
+    r "Oh [p_name]! I've been so stupid! I'm so sorry. Can we make it up with a kiss?"
 
 # game/day16.rpy:207
-translate french day16_choices_8ba011a2_1:
+translate french day16_choices_8ba011a2:
 
     # p "Of course, silly!"
-    p "Bien sûr, idiote !"
+    p "Of course, silly!"
 
 # game/day16.rpy:210
-translate french day16_choices_64bae5bd_4:
+translate french day16_choices_64bae5bd_1:
 
     # "{i}Your kiss is long and passionate and nearly takes your sister's breath away. Though you are in a secluded spot, anybody could see you, but you both clearly don't care about that."
-    "{i}Ton baiser est long et passionné il coupe presque le souffle à ta sœur. Bien que vous soyez dans un endroit isolé, n'importe qui pourrait vous voir, mais vous ne vous en souciez manifestement pas."
+    "{i}Your kiss is long and passionate and nearly takes your sister's breath away. Though you are in a secluded spot, anybody could see you, but you both clearly don't care about that."
 
 # game/day16.rpy:212
-translate french day16_choices_531714ef_4:
+translate french day16_choices_531714ef_1:
 
     # "{i}Your kiss is long and passionate and nearly takes [r_name]'s breath away. Though you are in a secluded spot, anybody could see you, but you both clearly don't care about that."
-    "{i}Ton baiser est long et passionné il coupe presque le souffle à [r_name]. Bien que vous soyez dans un endroit isolé, n'importe qui pourrait vous voir, mais vous ne vous en souciez manifestement pas."
+    "{i}Your kiss is long and passionate and nearly takes [r_name]'s breath away. Though you are in a secluded spot, anybody could see you, but you both clearly don't care about that."
 
 # game/day16.rpy:213
-translate french day16_choices_a4b0ea11_1:
+translate french day16_choices_a4b0ea11:
 
     # r "I really don't want to lose you, [p_name]."
-    r "Je ne veux vraiment pas te perdre, [p_name]."
+    r "I really don't want to lose you, [p_name]."
 
 # game/day16.rpy:214
-translate french day16_choices_a8458614_1:
+translate french day16_choices_a8458614:
 
     # p "Me neither. From now on it's you and me, together. Whatever happens."
-    p "Moi non plus. A partir de maintenant, c'est toi et moi, ensemble. Quoi qu'il arrive."
+    p "Me neither. From now on it's you and me, together. Whatever happens."
 
 # game/day16.rpy:215
-translate french day16_choices_c91cae1d_1:
+translate french day16_choices_c91cae1d:
 
     # r "Whatever happens."
-    r "Quoi qu'il arrive."
+    r "Whatever happens."
 
 # game/day16.rpy:216
-translate french day16_choices_3048c253_3:
+translate french day16_choices_3048c253_1:
 
     # "{i}After this exchange you both head back to [l_name] and [b_name]."
-    "{i}Après cet échange, vous retournerez vers [l_name] et [b_name]."
+    "{i}After this exchange you both head back to [l_name] and [b_name]."
 
 # game/day16.rpy:221
-translate french day16_choices_b5242108_1:
+translate french day16_choices_b5242108:
 
     # p "You know, [r_name], I'm baffled by this. If you have so little confidence in our relationship..."
-    p "Tu sais, [r_name], ça me laisse perplexe. Si tu as si peu confiance en notre relation...."
+    p "You know, [r_name], I'm baffled by this. If you have so little confidence in our relationship..."
 
 # game/day16.rpy:222
-translate french day16_choices_ff7b9fc4_1:
+translate french day16_choices_ff7b9fc4:
 
     # r "That's not what I meant."
-    r "Ce n'est pas ce que je voulais dire."
+    r "That's not what I meant."
 
 # game/day16.rpy:223
-translate french day16_choices_3257a9fb_1:
+translate french day16_choices_3257a9fb:
 
     # p "No really, I can't be with someone who's shaken by the first person who questions you. In a healthy relationship you face those problems together."
-    p "Non vraiment, je ne peux pas être avec quelqu'un qui est bouleversé par la première personne qui t'interroge. Dans une relation saine, tu fais face à ces problèmes ensemble."
+    p "No really, I can't be with someone who's shaken by the first person who questions you. In a healthy relationship you face those problems together."
 
 # game/day16.rpy:224
-translate french day16_choices_0252d22f_1:
+translate french day16_choices_0252d22f:
 
     # r "I... I'm sorry..."
-    r "Je... Je suis désolée...."
+    r "I... I'm sorry..."
 
 # game/day16.rpy:225
-translate french day16_choices_1345d8eb_1:
+translate french day16_choices_1345d8eb:
 
     # p "Yes, me too."
-    p "Oui, moi aussi."
+    p "Yes, me too."
 
 # game/day16.rpy:226
-translate french day16_choices_a780bbca_1:
+translate french day16_choices_a780bbca:
 
     # "{i}[r_name] is sobbing uncontrollably when you leave her behind and head back to [l_name] and [b_name]."
-    "{i}[r_name] sanglote de façon incontrôlable quand tu la laisses et que tu retournes vers [l_name] et [b_name]."
+    "{i}[r_name] is sobbing uncontrollably when you leave her behind and head back to [l_name] and [b_name]."
 
 # game/day16.rpy:228
-translate french day16_choices_faf4e487_1:
+translate french day16_choices_faf4e487:
 
     # p "What did you want to talk about?"
-    p "De quoi voulais-tu parler ?"
+    p "What did you want to talk about?"
 
 # game/day16.rpy:230
-translate french day16_choices_59226edf_1:
+translate french day16_choices_59226edf:
 
     # r "The talking was just a pretense, what I really want is a kiss."
-    r "La discussion n'était qu'un prétexte, ce que je veux vraiment, c'est un baiser."
+    r "The talking was just a pretense, what I really want is a kiss."
 
 # game/day16.rpy:231
-translate french day16_choices_99098322_1:
+translate french day16_choices_99098322:
 
     # p "That can be arranged!"
-    p "Ça peut s'arranger !"
+    p "That can be arranged!"
 
 # game/day16.rpy:232
-translate french day16_choices_ecc58108_1:
+translate french day16_choices_ecc58108:
 
     # r "Yay!"
-    r "Ouais !"
+    r "Yay!"
 
 # game/day16.rpy:235
-translate french day16_choices_64bae5bd_5:
+translate french day16_choices_64bae5bd_2:
 
     # "{i}Your kiss is long and passionate and nearly takes your sister's breath away. Though you are in a secluded spot, anybody could see you, but you both clearly don't care about that."
-    "{i}Ton baiser est long et passionné il coupe presque le souffle à ta sœur. Bien que vous soyez dans un endroit isolé, n'importe qui pourrait vous voir, mais vous ne vous en souciez manifestement pas."
+    "{i}Your kiss is long and passionate and nearly takes your sister's breath away. Though you are in a secluded spot, anybody could see you, but you both clearly don't care about that."
 
 # game/day16.rpy:237
-translate french day16_choices_531714ef_5:
+translate french day16_choices_531714ef_2:
 
     # "{i}Your kiss is long and passionate and nearly takes [r_name]'s breath away. Though you are in a secluded spot, anybody could see you, but you both clearly don't care about that."
-    "{i}Ton baiser est long et passionné il coupe presque le souffle à [r_name]. Bien que vous soyez dans un endroit isolé, n'importe qui pourrait vous voir, mais vous ne vous en souciez manifestement pas."
+    "{i}Your kiss is long and passionate and nearly takes [r_name]'s breath away. Though you are in a secluded spot, anybody could see you, but you both clearly don't care about that."
 
 # game/day16.rpy:238
-translate french day16_choices_5e9f795a_3:
+translate french day16_choices_5e9f795a_1:
 
     # p "I love you so much, [r_name]."
-    p "Je t'aime tellement, [r_name]."
+    p "I love you so much, [r_name]."
 
 # game/day16.rpy:239
-translate french day16_choices_694b1a0a_3:
+translate french day16_choices_694b1a0a_1:
 
     # r "I love you too, [p_name]."
-    r "Je t'aime aussi, [p_name]."
+    r "I love you too, [p_name]."
 
 # game/day16.rpy:240
-translate french day16_choices_f9f6671b_1:
+translate french day16_choices_f9f6671b:
 
     # "{i}After this brief exchange you both head back to [l_name] and [b_name]."
-    "{i}Après ce bref échange, vous retournez vers [l_name] et [b_name]."
+    "{i}After this brief exchange you both head back to [l_name] and [b_name]."
 
 # game/day16.rpy:243
-translate french day16_choices_5456b363_1:
+translate french day16_choices_5456b363:
 
     # "{i}[r_name] and [l_name] are having a lively conversation when you approach [b_name]."
-    "{i}([r_name] et [l_name] ont une conversation animée quand tu t'approches de [b_name].)"
+    "{i}[r_name] and [l_name] are having a lively conversation when you approach [b_name]."
 
 # game/day16.rpy:247
-translate french day16_choices_980607a1_1:
+translate french day16_choices_980607a1:
 
     # p "We're going to have dinner tonight. You and I."
-    p "On va dîner ensemble ce soir. Toi et moi."
+    p "We're going to have dinner tonight. You and I."
 
 # game/day16.rpy:249
-translate french day16_choices_bc5139ac_1:
+translate french day16_choices_bc5139ac:
 
     # b "You want me all for yourself, don't you?"
-    b "Tu me veux pour toi toute seule, n'est-ce pas ?"
+    b "You want me all for yourself, don't you?"
 
 # game/day16.rpy:251
-translate french day16_choices_06a416b4_1:
+translate french day16_choices_06a416b4:
 
     # b "Can't wait..."
-    b "J'ai hâte...."
+    b "Can't wait..."
 
 # game/day16.rpy:252
-translate french day16_choices_ac9ed2a0_1:
+translate french day16_choices_ac9ed2a0:
 
     # p "Wear something nice. We're going to a fancy place."
-    p "Mets quelque chose de joli. On va dans un endroit chic."
+    p "Wear something nice. We're going to a fancy place."
 
 # game/day16.rpy:253
-translate french day16_choices_70a5d6c3_1:
+translate french day16_choices_70a5d6c3:
 
     # b "I guess I'll be ready."
-    b "Je serai bientôt prête."
+    b "I guess I'll be ready."
 
 # game/day16.rpy:255
-translate french day16_choices_1110cfeb_1:
+translate french day16_choices_1110cfeb:
 
     # p "I had an idea. What do you think of a nice dinner tonight. Just the two of us?"
-    p "J'ai une idée. Que penses-tu d'un bon dîner ce soir ? Juste nous deux ?"
+    p "I had an idea. What do you think of a nice dinner tonight. Just the two of us?"
 
 # game/day16.rpy:256
-translate french day16_choices_c23903ba_1:
+translate french day16_choices_c23903ba:
 
     # b "That sounds nice. Do you have a place in mind?"
-    b "Ça a l'air sympa. Tu as un endroit en tête ?"
+    b "That sounds nice. Do you have a place in mind?"
 
 # game/day16.rpy:257
-translate french day16_choices_8768f84f_1:
+translate french day16_choices_8768f84f:
 
     # p "Yes, I think so. It might be fancy, do you have something nice to wear?"
-    p "Oui, je pense que oui. C'est peut-être chic, tu as quelque chose de bien à te mettre ?"
+    p "Yes, I think so. It might be fancy, do you have something nice to wear?"
 
 # game/day16.rpy:258
-translate french day16_choices_9b00265b_1:
+translate french day16_choices_9b00265b:
 
     # b "I think I packed a dress somewhere. Hope that will do?"
-    b "Je crois que j'ai mis une robe quelque part. J'espère que ça ira ?"
+    b "I think I packed a dress somewhere. Hope that will do?"
 
 # game/day16.rpy:259
-translate french day16_choices_d180a8dd_1:
+translate french day16_choices_d180a8dd:
 
     # p "You look classy in anything."
-    p "Tu as de la classe dans n'importe quoi."
+    p "You look classy in anything."
 
 # game/day16.rpy:261
-translate french day16_choices_32b97afb_1:
+translate french day16_choices_32b97afb:
 
     # b "Be careful or I'll wear my bikini tonight!"
-    b "Fais attention ou je porterai mon bikini ce soir !"
+    b "Be careful or I'll wear my bikini tonight!"
 
 # game/day16.rpy:262
-translate french day16_choices_d0234f1f_1:
+translate french day16_choices_d0234f1f:
 
     # p "You won't hear me complaining."
-    p "Tu ne m'entendras pas me plaindre."
+    p "You won't hear me complaining."
 
 # game/day16.rpy:265
-translate french day16_choices_bd570247_1:
+translate french day16_choices_bd570247:
 
     # p "So I'll leave you girls to it. I have some other stuff planned for today."
-    p "Je vous laisse les filles. J'ai d'autres choses de prévues pour aujourd'hui."
+    p "So I'll leave you girls to it. I have some other stuff planned for today."
 
 # game/day16.rpy:266
-translate french day16_choices_1fd6499b_1:
+translate french day16_choices_1fd6499b:
 
     # l "See you around!"
-    l "A la prochaine !"
+    l "See you around!"
 
 # game/day16.rpy:270
-translate french day16_choices_463f64c7_1:
+translate french day16_choices_463f64c7:
 
     # p "{i}(I believe Nia is about to arrive.)"
-    p "{i}(Je crois que Nia est sur le point d'arriver.)"
+    p "{i}(I believe Nia is about to arrive.)"
 
 # game/day16.rpy:271
-translate french day16_choices_d38cd8d5_1:
+translate french day16_choices_d38cd8d5:
 
     # "{i}The doorbell rings."
-    "{i}On sonne à la porte."
+    "{i}The doorbell rings."
 
 # game/day16.rpy:272
-translate french day16_choices_bbf17fbe_1:
+translate french day16_choices_bbf17fbe:
 
     # p "{i}(Right on time.)"
-    p "{i}(Juste à temps.)"
+    p "{i}(Right on time.)"
 
 # game/day16.rpy:274
-translate french day16_choices_de600e99_1:
+translate french day16_choices_de600e99:
 
     # n "Hey handsome."
-    n "Salut, beau gosse."
+    n "Hey handsome."
 
 # game/day16.rpy:275
-translate french day16_choices_c59d6e2c_1:
+translate french day16_choices_c59d6e2c:
 
     # p "Hi Nia."
-    p "Salut Nia."
+    p "Hi Nia."
 
 # game/day16.rpy:276
-translate french day16_choices_37d89ce2_1:
+translate french day16_choices_37d89ce2:
 
     # n "Ready to immerse yourself in some Belugian culture?"
-    n "Prêt à te plonger dans la culture bélugienne ?"
+    n "Ready to immerse yourself in some Belugian culture?"
 
 # game/day16.rpy:277
-translate french day16_choices_c3c3eaaa_1:
+translate french day16_choices_c3c3eaaa:
 
     # p "I think so."
-    p "Je pense que oui."
+    p "I think so."
 
 # game/day16.rpy:278
-translate french day16_choices_1b362cc5_1:
+translate french day16_choices_1b362cc5:
 
     # n "Come on! A little bit of enthusiasm never killed anyone. Let's take a walk."
-    n "Allez, viens ! Un peu d'enthousiasme n'a jamais tué personne. Allons faire un tour."
+    n "Come on! A little bit of enthusiasm never killed anyone. Let's take a walk."
 
 # game/day16.rpy:280
-translate french day16_choices_969efe49_1:
+translate french day16_choices_969efe49:
 
     # p "So Nia tell me a little about yourself."
-    p "Alors, Nia, parle-moi un peu de toi."
+    p "So Nia tell me a little about yourself."
 
 # game/day16.rpy:281
-translate french day16_choices_fcb435f4_1:
+translate french day16_choices_fcb435f4:
 
     # n "A mystery am I?"
-    n "Je suis un mystère, non ?"
+    n "A mystery am I?"
 
 # game/day16.rpy:282
-translate french day16_choices_e559ec92_1:
+translate french day16_choices_e559ec92:
 
     # p "Aren't all women?"
-    p "Comme toutes les femmes, non ?"
+    p "Aren't all women?"
 
 # game/day16.rpy:283
-translate french day16_choices_bbbcb516_1:
+translate french day16_choices_bbbcb516:
 
     # n "Certainly. Don't know if there's that much to say about me."
-    n "Certainement. Je ne sais pas s'il y a tant de choses à dire sur moi."
+    n "Certainly. Don't know if there's that much to say about me."
 
 # game/day16.rpy:284
-translate french day16_choices_204b6162_1:
+translate french day16_choices_204b6162:
 
     # n "You've met my brother. We live together with our mother near the beach. I've never been abroad, always stayed on the island. So you could say I'm a very boring girl."
-    n "Tu connais mon frère. Nous vivons ensemble avec notre mère près de la plage. Je n'ai jamais été à l'étranger, je suis toujours resté sur l'île. On peut dire que je suis une fille très ennuyeuse."
+    n "You've met my brother. We live together with our mother near the beach. I've never been abroad, always stayed on the island. So you could say I'm a very boring girl."
 
 # game/day16.rpy:285
-translate french day16_choices_b4d107b9_1:
+translate french day16_choices_b4d107b9:
 
     # p "Somehow I doubt that."
-    p "J'en doute."
+    p "Somehow I doubt that."
 
 # game/day16.rpy:286
-translate french day16_choices_fd269edd_1:
+translate french day16_choices_fd269edd:
 
     # n "No, I really like it here. Belugio has so much to offer."
-    n "Non, j'aime beaucoup cet endroit. Belugio a tant à offrir."
+    n "No, I really like it here. Belugio has so much to offer."
 
 # game/day16.rpy:287
-translate french day16_choices_8149e4a4_1:
+translate french day16_choices_8149e4a4:
 
     # p "Yes, I'm amazed by all the services here. I thought it was your typical tropical island, totally reliant on tourism."
-    p "Oui, je suis étonné par tous les services ici. Je pensais que c'était une île tropicale typique, totalement dépendante du tourisme."
+    p "Yes, I'm amazed by all the services here. I thought it was your typical tropical island, totally reliant on tourism."
 
 # game/day16.rpy:288
-translate french day16_choices_52e5d618_1:
+translate french day16_choices_52e5d618:
 
     # n "Tourism is our main source of income I think, but there are some other areas where we excel as a small island nation. Poverty is at an all time low, as is crime. I think we have it pretty good here."
-    n "Le tourisme est notre principale source de revenus, je pense, mais il y a d'autres domaines où nous excellons en tant que petit pays insulaire. La pauvreté n'a jamais été aussi faible, tout comme la criminalité. Je pense que c'est plutôt bien ici."
+    n "Tourism is our main source of income I think, but there are some other areas where we excel as a small island nation. Poverty is at an all time low, as is crime. I think we have it pretty good here."
 
 # game/day16.rpy:289
-translate french day16_choices_9e6184cf_1:
+translate french day16_choices_9e6184cf:
 
     # p "Yeah, I was amazed by that, we mostly know Belugio for your king with his wives."
-    p "Oui, ça m'a étonné, on connaît surtout Belugio pour votre roi et ses femmes."
+    p "Yeah, I was amazed by that, we mostly know Belugio for your king with his wives."
 
 # game/day16.rpy:290
-translate french day16_choices_85e8c600_1:
+translate french day16_choices_85e8c600:
 
     # n "Oh that, what can I say, the man has a big heart. Your ambassador didn't like our big, happy royal family if I remember correctly."
-    n "Oh ça, qu'est-ce que je peux dire, cet homme a un grand coeur. Votre ambassadeur n'aimait pas notre grande et heureuse famille royale, si je me souviens bien."
+    n "Oh that, what can I say, the man has a big heart. Your ambassador didn't like our big, happy royal family if I remember correctly."
 
 # game/day16.rpy:291
-translate french day16_choices_c5677c96_1:
+translate french day16_choices_c5677c96:
 
     # p "Yeah, I heard. But is it true he married some of his sisters and cousins?"
-    p "Ouais, j'ai entendu. Mais est-il vrai qu'il a épousé certaines de ses sœurs et cousines ?"
+    p "Yeah, I heard. But is it true he married some of his sisters and cousins?"
 
 # game/day16.rpy:292
-translate french day16_choices_01c44ce7_1:
+translate french day16_choices_01c44ce7:
 
     # n "Yup. The key thing is that they married each other, his wives weren't forced to do anything."
-    n "Ouaip. L'important, c'est qu'ils se sont mariés, ses femmes n'étaient pas obligées de faire quoi que ce soit."
+    n "Yup. The key thing is that they married each other, his wives weren't forced to do anything."
 
 # game/day16.rpy:293
-translate french day16_choices_84a3b863_1:
+translate french day16_choices_84a3b863:
 
     # p "Does that happen often here?"
-    p "Est-ce que cela arrive souvent ici ?"
+    p "Does that happen often here?"
 
 # game/day16.rpy:294
-translate french day16_choices_da577c8d_1:
+translate french day16_choices_da577c8d:
 
     # n "No, not really, but it isn't illegal or anything. It's mostly the foreign visitors that are so hung up about it all, like your ambassador. For us it's just a normal fact of everyday life."
-    n "Non, pas vraiment, mais ce n'est pas illégal. Ce sont surtout les visiteurs étrangers qui sont tellement accros à tout ça, comme votre ambassadeur. Pour nous, c'est un fait normal de la vie quotidienne."
+    n "No, not really, but it isn't illegal or anything. It's mostly the foreign visitors that are so hung up about it all, like your ambassador. For us it's just a normal fact of everyday life."
 
 # game/day16.rpy:295
-translate french day16_choices_add6f6f5_1:
+translate french day16_choices_add6f6f5:
 
     # p "Your country is quite unique in this regard."
-    p "Votre pays est tout à fait unique à cet égard."
+    p "Your country is quite unique in this regard."
 
 # game/day16.rpy:296
-translate french day16_choices_955b2bd6_1:
+translate french day16_choices_955b2bd6:
 
     # n "If you love someone very much and he or she loves you back, why not enjoy one another? What's the harm in that? As long as both are consenting adults I don't see the problem."
-    n "Si tu aimes beaucoup quelqu'un et qu'il ou elle t'aime en retour, pourquoi ne pas profiter les uns des autres ? Quel mal y a-t-il là-dedans ? Tant que les deux sont des adultes consentants, je ne vois pas le problème."
+    n "If you love someone very much and he or she loves you back, why not enjoy one another? What's the harm in that? As long as both are consenting adults I don't see the problem."
 
 # game/day16.rpy:298
-translate french day16_choices_594f287e_1:
+translate french day16_choices_594f287e:
 
     # p "{i}(I really get what she's saying.)"
-    p "{i}(Je comprends vraiment ce qu'elle dit.)"
+    p "{i}(I really get what she's saying.)"
 
 # game/day16.rpy:299
-translate french day16_choices_ba2d2c6d_1:
+translate french day16_choices_ba2d2c6d:
 
     # n "We're here. Let's go inside."
-    n "Nous y sommes. Rentrons à l'intérieur."
+    n "We're here. Let's go inside."
 
 # game/day16.rpy:301
-translate french day16_choices_bffa96b4_1:
+translate french day16_choices_bffa96b4:
 
     # p "A museum?"
-    p "Un musée ?"
+    p "A museum?"
 
 # game/day16.rpy:302
-translate french day16_choices_978e6f49_1:
+translate french day16_choices_978e6f49:
 
     # n "A gallery. One of the most important artists of Belugio is having an exhibition here."
-    n "Une galerie. L'un des artistes les plus importants de Belugio y a une exposition."
+    n "A gallery. One of the most important artists of Belugio is having an exhibition here."
 
 # game/day16.rpy:303
-translate french day16_choices_710bc443_1:
+translate french day16_choices_710bc443:
 
     # p "I didn't know you were into art."
-    p "Je ne savais pas que tu aimais l'art."
+    p "I didn't know you were into art."
 
 # game/day16.rpy:304
-translate french day16_choices_337eac05_1:
+translate french day16_choices_337eac05:
 
     # n "Just wait and see."
-    n "Attends et tu verras."
+    n "Just wait and see."
 
 # game/day16.rpy:306
-translate french day16_choices_b4ea62b9_1:
+translate french day16_choices_b4ea62b9:
 
     # n "Here we are. This is the first piece of a new series, I believe."
-    n "Nous y voilà. C'est la première pièce d'une nouvelle série, je crois."
+    n "Here we are. This is the first piece of a new series, I believe."
 
 # game/day16.rpy:307
-translate french day16_choices_d8a6abb0_1:
+translate french day16_choices_d8a6abb0:
 
     # p "Those girls are..."
-    p "Ces filles sont...."
+    p "Those girls are..."
 
 # game/day16.rpy:308
-translate french day16_choices_2a8ac33d_1:
+translate french day16_choices_2a8ac33d:
 
     # n "Yes, she's licking her pussy."
-    n "Oui, elle lèche sa chatte."
+    n "Yes, she's licking her pussy."
 
 # game/day16.rpy:309
-translate french day16_choices_63a1a7d9_1:
+translate french day16_choices_63a1a7d9:
 
     # p "It's almost pornography."
-    p "C'est presque de la pornographie."
+    p "It's almost pornography."
 
 # game/day16.rpy:310
-translate french day16_choices_b3007568_1:
+translate french day16_choices_b3007568:
 
     # n "Except that this is porn rendered in marble, or rather 3D printed resin that looks like marble."
-    n "Sauf que c'est du porno rendu en marbre, ou plutôt de la résine imprimée en 3D qui ressemble à du marbre."
+    n "Except that this is porn rendered in marble, or rather 3D printed resin that looks like marble."
 
 # game/day16.rpy:311
-translate french day16_choices_111f0f17_1:
+translate french day16_choices_111f0f17:
 
     # p "This is a 3D print?"
-    p "C'est une empreinte 3D ?"
+    p "This is a 3D print?"
 
 # game/day16.rpy:312
-translate french day16_choices_0e7a52f1_1:
+translate french day16_choices_0e7a52f1:
 
     # n "Yup, the artist makes very detailed 3D models which are printed using a special resin. It gives her the ability to create very lifelike figures. Some art critics even called her a modern-day Bernini."
-    n "Oui, l'artiste réalise des maquettes 3D très détaillées qui sont imprimées avec une résine spéciale. Cela lui donne la capacité de créer des personnages très réalistes. Certains critiques d'art l'ont même qualifiée de Bernini des temps modernes."
+    n "Yup, the artist makes very detailed 3D models which are printed using a special resin. It gives her the ability to create very lifelike figures. Some art critics even called her a modern-day Bernini."
 
 # game/day16.rpy:313
-translate french day16_choices_456af1cb_1:
+translate french day16_choices_456af1cb:
 
     # p "You are certainly well-informed on the subject."
-    p "Tu es très bien informé sur le sujet."
+    p "You are certainly well-informed on the subject."
 
 # game/day16.rpy:314
-translate french day16_choices_6c0ce5de_1:
+translate french day16_choices_6c0ce5de:
 
     # n "Yeah and I know Rebeca very well."
-    n "Oui et je connais très bien Rebeca."
+    n "Yeah and I know Rebeca very well."
 
 # game/day16.rpy:315
-translate french day16_choices_8b65d2ca_1:
+translate french day16_choices_8b65d2ca:
 
     # p "That's the artist, I take it."
-    p "C'est l'artiste, je suppose."
+    p "That's the artist, I take it."
 
 # game/day16.rpy:316
-translate french day16_choices_84545bce_1:
+translate french day16_choices_84545bce:
 
     # n "Rebeca Cruz. You've never heard of her?"
-    n "Rebeca Cruz. Tu n'as jamais entendu parler d'elle ?"
+    n "Rebeca Cruz. You've never heard of her?"
 
 # game/day16.rpy:317
-translate french day16_choices_bc92d123_1:
+translate french day16_choices_bc92d123:
 
     # p "I'm afraid not."
-    p "J'ai bien peur que non."
+    p "I'm afraid not."
 
 # game/day16.rpy:319
-translate french day16_choices_1f5fd564_1:
+translate french day16_choices_1f5fd564:
 
     # n "Let's move on."
-    n "Passons à autre chose."
+    n "Let's move on."
 
 # game/day16.rpy:320
-translate french day16_choices_566897fe_1:
+translate french day16_choices_566897fe:
 
     # p "{i}(It must be the effect of all those copulating statues, but damn, that girl has such a toned little butt. I wouldn't mind burying my face between those cheeks.)"
-    p "{i}(Ça doit être l'effet de toutes ces statues copulantes, mais bon sang, cette fille a un petit cul si tonique. J'aimerais bien me cacher le visage entre ces belles joues.)"
+    p "{i}(It must be the effect of all those copulating statues, but damn, that girl has such a toned little butt. I wouldn't mind burying my face between those cheeks.)"
 
 # game/day16.rpy:321
-translate french day16_choices_bf686553_1:
+translate french day16_choices_bf686553:
 
     # p "{i}(But what a strange place to take someone to. I was expecting a club or café or something, not a gallery full of marble statues having sex...)"
-    p "{i}(Mais quel étrange endroit où emmener quelqu'un. Je m'attendais à un club ou un café ou quelque chose comme ça, pas une galerie pleine de statues de marbre ayant des relations sexuelles...)"
+    p "{i}(But what a strange place to take someone to. I was expecting a club or café or something, not a gallery full of marble statues having sex...)"
 
 # game/day16.rpy:323
-translate french day16_choices_be043794_1:
+translate french day16_choices_be043794:
 
     # n "Eroticism has always been a major theme in Rebeca's work, but with this last series she captures the sexual energy so well."
-    n "L'érotisme a toujours été un thème majeur dans le travail de Rebeca, mais avec cette dernière série elle capture si bien l'énergie sexuelle."
+    n "Eroticism has always been a major theme in Rebeca's work, but with this last series she captures the sexual energy so well."
 
 # game/day16.rpy:324
-translate french day16_choices_376e5149_1:
+translate french day16_choices_376e5149:
 
     # p "{i}(What if we just ripped our clothes of and lay on the ground. Nia on top of me, sucking my cock and my face buried in her pussy.)"
-    p "{i}(Et si on enlevait nos vêtements et qu'on s'allongeait sur le sol. Nia sur moi, suçant ma bite et mon visage enterré dans sa chatte.)"
+    p "{i}(What if we just ripped our clothes of and lay on the ground. Nia on top of me, sucking my cock and my face buried in her pussy.)"
 
 # game/day16.rpy:325
-translate french day16_choices_f07688ba_1:
+translate french day16_choices_f07688ba:
 
     # n "Don't you think, [p_name]?"
-    n "Tu ne crois pas, [p_name] ?"
+    n "Don't you think, [p_name]?"
 
 # game/day16.rpy:326
-translate french day16_choices_198125af_1:
+translate french day16_choices_198125af:
 
     # p "What? Oh. Errr..."
-    p "Quoi ? Quoi ? Oh. Errr....."
+    p "What? Oh. Errr..."
 
 # game/day16.rpy:327
-translate french day16_choices_fd76399b_1:
+translate french day16_choices_fd76399b:
 
     # n "Am I boring you?"
-    n "Est-ce que je t'ennuie ?"
+    n "Am I boring you?"
 
 # game/day16.rpy:328
-translate french day16_choices_9379099f_1:
+translate french day16_choices_9379099f:
 
     # p "No, no, not at all. The statues are just very distracting, that's all."
-    p "Non, non, pas du tout. Les statues sont très distrayantes, c'est tout."
+    p "No, no, not at all. The statues are just very distracting, that's all."
 
 # game/day16.rpy:329
-translate french day16_choices_a0069483_1:
+translate french day16_choices_a0069483:
 
     # n "Haha, you're such a prude."
-    n "Haha, tu es si prude."
+    n "Haha, you're such a prude."
 
 # game/day16.rpy:330
-translate french day16_choices_7e4a1575_1:
+translate french day16_choices_7e4a1575:
 
     # n "Come, there's one more piece we have to see."
-    n "Viens, il y a encore une pièce que tu dois voir."
+    n "Come, there's one more piece we have to see."
 
 # game/day16.rpy:332
-translate french day16_choices_a95ad34e_1:
+translate french day16_choices_a95ad34e:
 
     # p "A threesome. A spit-roast even."
-    p "Un plan à trois. Un rôti à la broche."
+    p "A threesome. A spit-roast even."
 
 # game/day16.rpy:333
-translate french day16_choices_c366c642_1:
+translate french day16_choices_c366c642:
 
     # n "Ah, I see, a true connoisseur."
-    n "Ah, je vois, un vrai connaisseur."
+    n "Ah, I see, a true connoisseur."
 
 # game/day16.rpy:338
-translate french day16_choices_5fe1bc41_1:
+translate french day16_choices_5fe1bc41:
 
     # p "Comes from watching a shitload of porn."
-    p "Ça vient de regarder un tas de porno."
+    p "Comes from watching a shitload of porn."
 
 # game/day16.rpy:339
-translate french day16_choices_65123851_1:
+translate french day16_choices_65123851:
 
     # n "Never underestimate the awesome educational powers of hardcore pornography."
-    n "Ne sous-estime jamais le pouvoir éducatif impressionnant de la pornographie hardcore."
+    n "Never underestimate the awesome educational powers of hardcore pornography."
 
 # game/day16.rpy:341
-translate french day16_choices_7c954a68_1:
+translate french day16_choices_7c954a68:
 
     # p "Just heard it somewhere once."
-    p "Je l'ai entendu quelque part une fois."
+    p "Just heard it somewhere once."
 
 # game/day16.rpy:342
-translate french day16_choices_d7080c61_1:
+translate french day16_choices_d7080c61:
 
     # n "Sure mister."
-    n "Bien sûr, monsieur."
+    n "Sure mister."
 
 # game/day16.rpy:344
-translate french day16_choices_878ae0dd_1:
+translate french day16_choices_878ae0dd:
 
     # p "Wait... Is she keeping him suspended with her mouth?! Both of his feet are completely off the ground!"
-    p "Attends.... Est-ce qu'elle se maintient accrochée avec sa bouche ?! Ses deux pieds ont complètement décollés du sol !"
+    p "Wait... Is she keeping him suspended with her mouth?! Both of his feet are completely off the ground!"
 
 # game/day16.rpy:346
-translate french day16_choices_212f90f2_1:
+translate french day16_choices_212f90f2:
 
     # n "Hahaha, never underestimate the power of the female throat!"
-    n "Hahahaha, ne sous-estime jamais le pouvoir de la bouche féminine !"
+    n "Hahaha, never underestimate the power of the female throat!"
 
 # game/day16.rpy:347
-translate french day16_choices_4fadfc8c_1:
+translate french day16_choices_4fadfc8c:
 
     # p "Or the awesome leverage of the male reproductive organ."
-    p "Ou l'effet de levier de l'organe reproducteur masculin."
+    p "Or the awesome leverage of the male reproductive organ."
 
 # game/day16.rpy:348
-translate french day16_choices_323ee168_1:
+translate french day16_choices_323ee168:
 
     # n "True!"
-    n "C'est vrai !"
+    n "True!"
 
 # game/day16.rpy:350
-translate french day16_choices_21ac52ec_1:
+translate french day16_choices_21ac52ec:
 
     # p "Do people model for her?"
-    p "Est-ce que les gens font du mannequinat pour elle ?"
+    p "Do people model for her?"
 
 # game/day16.rpy:351
-translate french day16_choices_cc892f33_1:
+translate french day16_choices_cc892f33:
 
     # n "Yes, all the sculptures are based on real models."
-    n "Oui, toutes les sculptures sont basées sur des modèles réels."
+    n "Yes, all the sculptures are based on real models."
 
 # game/day16.rpy:352
-translate french day16_choices_c83032c9_1:
+translate french day16_choices_c83032c9:
 
     # p "Real models having sex in the artist's studio?"
-    p "De vrais mannequins faisant l'amour dans l'atelier de l'artiste ?"
+    p "Real models having sex in the artist's studio?"
 
 # game/day16.rpy:353
-translate french day16_choices_22e86d43_1:
+translate french day16_choices_22e86d43:
 
     # n "Rebeca is a sucker for realism."
-    n "Rebeca adore le réalisme."
+    n "Rebeca is a sucker for realism."
 
 # game/day16.rpy:354
-translate french day16_choices_93638960_1:
+translate french day16_choices_93638960:
 
     # p "She must be..."
-    p "Elle doit être...."
+    p "She must be..."
 
 # game/day16.rpy:356
-translate french day16_choices_aa90c4d0_1:
+translate french day16_choices_aa90c4d0:
 
     # n "Hey!"
-    n "Salut !"
+    n "Hey!"
 
 # game/day16.rpy:357
-translate french day16_choices_8445b88f_1:
+translate french day16_choices_8445b88f:
 
     # "{i}Nia is waving at someone behind your back."
-    "{i}Nia fait signe à quelqu'un derrière ton dos."
+    "{i}Nia is waving at someone behind your back."
 
 # game/day16.rpy:358
-translate french day16_choices_f933c49e_1:
+translate french day16_choices_f933c49e:
 
     # n "You're in luck, you get to meet Rebeca."
-    n "Tu as de la chance, tu vas rencontrer Rebeca."
+    n "You're in luck, you get to meet Rebeca."
 
 # game/day16.rpy:363
-translate french day16_choices_3523672a_1:
+translate french day16_choices_3523672a:
 
     # p "{i}(Not quite what I expected...)"
-    p "{i}(Pas tout à fait ce à quoi je m'attendais...)"
+    p "{i}(Not quite what I expected...)"
 
 # game/day16.rpy:365
-translate french day16_choices_852b78f2_1:
+translate french day16_choices_852b78f2:
 
     # rb "Hey girl, who did you lure here today?"
-    rb "Salut chérie, qui as-tu attiré ici aujourd'hui ?"
+    rb "Hey girl, who did you lure here today?"
 
 # game/day16.rpy:366
-translate french day16_choices_09d4f2d4_1:
+translate french day16_choices_09d4f2d4:
 
     # n "[p_name], meet Rebeca. Rebeca, this is [p_name]."
-    n "[p_name], voici Rebeca. Rebeca, voici [p_name]."
+    n "[p_name], meet Rebeca. Rebeca, this is [p_name]."
 
 # game/day16.rpy:367
-translate french day16_choices_6046403a_1:
+translate french day16_choices_6046403a:
 
     # rb "Pleased to meet you, [p_name]. So, are you guys enjoying yourselves?"
-    rb "Enchanté, [p_name]. Alors, vous vous amusez bien ?"
+    rb "Pleased to meet you, [p_name]. So, are you guys enjoying yourselves?"
 
 # game/day16.rpy:368
-translate french day16_choices_7076e45d_1:
+translate french day16_choices_7076e45d:
 
     # n "[p_name] is a little shy amidst all the marble people fucking each other!"
-    n "[p_name] est un peu timide au milieu de tous ces gens de marbre qui baisent entre eux !"
+    n "[p_name] is a little shy amidst all the marble people fucking each other!"
 
 # game/day16.rpy:369
-translate french day16_choices_3280a631_1:
+translate french day16_choices_3280a631:
 
     # rb "That happens to the best of us."
-    rb "Cela arrive aux meilleurs d'entre nous."
+    rb "That happens to the best of us."
 
 # game/day16.rpy:370
-translate french day16_choices_955f4147_1:
+translate french day16_choices_955f4147:
 
     # p "It's just unusual, that's all. Nia told me about the process of creating the figures, very interesting."
-    p "C'est juste inhabituel, c'est tout. Nia m'a parlé du processus de création des personnages, très intéressant."
+    p "It's just unusual, that's all. Nia told me about the process of creating the figures, very interesting."
 
 # game/day16.rpy:371
-translate french day16_choices_c72f9b2d_1:
+translate french day16_choices_c72f9b2d:
 
     # rb "Yes, it combines the best things. Tinkering with technology, handcrafting and 3D-modeling."
-    rb "Oui, il combine les meilleures choses. Bricolage avec la technologie, l'artisanat et la modélisation 3D."
+    rb "Yes, it combines the best things. Tinkering with technology, handcrafting and 3D-modeling."
 
 # game/day16.rpy:372
-translate french day16_choices_3ad4b194_1:
+translate french day16_choices_3ad4b194:
 
     # p "And hardcore sex."
-    p "Et du sexe pur et dur."
+    p "And hardcore sex."
 
 # game/day16.rpy:373
-translate french day16_choices_edeb659d_1:
+translate french day16_choices_edeb659d:
 
     # rb "That too."
-    rb "Ça aussi."
+    rb "That too."
 
 # game/day16.rpy:374
-translate french day16_choices_d5c8bbbe_1:
+translate french day16_choices_d5c8bbbe:
 
     # n "Why are you here, by the way, Rebeca?"
-    n "Pourquoi es-tu ici, au fait, Rebeca ?"
+    n "Why are you here, by the way, Rebeca?"
 
 # game/day16.rpy:375
-translate french day16_choices_f41bc56a_1:
+translate french day16_choices_f41bc56a:
 
     # rb "The exhibition officially opens this evening. So I have to put up with all the social bullshit. I hate being a performing monkey. I was just adjusting a few things for the opening."
-    rb "L'exposition ouvre officiellement ses portes ce soir. Donc je dois supporter toutes ces conneries sociales. Je déteste être un singe de scène. J'ajustais juste quelques trucs pour l'ouverture."
+    rb "The exhibition officially opens this evening. So I have to put up with all the social bullshit. I hate being a performing monkey. I was just adjusting a few things for the opening."
 
 # game/day16.rpy:376
-translate french day16_choices_cfe720bd_1:
+translate french day16_choices_cfe720bd:
 
     # n "Ever the perfectionist."
-    n "Toujours perfectionniste."
+    n "Ever the perfectionist."
 
 # game/day16.rpy:377
-translate french day16_choices_3b0ad58d_1:
+translate french day16_choices_3b0ad58d:
 
     # n "Is there a toilet somewhere? I really need to pee."
-    n "Il y a des toilettes quelque part ? J'ai vraiment besoin de faire pipi."
+    n "Is there a toilet somewhere? I really need to pee."
 
 # game/day16.rpy:378
-translate french day16_choices_6ccb380a_1:
+translate french day16_choices_6ccb380a:
 
     # rb "Sure, it's through that door over there."
-    rb "Bien sûr, c'est par cette porte là-bas."
+    rb "Sure, it's through that door over there."
 
 # game/day16.rpy:379
-translate french day16_choices_ba0f95b0_1:
+translate french day16_choices_ba0f95b0:
 
     # n "Okay, be right back."
-    n "Ok, je reviens tout de suite."
+    n "Okay, be right back."
 
 # game/day16.rpy:381
-translate french day16_choices_b28476a7_1:
+translate french day16_choices_b28476a7:
 
     # rb "So [p_name], I take it you're on holiday here?"
-    rb "Alors [p_name], je suppose que tu es en vacances ici ?"
+    rb "So [p_name], I take it you're on holiday here?"
 
 # game/day16.rpy:383
-translate french day16_choices_f7d21050_1:
+translate french day16_choices_f7d21050:
 
     # p "Yes, my family and I arrived yesterday."
-    p "Oui, ma famille et moi sommes arrivés hier."
+    p "Yes, my family and I arrived yesterday."
 
 # game/day16.rpy:385
-translate french day16_choices_78542861_1:
+translate french day16_choices_78542861:
 
     # p "Yes, we arrived yesterday."
-    p "Oui, nous sommes arrivés hier."
+    p "Yes, we arrived yesterday."
 
 # game/day16.rpy:386
-translate french day16_choices_e28cf8f4_1:
+translate french day16_choices_e28cf8f4:
 
     # rb "Are you staying at the beach apartment?"
-    rb "Tu restes à l'appartement de la plage ?"
+    rb "Are you staying at the beach apartment?"
 
 # game/day16.rpy:387
-translate french day16_choices_f72bfb77_1:
+translate french day16_choices_f72bfb77:
 
     # p "Yes we are."
-    p "Oui, c'est bien cela."
+    p "Yes we are."
 
 # game/day16.rpy:388
-translate french day16_choices_ea3b2acd_1:
+translate french day16_choices_ea3b2acd:
 
     # rb "That's probably where you met Nia, always hanging around on the beach with Nino."
-    rb "C'est probablement là que tu as rencontré Nia, toujours à traîner sur la plage avec Nino."
+    rb "That's probably where you met Nia, always hanging around on the beach with Nino."
 
 # game/day16.rpy:389
-translate french day16_choices_dcb503ba_1:
+translate french day16_choices_dcb503ba:
 
     # p "Yeah, we met them at the bar."
-    p "Oui, on les a rencontrés au bar."
+    p "Yeah, we met them at the bar."
 
 # game/day16.rpy:390
-translate french day16_choices_319647fc_1:
+translate french day16_choices_319647fc:
 
     # rb "Always eager to meet new people, those two."
-    rb "Toujours désireux de rencontrer de nouvelles personnes, ces deux-là."
+    rb "Always eager to meet new people, those two."
 
 # game/day16.rpy:391
-translate french day16_choices_7d0e92c1_1:
+translate french day16_choices_7d0e92c1:
 
     # rb "How do you like it here?"
-    rb "Tu te plais ici ?"
+    rb "How do you like it here?"
 
 # game/day16.rpy:392
-translate french day16_choices_1e72f347_1:
+translate french day16_choices_1e72f347:
 
     # p "Belugio is very nice. It really seems like a paradise."
-    p "Belugio est très beau. C'est vraiment un paradis."
+    p "Belugio is very nice. It really seems like a paradise."
 
 # game/day16.rpy:393
-translate french day16_choices_8fd1a18d_1:
+translate french day16_choices_8fd1a18d:
 
     # rb "It sure is. Terrible place for an artist, though."
-    rb "C'est sûr que ça l'est. C'est un endroit horrible pour un artiste."
+    rb "It sure is. Terrible place for an artist, though."
 
 # game/day16.rpy:394
-translate french day16_choices_43cc34db_1:
+translate french day16_choices_43cc34db:
 
     # p "Really?"
-    p "Vraiment ?"
+    p "Really?"
 
 # game/day16.rpy:395
-translate french day16_choices_e3dde753_1:
+translate french day16_choices_e3dde753:
 
     # rb "Not enough hypocrisy and dogmas to demolish here. Hell, the fucking mayor is going to open the exhibition later this evening. An old, distinguished guy in a suit giving a nice speech, standing amidst hardcore pornography."
-    rb "Pas assez d'hypocrisie et de dogmes pour démolir ici. Le maire va inaugurer l'exposition plus tard dans la soirée. Un vieil homme distingué en costume qui fait un beau discours, debout au milieu de la pornographie hardcore."
+    rb "Not enough hypocrisy and dogmas to demolish here. Hell, the fucking mayor is going to open the exhibition later this evening. An old, distinguished guy in a suit giving a nice speech, standing amidst hardcore pornography."
 
 # game/day16.rpy:396
-translate french day16_choices_f23e4122_1:
+translate french day16_choices_f23e4122:
 
     # p "The marble veneer makes it all acceptable."
-    p "Le marbre plaqué rend tout cela acceptable."
+    p "The marble veneer makes it all acceptable."
 
 # game/day16.rpy:398
-translate french day16_choices_1c9aeaec_1:
+translate french day16_choices_1c9aeaec:
 
     # rb "Hahaha, sure, that material is pure fucking magic."
-    rb "Hahahaha, bien sûr, cette matière est de la putain de magie pure."
+    rb "Hahaha, sure, that material is pure fucking magic."
 
 # game/day16.rpy:400
-translate french day16_choices_66667c7c_1:
+translate french day16_choices_66667c7c:
 
     # rb "Shit, look at the time. I have to go. Say, why don't you come over to my studio later this evening? Maybe we could talk some more?"
-    rb "Merde, regarde l'heure. Je dois y aller. Pourquoi ne viendrais-tu pas à mon studio plus tard ce soir ? On pourrait peut-être parler un peu plus ?"
+    rb "Shit, look at the time. I have to go. Say, why don't you come over to my studio later this evening? Maybe we could talk some more?"
 
 # game/day16.rpy:401
-translate french day16_choices_9a38244e_1:
+translate french day16_choices_9a38244e:
 
     # p "{i}(That glint in her eye... Is she really interested in talking?)"
-    p "{i}(Cette lueur dans son oeil... Est-elle vraiment intéressée à parler ?)"
+    p "{i}(That glint in her eye... Is she really interested in talking?)"
 
 # game/day16.rpy:406
-translate french day16_choices_1ce1da05_2:
+translate french day16_choices_1ce1da05:
 
     # p "I'd like that."
-    p "J'aimerais bien ça."
+    p "I'd like that."
 
 # game/day16.rpy:407
-translate french day16_choices_5f992ad0_1:
+translate french day16_choices_5f992ad0:
 
     # rb "Good. Here's the address. Looking forward to seeing you again."
-    rb "Bien. Voici l'adresse. Au plaisir de te revoir."
+    rb "Good. Here's the address. Looking forward to seeing you again."
 
 # game/day16.rpy:408
-translate french day16_choices_1f32793f_1:
+translate french day16_choices_1f32793f:
 
     # p "Likewise. Good luck with the opening later."
-    p "De même. Bonne chance pour le vernissage !"
+    p "Likewise. Good luck with the opening later."
 
 # game/day16.rpy:409
-translate french day16_choices_82742e19_1:
+translate french day16_choices_82742e19:
 
     # rb "Thanks, I think I need it."
-    rb "Merci, je crois que j'en ai besoin."
+    rb "Thanks, I think I need it."
 
 # game/day16.rpy:411
-translate french day16_choices_5a4e1c88_1:
+translate french day16_choices_5a4e1c88:
 
     # p "Sorry, I already have other plans."
-    p "Désolé, j'ai déjà d'autres projets."
+    p "Sorry, I already have other plans."
 
 # game/day16.rpy:412
-translate french day16_choices_905dbf0b_1:
+translate french day16_choices_905dbf0b:
 
     # rb "Suit yourself. Have a nice stay on Belugio."
-    rb "Comme tu voudras. Bon séjour à Belugio."
+    rb "Suit yourself. Have a nice stay on Belugio."
 
 # game/day16.rpy:413
-translate french day16_choices_12df798e_1:
+translate french day16_choices_12df798e:
 
     # p "Thank you, good luck with the opening."
-    p "Merci, bonne chance pour le vernissage !"
+    p "Thank you, good luck with the opening."
 
 # game/day16.rpy:415
-translate french day16_choices_50a279f8_1:
+translate french day16_choices_50a279f8:
 
     # "{i}Not long after Rebeca has left Nia comes back from the toilet."
-    "{i}Peu de temps après le départ de Rebeca, Nia revient des toilettes."
+    "{i}Not long after Rebeca has left Nia comes back from the toilet."
 
 # game/day16.rpy:417
-translate french day16_choices_bbe4efb7_1:
+translate french day16_choices_bbe4efb7:
 
     # n "Has Rebeca already left?"
-    n "Rebeca est déjà partie ?"
+    n "Has Rebeca already left?"
 
 # game/day16.rpy:418
-translate french day16_choices_aa425037_1:
+translate french day16_choices_aa425037:
 
     # p "Yeah, she had some things to take care of."
-    p "Oui, elle devait s'occuper de certaines choses."
+    p "Yeah, she had some things to take care of."
 
 # game/day16.rpy:419
-translate french day16_choices_f6802e61_1:
+translate french day16_choices_f6802e61:
 
     # n "I'll speak to her later then. So, how did you like my mom?"
-    n "Je lui parlerai plus tard alors. Alors, tu as aimé ma mère ?"
+    n "I'll speak to her later then. So, how did you like my mom?"
 
 # game/day16.rpy:421
-translate french day16_choices_e86c7321_1:
+translate french day16_choices_e86c7321:
 
     # p "That... That was your mother?"
-    p "Que... C'était ta mère ?"
+    p "That... That was your mother?"
 
 # game/day16.rpy:422
-translate french day16_choices_ee2f7684_1:
+translate french day16_choices_ee2f7684:
 
     # n "Certainly. Surprised?"
-    n "Bien sûr que oui. Surpris ?"
+    n "Certainly. Surprised?"
 
 # game/day16.rpy:427
-translate french day16_choices_bdb2d567_1:
+translate french day16_choices_bdb2d567:
 
     # p "Actually no, I shouldn't be surprised Rebeca has such a beautiful daughter like you."
-    p "En fait non, je ne devrais pas être surpris que Rebeca ait une si belle fille que toi."
+    p "Actually no, I shouldn't be surprised Rebeca has such a beautiful daughter like you."
 
 # game/day16.rpy:428
-translate french day16_choices_cecc8f37_1:
+translate french day16_choices_cecc8f37:
 
     # n "Compliments! Always good."
-    n "Compliments ! Toujours bien."
+    n "Compliments! Always good."
 
 # game/day16.rpy:430
-translate french day16_choices_aaa426f7_1:
+translate french day16_choices_aaa426f7:
 
     # p "She looks so different."
-    p "Elle a l'air si différente."
+    p "She looks so different."
 
 # game/day16.rpy:431
-translate french day16_choices_428425da_1:
+translate french day16_choices_428425da:
 
     # n "Truly? People always say we look so alike."
-    n "Vraiment ? Les gens disent toujours qu'on se ressemble tellement."
+    n "Truly? People always say we look so alike."
 
 # game/day16.rpy:432
-translate french day16_choices_013b9a4c_1:
+translate french day16_choices_013b9a4c:
 
     # p "Maybe it's the light here."
-    p "C'est peut-être la lumière."
+    p "Maybe it's the light here."
 
 # game/day16.rpy:433
-translate french day16_choices_a5c18365_1:
+translate french day16_choices_a5c18365:
 
     # n "Sure..."
-    n "Bien sûr..."
+    n "Sure..."
 
 # game/day16.rpy:435
-translate french day16_choices_56a59e1a_1:
+translate french day16_choices_56a59e1a:
 
     # p "But I liked her."
-    p "Mais je l'aimais bien."
+    p "But I liked her."
 
 # game/day16.rpy:438
-translate french day16_choices_8f1769c0_1:
+translate french day16_choices_8f1769c0:
 
     # p "{i}(I even have a date with her...)"
-    p "{i}(J'ai un rendez-vous avec elle.)"
+    p "{i}(I even have a date with her...)"
 
 # game/day16.rpy:441
-translate french day16_choices_f1cb28e0_1:
+translate french day16_choices_f1cb28e0:
 
     # n "Good! Let's head back, I'm meeting your sister in an hour."
-    n "Bien ! Rentrons, je rejoins ta sœur dans une heure."
+    n "Good! Let's head back, I'm meeting your sister in an hour."
 
 # game/day16.rpy:443
-translate french day16_choices_d181ae94_1:
+translate french day16_choices_d181ae94:
 
     # n "Good! Let's head back, I'm meeting [r_name] in an hour."
-    n "Bien ! Rentrons, je rejoins [r_name] dans une heure."
+    n "Good! Let's head back, I'm meeting [r_name] in an hour."
 
 # game/day16.rpy:446
-translate french day16_choices_870507e0_1:
+translate french day16_choices_870507e0:
 
     # p "Wish I could come with you."
-    p "J'aimerais pouvoir venir avec toi."
+    p "Wish I could come with you."
 
 # game/day16.rpy:447
-translate french day16_choices_1898e3e1_1:
+translate french day16_choices_1898e3e1:
 
     # n "Girls only, mister!"
-    n "C'est réservé aux filles !"
+    n "Girls only, mister!"
 
 # game/day16.rpy:448
-translate french day16_choices_12de84b4_1:
+translate french day16_choices_12de84b4:
 
     # p "Okay. Thank you for taking me along."
-    p "D'accord. Merci de m'avoir emmenée."
+    p "Okay. Thank you for taking me along."
 
 # game/day16.rpy:449
-translate french day16_choices_f8570a5a_1:
+translate french day16_choices_f8570a5a:
 
     # n "My pleasure!"
-    n "Tout le plaisir est pour moi !"
+    n "My pleasure!"
 
 # game/day16.rpy:454
-translate french day16_choices_0555c11a_1:
+translate french day16_choices_0555c11a:
 
     # "{i}When you walk to the address Rebeca gave you she's already outside waiting for you."
-    "{i}Quand tu marches vers l'adresse que Rebeca t'a donnée, elle t'attend déjà dehors."
+    "{i}When you walk to the address Rebeca gave you she's already outside waiting for you."
 
 # game/day16.rpy:456
-translate french day16_choices_314ac275_1:
+translate french day16_choices_314ac275:
 
     # rb "Hey handsome. I don't feel like staying cooped up inside my studio today. Let's go for a walk."
-    rb "Salut, beau gosse. Je n'ai pas envie de rester enfermé dans mon studio aujourd'hui. Allons nous promener."
+    rb "Hey handsome. I don't feel like staying cooped up inside my studio today. Let's go for a walk."
 
 # game/day16.rpy:457
-translate french day16_choices_4d646f5d_1:
+translate french day16_choices_4d646f5d:
 
     # p "Works for me."
-    p "Ça marche pour moi."
+    p "Works for me."
 
 # game/day16.rpy:459
-translate french day16_choices_ff15bc1d_1:
+translate french day16_choices_ff15bc1d:
 
     # rb "So, [p_name]. Would you like to be a model?"
-    rb "Alors, [p_name]. Aimerais-tu être un modèle ?"
+    rb "So, [p_name]. Would you like to be a model?"
 
 # game/day16.rpy:460
-translate french day16_choices_7a9ef19e_1:
+translate french day16_choices_7a9ef19e:
 
     # p "Model, for you?"
-    p "Modèle, pour toi ?"
+    p "Model, for you?"
 
 # game/day16.rpy:461
-translate french day16_choices_e867ceff_1:
+translate french day16_choices_e867ceff:
 
     # rb "Yes, my next project will be about the male form."
-    rb "Oui, mon prochain projet portera sur les formes masculines."
+    rb "Yes, my next project will be about the male form."
 
 # game/day16.rpy:462
-translate french day16_choices_8b490621_1:
+translate french day16_choices_8b490621:
 
     # p "{i}(Knowing a bit about her current body of work I can guess what particular form she's interested in.)"
-    p "{i}(Connaissant un peu son travail, je peux deviner la forme particulière qui l'intéresse.)"
+    p "{i}(Knowing a bit about her current body of work I can guess what particular form she's interested in.)"
 
 # game/day16.rpy:463
-translate french day16_choices_d21849db_1:
+translate french day16_choices_d21849db:
 
     # p "The male form?"
-    p "Les formes masculines ?"
+    p "The male form?"
 
 # game/day16.rpy:464
-translate french day16_choices_8b14051a_1:
+translate french day16_choices_8b14051a:
 
     # rb "It's going to be a tribute to masculine virility. A celebration of the male reproductive organ."
-    rb "Ce sera un hommage à la virilité masculine. Une célébration de l'organe reproducteur masculin."
+    rb "It's going to be a tribute to masculine virility. A celebration of the male reproductive organ."
 
 # game/day16.rpy:465
-translate french day16_choices_77398792_1:
+translate french day16_choices_77398792:
 
     # p "So basically it's about dicks."
-    p "Donc en gros, il s'agit de bites."
+    p "So basically it's about dicks."
 
 # game/day16.rpy:466
-translate french day16_choices_b26c33f8_1:
+translate french day16_choices_b26c33f8:
 
     # rb "Preferably erect."
-    rb "De préférence en érection."
+    rb "Preferably erect."
 
 # game/day16.rpy:467
-translate french day16_choices_4a7da50c_1:
+translate french day16_choices_4a7da50c:
 
     # rb "So what do you say? Interested?"
-    rb "Alors, qu'est-ce que t'en dis ? Intéressé ?"
+    rb "So what do you say? Interested?"
 
 # game/day16.rpy:473
-translate french day16_choices_eb807f5f_1:
+translate french day16_choices_eb807f5f:
 
     # p "Hell, why not. Your not going to encase it in concrete, are you?"
-    p "Bon sang, pourquoi pas. Tu ne vas pas l'enfermer dans du béton, au moins ?"
+    p "Hell, why not. Your not going to encase it in concrete, are you?"
 
 # game/day16.rpy:474
-translate french day16_choices_f62d580e_1:
+translate french day16_choices_f62d580e:
 
     # rb "Nope. It's painless. Shall we head back to my studio?"
-    rb "Non, non. C'est indolore. On retourne à mon studio ?"
+    rb "Nope. It's painless. Shall we head back to my studio?"
 
 # game/day16.rpy:475
-translate french day16_choices_f7cfb03d_1:
+translate french day16_choices_f7cfb03d:
 
     # p "Sure!"
-    p "Bien sûr !"
+    p "Sure!"
 
 # game/day16.rpy:476
-translate french day16_choices_9f21f6a5_1:
+translate french day16_choices_9f21f6a5:
 
     # "{i}When you're halfway back to the studio Rebeca suddenly stops."
-    "{i}Quand vous êtes à mi-chemin du retour, Rebeca s'arrête soudainement."
+    "{i}When you're halfway back to the studio Rebeca suddenly stops."
 
 # game/day16.rpy:478
-translate french day16_choices_fba8cac7_1:
+translate french day16_choices_fba8cac7:
 
     # rb "Do you have a minute? I really need to pee."
-    rb "Tu as une minute ? J'ai vraiment besoin de faire pipi."
+    rb "Do you have a minute? I really need to pee."
 
 # game/day16.rpy:479
-translate french day16_choices_350ece24_1:
+translate french day16_choices_350ece24:
 
     # "{i}Rebeca disappears behind the rocks a little further toward the shoreline."
-    "{i}Rebeca disparaît derrière les rochers un peu plus loin vers le rivage."
+    "{i}Rebeca disappears behind the rocks a little further toward the shoreline."
 
 # game/day16.rpy:483
-translate french day16_choices_5d46f5fd_1:
+translate french day16_choices_5d46f5fd:
 
     # "{i}Careful not to get caught you follow Rebeca to a secluded place between several large rocks. When you arrive she's already undressed..."
-    "{i}Attention à ne pas te faire prendre,Tu suis Rebeca jusqu'à un endroit isolé entre plusieurs gros rochers. Quand tu arrives, elle est déjà déshabillée...."
+    "{i}Careful not to get caught you follow Rebeca to a secluded place between several large rocks. When you arrive she's already undressed..."
 
 # game/day16.rpy:485
-translate french day16_choices_d541273a_1:
+translate french day16_choices_d541273a:
 
     # p "{i}(Holy shit, just arrived at the perfect time. What a perfect view.)"
-    p "{i}(Putain de merde, j'arrive pile au bon moment. Quelle vue parfaite.)"
+    p "{i}(Holy shit, just arrived at the perfect time. What a perfect view.)"
 
 # game/day16.rpy:487
-translate french day16_choices_a81f467d_1:
+translate french day16_choices_a81f467d:
 
     # p "{i}(Let it flow girl... Damn what a sight.)"
-    p "{i}(Laisse couler ma fille...... Quel beau spectacle !)"
+    p "{i}(Let it flow girl... Damn what a sight.)"
 
 # game/day16.rpy:489
-translate french day16_choices_f6eeb36d_1:
+translate french day16_choices_f6eeb36d:
 
     # p "{i}(Shit! She saw me! She's looking right at me...)"
-    p "{i}(Merde ! Elle m'a vue ! Elle me regarde droit dans les yeux....)"
+    p "{i}(Shit! She saw me! She's looking right at me...)"
 
 # game/day16.rpy:490
-translate french day16_choices_161d61e6_1:
+translate french day16_choices_161d61e6:
 
     # p "{i}(And she's smiling... Wow!)"
-    p "{i}(Elle sourit... Wow !)"
+    p "{i}(And she's smiling... Wow!)"
 
 # game/day16.rpy:491
-translate french day16_choices_0b252137_1:
+translate french day16_choices_0b252137:
 
     # "{i}You head back to the main beach and wait for Rebeca to come back."
-    "{i}Tu retournes à la plage et tu attends le retour de Rebeca."
+    "{i}You head back to the main beach and wait for Rebeca to come back."
 
 # game/day16.rpy:493
-translate french day16_choices_4992d2b8_1:
+translate french day16_choices_4992d2b8:
 
     # rb "Guess who I saw just now..."
-    rb "Devine qui j'ai vu tout à l'heure...."
+    rb "Guess who I saw just now..."
 
 # game/day16.rpy:494
-translate french day16_choices_41b842d0_1:
+translate french day16_choices_41b842d0:
 
     # p "{i}(She doesn't seem mad... Quite the contrary.)"
-    p "{i}(Elle n'a pas l'air en colère... Bien au contraire.)"
+    p "{i}(She doesn't seem mad... Quite the contrary.)"
 
 # game/day16.rpy:495
-translate french day16_choices_f8f2b7fa_1:
+translate french day16_choices_f8f2b7fa:
 
     # rb "Do you get off on that sort of thing, [p_name]? Do you like a bit of water-sports?"
-    rb "Tu t'amuses avec ce genre de choses, [p_name] ? Tu aimes les sports nautiques ?"
+    rb "Do you get off on that sort of thing, [p_name]? Do you like a bit of water-sports?"
 
 # game/day16.rpy:500
-translate french day16_choices_63e34849_1:
+translate french day16_choices_63e34849:
 
     # p "Actually I do. You looked very hot just now."
-    p "En fait, c'est le cas. Tu étais très sexy tout à l'heure."
+    p "Actually I do. You looked very hot just now."
 
 # game/day16.rpy:501
-translate french day16_choices_168a57bc_1:
+translate french day16_choices_168a57bc:
 
     # rb "Dirty! I'll keep that in mind..."
-    rb "Dégueulasse ! Je m'en souviendrai."
+    rb "Dirty! I'll keep that in mind..."
 
 # game/day16.rpy:502
-translate french day16_choices_00fe2d33_1:
+translate french day16_choices_00fe2d33:
 
     # rb "I like you already, [p_name]. We're going to get along just fine."
-    rb "Je t'aime déjà, [p_name]. On va bien s'entendre."
+    rb "I like you already, [p_name]. We're going to get along just fine."
 
 # game/day16.rpy:503
-translate french day16_choices_73d7233c_1:
+translate french day16_choices_73d7233c:
 
     # p "Thank you, the feeling is quite mutual."
-    p "Merci, le sentiment est tout à fait réciproque."
+    p "Thank you, the feeling is quite mutual."
 
 # game/day16.rpy:504
-translate french day16_choices_9be3a2c2_1:
+translate french day16_choices_9be3a2c2:
 
     # rb "Good."
-    rb "Bien."
+    rb "Good."
 
 # game/day16.rpy:506
-translate french day16_choices_4465ac0d_1:
+translate french day16_choices_4465ac0d:
 
     # p "Only when it involves a surfboard."
-    p "Seulement quand il s'agit d'une planche de surf."
+    p "Only when it involves a surfboard."
 
 # game/day16.rpy:507
-translate french day16_choices_7cbc95c2_1:
+translate french day16_choices_7cbc95c2:
 
     # rb "Why did you come after me then?"
-    rb "Alors pourquoi m'as-tu suivi ?"
+    rb "Why did you come after me then?"
 
 # game/day16.rpy:508
-translate french day16_choices_79276013_1:
+translate french day16_choices_79276013:
 
     # p "{i}(Better be honest. Otherwise she's going to offer me a golden shower or something...)"
-    p "{i}(Mieux vaut être honnête. Sinon, elle va m'offrir une douche dorée ou quelque chose comme ça...)"
+    p "{i}(Better be honest. Otherwise she's going to offer me a golden shower or something...)"
 
 # game/day16.rpy:509
-translate french day16_choices_ff1835db_1:
+translate french day16_choices_ff1835db:
 
     # p "I just wanted to see you naked."
-    p "Je voulais juste te voir nue."
+    p "I just wanted to see you naked."
 
 # game/day16.rpy:510
-translate french day16_choices_18383d3d_1:
+translate french day16_choices_18383d3d:
 
     # rb "That's also a very good reason."
-    rb "C'est aussi une très bonne raison."
+    rb "That's also a very good reason."
 
 # game/day16.rpy:511
-translate french day16_choices_a69855c9_1:
+translate french day16_choices_a69855c9:
 
     # rb "Did you like what you saw?"
-    rb "Tu as aimé ce que tu as vue ?"
+    rb "Did you like what you saw?"
 
 # game/day16.rpy:512
-translate french day16_choices_87dbf22d_1:
+translate french day16_choices_87dbf22d:
 
     # p "Yes. You're very sexy."
-    p "Oui. Tu es très sexy."
+    p "Yes. You're very sexy."
 
 # game/day16.rpy:514
-translate french day16_choices_13b67c02_1:
+translate french day16_choices_13b67c02:
 
     # "{i}After a short while Rebeca returns and looks relieved."
-    "{i}Peu de temps après, Rebeca revient et semble soulagée."
+    "{i}After a short while Rebeca returns and looks relieved."
 
 # game/day16.rpy:516
-translate french day16_choices_fd0b162c_1:
+translate french day16_choices_fd0b162c:
 
     # rb "Thank you for waiting on me, that was quite an emergency."
-    rb "Merci de m'avoir attendu, c'était urgent."
+    rb "Thank you for waiting on me, that was quite an emergency."
 
 # game/day16.rpy:518
-translate french day16_choices_357c561f_1:
+translate french day16_choices_357c561f:
 
     # "{i}Pretty soon you reach the place where you picked Rebeca up before your little walk. She opens the door and you go inside."
-    "{i}Très vite, vous arrivez à l'endroit où tu as rencontrer Rebeca avant votre petite promenade. Elle ouvre la porte et vous entrez."
+    "{i}Pretty soon you reach the place where you picked Rebeca up before your little walk. She opens the door and you go inside."
 
 # game/day16.rpy:520
-translate french day16_choices_236b0d51_1:
+translate french day16_choices_236b0d51:
 
     # p "Jesus, it's really hot in here."
-    p "Il fait vraiment chaud ici."
+    p "Jesus, it's really hot in here."
 
 # game/day16.rpy:521
-translate french day16_choices_f8b4a90e_1:
+translate french day16_choices_f8b4a90e:
 
     # rb "The downside of having a studio with a flat roof near the beach. That's why I usually work naked."
-    rb "L'inconvénient d'avoir un studio avec un toit plat près de la plage. C'est pour ça que je travaille nue d'habitude."
+    rb "The downside of having a studio with a flat roof near the beach. That's why I usually work naked."
 
 # game/day16.rpy:522
-translate french day16_choices_b0bd2bdf_1:
+translate french day16_choices_b0bd2bdf:
 
     # p "Of course you do."
-    p "Évidemment."
+    p "Of course you do."
 
 # game/day16.rpy:527
-translate french day16_choices_e52a1cbe_1:
+translate french day16_choices_e52a1cbe:
 
     # rb "See, it's that easy."
-    rb "Tu vois, c'est aussi simple que ça."
+    rb "See, it's that easy."
 
 # game/day16.rpy:528
-translate french day16_choices_63123add_1:
+translate french day16_choices_63123add:
 
     # "{i}The sight of her naked body does little to alleviate the heat and instead makes you hard."
-    "{i}La vue de son corps nue ne fait pas grand-chose pour soulager la chaleur et te fait bander à la place."
+    "{i}The sight of her naked body does little to alleviate the heat and instead makes you hard."
 
 # game/day16.rpy:529
-translate french day16_choices_5647013f_1:
+translate french day16_choices_5647013f:
 
     # rb "Undress for me please, so I can get a good look at you."
-    rb "Déshabille-toi, s'il te plaît, que je puisse bien te regarder."
+    rb "Undress for me please, so I can get a good look at you."
 
 # game/day16.rpy:531
-translate french day16_choices_e16945e4_1:
+translate french day16_choices_e16945e4:
 
     # rb "Wow, you have the perfect specimen for my first piece. Maybe I'll cast you in bronze or should it be a precious metal... I don't know. But you'll be the proud introduction to my new series of art pieces."
-    rb "Wow, tu es le spécimen parfait pour mon premier exemplaire. Peut-être que je te coulerai dans du bronze ou dans un autre métal précieux.... je ne sais pas. Mais tu seras la fière introduction de ma nouvelle série d'œuvres d'art."
+    rb "Wow, you have the perfect specimen for my first piece. Maybe I'll cast you in bronze or should it be a precious metal... I don't know. But you'll be the proud introduction to my new series of art pieces."
 
 # game/day16.rpy:532
-translate french day16_choices_c74f31d0_1:
+translate french day16_choices_c74f31d0:
 
     # p "I'm honored..."
-    p "Je suis honoré...."
+    p "I'm honored..."
 
 # game/day16.rpy:533
-translate french day16_choices_8a34a33b_1:
+translate french day16_choices_8a34a33b:
 
     # rb "Lie down please, I have to make a mold."
-    rb "Allonge-toi s'il te plaît, je dois faire un moule."
+    rb "Lie down please, I have to make a mold."
 
 # game/day16.rpy:534
-translate french day16_choices_4aa8d273_1:
+translate french day16_choices_4aa8d273:
 
     # "{i}You lie down and close your eyes for a bit while Rebeca rummages around in her studio to find her materials."
-    "{i}Tu t'allonges et tu fermes les yeux pendant que Rebeca fouille dans son studio pour trouver son matériel."
+    "{i}You lie down and close your eyes for a bit while Rebeca rummages around in her studio to find her materials."
 
 # game/day16.rpy:536
-translate french day16_choices_283155d8_1:
+translate french day16_choices_283155d8:
 
     # "{i}You must have dozed off for a while because you awaken with a shock when you feel cold hands touching your penis."
-    "{i}Tu as dû t'assoupir un moment parce que tu te réveilles choqué quand tu sens des mains froides toucher ton pénis."
+    "{i}You must have dozed off for a while because you awaken with a shock when you feel cold hands touching your penis."
 
 # game/day16.rpy:538
-translate french day16_choices_58b66eb1_1:
+translate french day16_choices_58b66eb1:
 
     # rb "Ah, he's awake."
-    rb "Ah, il est réveillé."
+    rb "Ah, he's awake."
 
 # game/day16.rpy:539
-translate french day16_choices_7709aaa0_1:
+translate french day16_choices_7709aaa0:
 
     # p "W-what are you doing?"
-    p "Qu'est-ce que tu fais ?"
+    p "W-what are you doing?"
 
 # game/day16.rpy:540
-translate french day16_choices_5f499520_1:
+translate french day16_choices_5f499520:
 
     # rb "Your cock was all limp, not the best symbol for powerful male libido. Should I stop?"
-    rb "Ta bite était toute molle, pas le meilleur symbole d'une libido masculine puissante. Dois-je m'arrêter ?"
+    rb "Your cock was all limp, not the best symbol for powerful male libido. Should I stop?"
 
 # game/day16.rpy:541
-translate french day16_choices_34d74724_1:
+translate french day16_choices_34d74724:
 
     # p "God no, keep going."
-    p "Mon Dieu non, continue."
+    p "God no, keep going."
 
 # game/day16.rpy:542
-translate french day16_choices_5baf947e_1:
+translate french day16_choices_5baf947e:
 
     # "{i}When Rebeca is satisfied she suddenly stops massaging your dick and digs out some tools, presumably to make the mold. You start to doze off again from the heat."
-    "{i}Quand Rebeca est satisfaite, elle arrête soudainement de te masser la bite et sort quelques outils, probablement pour faire le moule. Tu recommences à somnoler à cause de la chaleur."
+    "{i}When Rebeca is satisfied she suddenly stops massaging your dick and digs out some tools, presumably to make the mold. You start to doze off again from the heat."
 
 # game/day16.rpy:544
-translate french day16_choices_91255c4e_1:
+translate french day16_choices_91255c4e:
 
     # "{i}Almost subconsciously you feel some thick, cold liquid being poured over your crotch, which quickly hardens. Rebeca whistles an inane tune while she works."
-    "{i}Presque inconsciemment, tu sens un liquide épais et froid se répandre sur ton entrejambe, qui durcit rapidement. Rebeca siffle un air stupide pendant qu'elle travaille."
+    "{i}Almost subconsciously you feel some thick, cold liquid being poured over your crotch, which quickly hardens. Rebeca whistles an inane tune while she works."
 
 # game/day16.rpy:545
-translate french day16_choices_f4b65e6d_1:
+translate french day16_choices_f4b65e6d:
 
     # "{i}After a while the mold is removed and Rebeca rubs your cock with a soft towel for far longer than necessary."
-    "{i}Au bout d'un moment, le moule est enlevé et Rebeca te frotte la bite avec une serviette douce bien plus longtemps que nécessaire."
+    "{i}After a while the mold is removed and Rebeca rubs your cock with a soft towel for far longer than necessary."
 
 # game/day16.rpy:546
-translate french day16_choices_d6ccac46_1:
+translate french day16_choices_d6ccac46:
 
     # rb "Done."
-    rb "C'est fait."
+    rb "Done."
 
 # game/day16.rpy:547
-translate french day16_choices_b625aa51_1:
+translate french day16_choices_b625aa51:
 
     # p "You're a downright cocktease, you know that?"
-    p "T'es entreind de m'exité, tu sais ça ?"
+    p "You're a downright cocktease, you know that?"
 
 # game/day16.rpy:548
-translate french day16_choices_97af099a_1:
+translate french day16_choices_97af099a:
 
     # rb "What? You mean my innocent touches?"
-    rb "Quoi ? Tu veux dire mon contact innocent ?"
+    rb "What? You mean my innocent touches?"
 
 # game/day16.rpy:549
-translate french day16_choices_8bbbbb2d_1:
+translate french day16_choices_8bbbbb2d:
 
     # p "Exactly those."
-    p "Exactement celui-là."
+    p "Exactly those."
 
 # game/day16.rpy:551
-translate french day16_choices_31563e3c_1:
+translate french day16_choices_31563e3c:
 
     # p "Come here."
-    p "Viens ici."
+    p "Come here."
 
 # game/day16.rpy:553
-translate french day16_choices_2f090249_1:
+translate french day16_choices_2f090249:
 
     # "{i}Rebeca doesn't hesitate and moves towards you. Suddenly you're entangled in a passionate kiss, her hands exploring your body and yours firmly kneading her breasts."
-    "{i}Rebeca n'hésite pas et se dirige vers toi. Soudain, tu es pris dans un baiser passionné, ses mains explorant ton corps et les tiennes pétrissant fermement ses seins."
+    "{i}Rebeca doesn't hesitate and moves towards you. Suddenly you're entangled in a passionate kiss, her hands exploring your body and yours firmly kneading her breasts."
 
 # game/day16.rpy:554
-translate french day16_choices_fcbd5ad6_1:
+translate french day16_choices_fcbd5ad6:
 
     # rb "Fuck me, [p_name]."
-    rb "Baise-moi, [p_name]."
+    rb "Fuck me, [p_name]."
 
 # game/day16.rpy:556
-translate french day16_choices_5bdc47d5_1:
+translate french day16_choices_5bdc47d5:
 
     # "{i}When you enter her she's already wet. You penetrate her deeply and quickly establish a rhythm."
-    "{i}Quand tu entres en elle, elle est déjà mouillée. Tu la pénètres profondément et tu établis rapidement un rythme."
+    "{i}When you enter her she's already wet. You penetrate her deeply and quickly establish a rhythm."
 
 # game/day16.rpy:557
-translate french day16_choices_e839182f_1:
+translate french day16_choices_e839182f:
 
     # rb "God yes. Fuck me! Fuck me harder!"
-    rb "Mon Dieu, oui. Baise-moi ! Baise-moi plus fort !"
+    rb "God yes. Fuck me! Fuck me harder!"
 
 # game/day16.rpy:559
-translate french day16_choices_e5fe96eb_1:
+translate french day16_choices_e5fe96eb:
 
     # "{i}Encouraged by her words you pound her even deeper. The studio is filled with the wet sounds of your fucking and Rebeca's hoarse moans."
-    "{i}Encouragée par ses paroles, tu la pilonnes encore plus fort. Le studio est rempli des sons humides de tes plaintes et des gémissements rauques de Rebeca."
+    "{i}Encouraged by her words you pound her even deeper. The studio is filled with the wet sounds of your fucking and Rebeca's hoarse moans."
 
 # game/day16.rpy:561
-translate french day16_choices_f6e1277b_1:
+translate french day16_choices_f6e1277b:
 
     # "{i}As you change positions Rebeca's ass bounces against your pelvis. You slap it repeatedly."
-    "{i}Quand tu changes de position, le cul de Rebeca rebondit contre ton bassin. Tu le gifles à plusieurs reprises."
+    "{i}As you change positions Rebeca's ass bounces against your pelvis. You slap it repeatedly."
 
 # game/day16.rpy:562
-translate french day16_choices_c064ca31_1:
+translate french day16_choices_c064ca31:
 
     # rb "Mmmmm yeah, slap it."
-    rb "Mmmmmmm ouais, claque le."
+    rb "Mmmmm yeah, slap it."
 
 # game/day16.rpy:563
-translate french day16_choices_01bc843c_1:
+translate french day16_choices_01bc843c:
 
     # p "I'm going to fill you up, Rebeca."
-    p "Je vais te faire le plein, Rebeca."
+    p "I'm going to fill you up, Rebeca."
 
 # game/day16.rpy:564
-translate french day16_choices_0a777782_1:
+translate french day16_choices_0a777782:
 
     # rb "Put it inside me please!"
-    rb "Donne moi tout, s'il te plaît !"
+    rb "Put it inside me please!"
 
 # game/day16.rpy:567
-translate french day16_choices_d28f47a3_1:
+translate french day16_choices_d28f47a3:
 
     # p "I want you to taste me."
-    p "Je veux que tu me goûtes."
+    p "I want you to taste me."
 
 # game/day16.rpy:568
-translate french day16_choices_27a51b38_1:
+translate french day16_choices_27a51b38:
 
     # "{i}You pull out and Rebeca quickly kneels before you, her eager mouth open to receive your warm seed."
-    "{i}Tu te retires et Rebeca s'agenouille rapidement devant toi, sa bouche impatiente s'ouvre pour recevoir ta semence chaude."
+    "{i}You pull out and Rebeca quickly kneels before you, her eager mouth open to receive your warm seed."
 
 # game/day16.rpy:571
-translate french day16_choices_ddae8c90_1:
+translate french day16_choices_ddae8c90:
 
     # "{i}Thick streams of cum shoot from your pulsing dick. Rebeca tries to catch it all in her mouth, but some of it spurts on her face."
-    "{i}Des jets épais de sperme jaillissent de ta bite. Rebeca essaie de tout attraper dans sa bouche, mais une partie lui gicle au visage."
+    "{i}Thick streams of cum shoot from your pulsing dick. Rebeca tries to catch it all in her mouth, but some of it spurts on her face."
 
 # game/day16.rpy:573
-translate french day16_choices_eb00dfd3_1:
+translate french day16_choices_eb00dfd3:
 
     # "{i}She closes her mouth and swallows your entire load, licking her lips afterwards."
-    "{i}Elle ferme sa bouche et avale tout ton lait, se léchant les lèvres de délectation."
+    "{i}She closes her mouth and swallows your entire load, licking her lips afterwards."
 
 # game/day16.rpy:574
-translate french day16_choices_e8f9ac8c_2:
+translate french day16_choices_e8f9ac8c:
 
     # rb "You taste really good, [p_name]."
-    rb "Tu as vraiment bon goût, [p_name]."
+    rb "You taste really good, [p_name]."
 
 # game/day16.rpy:576
-translate french day16_choices_afe6949f_1:
+translate french day16_choices_afe6949f:
 
     # p "Fuck yes, your pussy will be overflowing."
-    p "Bordel, oui, ta chatte va déborder."
+    p "Fuck yes, your pussy will be overflowing."
 
 # game/day16.rpy:579
-translate french day16_choices_86e11c7e_1:
+translate french day16_choices_86e11c7e:
 
     # "{i}After two deep thrusts, thick streams of cum shoot inside her, your dick is pulsing inside her vagina."
-    "{i}Après deux poussées profondes, d'épais jets de sperme pulsent à l'intérieur de son vagin."
+    "{i}After two deep thrusts, thick streams of cum shoot inside her, your dick is pulsing inside her vagina."
 
 # game/day16.rpy:580
-translate french day16_choices_d124b0c2_1:
+translate french day16_choices_d124b0c2:
 
     # rb "Mmmmm, yes, fill me up! It feels so warm inside of me."
-    rb "Mmmmmmm, oui, remplis-moi ! C'est si chaud à l'intérieur de moi."
+    rb "Mmmmm, yes, fill me up! It feels so warm inside of me."
 
 # game/day16.rpy:582
-translate french day16_choices_785a830f_1:
+translate french day16_choices_785a830f:
 
     # "{i}You both lay sweaty and exhausted in the heat of Rebeca's studio. The air smells of sex and cum."
-    "{i}Vous êtes tous les deux en sueur et épuisés dans la chaleur du studio de Rebeca. L'air sent le sexe et le sperme."
+    "{i}You both lay sweaty and exhausted in the heat of Rebeca's studio. The air smells of sex and cum."
 
 # game/day16.rpy:583
-translate french day16_choices_207ca936_1:
+translate french day16_choices_207ca936:
 
     # "{i}Rebeca pushes a finger inside her pussy and absentmindedly licks the cum-covered digit."
-    "{i}Rebeca pousse un doigt dans sa chatte et le lèche recouvert de sperme."
+    "{i}Rebeca pushes a finger inside her pussy and absentmindedly licks the cum-covered digit."
 
 # game/day16.rpy:584
-translate french day16_choices_e8f9ac8c_3:
+translate french day16_choices_e8f9ac8c_1:
 
     # rb "You taste really good, [p_name]."
-    rb "Tu as vraiment bon goût, [p_name]."
+    rb "You taste really good, [p_name]."
 
 # game/day16.rpy:585
-translate french day16_choices_27030c23_1:
+translate french day16_choices_27030c23:
 
     # rb "Let's do this again some time."
-    rb "On recommencera une autre fois."
+    rb "Let's do this again some time."
 
 # game/day16.rpy:589
-translate french day16_choices_1ce1da05_3:
+translate french day16_choices_1ce1da05_1:
 
     # p "I'd like that."
-    p "J'aimerais bien."
+    p "I'd like that."
 
 # game/day16.rpy:590
-translate french day16_choices_f042a878_1:
+translate french day16_choices_f042a878:
 
     # rb "Excellent."
     rb "Excellent."
 
 # game/day16.rpy:593
-translate french day16_choices_f1d9c03e_1:
+translate french day16_choices_f1d9c03e:
 
     # p "This was strictly a one time only deal."
-    p "Ce n'était qu'un accord ponctuel."
+    p "This was strictly a one time only deal."
 
 # game/day16.rpy:594
-translate french day16_choices_751ed364_1:
+translate french day16_choices_751ed364:
 
     # rb "Fair enough."
-    rb "D'accord, je comprends."
+    rb "Fair enough."
 
 # game/day16.rpy:596
-translate french day16_choices_1c2207a8_1:
+translate french day16_choices_1c2207a8:
 
     # "{i}When you've caught your breath you leave Rebeca in her studio and head back to the apartment."
-    "{i}Quand tu reprends ton souffle, tu laisses Rebeca dans son studio et tu retournes à l'appartement."
+    "{i}When you've caught your breath you leave Rebeca in her studio and head back to the apartment."
 
 # game/day16.rpy:598
-translate french day16_choices_75c6b48c_1:
+translate french day16_choices_75c6b48c:
 
     # p "Sorry, no. That's about the craziest thing I've ever heard."
-    p "Désolée, non. C'est la chose la plus folle que j'aie jamais entendue."
+    p "Sorry, no. That's about the craziest thing I've ever heard."
 
 # game/day16.rpy:600
-translate french day16_choices_692970b5_1:
+translate french day16_choices_692970b5:
 
     # rb "Fair enough. You know where to find me if you ever change your mind."
-    rb "D'accord, je comprends. Tu sais où me trouver si jamais tu changes d'avis."
+    rb "Fair enough. You know where to find me if you ever change your mind."
 
 # game/day16.rpy:601
-translate french day16_choices_3eecc02c_1:
+translate french day16_choices_3eecc02c:
 
     # p "Okay, see you later!"
-    p "D'accord, à plus tard !"
+    p "Okay, see you later!"
 
 # game/day16.rpy:602
-translate french day16_choices_c29c8bfe_1:
+translate french day16_choices_c29c8bfe:
 
     # "{i}You quicken your step to distance yourself from Rebeca and soon she's out of sight."
-    "{i}Tu te dépêches de t'éloigner de Rebeca et bientôt elle sera hors de portée de vue."
+    "{i}You quicken your step to distance yourself from Rebeca and soon she's out of sight."
 
 # game/day16.rpy:608
-translate french day16_choices_0eb25971_1:
+translate french day16_choices_0eb25971:
 
     # p "{i}(That was an interesting day. Wonder what the evening will bring.)"
-    p "{i}(C'était une journée intéressante. Je me demande ce que la soirée nous apportera.)"
+    p "{i}(That was an interesting day. Wonder what the evening will bring.)"
 
 # game/day16.rpy:610
-translate french day16_choices_9a0ebe13_1:
+translate french day16_choices_9a0ebe13:
 
     # "{i}You hang around the apartment and the beach, mostly studying bikini-clad women, until evening falls."
-    "{i}Tu traînes autour de l'appartement et de la plage, à étudier les femmes en bikini, jusqu'au soir."
+    "{i}You hang around the apartment and the beach, mostly studying bikini-clad women, until evening falls."
 
 # game/day16.rpy:621
-translate french day16_evening_choices_7fe1c06c_1:
+translate french day16_evening_choices_7fe1c06c:
 
     # p "Are you ready yet, [b_name]?"
-    p "Tu es prête, [b_name] ?"
+    p "Are you ready yet, [b_name]?"
 
 # game/day16.rpy:622
-translate french day16_evening_choices_7784cdf7_1:
+translate french day16_evening_choices_7784cdf7:
 
     # b "Almost."
-    b "Presque."
+    b "Almost."
 
 # game/day16.rpy:625
-translate french day16_evening_choices_070a9e05_1:
+translate french day16_evening_choices_070a9e05:
 
     # b "Come in!"
-    b "Entrer !"
+    b "Come in!"
 
 # game/day16.rpy:630
-translate french day16_evening_choices_ba683ae6_1:
+translate french day16_evening_choices_ba683ae6:
 
     # p "{i}(Holy moly. What an absolute vision.)"
-    p "{i}( Sainte Marie. Quelle vision parfaite.)"
+    p "{i}(Holy moly. What an absolute vision.)"
 
 # game/day16.rpy:632
-translate french day16_evening_choices_67704916_1:
+translate french day16_evening_choices_67704916:
 
     # b "Something the matter, brother?"
-    b "Quelque chose ne va pas, mon frère ?"
+    b "Something the matter, brother?"
 
 # game/day16.rpy:634
-translate french day16_evening_choices_e71ee520_1:
+translate french day16_evening_choices_e71ee520:
 
     # b "Something the matter?"
-    b "Quelque chose ne va pas ?"
+    b "Something the matter?"
 
 # game/day16.rpy:635
-translate french day16_evening_choices_d4e5ab0f_1:
+translate french day16_evening_choices_d4e5ab0f:
 
     # p "Yes, you. You look beautiful."
-    p "Oui, toi. Tu es magnifique."
+    p "Yes, you. You look beautiful."
 
 # game/day16.rpy:636
-translate french day16_evening_choices_69f7e770_1:
+translate french day16_evening_choices_69f7e770:
 
     # b "Thank you. I've been wanting to wear this dress for ages."
-    b "Je te remercie. Je voulais porter cette robe depuis des lustres."
+    b "Thank you. I've been wanting to wear this dress for ages."
 
 # game/day16.rpy:637
-translate french day16_evening_choices_26c09e19_1:
+translate french day16_evening_choices_26c09e19:
 
     # p "I'm glad I can be a witness to this very happy occasion."
-    p "Je suis heureux de pouvoir être témoin de cette occasion mémorable."
+    p "I'm glad I can be a witness to this very happy occasion."
 
 # game/day16.rpy:643
-translate french day16_evening_choices_93e87a51_1:
+translate french day16_evening_choices_93e87a51:
 
     # b "Is said I wasn't ready yet."
-    b "Je t'ai dit que je n'étais pas encore prête."
+    b "Is said I wasn't ready yet."
 
 # game/day16.rpy:644
-translate french day16_evening_choices_11bab468_1:
+translate french day16_evening_choices_11bab468:
 
     # p "I just couldn't wait to see your gorgeous body in that dress. Damn girl."
-    p "J'avais hâte de voir ton corps magnifique dans cette robe. Vilaine fille."
+    p "I just couldn't wait to see your gorgeous body in that dress. Damn girl."
 
 # game/day16.rpy:645
-translate french day16_evening_choices_14a5d2e4_1:
+translate french day16_evening_choices_14a5d2e4:
 
     # b "Shall we go now?"
-    b "On y va maintenant ?"
+    b "Shall we go now?"
 
 # game/day16.rpy:646
-translate french day16_evening_choices_2e1380b3_1:
+translate french day16_evening_choices_2e1380b3:
 
     # p "I thought you weren't ready?"
-    p "Je croyais que tu n'étais pas prête ?"
+    p "I thought you weren't ready?"
 
 # game/day16.rpy:647
-translate french day16_evening_choices_97ea5e50_1:
+translate french day16_evening_choices_97ea5e50:
 
     # b "Why do you always have to be such a douche?"
-    b "Pourquoi t'es toujours aussi con ?"
+    b "Why do you always have to be such a douche?"
 
 # game/day16.rpy:648
-translate french day16_evening_choices_18de197b_1:
+translate french day16_evening_choices_18de197b:
 
     # p "It's just one of my many talents."
-    p "C'est juste un de mes nombreux talents."
+    p "It's just one of my many talents."
 
 # game/day16.rpy:651
-translate french day16_evening_choices_b58f428f_1:
+translate french day16_evening_choices_b58f428f:
 
     # "{i}After a short walk you arrive at the restaurant you've booked."
-    "{i}Après une courte marche, vous arrivez au restaurant que tu as réservé."
+    "{i}After a short walk you arrive at the restaurant you've booked."
 
 # game/day16.rpy:655
-translate french day16_evening_choices_b75cdcad_1:
+translate french day16_evening_choices_b75cdcad:
 
     # b "This looks like an interesting place."
-    b "Ça a l'air d'être un endroit sympa."
+    b "This looks like an interesting place."
 
 # game/day16.rpy:656
-translate french day16_evening_choices_501989c7_1:
+translate french day16_evening_choices_501989c7:
 
     # p "Yes, it's a restaurant built inside a natural cave. On top of that I read that the food is also excellent."
-    p "Oui, c'est un restaurant construit dans une grotte naturelle. De plus, j'ai lu que la nourriture est excellente."
+    p "Yes, it's a restaurant built inside a natural cave. On top of that I read that the food is also excellent."
 
 # game/day16.rpy:657
-translate french day16_evening_choices_565ba65f_1:
+translate french day16_evening_choices_565ba65f:
 
     # b "That's a nice bonus."
-    b "C'est un joli bonus."
+    b "That's a nice bonus."
 
 # game/day16.rpy:661
-translate french day16_evening_choices_7b2b39ac_1:
+translate french day16_evening_choices_7b2b39ac:
 
     # b "A cave? Where exactly are you taking me?"
-    b "Une grotte ? Où est-ce que tu m'emmènes exactement ?"
+    b "A cave? Where exactly are you taking me?"
 
 # game/day16.rpy:662
-translate french day16_evening_choices_d6f1191f_1:
+translate french day16_evening_choices_d6f1191f:
 
     # p "It's supposed to be a fancy place. Just relax and enjoy the food."
-    p "C'est censé être un endroit chic. Détends-toi et savoure la nourriture."
+    p "It's supposed to be a fancy place. Just relax and enjoy the food."
 
 # game/day16.rpy:664
-translate french day16_evening_choices_c5434823_1:
+translate french day16_evening_choices_c5434823:
 
     # b "Jesus Christ, could it get any more gimmicky? A fucking restaurant in a fucking cave?"
-    b "Bon sang, ça ne pourrait pas être plus artificiel ? Un putain de restaurant dans une putain de grotte ?"
+    b "Jesus Christ, could it get any more gimmicky? A fucking restaurant in a fucking cave?"
 
 # game/day16.rpy:665
-translate french day16_evening_choices_27bdc6dc_1:
+translate french day16_evening_choices_27bdc6dc:
 
     # p "Language, young lady."
-    p "Quel langage, jeune fille."
+    p "Language, young lady."
 
 # game/day16.rpy:667
-translate french day16_evening_choices_1132810a_1:
+translate french day16_evening_choices_1132810a:
 
     # "{i}After you're both seated you order some wine."
-    "{i}Après vous être assis,tu commande du vin."
+    "{i}After you're both seated you order some wine."
 
 # game/day16.rpy:671
-translate french day16_evening_choices_3a7c96f4_1:
+translate french day16_evening_choices_3a7c96f4:
 
     # b "Are we going to toast?"
-    b "On va porter un toast ?"
+    b "Are we going to toast?"
 
 # game/day16.rpy:672
-translate french day16_evening_choices_f452ecc0_1:
+translate french day16_evening_choices_f452ecc0:
 
     # p "Seems like an appropriate moment."
-    p "C'est le bon moment."
+    p "Seems like an appropriate moment."
 
 # game/day16.rpy:673
-translate french day16_evening_choices_a577f63e_1:
+translate french day16_evening_choices_a577f63e:
 
     # p "To a great holiday!"
-    p "À de bonnes vacances !"
+    p "To a great holiday!"
 
 # game/day16.rpy:674
-translate french day16_evening_choices_3d7eed1d_1:
+translate french day16_evening_choices_3d7eed1d:
 
     # b "To us!"
-    b "A nous !"
+    b "To us!"
 
 # game/day16.rpy:675
-translate french day16_evening_choices_dd70096a_1:
+translate french day16_evening_choices_dd70096a:
 
     # p "{i}(That's unexpected.)"
-    p "{i}(C'est inattendu.)"
+    p "{i}(That's unexpected.)"
 
 # game/day16.rpy:676
-translate french day16_evening_choices_7d29003e_1:
+translate french day16_evening_choices_7d29003e:
 
     # p "To us!"
-    p "A nous !"
+    p "To us!"
 
 # game/day16.rpy:678
-translate french day16_evening_choices_4593c99f_1:
+translate french day16_evening_choices_4593c99f:
 
     # p "Pssst, [b_name]. You're staring at me."
-    p "Pssst, [b_name]. Tu me regardes fixement."
+    p "Pssst, [b_name]. You're staring at me."
 
 # game/day16.rpy:679
-translate french day16_evening_choices_29e0b613_1:
+translate french day16_evening_choices_29e0b613:
 
     # b "Oh shit. Sorry."
-    b "Oh merde. Désolée."
+    b "Oh shit. Sorry."
 
 # game/day16.rpy:680
-translate french day16_evening_choices_f8d3c444_1:
+translate french day16_evening_choices_f8d3c444:
 
     # p "Are you okay?"
-    p "Est-ce que ça va ?"
+    p "Are you okay?"
 
 # game/day16.rpy:681
-translate french day16_evening_choices_ad8178c2_1:
+translate french day16_evening_choices_ad8178c2:
 
     # b "Yes, sorry. It's nothing."
-    b "Oui, désolée. Ce n'est rien du tout."
+    b "Yes, sorry. It's nothing."
 
 # game/day16.rpy:682
-translate french day16_evening_choices_b98a5b64_1:
+translate french day16_evening_choices_b98a5b64:
 
     # p "You can tell me."
-    p "Tu peux me le dire."
+    p "You can tell me."
 
 # game/day16.rpy:683
-translate french day16_evening_choices_3195d42f_1:
+translate french day16_evening_choices_3195d42f:
 
     # b "I'm just so happy. For once I have the feeling everything is working out for me, you know?"
-    b "Je suis tellement heureuse. Pour une fois, j'ai l'impression que tout va bien pour moi, tu vois ?"
+    b "I'm just so happy. For once I have the feeling everything is working out for me, you know?"
 
 # game/day16.rpy:684
-translate french day16_evening_choices_c2689c12_1:
+translate french day16_evening_choices_c2689c12:
 
     # p "I'm really glad for you."
-    p "Je suis vraiment content pour toi."
+    p "I'm really glad for you."
 
 # game/day16.rpy:686
-translate french day16_evening_choices_c6267234_1:
+translate french day16_evening_choices_c6267234:
 
     # b "I'm really glad you're here too."
-    b "Je suis vraiment contente que tu sois là aussi."
+    b "I'm really glad you're here too."
 
 # game/day16.rpy:688
-translate french day16_evening_choices_058e8959_1:
+translate french day16_evening_choices_058e8959:
 
     # "{i}A lump gets stuck in your throat as [b_name] touches your hand affectionately. The look in your sister's eyes goes far beyond familial affection, it's more like a longing adoration."
-    "{i}Une bosse reste coincée dans ta gorge quand [b_name] te touche affectueusement la main. Le regard de ta sœur va bien au-delà de l'affection familiale, c'est plutôt un désir d'adoration."
+    "{i}A lump gets stuck in your throat as [b_name] touches your hand affectionately. The look in your sister's eyes goes far beyond familial affection, it's more like a longing adoration."
 
 # game/day16.rpy:690
-translate french day16_evening_choices_33ff551d_1:
+translate french day16_evening_choices_33ff551d:
 
     # "{i}A lump gets stuck in your throat as [b_name] touches your hand affectionately. The look in her eyes goes beyond friendly affection, it's more like a longing adoration."
-    "{i}Une bosse reste coincée dans ta gorge quand [b_name] te touche affectueusement la main. Le regard dans ses yeux va au-delà de l'affection amicale, c'est plus comme un désir d'adoration."
+    "{i}A lump gets stuck in your throat as [b_name] touches your hand affectionately. The look in her eyes goes beyond friendly affection, it's more like a longing adoration."
 
 # game/day16.rpy:691
-translate french day16_evening_choices_300701d2_1:
+translate french day16_evening_choices_300701d2:
 
     # p "I..."
-    p "Je..."
+    p "I..."
 
 # game/day16.rpy:693
-translate french day16_evening_choices_45404425_1:
+translate french day16_evening_choices_45404425:
 
     # man "So, what will it be for the lovely couple?"
-    man "Alors, qu'est-ce que ce sera pour le charmant couple ?"
+    man "So, what will it be for the lovely couple?"
 
 # game/day16.rpy:694
-translate french day16_evening_choices_ed30b725_1:
+translate french day16_evening_choices_ed30b725:
 
     # "{i}The voice of the server breaks the spell and [b_name] hurriedly pulls back her hand, nearly tipping over her glass of wine."
-    "{i}La voix du serveur rompt le charme et [b_name] retire précipitamment sa main, renversant presque son verre de vin."
+    "{i}The voice of the server breaks the spell and [b_name] hurriedly pulls back her hand, nearly tipping over her glass of wine."
 
 # game/day16.rpy:695
-translate french day16_evening_choices_f37ea720_1:
+translate french day16_evening_choices_f37ea720:
 
     # b "The trout for me please."
-    b "La truite pour moi, s'il vous plaît."
+    b "The trout for me please."
 
 # game/day16.rpy:696
-translate french day16_evening_choices_0e8674bf_1:
+translate french day16_evening_choices_0e8674bf:
 
     # p "I'd like the steak with summer vegetables."
-    p "Je voudrais le steak aux légumes d'été."
+    p "I'd like the steak with summer vegetables."
 
 # game/day16.rpy:697
-translate french day16_evening_choices_66ba4430_1:
+translate french day16_evening_choices_66ba4430:
 
     # "{i}The conversation is a bit awkward after that, but as soon as the food arrives the mood lightens."
-    "{i}La conversation est un peu gênante après ça, mais dès que la nourriture arrive, l'humeur se détend."
+    "{i}The conversation is a bit awkward after that, but as soon as the food arrives the mood lightens."
 
 # game/day16.rpy:702
-translate french day16_b_restaurant_choices_soft_b7811cc1_1:
+translate french day16_b_restaurant_choices_soft_b7811cc1:
 
     # p "Have you thought about what you're going to do when we're back from Belugio?"
-    p "As-tu réfléchi à ce que tu vas faire quand nous reviendrons de Belugio ?"
+    p "Have you thought about what you're going to do when we're back from Belugio?"
 
 # game/day16.rpy:703
-translate french day16_b_restaurant_choices_soft_3c987653_1:
+translate french day16_b_restaurant_choices_soft_3c987653:
 
     # b "No, I haven't really thought about it. Also, we just got to the island. But it sure is nice that I'll have to work less."
-    b "Non, je n'y ai pas vraiment pensé. On vient d'arriver sur l'île. Mais ça fait du bien de travailler moins."
+    b "No, I haven't really thought about it. Also, we just got to the island. But it sure is nice that I'll have to work less."
 
 # game/day16.rpy:704
-translate french day16_b_restaurant_choices_soft_38a2a631_1:
+translate french day16_b_restaurant_choices_soft_38a2a631:
 
     # p "Must be a good feeling."
-    p "Ça doit être un sentiment agréable."
+    p "Must be a good feeling."
 
 # game/day16.rpy:705
-translate french day16_b_restaurant_choices_soft_b9d186c0_1:
+translate french day16_b_restaurant_choices_soft_b9d186c0:
 
     # b "Yeah, the money is less of a necessity now, thanks to you. So I'll be around much more to annoy you."
-    b "Ouais, l'argent est moins nécessaire maintenant, grâce à toi. Donc je serai plus là pour t'ennuyer."
+    b "Yeah, the money is less of a necessity now, thanks to you. So I'll be around much more to annoy you."
 
 # game/day16.rpy:706
-translate french day16_b_restaurant_choices_soft_bdbbf476_1:
+translate french day16_b_restaurant_choices_soft_bdbbf476:
 
     # p "Looking forward to it."
-    p "J'ai hâte d'y être."
+    p "Looking forward to it."
 
 # game/day16.rpy:710
-translate french day16_b_restaurant_choices_soft_90d3e2be_1:
+translate french day16_b_restaurant_choices_soft_90d3e2be:
 
     # p "This might be an impertinent question, but I've been wondering something."
-    p "C'est peut-être une question impertinente, mais je me demandais quelque chose."
+    p "This might be an impertinent question, but I've been wondering something."
 
 # game/day16.rpy:711
-translate french day16_b_restaurant_choices_soft_d4c98e5a_1:
+translate french day16_b_restaurant_choices_soft_d4c98e5a:
 
     # b "Ask away, if the question is too irritating, I'll only bite your head off."
-    b "Si la question est trop agaçante, je t'arracherai la tête."
+    b "Ask away, if the question is too irritating, I'll only bite your head off."
 
 # game/day16.rpy:713
-translate french day16_b_restaurant_choices_soft_c27f8a85_1:
+translate french day16_b_restaurant_choices_soft_c27f8a85:
 
     # p "What a relief."
-    p "Je suis soulagé."
+    p "What a relief."
 
 # game/day16.rpy:714
-translate french day16_b_restaurant_choices_soft_417cbc1f_1:
+translate french day16_b_restaurant_choices_soft_417cbc1f:
 
     # p "The thing is we talked about dad a few times and, despite the relatively short time you knew him, you talk about him so affectionately."
-    p "Le fait est que nous avons parlé de papa à quelques reprises et, malgré le peu de temps que tu l'as connu, tu parles de lui avec tant d'affection."
+    p "The thing is we talked about dad a few times and, despite the relatively short time you knew him, you talk about him so affectionately."
 
 # game/day16.rpy:715
-translate french day16_b_restaurant_choices_soft_a95dc08a_1:
+translate french day16_b_restaurant_choices_soft_a95dc08a:
 
     # b "I just have a lot of fond memories of him."
-    b "J'ai juste de bons souvenirs de lui."
+    b "I just have a lot of fond memories of him."
 
 # game/day16.rpy:717
-translate french day16_b_restaurant_choices_soft_bfb2ab39_1:
+translate french day16_b_restaurant_choices_soft_bfb2ab39:
 
     # p "I get that. Like you told me in the park."
-    p "J'ai compris ça. Comme tu me l'as dit dans le parc."
+    p "I get that. Like you told me in the park."
 
 # game/day16.rpy:719
-translate french day16_b_restaurant_choices_soft_2ee221f9_1:
+translate french day16_b_restaurant_choices_soft_2ee221f9:
 
     # p "I get that."
-    p "J'ai compris ça."
+    p "I get that."
 
 # game/day16.rpy:720
-translate french day16_b_restaurant_choices_soft_fc821e94_1:
+translate french day16_b_restaurant_choices_soft_fc821e94:
 
     # p "But was there more?"
-    p "Mais y en avait-il d'autres ?"
+    p "But was there more?"
 
 # game/day16.rpy:721
-translate french day16_b_restaurant_choices_soft_a45d1da2_1:
+translate french day16_b_restaurant_choices_soft_a45d1da2:
 
     # b "Whatever do you mean?"
-    b "Qu'est-ce que tu veux dire ?"
+    b "Whatever do you mean?"
 
 # game/day16.rpy:722
-translate french day16_b_restaurant_choices_soft_b1f4957a_1:
+translate french day16_b_restaurant_choices_soft_b1f4957a:
 
     # p "Was it more than the normal love between father and daughter?"
-    p "Était-ce plus que l'amour normal entre père et fille ?"
+    p "Was it more than the normal love between father and daughter?"
 
 # game/day16.rpy:726
-translate french day16_b_restaurant_choices_soft_9668efe2_1:
+translate french day16_b_restaurant_choices_soft_9668efe2:
 
     # b "Shit, [p_name], you sure know how to ask a question..."
-    b "Merde, [p_name], tu sais vraiment comment poser une question...."
+    b "Shit, [p_name], you sure know how to ask a question..."
 
 # game/day16.rpy:727
-translate french day16_b_restaurant_choices_soft_e88a0767_1:
+translate french day16_b_restaurant_choices_soft_e88a0767:
 
     # p "Sorry."
-    p "Désolée."
+    p "Sorry."
 
 # game/day16.rpy:728
-translate french day16_b_restaurant_choices_soft_2b7fbdf0_1:
+translate french day16_b_restaurant_choices_soft_2b7fbdf0:
 
     # b "Don't be."
-    b "Ne le sois pas."
+    b "Don't be."
 
 # game/day16.rpy:729
-translate french day16_b_restaurant_choices_soft_77751ead_1:
+translate french day16_b_restaurant_choices_soft_77751ead:
 
     # p "But? Was there more?"
-    p "Mais ? Y en avait-il d'autres ?"
+    p "But? Was there more?"
 
 # game/day16.rpy:730
-translate french day16_b_restaurant_choices_soft_4c5a4d83_1:
+translate french day16_b_restaurant_choices_soft_4c5a4d83:
 
     # b "Hell, I don't know. I was so young then... Maybe..."
-    b "Bon sang, je ne sais pas. J'étais si jeune à l'époque.... Peut-être...."
+    b "Hell, I don't know. I was so young then... Maybe..."
 
 # game/day16.rpy:732
-translate french day16_b_restaurant_choices_soft_2b08204b_2:
+translate french day16_b_restaurant_choices_soft_2b08204b:
 
     # b "Fuck. Alright. Whenever I think of him I still get a hint of those fluttering feelings. So yes, I guess it was love, true love."
-    b "Putain de merde. D'accord. Chaque fois que je pense à lui, j'ai encore un soupçon de ces sentiments palpitants. Donc oui, je suppose que c'était l'amour, le grand amour."
+    b "Fuck. Alright. Whenever I think of him I still get a hint of those fluttering feelings. So yes, I guess it was love, true love."
 
 # game/day16.rpy:733
-translate french day16_b_restaurant_choices_soft_5af520fa_1:
+translate french day16_b_restaurant_choices_soft_5af520fa:
 
     # b "That's weird, right? I'm weird."
-    b "C'est bizarre, non ? Je suis bizarre."
+    b "That's weird, right? I'm weird."
 
 # game/day16.rpy:734
-translate french day16_b_restaurant_choices_soft_80e82670_2:
+translate french day16_b_restaurant_choices_soft_80e82670:
 
     # p "No, I don't think so."
-    p "Non, je ne crois pas."
+    p "No, I don't think so."
 
 # game/day16.rpy:735
-translate french day16_b_restaurant_choices_soft_08a3d1e4_1:
+translate french day16_b_restaurant_choices_soft_08a3d1e4:
 
     # b "Anyhow, dad never did anything to encourage it, wasn't even aware. And it's all in the past now. Faded."
-    b "De toute façon, papa n'a jamais rien fait pour l'encourager, il n'était même pas au courant. Et c'est du passé, maintenant. Effacé pour toujours."
+    b "Anyhow, dad never did anything to encourage it, wasn't even aware. And it's all in the past now. Faded."
 
 # game/day16.rpy:736
-translate french day16_b_restaurant_choices_soft_8b346b06_2:
+translate french day16_b_restaurant_choices_soft_8b346b06:
 
     # p "But then I came around?"
-    p "Mais ensuite, j'ai changé d'avis ?"
+    p "But then I came around?"
 
 # game/day16.rpy:737
-translate french day16_b_restaurant_choices_soft_ddd8abed_2:
+translate french day16_b_restaurant_choices_soft_ddd8abed:
 
     # b "Yes."
-    b "Oui."
+    b "Yes."
 
 # game/day16.rpy:738
-translate french day16_b_restaurant_choices_soft_08da56ec_2:
+translate french day16_b_restaurant_choices_soft_08da56ec:
 
     # b "All those buried feelings... It's complicated."
-    b "Tous ces sentiments enfouis... C'est compliqué."
+    b "All those buried feelings... It's complicated."
 
 # game/day16.rpy:739
-translate french day16_b_restaurant_choices_soft_bb7dfb49_2:
+translate french day16_b_restaurant_choices_soft_bb7dfb49:
 
     # p "I understand."
-    p "Je comprends."
+    p "I understand."
 
 # game/day16.rpy:740
-translate french day16_b_restaurant_choices_soft_1a77705b_2:
+translate french day16_b_restaurant_choices_soft_1a77705b:
 
     # b "Do you really?"
-    b "C'est vraiment le cas ?"
+    b "Do you really?"
 
 # game/day16.rpy:741
-translate french day16_b_restaurant_choices_soft_8fa70281_2:
+translate french day16_b_restaurant_choices_soft_8fa70281:
 
     # p "Yes. Maybe I wasn't as thunderstruck as you, but I've come to love you very dearly in a very short time."
-    p "Oui. Je n'ai peut-être pas été aussi abasourdi que toi, mais j'en suis venu à t'aimer très fort en très peu de temps."
+    p "Yes. Maybe I wasn't as thunderstruck as you, but I've come to love you very dearly in a very short time."
 
 # game/day16.rpy:742
-translate french day16_b_restaurant_choices_soft_59a3b775_2:
+translate french day16_b_restaurant_choices_soft_59a3b775:
 
     # b "Not that kind of love surely..."
-    b "Pas ce genre d'amour sûrement...."
+    b "Not that kind of love surely..."
 
 # game/day16.rpy:743
-translate french day16_b_restaurant_choices_soft_cb0c668a_2:
+translate french day16_b_restaurant_choices_soft_cb0c668a:
 
     # p "Exactly that kind of love. And if we weren't at a posh restaurant I would hold you tight and kiss your beautiful face."
-    p "Exactement ce genre d'amour. Et si on n'était pas dans un restaurant chic, je te serrerais fort et embrasserais ton beau visage."
+    p "Exactly that kind of love. And if we weren't at a posh restaurant I would hold you tight and kiss your beautiful face."
 
 # game/day16.rpy:744
-translate french day16_b_restaurant_choices_soft_42b8ceee_2:
+translate french day16_b_restaurant_choices_soft_42b8ceee:
 
     # b "Sssh, [p_name]! It's the wine! We should really talk about something else."
-    b "Sssh, [p_name] ! C'est le vin ! On devrait vraiment parler d'autre chose."
+    b "Sssh, [p_name]! It's the wine! We should really talk about something else."
 
 # game/day16.rpy:745
-translate french day16_b_restaurant_choices_soft_940f0882_2:
+translate french day16_b_restaurant_choices_soft_940f0882:
 
     # p "{i}(No we shouldn't. But she obviously doesn't want to talk about it further.)"
-    p "{i}(Non, on ne devrait pas. Mais elle ne veut évidemment pas en parler plus longtemps.)"
+    p "{i}(No we shouldn't. But she obviously doesn't want to talk about it further.)"
 
 # game/day16.rpy:748
-translate french day16_b_restaurant_choices_soft_a14318e5_1:
+translate french day16_b_restaurant_choices_soft_a14318e5:
 
     # b "I'm not sure if I like what you're hinting at."
-    b "Je ne suis pas sûr d'aimer ce que tu sous-entends."
+    b "I'm not sure if I like what you're hinting at."
 
 # game/day16.rpy:753
-translate french day16_b_restaurant_choices_soft_e242c0ac_1:
+translate french day16_b_restaurant_choices_soft_e242c0ac:
 
     # p "Sorry, I shouldn't have asked."
-    p "Désolé, je n'aurais pas dû demander."
+    p "Sorry, I shouldn't have asked."
 
 # game/day16.rpy:755
-translate french day16_b_restaurant_choices_soft_f5e3b127_1:
+translate french day16_b_restaurant_choices_soft_f5e3b127:
 
     # b "It's okay. I'm a weird girl, I know."
-    b "C'est pas grave. Je suis une fille bizarre, je sais."
+    b "It's okay. I'm a weird girl, I know."
 
 # game/day16.rpy:756
-translate french day16_b_restaurant_choices_soft_2310a268_1:
+translate french day16_b_restaurant_choices_soft_2310a268:
 
     # p "You're not weird, I'm just trying to understand."
-    p "Tu n'es pas bizarre, j'essaie juste de comprendre."
+    p "You're not weird, I'm just trying to understand."
 
 # game/day16.rpy:758
-translate french day16_b_restaurant_choices_soft_2b08204b_3:
+translate french day16_b_restaurant_choices_soft_2b08204b_1:
 
     # b "Fuck. Alright. Whenever I think of him I still get a hint of those fluttering feelings. So yes, I guess it was love, true love."
-    b "Putain de merde. D'accord. Chaque fois que je pense à lui, j'ai encore un soupçon de ces sentiments palpitants. Donc oui, je suppose que c'était l'amour, le grand amour."
+    b "Fuck. Alright. Whenever I think of him I still get a hint of those fluttering feelings. So yes, I guess it was love, true love."
 
 # game/day16.rpy:759
-translate french day16_b_restaurant_choices_soft_8e126890_1:
+translate french day16_b_restaurant_choices_soft_8e126890:
 
     # b "That's weird, right? Don't tell me that's not weird."
-    b "C'est bizarre, non ? Ne me dis pas que ce n'est pas bizarre."
+    b "That's weird, right? Don't tell me that's not weird."
 
 # game/day16.rpy:760
-translate french day16_b_restaurant_choices_soft_80e82670_3:
+translate french day16_b_restaurant_choices_soft_80e82670_1:
 
     # p "No, I don't think so."
-    p "Non, je ne crois pas."
+    p "No, I don't think so."
 
 # game/day16.rpy:761
-translate french day16_b_restaurant_choices_soft_4d1b5ef3_1:
+translate french day16_b_restaurant_choices_soft_4d1b5ef3:
 
     # b "Anyhow, dad never did anything to encourage it, or wasn't even aware. And it's all in the past now. Faded."
-    b "De toute façon, papa n'a jamais rien fait pour l'encourager, ou n'était même pas au courant. Et c'est du passé, maintenant. Effacé pour toujours."
+    b "Anyhow, dad never did anything to encourage it, or wasn't even aware. And it's all in the past now. Faded."
 
 # game/day16.rpy:762
-translate french day16_b_restaurant_choices_soft_8b346b06_3:
+translate french day16_b_restaurant_choices_soft_8b346b06_1:
 
     # p "But then I came around?"
-    p "Mais ensuite, j'ai changé d'avis ?"
+    p "But then I came around?"
 
 # game/day16.rpy:763
-translate french day16_b_restaurant_choices_soft_ddd8abed_3:
+translate french day16_b_restaurant_choices_soft_ddd8abed_1:
 
     # b "Yes."
-    b "Oui."
+    b "Yes."
 
 # game/day16.rpy:764
-translate french day16_b_restaurant_choices_soft_08da56ec_3:
+translate french day16_b_restaurant_choices_soft_08da56ec_1:
 
     # b "All those buried feelings... It's complicated."
-    b "Tous ces sentiments enfouis... C'est compliqué."
+    b "All those buried feelings... It's complicated."
 
 # game/day16.rpy:765
-translate french day16_b_restaurant_choices_soft_bb7dfb49_3:
+translate french day16_b_restaurant_choices_soft_bb7dfb49_1:
 
     # p "I understand."
-    p "Je comprends."
+    p "I understand."
 
 # game/day16.rpy:766
-translate french day16_b_restaurant_choices_soft_1a77705b_3:
+translate french day16_b_restaurant_choices_soft_1a77705b_1:
 
     # b "Do you really?"
-    b "C'est vraiment le cas ?"
+    b "Do you really?"
 
 # game/day16.rpy:767
-translate french day16_b_restaurant_choices_soft_8fa70281_3:
+translate french day16_b_restaurant_choices_soft_8fa70281_1:
 
     # p "Yes. Maybe I wasn't as thunderstruck as you, but I've come to love you very dearly in a very short time."
-    p "Oui. Je n'ai peut-être pas été aussi abasourdi que toi, mais j'en suis venu à t'aimer très fort en très peu de temps."
+    p "Yes. Maybe I wasn't as thunderstruck as you, but I've come to love you very dearly in a very short time."
 
 # game/day16.rpy:768
-translate french day16_b_restaurant_choices_soft_59a3b775_3:
+translate french day16_b_restaurant_choices_soft_59a3b775_1:
 
     # b "Not that kind of love surely..."
-    b "Pas ce genre d'amour sûrement...."
+    b "Not that kind of love surely..."
 
 # game/day16.rpy:769
-translate french day16_b_restaurant_choices_soft_cb0c668a_3:
+translate french day16_b_restaurant_choices_soft_cb0c668a_1:
 
     # p "Exactly that kind of love. And if we weren't at a posh restaurant I would hold you tight and kiss your beautiful face."
-    p "Exactement ce genre d'amour. Et si on n'était pas dans un restaurant chic, je te serrerais fort et embrasserais ton beau visage."
+    p "Exactly that kind of love. And if we weren't at a posh restaurant I would hold you tight and kiss your beautiful face."
 
 # game/day16.rpy:770
-translate french day16_b_restaurant_choices_soft_42b8ceee_3:
+translate french day16_b_restaurant_choices_soft_42b8ceee_1:
 
     # b "Sssh, [p_name]! It's the wine! We should really talk about something else."
-    b "Sssh, [p_name] ! C'est le vin ! On devrait vraiment parler d'autre chose."
+    b "Sssh, [p_name]! It's the wine! We should really talk about something else."
 
 # game/day16.rpy:771
-translate french day16_b_restaurant_choices_soft_940f0882_3:
+translate french day16_b_restaurant_choices_soft_940f0882_1:
 
     # p "{i}(No we shouldn't. But she obviously doesn't want to talk about it further.)"
-    p "{i}(Non, on ne devrait pas. Mais elle ne veut évidemment pas en parler plus longtemps.)"
+    p "{i}(No we shouldn't. But she obviously doesn't want to talk about it further.)"
 
 # game/day16.rpy:775
-translate french day16_b_restaurant_choices_soft_98434502_1:
+translate french day16_b_restaurant_choices_soft_98434502:
 
     # p "I don't mean anything by it, I'm just curious. It's just a question."
-    p "Je ne veux rien dire par là, je suis juste curieux. C'est juste une question."
+    p "I don't mean anything by it, I'm just curious. It's just a question."
 
 # game/day16.rpy:776
-translate french day16_b_restaurant_choices_soft_bec50eb4_1:
+translate french day16_b_restaurant_choices_soft_bec50eb4:
 
     # b "No it isn't."
-    b "Non, ça ne l'est pas."
+    b "No it isn't."
 
 # game/day16.rpy:777
-translate french day16_b_restaurant_choices_soft_74967f87_1:
+translate french day16_b_restaurant_choices_soft_74967f87:
 
     # b "Look, [p_name], coming here was a mistake. I want to go home."
-    b "Ecoute, [p_name], venir ici était une erreur. Je veux rentrer chez moi."
+    b "Look, [p_name], coming here was a mistake. I want to go home."
 
 # game/day16.rpy:778
-translate french day16_b_restaurant_choices_soft_0ea0b3b4_1:
+translate french day16_b_restaurant_choices_soft_0ea0b3b4:
 
     # p "But we haven't even finished the main course."
-    p "Mais nous n'avons même pas fini le plat principal."
+    p "But we haven't even finished the main course."
 
 # game/day16.rpy:779
-translate french day16_b_restaurant_choices_soft_5996633c_1:
+translate french day16_b_restaurant_choices_soft_5996633c:
 
     # b "I know, I just want to go."
-    b "Je sais, je veux juste y aller."
+    b "I know, I just want to go."
 
 # game/day16.rpy:781
-translate french day16_b_restaurant_choices_soft_c7dad8da_1:
+translate french day16_b_restaurant_choices_soft_c7dad8da:
 
     # "{i}The walk back to the apartment is awkward and tense. Something clearly has been irreparably broken."
-    "{i}Le retour à l'appartement est gênant et tendu. Il est clair que quelque chose a été irrémédiablement cassé."
+    "{i}The walk back to the apartment is awkward and tense. Something clearly has been irreparably broken."
 
 # game/day16.rpy:787
-translate french day16_b_restaurant_choices_soft_ead12931_1:
+translate french day16_b_restaurant_choices_soft_ead12931:
 
     # p "I have found some leverage on stalker-boy Dwayne. I thought maybe you'd have a creative idea to punish him."
-    p "J'ai trouvé un moyen de pression sur Dwayne, le harceleur. J'ai pensé que tu aurais peut-être une idée créative pour le punir."
+    p "I have found some leverage on stalker-boy Dwayne. I thought maybe you'd have a creative idea to punish him."
 
 # game/day16.rpy:789
-translate french day16_b_restaurant_choices_soft_d647be07_1:
+translate french day16_b_restaurant_choices_soft_d647be07:
 
     # b "I'm sure he deserves punishment, but what I would like is an apology."
-    b "Je suis sûr qu'il mérite d'être puni, mais je voudrais des excuses."
+    b "I'm sure he deserves punishment, but what I would like is an apology."
 
 # game/day16.rpy:790
-translate french day16_b_restaurant_choices_soft_b36d9c28_1:
+translate french day16_b_restaurant_choices_soft_b36d9c28:
 
     # b "I want that fucker to know how it's been for me the past months living in fear and shame."
-    b "Je veux que cet enfoiré sache comment j'ai vécu ces derniers mois dans la peur et la honte."
+    b "I want that fucker to know how it's been for me the past months living in fear and shame."
 
 # game/day16.rpy:791
-translate french day16_b_restaurant_choices_soft_2cf6b438_1:
+translate french day16_b_restaurant_choices_soft_2cf6b438:
 
     # p "I'm fairly certain that can be arranged."
-    p "Je suis presque sûr que ça peut s'arranger."
+    p "I'm fairly certain that can be arranged."
 
 # game/day16.rpy:793
-translate french day16_b_restaurant_choices_soft_64501618_1:
+translate french day16_b_restaurant_choices_soft_64501618:
 
     # b "Good! And after that I want him to suffer. Majorly."
-    b "Bien ! Et après ça, je veux qu'il souffre. En particulier."
+    b "Good! And after that I want him to suffer. Majorly."
 
 # game/day16.rpy:794
-translate french day16_b_restaurant_choices_soft_3c49c548_1:
+translate french day16_b_restaurant_choices_soft_3c49c548:
 
     # p "That can be arranged too."
-    p "Ça aussi, ça peut s'arranger."
+    p "That can be arranged too."
 
 # game/day16.rpy:796
-translate french day16_b_restaurant_choices_soft_0add96a1_1:
+translate french day16_b_restaurant_choices_soft_0add96a1:
 
     # b "I love the sound of that already."
-    b "J'aime déjà le son de cette phrase."
+    b "I love the sound of that already."
 
 # game/day16.rpy:797
-translate french day16_b_restaurant_choices_soft_06a9ff08_1:
+translate french day16_b_restaurant_choices_soft_06a9ff08:
 
     # p "People shouldn't mess with us."
-    p "Les gens ne devraient pas nous embêter."
+    p "People shouldn't mess with us."
 
 # game/day16.rpy:798
-translate french day16_b_restaurant_choices_soft_0c0dfa46_1:
+translate french day16_b_restaurant_choices_soft_0c0dfa46:
 
     # b "Damn right."
-    b "C'est tout à fait vrai."
+    b "Damn right."
 
 # game/day16.rpy:801
-translate french day16_b_restaurant_choices_soft_cc1ca553_1:
+translate french day16_b_restaurant_choices_soft_cc1ca553:
 
     # "{i}After both finishing your dessert you're ready to leave."
-    "{i}Après avoir fini votre dessert, vous êtes prêts à partir."
+    "{i}After both finishing your dessert you're ready to leave."
 
 # game/day16.rpy:804
-translate french day16_b_restaurant_choices_soft_a74cef1e_1:
+translate french day16_b_restaurant_choices_soft_a74cef1e:
 
     # b "Thank you for an absolutely delightful evening."
-    b "Merci pour cette soirée absolument délicieuse."
+    b "Thank you for an absolutely delightful evening."
 
 # game/day16.rpy:806
-translate french day16_b_restaurant_choices_soft_52a5da42_1:
+translate french day16_b_restaurant_choices_soft_52a5da42:
 
     # p "You're welcome, sister dear."
-    p "De rien, ma chère sœur."
+    p "You're welcome, sister dear."
 
 # game/day16.rpy:808
-translate french day16_b_restaurant_choices_soft_2b17ae3f_1:
+translate french day16_b_restaurant_choices_soft_2b17ae3f:
 
     # p "You're welcome, dear [b_name]."
-    p "De rien, ma chère [b_name]."
+    p "You're welcome, dear [b_name]."
 
 # game/day16.rpy:809
-translate french day16_b_restaurant_choices_soft_c7c3d03e_1:
+translate french day16_b_restaurant_choices_soft_c7c3d03e:
 
     # "{i}You both stare in each other's eyes after [b_name]'s affectionate kiss on your cheek."
-    "{i}Vous vous regardez dans les yeux après le baiser affectueux de [b_name] sur ta joue."
+    "{i}You both stare in each other's eyes after [b_name]'s affectionate kiss on your cheek."
 
 # game/day16.rpy:811
-translate french day16_b_restaurant_choices_soft_13116f38_1:
+translate french day16_b_restaurant_choices_soft_13116f38:
 
     # "{i}Suddenly you hold her tight, her breasts pressed against your chest. The kiss that follows is passionate and fueled by an animalistic urge to be close to one another."
-    "{i}Soudain, tu la serres fort, ses seins pressés contre ton torse. Le baiser qui suit est passionné et alimenté par un désir animaliste d'être proche l'un de l'autre."
+    "{i}Suddenly you hold her tight, her breasts pressed against your chest. The kiss that follows is passionate and fueled by an animalistic urge to be close to one another."
 
 # game/day16.rpy:812
-translate french day16_b_restaurant_choices_soft_ebcc3197_1:
+translate french day16_b_restaurant_choices_soft_ebcc3197:
 
     # "[b_name] breathes deeply and seems to have completely forgotten her surroundings. You feel the smooth curves of her body beneath your hands. The smell of her perfume is exhilarating."
-    "[b_name] respire profondément et semble avoir complètement oublié son environnement. Tu sens les courbes lisses de son corps sous tes mains. L'odeur de son parfum est exaltante."
+    "[b_name] breathes deeply and seems to have completely forgotten her surroundings. You feel the smooth curves of her body beneath your hands. The smell of her perfume is exhilarating."
 
 # game/day16.rpy:814
-translate french day16_b_restaurant_choices_soft_94eb89ef_1:
+translate french day16_b_restaurant_choices_soft_94eb89ef:
 
     # b "Fuck! What are we doing?!"
-    b "Putain de merde ! Qu'est-ce qu'on fait ?!"
+    b "Fuck! What are we doing?!"
 
 # game/day16.rpy:815
-translate french day16_b_restaurant_choices_soft_465d2f33_1:
+translate french day16_b_restaurant_choices_soft_465d2f33:
 
     # p "[b_name]..."
-    p "[b_name]...."
+    p "[b_name]..."
 
 # game/day16.rpy:816
-translate french day16_b_restaurant_choices_soft_9cda5c0e_1:
+translate french day16_b_restaurant_choices_soft_9cda5c0e:
 
     # b "Sorry, [p_name], I..."
-    b "Désolé, [p_name], je...."
+    b "Sorry, [p_name], I..."
 
 # game/day16.rpy:819
-translate french day16_b_restaurant_choices_soft_4f84ff92_1:
+translate french day16_b_restaurant_choices_soft_4f84ff92:
 
     # "{i}Without finishing her sentence, your sister hurriedly leaves the restaurant."
-    "{i}Sans avoir fini sa phrase, ta soeur quitte précipitamment le restaurant."
+    "{i}Without finishing her sentence, your sister hurriedly leaves the restaurant."
 
 # game/day16.rpy:821
-translate french day16_b_restaurant_choices_soft_3ed37d64_1:
+translate french day16_b_restaurant_choices_soft_3ed37d64:
 
     # "{i}Without finishing her sentence, [b_name] hurriedly leaves the restaurant."
-    "{i}Sans avoir fini sa phrase, [b_name] quitte précipitamment le restaurant."
+    "{i}Without finishing her sentence, [b_name] hurriedly leaves the restaurant."
 
 # game/day16.rpy:822
-translate french day16_b_restaurant_choices_soft_ffd6d6e2_1:
+translate french day16_b_restaurant_choices_soft_ffd6d6e2:
 
     # p "{i}(Damn it. What happened here, did we go too fast? She seemed really ready to submit herself completely.)"
-    p "{i}(Merde. Qu'est-ce qui s'est passé ici, on est allés trop vite ? Elle semblait vraiment prête à se soumettre complètement.)"
+    p "{i}(Damn it. What happened here, did we go too fast? She seemed really ready to submit herself completely.)"
 
 # game/day16.rpy:823
-translate french day16_b_restaurant_choices_soft_25d33cca_1:
+translate french day16_b_restaurant_choices_soft_25d33cca:
 
     # p "{i}(Hopefully we can talk about it tomorrow...)"
-    p "{i}(Espérons que nous pourrons en parler demain....)"
+    p "{i}(Hopefully we can talk about it tomorrow...)"
 
 # game/day16.rpy:826
-translate french day16_b_restaurant_choices_soft_2e43ffc8_1:
+translate french day16_b_restaurant_choices_soft_2e43ffc8:
 
     # b "At least there's wine."
-    b "Au moins, il y a du vin."
+    b "At least there's wine."
 
 # game/day16.rpy:827
-translate french day16_b_restaurant_choices_soft_1b76b024_1:
+translate french day16_b_restaurant_choices_soft_1b76b024:
 
     # "{i}You sit in silence for a while until the server arrives."
-    "{i}Vous restez assis en silence jusqu'à l'arrivée du serveur."
+    "{i}You sit in silence for a while until the server arrives."
 
 # game/day16.rpy:828
-translate french day16_b_restaurant_choices_soft_6246af93_1:
+translate french day16_b_restaurant_choices_soft_6246af93:
 
     # man "What would you like to order."
-    man "Que voulez-vous commander ?"
+    man "What would you like to order."
 
 # game/day16.rpy:829
-translate french day16_b_restaurant_choices_soft_6b7c40ae_1:
+translate french day16_b_restaurant_choices_soft_6b7c40ae:
 
     # p "She'll have the trout and I'd like the steak with summer vegetables."
-    p "Elle prendra la truite et j'aimerais le steak avec des légumes d'été."
+    p "She'll have the trout and I'd like the steak with summer vegetables."
 
 # game/day16.rpy:830
-translate french day16_b_restaurant_choices_soft_155ec0dd_1:
+translate french day16_b_restaurant_choices_soft_155ec0dd:
 
     # b "Trout, seriously? I don't even like fish."
-    b "Une truite, sérieusement ? Je n'aime même pas le poisson."
+    b "Trout, seriously? I don't even like fish."
 
 # game/day16.rpy:831
-translate french day16_b_restaurant_choices_soft_90c2cacb_1:
+translate french day16_b_restaurant_choices_soft_90c2cacb:
 
     # p "I'm sure you'll like this version. Just try something new for a change."
-    p "Je suis sûr que cette version te plaira. Essaie quelque chose de nouveau pour changer."
+    p "I'm sure you'll like this version. Just try something new for a change."
 
 # game/day16.rpy:834
-translate french day16_b_restaurant_choices_soft_f9bd3178_1:
+translate french day16_b_restaurant_choices_soft_f9bd3178:
 
     # b "Why are you always this forceful with me?"
-    b "Pourquoi es-tu toujours aussi énergique avec moi ?"
+    b "Why are you always this forceful with me?"
 
 # game/day16.rpy:835
-translate french day16_b_restaurant_choices_soft_0f129a2f_1:
+translate french day16_b_restaurant_choices_soft_0f129a2f:
 
     # p "Because I've come to enjoy it."
-    p "Parce que je suis venu pour en profiter."
+    p "Because I've come to enjoy it."
 
 # game/day16.rpy:836
-translate french day16_b_restaurant_choices_soft_12ad82ac_1:
+translate french day16_b_restaurant_choices_soft_12ad82ac:
 
     # b "Freak."
-    b "Flippant."
+    b "Freak."
 
 # game/day16.rpy:837
-translate french day16_b_restaurant_choices_soft_6305da4d_1:
+translate french day16_b_restaurant_choices_soft_6305da4d:
 
     # p "You didn't have to come with me, you know."
-    p "Tu n'avais pas besoin de venir avec moi, tu sais."
+    p "You didn't have to come with me, you know."
 
 # game/day16.rpy:838
-translate french day16_b_restaurant_choices_soft_e4f370a8_1:
+translate french day16_b_restaurant_choices_soft_e4f370a8:
 
     # b "I know."
-    b "Je sais."
+    b "I know."
 
 # game/day16.rpy:839
-translate french day16_b_restaurant_choices_soft_9da52c5a_1:
+translate french day16_b_restaurant_choices_soft_9da52c5a:
 
     # p "So you enjoy it too."
-    p "Alors tu aimes ça aussi."
+    p "So you enjoy it too."
 
 # game/day16.rpy:840
-translate french day16_b_restaurant_choices_soft_27fa6985_1:
+translate french day16_b_restaurant_choices_soft_27fa6985:
 
     # b "Let's just wait for the food to arrive..."
-    b "Attendons que la nourriture arrive...."
+    b "Let's just wait for the food to arrive..."
 
 # game/day16.rpy:842
-translate french day16_b_restaurant_choices_soft_b4ea0ed5_1:
+translate french day16_b_restaurant_choices_soft_b4ea0ed5:
 
     # b "Guess I don't have much choice."
-    b "Je n'ai pas vraiment le choix."
+    b "Guess I don't have much choice."
 
 # game/day16.rpy:843
-translate french day16_b_restaurant_choices_soft_50810729_1:
+translate french day16_b_restaurant_choices_soft_50810729:
 
     # p "Nope."
-    p "Non, non."
+    p "Nope."
 
 # game/day16.rpy:844
-translate french day16_b_restaurant_choices_soft_1f00ae5c_1:
+translate french day16_b_restaurant_choices_soft_1f00ae5c:
 
     # "{i}After another bout of silence the food finally arrives."
-    "{i}Après un autre silence, la nourriture arrive enfin."
+    "{i}After another bout of silence the food finally arrives."
 
 # game/day16.rpy:846
-translate french day16_b_restaurant_choices_soft_a8a269d5_1:
+translate french day16_b_restaurant_choices_soft_a8a269d5:
 
     # p "Enjoy your meal."
-    p "Bon appétit."
+    p "Enjoy your meal."
 
 # game/day16.rpy:848
-translate french day16_b_restaurant_choices_soft_3a6b4f91_1:
+translate french day16_b_restaurant_choices_soft_3a6b4f91:
 
     # b "You too."
-    b "Toi aussi."
+    b "You too."
 
 # game/day16.rpy:850
-translate french day16_b_restaurant_choices_soft_57b65e0f_1:
+translate french day16_b_restaurant_choices_soft_57b65e0f:
 
     # b "Go fuck yourself."
-    b "Va te faire foutre."
+    b "Go fuck yourself."
 
 # game/day16.rpy:851
-translate french day16_b_restaurant_choices_soft_7e9d3651_1:
+translate french day16_b_restaurant_choices_soft_7e9d3651:
 
     # "{i}Despite her earlier protests [b_name] clearly enjoys the food before her."
-    "{i}Malgré ses protestations antérieures, [b_name] apprécie clairement la nourriture qui lui est servie."
+    "{i}Despite her earlier protests [b_name] clearly enjoys the food before her."
 
 # game/day16.rpy:853
-translate french day16_b_restaurant_choices_soft_f57ce43a_1:
+translate french day16_b_restaurant_choices_soft_f57ce43a:
 
     # p "That dress is very nice, sis, it really enhances your gorgeous features."
-    p "Cette robe est très jolie, soeurette, elle met vraiment en valeur tes magnifiques formes."
+    p "That dress is very nice, sis, it really enhances your gorgeous features."
 
 # game/day16.rpy:855
-translate french day16_b_restaurant_choices_soft_451e90b7_1:
+translate french day16_b_restaurant_choices_soft_451e90b7:
 
     # p "That dress is very nice, [b_name], it really enhances your gorgeous features."
-    p "Cette robe est très jolie, [b_name], elle met vraiment en valeur tes magnifiques formes."
+    p "That dress is very nice, [b_name], it really enhances your gorgeous features."
 
 # game/day16.rpy:859
-translate french day16_b_restaurant_choices_soft_2f0c9b4a_1:
+translate french day16_b_restaurant_choices_soft_2f0c9b4a:
 
     # b "God, you're hungry in every way, aren't you little brother?"
-    b "Mon Dieu, tu as faim dans tous les sens du terme, n'est-ce pas, petit frère ?"
+    b "God, you're hungry in every way, aren't you little brother?"
 
 # game/day16.rpy:861
-translate french day16_b_restaurant_choices_soft_49bf3af6_1:
+translate french day16_b_restaurant_choices_soft_49bf3af6:
 
     # b "God, you're hungry in every way, aren't you?"
-    b "Mon Dieu, tu as faim dans tous les sens du terme, n'est-ce pas ?"
+    b "God, you're hungry in every way, aren't you?"
 
 # game/day16.rpy:863
-translate french day16_b_restaurant_choices_soft_877b9059_1:
+translate french day16_b_restaurant_choices_soft_877b9059:
 
     # b "God, is that all you can think about. Even during dinner?"
-    b "Mon Dieu, c'est tout ce à quoi tu peux penser. Même pendant le dîner ?"
+    b "God, is that all you can think about. Even during dinner?"
 
 # game/day16.rpy:864
-translate french day16_b_restaurant_choices_soft_952ee5ff_1:
+translate french day16_b_restaurant_choices_soft_952ee5ff:
 
     # p "I'd like to see one of your puppies as dessert."
-    p "J'aimerais voir un de tes bébés comme dessert."
+    p "I'd like to see one of your puppies as dessert."
 
 # game/day16.rpy:865
-translate french day16_b_restaurant_choices_soft_d1513492_1:
+translate french day16_b_restaurant_choices_soft_d1513492:
 
     # b "What?! We're in a bloody restaurant. What if they see me?"
-    b "Quoi ?! On est dans un putain de restaurant. Et si on me voit ?"
+    b "What?! We're in a bloody restaurant. What if they see me?"
 
 # game/day16.rpy:866
-translate french day16_b_restaurant_choices_soft_935347c4_1:
+translate french day16_b_restaurant_choices_soft_935347c4:
 
     # p "We're sitting in a corner and I'm obscuring a lot with my back. Just keep an eye on the staff."
-    p "On est assis dans un coin et je cache beaucoup de choses avec mon dos. Garde juste un oeil sur le personnel."
+    p "We're sitting in a corner and I'm obscuring a lot with my back. Just keep an eye on the staff."
 
 # game/day16.rpy:867
-translate french day16_b_restaurant_choices_soft_35f6cb11_1:
+translate french day16_b_restaurant_choices_soft_35f6cb11:
 
     # p "Come on, just a quick peek."
-    p "Allez, juste un petit coup d'oeil."
+    p "Come on, just a quick peek."
 
 # game/day16.rpy:870
-translate french day16_b_restaurant_choices_soft_2d2db619_1:
+translate french day16_b_restaurant_choices_soft_2d2db619:
 
     # "{i}Disgruntled, your sister reveals one of her breasts to you."
-    "{i}Désappointée, ta soeur te révèle un de ses seins."
+    "{i}Disgruntled, your sister reveals one of her breasts to you."
 
 # game/day16.rpy:872
-translate french day16_b_restaurant_choices_soft_ab5517b2_1:
+translate french day16_b_restaurant_choices_soft_ab5517b2:
 
     # "{i}Disgruntled, [b_name] reveals one of her breasts to you."
-    "{i}Désappointée, [b_name] te révèle un de ses seins."
+    "{i}Disgruntled, [b_name] reveals one of her breasts to you."
 
 # game/day16.rpy:873
-translate french day16_b_restaurant_choices_soft_2808e790_1:
+translate french day16_b_restaurant_choices_soft_2808e790:
 
     # p "What a sight, you know you're giving me such a raging boner right now."
-    p "Quel beau spectacle, tu sais que tu me fais bander comme un fou en ce moment."
+    p "What a sight, you know you're giving me such a raging boner right now."
 
 # game/day16.rpy:876
-translate french day16_b_restaurant_choices_soft_03523e79_1:
+translate french day16_b_restaurant_choices_soft_03523e79:
 
     # b "You like what you're seeing?"
-    b "Tu aimes ce que tu vois ?"
+    b "You like what you're seeing?"
 
 # game/day16.rpy:877
-translate french day16_b_restaurant_choices_soft_a5de22e1_1:
+translate french day16_b_restaurant_choices_soft_a5de22e1:
 
     # p "Very much."
-    p "Beaucoup."
+    p "Very much."
 
 # game/day16.rpy:879
-translate french day16_b_restaurant_choices_soft_ed390897_1:
+translate french day16_b_restaurant_choices_soft_ed390897:
 
     # b "Are you done yet."
-    b "T'as fini."
+    b "Are you done yet."
 
 # game/day16.rpy:880
-translate french day16_b_restaurant_choices_soft_1a5e3da0_1:
+translate french day16_b_restaurant_choices_soft_1a5e3da0:
 
     # p "Not quite."
-    p "Pas tout à fait."
+    p "Not quite."
 
 # game/day16.rpy:884
-translate french day16_b_restaurant_choices_soft_9d88a382_1:
+translate french day16_b_restaurant_choices_soft_9d88a382:
 
     # p "Why don't you let the other one loose as well."
-    p "Pourquoi tu ne lâches pas l'autre aussi ?"
+    p "Why don't you let the other one loose as well."
 
 # game/day16.rpy:885
-translate french day16_b_restaurant_choices_soft_c178e97b_1:
+translate french day16_b_restaurant_choices_soft_c178e97b:
 
     # b "Are you fucking crazy?"
-    b "T'es dingue ou quoi ?"
+    b "Are you fucking crazy?"
 
 # game/day16.rpy:890
-translate french day16_b_restaurant_choices_soft_25cecbf4_1:
+translate french day16_b_restaurant_choices_soft_25cecbf4:
 
     # p "I'm such a fan of this dress."
-    p "Je suis tellement fan de cette robe."
+    p "I'm such a fan of this dress."
 
 # game/day16.rpy:891
-translate french day16_b_restaurant_choices_soft_da66192f_1:
+translate french day16_b_restaurant_choices_soft_da66192f:
 
     # b "Shit, someone is coming our way."
-    b "Merde, quelqu'un vient vers nous."
+    b "Shit, someone is coming our way."
 
 # game/day16.rpy:893
-translate french day16_b_restaurant_choices_soft_4cc32f5d_1:
+translate french day16_b_restaurant_choices_soft_4cc32f5d:
 
     # "{i}Your sister covers herself up real quick and finishes her meal like nothing happened while the waiter walks past."
-    "{i}Ta sœur se couvre très vite et finit son repas comme si de rien n'était pendant que le serveur passait."
+    "{i}Your sister covers herself up real quick and finishes her meal like nothing happened while the waiter walks past."
 
 # game/day16.rpy:895
-translate french day16_b_restaurant_choices_soft_532cc142_1:
+translate french day16_b_restaurant_choices_soft_532cc142:
 
     # "{i}[b_name] covers herself up real quick and finishes her meal like nothing happened while the waiter walks past."
-    "{i}[b_name] se couvre très vite et finit son repas comme si de rien n'était pendant que le serveur passait."
+    "{i}[b_name] covers herself up real quick and finishes her meal like nothing happened while the waiter walks past."
 
 # game/day16.rpy:899
-translate french day16_b_restaurant_choices_soft_6deb1872_1:
+translate french day16_b_restaurant_choices_soft_6deb1872:
 
     # b "I've done enough."
-    b "J'en ai assez."
+    b "I've done enough."
 
 # game/day16.rpy:902
-translate french day16_b_restaurant_choices_soft_06940249_1:
+translate french day16_b_restaurant_choices_soft_06940249:
 
     # p "That's enough for now."
-    p "C'est assez pour l'instant."
+    p "That's enough for now."
 
 # game/day16.rpy:906
-translate french day16_b_restaurant_choices_soft_93d849b1_1:
+translate french day16_b_restaurant_choices_soft_93d849b1:
 
     # b "You're absolutely crazy, you know that?"
-    b "Tu es complètement fou, tu sais ça ?"
+    b "You're absolutely crazy, you know that?"
 
 # game/day16.rpy:908
-translate french day16_b_restaurant_choices_soft_c587ee01_1:
+translate french day16_b_restaurant_choices_soft_c587ee01:
 
     # b "You're fucking crazy, you know that?"
-    b "T'es complètement dingue, tu sais ça ?"
+    b "You're fucking crazy, you know that?"
 
 # game/day16.rpy:909
-translate french day16_b_restaurant_choices_soft_4b43212e_1:
+translate french day16_b_restaurant_choices_soft_4b43212e:
 
     # p "You drive me crazy [b_name]... crazy with lust."
-    p "Tu me rends fou, [b_name]... fou de désir."
+    p "You drive me crazy [b_name]... crazy with lust."
 
 # game/day16.rpy:911
-translate french day16_b_restaurant_choices_soft_e3a50e2b_1:
+translate french day16_b_restaurant_choices_soft_e3a50e2b:
 
     # "{i}After finishing a light dessert you both return to the apartment."
-    "{i}Après avoir fini un dessert léger, vous retournez à l'appartement."
+    "{i}After finishing a light dessert you both return to the apartment."
 
 # game/day16.rpy:916
-translate french day16_b_restaurant_choices_soft_4a88174a_1:
+translate french day16_b_restaurant_choices_soft_4a88174a:
 
     # l "What a lovely evening, [p_name]. Would you care for a walk along the beach?"
-    l "Quelle belle soirée, [p_name]. Voudrais-tu te promener le long de la plage ?"
+    l "What a lovely evening, [p_name]. Would you care for a walk along the beach?"
 
 # game/day16.rpy:917
-translate french day16_b_restaurant_choices_soft_9b3dc266_1:
+translate french day16_b_restaurant_choices_soft_9b3dc266:
 
     # p "That would be nice."
-    p "Ce serait sympa."
+    p "That would be nice."
 
 # game/day16.rpy:919
-translate french day16_b_restaurant_choices_soft_1b058e93_1:
+translate french day16_b_restaurant_choices_soft_1b058e93:
 
     # "{i}The air is still warm outside and there's a slight sea breeze. At first you walk in silence along the shoreline, the sea softly splashing against your ankles."
-    "{i}L'air est encore chaud et il y a une légère brise marine. Au début, vous marchez en silence le long du rivage, la mer éclaboussant doucement vos chevilles."
+    "{i}The air is still warm outside and there's a slight sea breeze. At first you walk in silence along the shoreline, the sea softly splashing against your ankles."
 
 # game/day16.rpy:920
-translate french day16_b_restaurant_choices_soft_bb4fa5a9_1:
+translate french day16_b_restaurant_choices_soft_bb4fa5a9:
 
     # l "I love falling asleep at the apartment, with the sea murmuring in the distance."
-    l "J'adore m'endormir à l'appartement, la mer murmurant au loin."
+    l "I love falling asleep at the apartment, with the sea murmuring in the distance."
 
 # game/day16.rpy:921
-translate french day16_b_restaurant_choices_soft_8eef431e_1:
+translate french day16_b_restaurant_choices_soft_8eef431e:
 
     # p "I know what you mean."
-    p "Je vois ce que tu veux dire."
+    p "I know what you mean."
 
 # game/day16.rpy:923
-translate french day16_b_restaurant_choices_soft_58ff752f_1:
+translate french day16_b_restaurant_choices_soft_58ff752f:
 
     # p "{i}(Although I was fairly busy giving [r_name] a good time yesterday night.)"
-    p "{i}(Bien que j'étais assez occupé à donner du bon temps à [r_name] hier soir.)"
+    p "{i}(Although I was fairly busy giving [r_name] a good time yesterday night.)"
 
 # game/day16.rpy:924
-translate french day16_b_restaurant_choices_soft_c4a42b81_1:
+translate french day16_b_restaurant_choices_soft_c4a42b81:
 
     # "{i}[l_name] is silent after this exchange. A few times it looks like she's trying to say something, but thinks better of it."
-    "{i}[l_name] se tait après cet échange. Parfois, on dirait qu'elle essaie de dire quelque chose, mais elle y réfléchit plus."
+    "{i}[l_name] is silent after this exchange. A few times it looks like she's trying to say something, but thinks better of it."
 
 # game/day16.rpy:928
-translate french day16_b_restaurant_choices_soft_a33dd612_1:
+translate french day16_b_restaurant_choices_soft_a33dd612:
 
     # p "Is something the matter, [l_name]?"
-    p "Quelque chose ne va pas, [l_name] ?"
+    p "Is something the matter, [l_name]?"
 
 # game/day16.rpy:929
-translate french day16_b_restaurant_choices_soft_8f5c89f7_1:
+translate french day16_b_restaurant_choices_soft_8f5c89f7:
 
     # l "Can you tell by just looking at me?"
-    l "Tu peux le dire rien qu'en me regardant ?"
+    l "Can you tell by just looking at me?"
 
 # game/day16.rpy:930
-translate french day16_b_restaurant_choices_soft_38d12ac0_1:
+translate french day16_b_restaurant_choices_soft_38d12ac0:
 
     # p "I'm afraid so."
-    p "J'en ai bien peur."
+    p "I'm afraid so."
 
 # game/day16.rpy:931
-translate french day16_b_restaurant_choices_soft_189e66ee_1:
+translate french day16_b_restaurant_choices_soft_189e66ee:
 
     # l "Alright. I was just wondering something. You talked about doing the... you know... thing... on my own terms."
-    l "D'accord,. Je me demandais juste quelque chose. Tu as parlé de faire le... tu sais... le truc... à mes propres conditions."
+    l "Alright. I was just wondering something. You talked about doing the... you know... thing... on my own terms."
 
 # game/day16.rpy:932
-translate french day16_b_restaurant_choices_soft_c9c4cdce_1:
+translate french day16_b_restaurant_choices_soft_c9c4cdce:
 
     # p "Masturbating?"
-    p "La masturbation ?"
+    p "Masturbating?"
 
 # game/day16.rpy:933
-translate french day16_b_restaurant_choices_soft_6d5abfe6_1:
+translate french day16_b_restaurant_choices_soft_6d5abfe6:
 
     # l "Not so loud!"
-    l "Pas si fort !"
+    l "Not so loud!"
 
 # game/day16.rpy:934
-translate french day16_b_restaurant_choices_soft_382832cb_1:
+translate french day16_b_restaurant_choices_soft_382832cb:
 
     # p "Who's going to hear us? The sea birds?"
-    p "Qui va nous entendre ? Les oiseaux marins ?"
+    p "Who's going to hear us? The sea birds?"
 
 # game/day16.rpy:935
-translate french day16_b_restaurant_choices_soft_482ce487_1:
+translate french day16_b_restaurant_choices_soft_482ce487:
 
     # l "Okay... It just sounds so dirty. But I've been thinking about it quite a lot."
-    l "Ok.... Ça a l'air si sale. Mais j'y ai beaucoup réfléchi."
+    l "Okay... It just sounds so dirty. But I've been thinking about it quite a lot."
 
 # game/day16.rpy:936
-translate french day16_b_restaurant_choices_soft_b11c91ee_1:
+translate french day16_b_restaurant_choices_soft_b11c91ee:
 
     # p "Have you now?"
-    p "C'est le cas maintenant ?"
+    p "Have you now?"
 
 # game/day16.rpy:937
-translate french day16_b_restaurant_choices_soft_a10eb36c_1:
+translate french day16_b_restaurant_choices_soft_a10eb36c:
 
     # l "No, I'm not thinking about sex all day... Oh, what must you think of me now."
-    l "Non, je ne pense pas au sexe toute la journée.... Oh, que dois-tu penser de moi maintenant."
+    l "No, I'm not thinking about sex all day... Oh, what must you think of me now."
 
 # game/day16.rpy:939
-translate french day16_b_restaurant_choices_soft_da9063d1_1:
+translate french day16_b_restaurant_choices_soft_da9063d1:
 
     # p "Relax dear sis, I was just teasing you."
-    p "Détends-toi, ma chère sœur, je te taquinais, c'est tout."
+    p "Relax dear sis, I was just teasing you."
 
 # game/day16.rpy:941
-translate french day16_b_restaurant_choices_soft_7ef2e9bb_1:
+translate french day16_b_restaurant_choices_soft_7ef2e9bb:
 
     # p "Relax dear [l_name], I was just teasing you."
-    p "Du calme, ma chère [l_name], je te taquinais."
+    p "Relax dear [l_name], I was just teasing you."
 
 # game/day16.rpy:942
-translate french day16_b_restaurant_choices_soft_a6f4fcc9_1:
+translate french day16_b_restaurant_choices_soft_a6f4fcc9:
 
     # l "Shush then!"
-    l "Chut alors !"
+    l "Shush then!"
 
 # game/day16.rpy:943
-translate french day16_b_restaurant_choices_soft_45b81c73_1:
+translate french day16_b_restaurant_choices_soft_45b81c73:
 
     # l "But I think maybe I'm ready. For the help, I mean."
-    l "Mais je pense que je suis prête. Pour l'aide, je veux dire."
+    l "But I think maybe I'm ready. For the help, I mean."
 
 # game/day16.rpy:944
-translate french day16_b_restaurant_choices_soft_c7ee7887_1:
+translate french day16_b_restaurant_choices_soft_c7ee7887:
 
     # l "I'm sleeping alone tonight..."
-    l "Je dors seul ce soir...."
+    l "I'm sleeping alone tonight..."
 
 # game/day16.rpy:945
-translate french day16_b_restaurant_choices_soft_7fc02810_1:
+translate french day16_b_restaurant_choices_soft_7fc02810:
 
     # p "{i}(She still seems hesitant, and I'm not sure if the little confidence she has will last the rest of the walk to the apartment. Maybe I should attempt to expedite things?)"
-    p "{i}(Elle semble toujours hésitante, et je ne sais pas si le peu de confiance qu'elle a durera le reste de la marche jusqu'à l'appartement. Peut-être que je devrais essayer d'accélérer les choses ?)"
+    p "{i}(She still seems hesitant, and I'm not sure if the little confidence she has will last the rest of the walk to the apartment. Maybe I should attempt to expedite things?)"
 
 # game/day16.rpy:946
-translate french day16_b_restaurant_choices_soft_698a63b8_1:
+translate french day16_b_restaurant_choices_soft_698a63b8:
 
     # p "Why not find a secluded place and do it here on the beach?"
-    p "Pourquoi ne pas trouver un endroit isolé et le faire ici sur la plage ?"
+    p "Why not find a secluded place and do it here on the beach?"
 
 # game/day16.rpy:951
-translate french day16_b_restaurant_choices_soft_667e5f27_1:
+translate french day16_b_restaurant_choices_soft_667e5f27:
 
     # l "Here?! But what if someone sees us?"
-    l "Ici ?! Et si quelqu'un nous voit ?"
+    l "Here?! But what if someone sees us?"
 
 # game/day16.rpy:952
-translate french day16_b_restaurant_choices_soft_62716aa9_1:
+translate french day16_b_restaurant_choices_soft_62716aa9:
 
     # p "The beach is completely deserted. There's more chance of someone entering the bedroom in the apartment than here. And so what if we're found out."
-    p "La plage est complètement déserte. Il y a plus de chances que quelqu'un entre dans la chambre de l'appartement qu'ici. Et si on est découverts alors..."
+    p "The beach is completely deserted. There's more chance of someone entering the bedroom in the apartment than here. And so what if we're found out."
 
 # game/day16.rpy:953
-translate french day16_b_restaurant_choices_soft_a0ca3872_1:
+translate french day16_b_restaurant_choices_soft_a0ca3872:
 
     # p "But it's your choice."
-    p "Mais c'est ton choix."
+    p "But it's your choice."
 
 # game/day16.rpy:954
-translate french day16_b_restaurant_choices_soft_bfa6f8ee_1:
+translate french day16_b_restaurant_choices_soft_bfa6f8ee:
 
     # l "My heart is hammering in my throat already."
-    l "J'ai déjà le coeur qui bat la chamade."
+    l "My heart is hammering in my throat already."
 
 # game/day16.rpy:955
-translate french day16_b_restaurant_choices_soft_e70e321a_1:
+translate french day16_b_restaurant_choices_soft_e70e321a:
 
     # p "{i}(That's a 'no', I think.)"
-    p "{i}(C'est un “non”, je crois.)"
+    p "{i}(That's a 'no', I think.)"
 
 # game/day16.rpy:956
-translate french day16_b_restaurant_choices_soft_293bcbc2_1:
+translate french day16_b_restaurant_choices_soft_293bcbc2:
 
     # l "But you're right, nobody is here."
-    l "Mais tu as raison, il n'y a personne ici."
+    l "But you're right, nobody is here."
 
 # game/day16.rpy:958
-translate french day16_b_restaurant_choices_soft_3b3c6b84_1:
+translate french day16_b_restaurant_choices_soft_3b3c6b84:
 
     # "{i}You find a quiet spot covered with dune grass and sheltered from the beach."
-    "{i}Vous trouvez un endroit tranquille, couvert d'herbe de dunes et à l'abri de la plage."
+    "{i}You find a quiet spot covered with dune grass and sheltered from the beach."
 
 # game/day16.rpy:960
-translate french day16_b_restaurant_choices_soft_6682b67e_1:
+translate french day16_b_restaurant_choices_soft_6682b67e:
 
     # l "Will we be okay here?"
-    l "Tout ira bien ?"
+    l "Will we be okay here?"
 
 # game/day16.rpy:961
-translate french day16_b_restaurant_choices_soft_30baada1_1:
+translate french day16_b_restaurant_choices_soft_30baada1:
 
     # p "I'm sure of it, don't worry."
-    p "J'en suis sûr, ne t'inquiète pas."
+    p "I'm sure of it, don't worry."
 
 # game/day16.rpy:962
-translate french day16_b_restaurant_choices_soft_847e552e_1:
+translate french day16_b_restaurant_choices_soft_847e552e:
 
     # l "Are we really going to do this?"
-    l "On va vraiment faire ça ?"
+    l "Are we really going to do this?"
 
 # game/day16.rpy:963
-translate french day16_b_restaurant_choices_soft_d466837c_1:
+translate french day16_b_restaurant_choices_soft_d466837c:
 
     # p "Unless you don't feel comfortable enough."
-    p "Sauf si tu ne te sens pas assez à l'aise."
+    p "Unless you don't feel comfortable enough."
 
 # game/day16.rpy:964
-translate french day16_b_restaurant_choices_soft_8f94cb3a_1:
+translate french day16_b_restaurant_choices_soft_8f94cb3a:
 
     # p "{i}(Please be comfortable!!!)"
-    p "{i}(S'il te plaît mets-toi à l'aise !!!!!)"
+    p "{i}(Please be comfortable!!!)"
 
 # game/day16.rpy:965
-translate french day16_b_restaurant_choices_soft_b159e512_1:
+translate french day16_b_restaurant_choices_soft_b159e512:
 
     # l "No, I'm good. The grass tickles, that's all."
-    l "Non, je vais bien. L'herbe me chatouille, c'est tout."
+    l "No, I'm good. The grass tickles, that's all."
 
 # game/day16.rpy:966
-translate french day16_b_restaurant_choices_soft_432d51eb_1:
+translate french day16_b_restaurant_choices_soft_432d51eb:
 
     # p "Good."
-    p "Parfait."
+    p "Good."
 
 # game/day16.rpy:967
-translate french day16_b_restaurant_choices_soft_1681dc26_1:
+translate french day16_b_restaurant_choices_soft_1681dc26:
 
     # l "Okay."
-    l "D'accord."
+    l "Okay."
 
 # game/day16.rpy:968
-translate french day16_b_restaurant_choices_soft_111559a2_1:
+translate french day16_b_restaurant_choices_soft_111559a2:
 
     # p "This'll work better if you're naked."
-    p "Ça marchera mieux si tu es nue."
+    p "This'll work better if you're naked."
 
 # game/day16.rpy:969
-translate french day16_b_restaurant_choices_soft_a714afbe_1:
+translate french day16_b_restaurant_choices_soft_a714afbe:
 
     # l "Oh yes... of course... Does my bikini need to go as well?"
-    l "Oh oui.... bien sûr..... Mon haut de bikini aussi ?"
+    l "Oh yes... of course... Does my bikini need to go as well?"
 
 # game/day16.rpy:970
-translate french day16_b_restaurant_choices_soft_da5f26f4_1:
+translate french day16_b_restaurant_choices_soft_da5f26f4:
 
     # p "Only if you want to."
-    p "Seulement si tu le veux."
+    p "Only if you want to."
 
 # game/day16.rpy:971
-translate french day16_b_restaurant_choices_soft_16a60d5f_1:
+translate french day16_b_restaurant_choices_soft_16a60d5f:
 
     # l "I don't know. I guess it'll be in the way."
-    l "Je ne sais pas. Je suppose qu'il sera en travers du chemin."
+    l "I don't know. I guess it'll be in the way."
 
 # game/day16.rpy:972
-translate french day16_b_restaurant_choices_soft_20e54811_1:
+translate french day16_b_restaurant_choices_soft_20e54811:
 
     # p "{i}(Excellent choice.)"
-    p "{i}(Excellent choix.)"
+    p "{i}(Excellent choice.)"
 
 # game/day16.rpy:975
-translate french day16_b_restaurant_choices_soft_3b185a49_1:
+translate french day16_b_restaurant_choices_soft_3b185a49:
 
     # p "{i}(What a heavenly sight. Lying here with my stark-naked sister and about to embark on a journey of sexual discovery.)"
-    p "{i}(Quel spectacle céleste. Allongé ici avec ma soeur nue comme une étoile et sur le point de s'embarquer dans un voyage de découverte sexuelle.)"
+    p "{i}(What a heavenly sight. Lying here with my stark-naked sister and about to embark on a journey of sexual discovery.)"
 
 # game/day16.rpy:977
-translate french day16_b_restaurant_choices_soft_f27bce54_1:
+translate french day16_b_restaurant_choices_soft_f27bce54:
 
     # p "{i}(What a heavenly sight. Lying here with a stark-naked girl and about to embark on a journey of sexual discovery.)"
-    p "{i}(Quel spectacle céleste. Allongé ici avec une fille nue comme une étoile et sur le point de s'embarquer dans un voyage de découverte sexuelle.)"
+    p "{i}(What a heavenly sight. Lying here with a stark-naked girl and about to embark on a journey of sexual discovery.)"
 
 # game/day16.rpy:978
-translate french day16_b_restaurant_choices_soft_f8c73797_1:
+translate french day16_b_restaurant_choices_soft_f8c73797:
 
     # p "Just try to relax and enjoy yourself. Don't be too focused on what you're doing and let me guide you."
-    p "Essaie de te détendre et de profiter. Ne te concentre pas trop sur ce que tu fais et laisse-moi te guider."
+    p "Just try to relax and enjoy yourself. Don't be too focused on what you're doing and let me guide you."
 
 # game/day16.rpy:979
-translate french day16_b_restaurant_choices_soft_6e9966ef_1:
+translate french day16_b_restaurant_choices_soft_6e9966ef:
 
     # l "I'm not sure if I can, but I'll try."
-    l "Je ne sais pas si je peux, mais je vais essayer."
+    l "I'm not sure if I can, but I'll try."
 
 # game/day16.rpy:981
-translate french day16_b_restaurant_choices_soft_8df2348b_1:
+translate french day16_b_restaurant_choices_soft_8df2348b:
 
     # "{i}Your hand is on her naked belly and your sister is taking deep breaths, looking at you expectantly."
-    "{i}Ta main est sur son ventre nue et ta soeur respire profondément, en te regardant avec impatience."
+    "{i}Your hand is on her naked belly and your sister is taking deep breaths, looking at you expectantly."
 
 # game/day16.rpy:983
-translate french day16_b_restaurant_choices_soft_65757b42_1:
+translate french day16_b_restaurant_choices_soft_65757b42:
 
     # "{i}Your hand is on her naked belly and [l_name] is taking deep breaths, looking at you expectantly."
-    "{i}Ta main est sur son ventre nue et [l_name] respire profondément, en te regardant avec impatience."
+    "{i}Your hand is on her naked belly and [l_name] is taking deep breaths, looking at you expectantly."
 
 # game/day16.rpy:985
-translate french day16_b_restaurant_choices_soft_0df3a880_1:
+translate french day16_b_restaurant_choices_soft_0df3a880:
 
     # "{i}You take one of her hands and slowly move it towards her sex."
-    "{i}Tu prends une de ses mains et tu la bouges lentement vers son sexe."
+    "{i}You take one of her hands and slowly move it towards her sex."
 
 # game/day16.rpy:986
-translate french day16_b_restaurant_choices_soft_e3a5a5ed_1:
+translate french day16_b_restaurant_choices_soft_e3a5a5ed:
 
     # p "Just explore yourself, take it slow. Feel your body."
-    p "Explore-toi, vas-y doucement. Sens ton corps."
+    p "Just explore yourself, take it slow. Feel your body."
 
 # game/day16.rpy:987
-translate french day16_b_restaurant_choices_soft_754b9c5b_1:
+translate french day16_b_restaurant_choices_soft_754b9c5b:
 
     # p "{i}(God, I almost sound like a guru.)"
-    p "{i}(Mon Dieu, je parle presque comme un gourou.)"
+    p "{i}(God, I almost sound like a guru.)"
 
 # game/day16.rpy:988
-translate french day16_b_restaurant_choices_soft_dfa7f157_1:
+translate french day16_b_restaurant_choices_soft_dfa7f157:
 
     # p "Touch your pussy, see how it feels beneath your fingers. Explore the area around your clit... Build up some anticipation."
-    p "Touche ta chatte, regarde comment elle se sent sous tes doigts. Explore la région autour de ton clito.... Prépare-toi à anticiper."
+    p "Touch your pussy, see how it feels beneath your fingers. Explore the area around your clit... Build up some anticipation."
 
 # game/day16.rpy:989
-translate french day16_b_restaurant_choices_soft_e746ddcb_1:
+translate french day16_b_restaurant_choices_soft_e746ddcb:
 
     # "{i}[l_name] obediently does what you're saying, but she still looks uneasy."
-    "{i}[l_name] fait docilement ce que tu dis, mais elle a toujours l'air mal à l'aise."
+    "{i}[l_name] obediently does what you're saying, but she still looks uneasy."
 
 # game/day16.rpy:990
-translate french day16_b_restaurant_choices_soft_1fb57e6a_1:
+translate french day16_b_restaurant_choices_soft_1fb57e6a:
 
     # p "Is everything alright, [l_name]?"
-    p "Tout va bien, [l_name] ?"
+    p "Is everything alright, [l_name]?"
 
 # game/day16.rpy:991
-translate french day16_b_restaurant_choices_soft_97e0d939_1:
+translate french day16_b_restaurant_choices_soft_97e0d939:
 
     # l "Yes... It's just... the words you're using. They sound so dirty."
-    l "Oui... C'est juste... les mots que tu utilises. Ils ont l'air si sales."
+    l "Yes... It's just... the words you're using. They sound so dirty."
 
 # game/day16.rpy:992
-translate french day16_b_restaurant_choices_soft_cc9a033f_1:
+translate french day16_b_restaurant_choices_soft_cc9a033f:
 
     # p "But how do those words make you feel?"
-    p "Mais qu'est-ce que ces mots te font ressentir ?"
+    p "But how do those words make you feel?"
 
 # game/day16.rpy:993
-translate french day16_b_restaurant_choices_soft_b87fab88_1:
+translate french day16_b_restaurant_choices_soft_b87fab88:
 
     # l "I..."
-    l "Je..."
+    l "I..."
 
 # game/day16.rpy:994
-translate french day16_b_restaurant_choices_soft_c2ddbdc9_1:
+translate french day16_b_restaurant_choices_soft_9a456252:
 
     # p "Come on, you can say it to me."
-    p "Aller, tu peux me le dire."
+    p "Come on, you can say it to me."
 
 # game/day16.rpy:995
-translate french day16_b_restaurant_choices_soft_af3eaa24_1:
+translate french day16_b_restaurant_choices_soft_af3eaa24:
 
     # l "They make me feel..."
-    l "Ils me font sentir...."
+    l "They make me feel..."
 
 # game/day16.rpy:996
-translate french day16_b_restaurant_choices_soft_3dfeeaf4_1:
+translate french day16_b_restaurant_choices_soft_3dfeeaf4:
 
     # l "...Horny?"
-    l "... excitée ?"
+    l "...Horny?"
 
 # game/day16.rpy:997
-translate french day16_b_restaurant_choices_soft_18e72607_1:
+translate french day16_b_restaurant_choices_soft_18e72607:
 
     # p "That's the intention. Sex is giving yourself completely over to lust. It's not something you should do half-heartedly."
-    p "C'est l'intention. Le sexe, c'est se livrer complètement à la luxure. Ce n'est pas quelque chose que tu devrais faire à moitié."
+    p "That's the intention. Sex is giving yourself completely over to lust. It's not something you should do half-heartedly."
 
 # game/day16.rpy:998
-translate french day16_b_restaurant_choices_soft_fd2f6b1e_1:
+translate french day16_b_restaurant_choices_soft_fd2f6b1e:
 
     # l "Okay, I'll try."
-    l "D'accord, je vais essayer."
+    l "Okay, I'll try."
 
 # game/day16.rpy:999
-translate french day16_b_restaurant_choices_soft_daf20258_1:
+translate french day16_b_restaurant_choices_soft_daf20258:
 
     # p "Don't worry about yourself, or the responses of your body. It's all natural."
-    p "Ne t'inquiète pas pour moi, ni pour les réactions de ton corps. C'est tout à fait naturel."
+    p "Don't worry about yourself, or the responses of your body. It's all natural."
 
 # game/day16.rpy:1000
-translate french day16_b_restaurant_choices_soft_1b4657c6_1:
+translate french day16_b_restaurant_choices_soft_1b4657c6:
 
     # l "Are you... eh... horny?"
-    l "Tu es... eh... excitée ?"
+    l "Are you... eh... horny?"
 
 # game/day16.rpy:1001
-translate french day16_b_restaurant_choices_soft_0bb85004_1:
+translate french day16_b_restaurant_choices_soft_0bb85004:
 
     # p "Yes, I think this is really exciting."
-    p "Oui, je pense que c'est vraiment excitant."
+    p "Yes, I think this is really exciting."
 
 # game/day16.rpy:1002
-translate french day16_b_restaurant_choices_soft_e1bb255d_1:
+translate french day16_b_restaurant_choices_soft_e1bb255d:
 
     # l "Do you have a... you know..."
-    l "As-tu une... tu sais... ?"
+    l "Do you have a... you know..."
 
 # game/day16.rpy:1003
-translate french day16_b_restaurant_choices_soft_3309102f_1:
+translate french day16_b_restaurant_choices_soft_3309102f:
 
     # p "An erection?"
-    p "Une érection ?"
+    p "An erection?"
 
 # game/day16.rpy:1004
-translate french day16_b_restaurant_choices_soft_e29a29a2_1:
+translate french day16_b_restaurant_choices_soft_e29a29a2:
 
     # l "Yes?"
-    l "Oui ?"
+    l "Yes?"
 
 # game/day16.rpy:1005
-translate french day16_b_restaurant_choices_soft_1b526758_1:
+translate french day16_b_restaurant_choices_soft_1b526758:
 
     # p "As soon as you removed your bikini. You have such a sexy body."
-    p "Dès que tu as enlevé ton bikini. Tu as un corps si sexy."
+    p "As soon as you removed your bikini. You have such a sexy body."
 
 # game/day16.rpy:1006
-translate french day16_b_restaurant_choices_soft_45761022_1:
+translate french day16_b_restaurant_choices_soft_45761022:
 
     # p "{i}(And if we don't focus on her again soon I'm going to cum by just talking...)"
-    p "{i}(Et si je ne me concentre pas sur elle bientôt, je vais jouir juste en parlant....)"
+    p "{i}(And if we don't focus on her again soon I'm going to cum by just talking...)"
 
 # game/day16.rpy:1007
-translate french day16_b_restaurant_choices_soft_81f2c3f1_1:
+translate french day16_b_restaurant_choices_soft_81f2c3f1:
 
     # p "Shall we continue?"
-    p "On continue ?"
+    p "Shall we continue?"
 
 # game/day16.rpy:1008
-translate french day16_b_restaurant_choices_soft_bc5c265b_1:
+translate french day16_b_restaurant_choices_soft_bc5c265b:
 
     # l "Yes."
-    l "Oui."
+    l "Yes."
 
 # game/day16.rpy:1009
-translate french day16_b_restaurant_choices_soft_3b587d0a_1:
+translate french day16_b_restaurant_choices_soft_3b587d0a:
 
     # p "Don't be too preoccupied with reaching an orgasm, just concentrate on what makes you feel good and extend that feeling of pleasure."
-    p "Ne te préoccupe pas trop d'atteindre un orgasme, concentre-toi simplement sur ce qui te fait te sentir bien et prolonge ce sentiment de plaisir."
+    p "Don't be too preoccupied with reaching an orgasm, just concentrate on what makes you feel good and extend that feeling of pleasure."
 
 # game/day16.rpy:1010
-translate french day16_b_restaurant_choices_soft_c383bd3b_1:
+translate french day16_b_restaurant_choices_soft_c383bd3b:
 
     # p "Start by gently rubbing your pussy."
-    p "Commence par caresser doucement ta chatte."
+    p "Start by gently rubbing your pussy."
 
 # game/day16.rpy:1012
-translate french day16_b_restaurant_choices_soft_8ee5f2dd_1:
+translate french day16_b_restaurant_choices_soft_8ee5f2dd:
 
     # l "Ooooh, yes... That feels good."
-    l "Ooooh, oui... Ça fait du bien."
+    l "Ooooh, yes... That feels good."
 
 # game/day16.rpy:1013
-translate french day16_b_restaurant_choices_soft_7f1370a3_1:
+translate french day16_b_restaurant_choices_soft_7f1370a3:
 
     # "{i}You edge closer and lower your voice to a whisper."
-    "{i}Tu te rapproches et tu chuchotes à voix basse."
+    "{i}You edge closer and lower your voice to a whisper."
 
 # game/day16.rpy:1014
-translate french day16_b_restaurant_choices_soft_e4df1b27_1:
+translate french day16_b_restaurant_choices_soft_e4df1b27:
 
     # p "Explore you pussy lips, your clitoris..."
-    p "Explore les lèvres de ta chatte, ton clitoris...."
+    p "Explore you pussy lips, your clitoris..."
 
 # game/day16.rpy:1015
-translate french day16_b_restaurant_choices_soft_20a26fd7_1:
+translate french day16_b_restaurant_choices_soft_20a26fd7:
 
     # l "Yes! Mmmmm."
-    l "Oui ! Mmmmmmm."
+    l "Yes! Mmmmm."
 
 # game/day16.rpy:1016
-translate french day16_b_restaurant_choices_soft_49062072_1:
+translate french day16_b_restaurant_choices_soft_49062072:
 
     # p "Don't hold back. If it feels good, continue doing it..."
-    p "Ne te retiens pas. Si ça fait du bien, continue...."
+    p "Don't hold back. If it feels good, continue doing it..."
 
 # game/day16.rpy:1017
-translate french day16_b_restaurant_choices_soft_bb4294e1_1:
+translate french day16_b_restaurant_choices_soft_cc354b51:
 
     # "{i}After a short while, [l_name]'s soft moans of pleasure slow down and then stop completely. She's no longer enjoying herself and appears to have reverted back to stiff and pleasure-less grinding."
-    "{i}Peu de temps après, les doux gémissements de plaisir de [l_name] ralentissent et s'arrêtent complètement. Elle ne s'amuse plus et semble être revenue à un travail raide et sans plaisir."
+    "{i}After a short while, [l_name]'s soft moans of pleasure slow down and then stop completely. She's no longer enjoying herself and appears to have reverted back to stiff and pleasure-less grinding."
 
 # game/day16.rpy:1018
-translate french day16_b_restaurant_choices_soft_36fe35c9_1:
+translate french day16_b_restaurant_choices_soft_36fe35c9:
 
     # p "When you think you're losing momentum think of dirty things."
-    p "Quand tu penses que tu perds ton élan, pense à des choses sales."
+    p "When you think you're losing momentum think of dirty things."
 
 # game/day16.rpy:1019
-translate french day16_b_restaurant_choices_soft_b1b12192_1:
+translate french day16_b_restaurant_choices_soft_b1b12192:
 
     # l "I... I... I can't."
-    l "Je... Je... Je ne peux pas."
+    l "I... I... I can't."
 
 # game/day16.rpy:1020
-translate french day16_b_restaurant_choices_soft_c70c2218_1:
+translate french day16_b_restaurant_choices_soft_c70c2218:
 
     # p "{i}(Maybe some dirty talk will rouse her.)"
-    p "{i}(Peut-être qu'une conversation cochonne la réveillera.)"
+    p "{i}(Maybe some dirty talk will rouse her.)"
 
 # game/day16.rpy:1021
-translate french day16_b_restaurant_choices_soft_6da813c1_1:
+translate french day16_b_restaurant_choices_soft_6da813c1:
 
     # p "Would you like to hear the dirty things I'd do to you?"
-    p "Aimerais-tu entendre les vilaines choses que je te ferais ?"
+    p "Would you like to hear the dirty things I'd do to you?"
 
 # game/day16.rpy:1022
-translate french day16_b_restaurant_choices_soft_fcbd8426_1:
+translate french day16_b_restaurant_choices_soft_fcbd8426:
 
     # l "Y-y-yes..."
-    l "O-o-o-oui....."
+    l "Y-y-yes..."
 
 # game/day16.rpy:1023
-translate french day16_b_restaurant_choices_soft_38adfa51_1:
+translate french day16_b_restaurant_choices_soft_38adfa51:
 
     # p "I would shower your body with kisses, starting with your sweet mouth. Then move on to your perfect breasts and kiss your nipples until they're hard as rocks."
-    p "Je te laverais le corps avec mes baisers, à commencer par ta douce bouche. Ensuite, je passerai à tes seins parfaits et j'embrasserai tes mamelons jusqu'à ce qu'ils soient durs comme de la pierre."
+    p "I would shower your body with kisses, starting with your sweet mouth. Then move on to your perfect breasts and kiss your nipples until they're hard as rocks."
 
 # game/day16.rpy:1024
-translate french day16_b_restaurant_choices_soft_82822a0c_1:
+translate french day16_b_restaurant_choices_soft_82822a0c:
 
     # l "..."
     l "..."
 
 # game/day16.rpy:1025
-translate french day16_b_restaurant_choices_soft_e854e50c_1:
+translate french day16_b_restaurant_choices_soft_e854e50c:
 
     # l "...Go on please."
-    l "... Continue s'il te plaît."
+    l "...Go on please."
 
 # game/day16.rpy:1026
-translate french day16_b_restaurant_choices_soft_a4973da7_1:
+translate french day16_b_restaurant_choices_soft_a4973da7:
 
     # p "Your belly shouldn't be forgotten either and your luscious thighs. I would save your beautiful pussy for last..."
-    p "Ton ventre ne devrait pas être oublié non plus et tes cuisses voluptueuses. Je garderais ta belle chatte pour la fin...."
+    p "Your belly shouldn't be forgotten either and your luscious thighs. I would save your beautiful pussy for last..."
 
 # game/day16.rpy:1027
-translate french day16_b_restaurant_choices_soft_91c056ac_1:
+translate french day16_b_restaurant_choices_soft_91c056ac:
 
     # l "Mmmmm."
-    l "Mmmmmmm."
+    l "Mmmmm."
 
 # game/day16.rpy:1029
-translate french day16_b_restaurant_choices_soft_2c69ebf2_1:
+translate french day16_b_restaurant_choices_soft_2c69ebf2:
 
     # "{i}Your sister is completely focused again, her mechanical behavior completely gone. She writhes in the sand as she massages her pussy."
-    "{i}Ta soeur est à nouveau très concentrée, son comportement mécanique a complètement disparu. Elle se tortille dans le sable en se caressant la chatte."
+    "{i}Your sister is completely focused again, her mechanical behavior completely gone. She writhes in the sand as she massages her pussy."
 
 # game/day16.rpy:1031
-translate french day16_b_restaurant_choices_soft_22032ab9_1:
+translate french day16_b_restaurant_choices_soft_22032ab9:
 
     # "{i}[l_name] is completely focused again, her mechanical behavior completely gone. She writhes in the sand as she massages her pussy."
-    "{i}[l_name] est à nouveau très concentrée, son comportement mécanique a complètement disparu. Elle se tortille dans le sable en se caressant la chatte."
+    "{i}[l_name] is completely focused again, her mechanical behavior completely gone. She writhes in the sand as she massages her pussy."
 
 # game/day16.rpy:1032
-translate french day16_b_restaurant_choices_soft_f362d2ec_1:
+translate french day16_b_restaurant_choices_soft_f362d2ec:
 
     # p "Now, why don't you try to slip a finger inside, gather some of that moisture and spread it onto your pussy."
-    p "Maintenant, pourquoi ne pas essayer de glisser un doigt à l'intérieur, de recueillir un peu de cette humidité et de l'étaler sur ta chatte."
+    p "Now, why don't you try to slip a finger inside, gather some of that moisture and spread it onto your pussy."
 
 # game/day16.rpy:1034
-translate french day16_b_restaurant_choices_soft_04979e16_1:
+translate french day16_b_restaurant_choices_soft_04979e16:
 
     # l "It feels so strange."
-    l "C'est si étrange."
+    l "It feels so strange."
 
 # game/day16.rpy:1035
-translate french day16_b_restaurant_choices_soft_6ae2b3cf_1:
+translate french day16_b_restaurant_choices_soft_6ae2b3cf:
 
     # p "But it's good, isn't it?"
-    p "Mais c'est bon, n'est-ce pas ?"
+    p "But it's good, isn't it?"
 
 # game/day16.rpy:1036
-translate french day16_b_restaurant_choices_soft_e511b696_1:
+translate french day16_b_restaurant_choices_soft_e511b696:
 
     # l "Y-y-yes!"
-    l "Ou-oui-oui !"
+    l "Y-y-yes!"
 
 # game/day16.rpy:1037
-translate french day16_b_restaurant_choices_soft_00111317_1:
+translate french day16_b_restaurant_choices_soft_00111317:
 
     # p "Good, good, you're nearly there. Keep fingering yourself and rub your wet clit."
-    p "Bien, tu y es presque. Continue de te doigter et caresse ton clito mouillé."
+    p "Good, good, you're nearly there. Keep fingering yourself and rub your wet clit."
 
 # game/day16.rpy:1038
-translate french day16_b_restaurant_choices_soft_5e00ee0b_1:
+translate french day16_b_restaurant_choices_soft_5e00ee0b:
 
     # l "Tell me more about the things you'd like to do with my body. Please!"
-    l "Dis-m'en plus sur les choses que tu aimerais faire avec mon corps. S'il te plaît !"
+    l "Tell me more about the things you'd like to do with my body. Please!"
 
 # game/day16.rpy:1039
-translate french day16_b_restaurant_choices_soft_a3b3282c_1:
+translate french day16_b_restaurant_choices_soft_a3b3282c:
 
     # p "After all those kisses, I'd move back to your nipples and teasingly lick them while you finger yourself. When you're nearing your orgasm I'd suck on them, sending you over the edge and making you cum so hard."
-    p "Après tous ces baisers, je retournerais à tes tétons et je les lécherais en te taquinant pendant que tu te doigtes. Quand tu approcheras de l'orgasme, je les sucerai, je t'enverrai au bord et je te ferais jouir si fort."
+    p "After all those kisses, I'd move back to your nipples and teasingly lick them while you finger yourself. When you're nearing your orgasm I'd suck on them, sending you over the edge and making you cum so hard."
 
 # game/day16.rpy:1040
-translate french day16_b_restaurant_choices_soft_644ee3dc_1:
+translate french day16_b_restaurant_choices_soft_644ee3dc:
 
     # l "Oooooh, [p_name]!"
-    l "Oooooooh, [p_name] !"
+    l "Oooooh, [p_name]!"
 
 # game/day16.rpy:1041
-translate french day16_b_restaurant_choices_soft_7c777b86_1:
+translate french day16_b_restaurant_choices_soft_7c777b86:
 
     # p "Yes, [l_name]?"
-    p "Oui, [l_name] ?"
+    p "Yes, [l_name]?"
 
 # game/day16.rpy:1042
-translate french day16_b_restaurant_choices_soft_f8d205a2_1:
+translate french day16_b_restaurant_choices_soft_f8d205a2:
 
     # l "I think I'm..."
-    l "Je pense que je ..."
+    l "I think I'm..."
 
 # game/day16.rpy:1045
-translate french day16_b_restaurant_choices_soft_665bccf9_1:
+translate french day16_b_restaurant_choices_soft_665bccf9:
 
     # l "Aaaaaaaaaaah!!!"
-    l "Aaaaaaaaaaaaaaaaah !!!!!"
+    l "Aaaaaaaaaaah!!!"
 
 # game/day16.rpy:1047
-translate french day16_b_restaurant_choices_soft_5f782092_1:
+translate french day16_b_restaurant_choices_soft_5f782092:
 
     # "{i}Unable to utter anything more, your sister trembles forcefully. The tremors of her orgasm overtake any other muscle functions of her body."
-    "{i}Incapable d'en dire plus, ta soeur tremble violemment. Les tremblements de son orgasme l'emportent sur toutes les autres fonctions musculaires de son corps."
+    "{i}Unable to utter anything more, your sister trembles forcefully. The tremors of her orgasm overtake any other muscle functions of her body."
 
 # game/day16.rpy:1049
-translate french day16_b_restaurant_choices_soft_5ad0e16a_1:
+translate french day16_b_restaurant_choices_soft_5ad0e16a:
 
     # "{i}Unable to utter anything more, [l_name] trembles forcefully. The tremors of her orgasm overtake any other muscle functions of her body."
-    "{i}Incapable d'en dire plus, [l_name] tremble avec force. Les tremblements de son orgasme l'emportent sur toutes les autres fonctions musculaires de son corps."
+    "{i}Unable to utter anything more, [l_name] trembles forcefully. The tremors of her orgasm overtake any other muscle functions of her body."
 
 # game/day16.rpy:1050
-translate french day16_b_restaurant_choices_soft_e5a66882_1:
+translate french day16_b_restaurant_choices_soft_e5a66882:
 
     # p "My beautiful, beautiful girl."
-    p "Ma belle, très belle princesse."
+    p "My beautiful, beautiful girl."
 
 # game/day16.rpy:1051
-translate french day16_b_restaurant_choices_soft_58781776_1:
+translate french day16_b_restaurant_choices_soft_58781776:
 
     # l "Aaaaah!!!"
-    l "Aaaaaah !!!!!!!"
+    l "Aaaaah!!!"
 
 # game/day16.rpy:1053
-translate french day16_b_restaurant_choices_soft_9d5e58b7_1:
+translate french day16_b_restaurant_choices_soft_9d5e58b7:
 
     # "{i}It takes quite a while for [l_name] to recover from her orgasm and she seems unable to speak for some time after."
-    "{i}Il faut du temps à [l_name] pour se remettre de son orgasme elle semble incapable de parler pendant un certain temps."
+    "{i}It takes quite a while for [l_name] to recover from her orgasm and she seems unable to speak for some time after."
 
 # game/day16.rpy:1054
-translate french day16_b_restaurant_choices_soft_e0004e3f_1:
+translate french day16_b_restaurant_choices_soft_e0004e3f:
 
     # l "I really, really didn't know it could feel so wonderful."
-    l "Je ne savais vraiment pas que ça pouvait être si merveilleux."
+    l "I really, really didn't know it could feel so wonderful."
 
 # game/day16.rpy:1055
-translate french day16_b_restaurant_choices_soft_d42f6905_1:
+translate french day16_b_restaurant_choices_soft_d42f6905:
 
     # p "It takes time, practice and some dedication, but your were magnificent."
-    p "Il faut du temps, de la pratique et un peu de dévouement, mais tu as été magnifique."
+    p "It takes time, practice and some dedication, but your were magnificent."
 
 # game/day16.rpy:1056
-translate french day16_b_restaurant_choices_soft_c826d305_1:
+translate french day16_b_restaurant_choices_soft_c826d305:
 
     # l "It's getting a bit too cold here out in the dunes and I'm suddenly very sleepy."
-    l "Il fait un peu froid ici dans les dunes et j'ai soudain sommeil."
+    l "It's getting a bit too cold here out in the dunes and I'm suddenly very sleepy."
 
 # game/day16.rpy:1057
-translate french day16_b_restaurant_choices_soft_e126bb40_1:
+translate french day16_b_restaurant_choices_soft_e126bb40:
 
     # p "I understand, let's head back."
-    p "Je comprends, rentrons."
+    p "I understand, let's head back."
 
 # game/day16.rpy:1059
-translate french day16_b_restaurant_choices_soft_f951f29f_1:
+translate french day16_b_restaurant_choices_soft_f951f29f:
 
     # l "Thank you for the lovely evening. It really means a lot to me."
-    l "Merci pour cette charmante soirée. C'étais vraiment important pour moi."
+    l "Thank you for the lovely evening. It really means a lot to me."
 
 # game/day16.rpy:1060
-translate french day16_b_restaurant_choices_soft_58357d64_1:
+translate french day16_b_restaurant_choices_soft_58357d64:
 
     # p "{i}(I sure hope this isn't the last time...)"
-    p "{i}(J'espère que ce n'est pas la dernière fois....)"
+    p "{i}(I sure hope this isn't the last time...)"
 
 # game/day16.rpy:1061
-translate french day16_b_restaurant_choices_soft_d2059054_2:
+translate french day16_b_restaurant_choices_soft_d2059054:
 
     # l "Sleep well, dear [p_name]."
-    l "Dors bien, cher [p_name]."
+    l "Sleep well, dear [p_name]."
 
 # game/day16.rpy:1062
-translate french day16_b_restaurant_choices_soft_fdb98df6_1:
+translate french day16_b_restaurant_choices_soft_fdb98df6:
 
     # p "Good night, my darling [l_name]."
-    p "Bonne nuit, ma chère [l_name]."
+    p "Good night, my darling [l_name]."
 
 # game/day16.rpy:1064
-translate french day16_b_restaurant_choices_soft_cb2bf084_1:
+translate french day16_b_restaurant_choices_soft_cb2bf084:
 
     # l "No, I can't [p_name]. I'm not ready yet. I'm sorry."
-    l "Non, je ne peux pas [p_name]. Je ne suis pas encore prête. Je suis désolée."
+    l "No, I can't [p_name]. I'm not ready yet. I'm sorry."
 
 # game/day16.rpy:1065
-translate french day16_b_restaurant_choices_soft_ec57221d_1:
+translate french day16_b_restaurant_choices_soft_ec57221d:
 
     # p "{i}(Fuck, she's nearly there, I just know it.)"
-    p "{i}(Putain, elle y est presque, je le sens.)"
+    p "{i}(Fuck, she's nearly there, I just know it.)"
 
 # game/day16.rpy:1066
-translate french day16_b_restaurant_choices_soft_8b24bdca_1:
+translate french day16_b_restaurant_choices_soft_8b24bdca:
 
     # p "Don't fret, we'll just take things slow."
-    p "Ne t'inquiète pas, on va y aller doucement."
+    p "Don't fret, we'll just take things slow."
 
 # game/day16.rpy:1067
-translate french day16_b_restaurant_choices_soft_2059114f_1:
+translate french day16_b_restaurant_choices_soft_2059114f:
 
     # l "Thank you for being so understanding, [p_name]."
-    l "Merci d'avoir été si compréhensif, [p_name]."
+    l "Thank you for being so understanding, [p_name]."
 
 # game/day16.rpy:1068
-translate french day16_b_restaurant_choices_soft_5b7851f5_2:
+translate french day16_b_restaurant_choices_soft_5b7851f5:
 
     # l "It's getting a bit too cold for my liking. I'm very sleepy."
-    l "Il fait un peu trop froid à mon goût. J'ai sommeil."
+    l "It's getting a bit too cold for my liking. I'm very sleepy."
 
 # game/day16.rpy:1069
-translate french day16_b_restaurant_choices_soft_fdeca8aa_2:
+translate french day16_b_restaurant_choices_soft_fdeca8aa:
 
     # p "Shall we head back?"
-    p "On rentre à la maison ?"
+    p "Shall we head back?"
 
 # game/day16.rpy:1070
-translate french day16_b_restaurant_choices_soft_19194383_2:
+translate french day16_b_restaurant_choices_soft_19194383:
 
     # l "I'd like that, thank you."
-    l "J'aimerais bien, merci."
+    l "I'd like that, thank you."
 
 # game/day16.rpy:1072
-translate french day16_b_restaurant_choices_soft_d2059054_3:
+translate french day16_b_restaurant_choices_soft_d2059054_1:
 
     # l "Sleep well, dear [p_name]."
-    l "Dors bien, cher [p_name]."
+    l "Sleep well, dear [p_name]."
 
 # game/day16.rpy:1073
-translate french day16_b_restaurant_choices_soft_3426755d_1:
+translate french day16_b_restaurant_choices_soft_3426755d:
 
     # p "Good night, dear [l_name]."
-    p "Bonne nuit, chère [l_name]."
+    p "Good night, dear [l_name]."
 
 # game/day16.rpy:1076
-translate french day16_b_restaurant_choices_soft_e72ad31e_1:
+translate french day16_b_restaurant_choices_soft_e72ad31e:
 
     # "{i}You continue to walk in silence and after a while [l_name] shivers."
-    "{i}Tu continues à marcher en silence et au bout d'un moment, [l_name] frissonne."
+    "{i}You continue to walk in silence and after a while [l_name] shivers."
 
 # game/day16.rpy:1077
-translate french day16_b_restaurant_choices_soft_5b7851f5_3:
+translate french day16_b_restaurant_choices_soft_5b7851f5_1:
 
     # l "It's getting a bit too cold for my liking. I'm very sleepy."
-    l "Il fait un peu trop froid à mon goût. J'ai sommeil."
+    l "It's getting a bit too cold for my liking. I'm very sleepy."
 
 # game/day16.rpy:1078
-translate french day16_b_restaurant_choices_soft_fdeca8aa_3:
+translate french day16_b_restaurant_choices_soft_fdeca8aa_1:
 
     # p "Shall we head back?"
-    p "On rentre à la maison ?"
+    p "Shall we head back?"
 
 # game/day16.rpy:1079
-translate french day16_b_restaurant_choices_soft_19194383_3:
+translate french day16_b_restaurant_choices_soft_19194383_1:
 
     # l "I'd like that, thank you."
-    l "J'aimerais bien, merci."
+    l "I'd like that, thank you."
 
 # game/day16.rpy:1081
-translate french day16_b_restaurant_choices_soft_0e54e413_1:
+translate french day16_b_restaurant_choices_soft_0e54e413:
 
     # l "Sleep well, [p_name]."
-    l "Dors bien, [p_name]."
+    l "Sleep well, [p_name]."
 
 # game/day16.rpy:1082
-translate french day16_b_restaurant_choices_soft_991b15ea_1:
+translate french day16_b_restaurant_choices_soft_991b15ea:
 
     # p "Good night, [l_name]."
-    p "Bonne nuit, [l_name]."
+    p "Good night, [l_name]."
 
 # game/day16.rpy:1087
-translate french day16_b_restaurant_choices_soft_54949b9d_1:
+translate french day16_b_restaurant_choices_soft_54949b9d:
 
     # p "{i}([r_name] is sleeping with [b_name] tonight. And as much as I would like to, I don't think I get to sleep with them both at the same time... Yet...)"
-    p "{i}([r_name] couche avec [b_name] ce soir. Et même si j'aimerais bien, je ne pense pas pouvoir coucher avec les deux en même temps.... Pourtant...)"
+    p "{i}([r_name] is sleeping with [b_name] tonight. And as much as I would like to, I don't think I get to sleep with them both at the same time... Yet...)"
 
 # game/day16.rpy:1089
-translate french day16_b_restaurant_choices_soft_76f5695c_1:
+translate french day16_b_restaurant_choices_soft_76f5695c:
 
     # p "{i}([r_name] is sleeping with [b_name] tonight. And as much as I love them both, I don't think they're ready to sleep with each other, with me in the middle.)"
-    p "{i}([r_name] couche avec [b_name] ce soir. Et même si je les aime toutes les deux, je ne pense pas qu'elles soient prêtes à coucher l'une avec l'autre, avec moi au milieu.)"
+    p "{i}([r_name] is sleeping with [b_name] tonight. And as much as I love them both, I don't think they're ready to sleep with each other, with me in the middle.)"
 
 # game/day16.rpy:1091
-translate french day16_b_restaurant_choices_soft_29c35a7e_1:
+translate french day16_b_restaurant_choices_soft_29c35a7e:
 
     # p "{i}([r_name] is sleeping with [b_name] tonight, so I guess I won't get to sleep with her.)"
-    p "{i}([r_name] couche avec [b_name] ce soir, je suppose que je ne vais pas coucher avec elle.)"
+    p "{i}([r_name] is sleeping with [b_name] tonight, so I guess I won't get to sleep with her.)"
 
 # game/day16.rpy:1093
-translate french day16_b_restaurant_choices_soft_57d806a0_1:
+translate french day16_b_restaurant_choices_soft_57d806a0:
 
     # p "{i}(Better get a good night's sleep, tomorrow is going to be another fun-filled day.)"
-    p "{i}(Mieux vaut dormir une bonne nuit de sommeil ferra du bien, demain est un autre jour.)"
+    p "{i}(Better get a good night's sleep, tomorrow is going to be another fun-filled day.)"
 
 translate french strings:
 
     # day16.rpy:31
     old "Use your laptop"
-    new "Utiliser ton ordinateur"
+    new "Use your laptop"
 
     # day16.rpy:31
     old "Go to the beach"
-    new "Aller à la plage"
+    new "Go to the beach"
 
     # day16.rpy:31
     old "Meet Nia"
-    new "Rencontrer Nia"
+    new "Meet Nia"
 
     # day16.rpy:31
     old "Meet with Rebeca"
-    new "Rencontre avec Rebeca"
+    new "Meet with Rebeca"
 
     # day16.rpy:196
     old "Contradict her"
-    new "Contredis-la"
+    new "Contradict her"
 
     # day16.rpy:196
     old "End the relationship"
-    new "Mettre fin à la relation"
+    new "End the relationship"
 
     # day16.rpy:335
     old "Watched a lot of porn"
-    new "J'ai regardé beaucoup de porno"
+    new "Watched a lot of porn"
 
     # day16.rpy:335
     old "Heard it somewhere"
-    new "Je l'ai entendu quelque part"
+    new "Heard it somewhere"
 
     # day16.rpy:424
     old "Compliment Nia"
-    new "Complimenter Nia"
+    new "Compliment Nia"
 
     # day16.rpy:424
     old "Don't compliment Nia"
-    new "Ne complimente pas Nia"
+    new "Don't compliment Nia"
 
     # day16.rpy:469
     old "Yes, why not"
-    new "Oui, pourquoi pas"
+    new "Yes, why not"
 
     # day16.rpy:469
     old "No, you're crazy"
-    new "Non, tu es folle"
+    new "No, you're crazy"
 
     # day16.rpy:481
     old "Follow her"
-    new "Suis-la"
+    new "Follow her"
 
     # day16.rpy:616
     old "Have dinner with [b_name]"
-    new "Dîner avec [b_name]"
+    new "Have dinner with [b_name]"
 
     # day16.rpy:699
     old "Talk about her life"
-    new "Parler de sa vie"
+    new "Talk about her life"
 
     # day16.rpy:699
     old "Talk about dad"
-    new "Parler de papa"
+    new "Talk about dad"
 
     # day16.rpy:699
     old "Talk about Dwayne"
-    new "Discuter de Dwayne"
+    new "Talk about Dwayne"
 
     # day16.rpy:699
     old "Finish dinner"
-    new "Terminer le dîner"
+    new "Finish dinner"
 
     # day16.rpy:882
     old "The other one too"
-    new "L'autre aussi"
+    new "The other one too"
 
     # day16.rpy:926
     old "Ask her"
-    new "Demande-lui"
+    new "Ask her"
 
     # day16.rpy:926
     old "Ignore her"
-    new "Ignore-la"
+    new "Ignore her"
 
-    # day16.rpy:60
-    old "Newsreader"
-    new "Reporters"
-
-    # day16.rpy:618
-    old "Server"
-    new "Serveur"

@@ -1,4 +1,4 @@
-﻿# TODO: Translation updated at 2019-02-01 17:22
+﻿# TODO: Translation updated at 2019-02-27 03:23
 
 translate french strings:
 
@@ -156,7 +156,7 @@ translate french strings:
 
     # 00action_file.rpy:240
     old "%b %d, %H:%M"
-    new "%A, %d/%m/%Y, %H:%M"
+    new "%b %d, %H:%M"
 
     # 00action_file.rpy:353
     old "Save slot %s: [text]"

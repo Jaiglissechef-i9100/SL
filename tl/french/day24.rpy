@@ -1,3209 +1,3208 @@
-﻿# TODO: Translation updated at 2019-02-22 22:04
+﻿# TODO: Translation updated at 2019-02-27 03:23
 
 # game/day24.rpy:15
-translate french day24_0cf04f96_1:
+translate french day24_0cf04f96:
 
     # centered "DAY {b}24"
-    centered "JOUR {b}24"
+    centered "DAY {b}24"
 
 # game/day24.rpy:19
-translate french day24_10514199_1:
+translate french day24_10514199:
 
     # "{i}When you awake late in the morning with a slight headache, you notice you're alone."
-    "{i}Lorsque vous vous réveillez tard le matin avec un léger mal de tête, vous remarquez que vous êtes seul."
+    "{i}When you awake late in the morning with a slight headache, you notice you're alone."
 
 # game/day24.rpy:20
-translate french day24_e2ba85fe_1:
+translate french day24_e2ba85fe:
 
     # p "{i}(That sure was an interesting night.)"
-    p "{i}C'était vraiment une soirée intéressante."
+    p "{i}(That sure was an interesting night.)"
 
 # game/day24.rpy:21
-translate french day24_b172d144_1:
+translate french day24_b172d144:
 
     # p "{i}(Is [m_name] in the shower? Or did she flee in panic after waking up next to me?)"
-    p "{i}([m_name] est-elle sous la douche ? Ou s'est-elle enfuie paniquée après s'être réveillée à côté de moi ?)"
+    p "{i}(Is [m_name] in the shower? Or did she flee in panic after waking up next to me?)"
 
 # game/day24.rpy:23
-translate french day24_ed13bca6_1:
+translate french day24_ed13bca6:
 
     # "{i}As you get out of your mother's bed, you notice a piece of paper lying on the nightstand."
-    "{i}En sortant du lit de votre mère, vous remarquez un morceau de papier couché sur la table de nuit."
+    "{i}As you get out of your mother's bed, you notice a piece of paper lying on the nightstand."
 
 # game/day24.rpy:25
-translate french day24_7b4018b3_1:
+translate french day24_7b4018b3:
 
     # "{i}As you get out of Mrs. Smith's bed, you notice a piece of paper lying on the nightstand."
-    "{i}En sortant du lit de Mme Smith, vous remarquez un morceau de papier couché sur la table de nuit."
+    "{i}As you get out of Mrs. Smith's bed, you notice a piece of paper lying on the nightstand."
 
 # game/day24.rpy:27
-translate french day24_74bf377a_1:
+translate french day24_74bf377a:
 
     # p "{i}(Hmmm, it's a note from [m_name], addressed to me.)"
-    p "{i}(Hmmm, c'est un mot de [m_name], adressé à moi.)"
+    p "{i}(Hmmm, it's a note from [m_name], addressed to me.)"
 
 # game/day24.rpy:29
-translate french day24_ff9a76d0_1:
+translate french day24_ff9a76d0:
 
     # p "{i}'Dear [p_name], You've probably already noticed that I'm gone. Don't worry, I just need to be alone and have some time to think things over. Thank you again for a lovely evening. Speak to you soon. Love, mom.'"
-    p "{i}Cher Léon, tu as probablement déjà remarqué que je suis parti. Ne t'inquiète pas, j'ai juste besoin d'être seule et d'avoir du temps pour réfléchir. Merci encore pour cette charmante soirée. On se parle bientôt. Je t'aime, maman."
+    p "{i}'Dear [p_name], You've probably already noticed that I'm gone. Don't worry, I just need to be alone and have some time to think things over. Thank you again for a lovely evening. Speak to you soon. Love, mom.'"
 
 # game/day24.rpy:31
-translate french day24_2385d786_1:
+translate french day24_2385d786:
 
     # p "{i}'Dear [p_name], You've probably already noticed that I'm gone. Don't worry, I just need to be alone and have some time to think things over. Thank you again for a lovely evening. Speak to you soon. Love, [m_name].'"
-    p "{i}Cher Léon, tu as probablement déjà remarqué que je suis parti. Ne t'inquiète pas, j'ai juste besoin d'être seule et d'avoir du temps pour réfléchir. Merci encore pour cette charmante soirée. On se parle bientôt. Je t'aime, [m_name]."
+    p "{i}'Dear [p_name], You've probably already noticed that I'm gone. Don't worry, I just need to be alone and have some time to think things over. Thank you again for a lovely evening. Speak to you soon. Love, [m_name].'"
 
 # game/day24.rpy:32
-translate french day24_b56dc888_1:
+translate french day24_95cf1409:
 
     # p "{i}(I wonder what the outcome of her soul-searching is going to be?)"
-    # p "{i}(I wonder what that the outcome of her soul-searching is going to be?)"
-    p "{i}(Je me demande quel sera le résultat de son examen de conscience ?)"
+    p "{i}(I wonder what the outcome of her soul-searching is going to be?)"
 
 # game/day24.rpy:35
-translate french day24_d35c98ca_1:
+translate french day24_d35c98ca:
 
     # "{i}You awake late in the morning and have a light breakfast."
-    "{i}Vous vous réveillez tard le matin et prenez un petit déjeuner léger."
+    "{i}You awake late in the morning and have a light breakfast."
 
 # game/day24.rpy:50
-translate french day24_choices_959b51a2_1:
+translate french day24_choices_959b51a2:
 
     # p "{i}(Oh fuck yes, she's wearing the dress again!)"
-    p "{i}(Oh merde oui, elle porte encore la robe !)"
+    p "{i}(Oh fuck yes, she's wearing the dress again!)"
 
 # game/day24.rpy:52
-translate french day24_choices_27ad5c1d_1:
+translate french day24_choices_27ad5c1d:
 
     # p "{i}(Holy fuck, that dress!)"
-    p "{i}(Putain de merde, cette robe !)"
+    p "{i}(Holy fuck, that dress!)"
 
 # game/day24.rpy:53
-translate french day24_choices_ab0405ea_1:
+translate french day24_choices_ab0405ea:
 
     # p "You look positively stunning, [l_name]."
-    p "Tu es vraiment superbe, [l_name]."
+    p "You look positively stunning, [l_name]."
 
 # game/day24.rpy:55
-translate french day24_choices_438308b5_1:
+translate french day24_choices_438308b5:
 
     # l "I'm ready to dance!"
-    l "Je suis prêt à danser !"
+    l "I'm ready to dance!"
 
 # game/day24.rpy:56
-translate french day24_choices_ff360288_1:
+translate french day24_choices_ff360288:
 
     # p "You sure as hell are!"
-    p "C'est sûr que tu l'es !"
+    p "You sure as hell are!"
 
 # game/day24.rpy:58
-translate french day24_choices_2b44c49e_1:
+translate french day24_choices_2b44c49e:
 
     # "{i}After donning your suit, you both travel to the dance school where you booked the private lesson."
-    "{i}Après avoir revêtu votre costume, vous vous rendez tous les deux à l'école de danse où vous avez réservé la leçon privée."
+    "{i}After donning your suit, you both travel to the dance school where you booked the private lesson."
 
 # game/day24.rpy:60
-translate french day24_choices_35101a6c_1:
+translate french day24_choices_35101a6c:
 
     # woman "All dressed up for the occasion, I see?"
-    woman "Tout habillé pour l'occasion, je vois ?"
+    woman "All dressed up for the occasion, I see?"
 
 # game/day24.rpy:61
-translate french day24_choices_02cf6098_1:
+translate french day24_choices_02cf6098:
 
     # p "Indeed we are."
-    p "En effet, nous le sommes."
+    p "Indeed we are."
 
 # game/day24.rpy:62
-translate french day24_choices_a9400625_1:
+translate french day24_choices_a9400625:
 
     # woman "Lovely. Before we start I'd like to ask you some questions."
-    woman "Charmant. Avant de commencer, j'aimerais vous poser quelques questions."
+    woman "Lovely. Before we start I'd like to ask you some questions."
 
 # game/day24.rpy:63
-translate french day24_choices_d8a3ffd9_1:
+translate french day24_choices_d8a3ffd9:
 
     # p "Of course."
-    p "Bien sûr que oui."
+    p "Of course."
 
 # game/day24.rpy:64
-translate french day24_choices_96734773_1:
+translate french day24_choices_96734773:
 
     # woman "What are you names?"
-    woman "Quels sont vos noms ?"
+    woman "What are you names?"
 
 # game/day24.rpy:65
-translate french day24_choices_367547ff_1:
+translate french day24_choices_367547ff:
 
     # p "[p_name]."
     p "[p_name]."
 
 # game/day24.rpy:66
-translate french day24_choices_1f7175ba_1:
+translate french day24_choices_1f7175ba:
 
     # l "I'm [l_name]."
-    l "Je suis [l_name]."
+    l "I'm [l_name]."
 
 # game/day24.rpy:67
-translate french day24_choices_18d4de0f_1:
+translate french day24_choices_18d4de0f:
 
     # woman "Lovely. This is your first lesson, I take it?"
-    woman "Charmant. C'est votre première leçon, je suppose ?"
+    woman "Lovely. This is your first lesson, I take it?"
 
 # game/day24.rpy:68
-translate french day24_choices_e3dcc8ba_1:
+translate french day24_choices_e3dcc8ba:
 
     # l "For me it is. I'm not sure about you, [p_name]?"
-    l "Pour moi, ça l'est. Je ne suis pas sûr de toi, [p_name] ?"
+    l "For me it is. I'm not sure about you, [p_name]?"
 
 # game/day24.rpy:69
-translate french day24_choices_4a262d64_1:
+translate french day24_choices_4a262d64:
 
     # p "I've had some unofficial lessons."
-    p "J'ai eu des leçons non officielles."
+    p "I've had some unofficial lessons."
 
 # game/day24.rpy:70
-translate french day24_choices_d80db94b_1:
+translate french day24_choices_d80db94b:
 
     # l "Really?"
-    l "Vraiment ?"
+    l "Really?"
 
 # game/day24.rpy:72
-translate french day24_choices_e088eeea_1:
+translate french day24_choices_e088eeea:
 
     # p "Yup, when I was still living with dad."
-    p "Ouais, quand je vivais encore avec papa."
+    p "Yup, when I was still living with dad."
 
 # game/day24.rpy:74
-translate french day24_choices_65003725_1:
+translate french day24_choices_65003725:
 
     # p "Yup, when I was still living with my dad."
-    p "Ouais, quand je vivais encore avec mon père."
+    p "Yup, when I was still living with my dad."
 
 # game/day24.rpy:75
-translate french day24_choices_41ada6e5_1:
+translate french day24_choices_41ada6e5:
 
     # woman "In that case you know that a good dance partner is confident and knows when to lead or follow."
-    woman "Dans ce cas, vous savez qu'un bon partenaire de danse est confiant et sait quand diriger ou suivre."
+    woman "In that case you know that a good dance partner is confident and knows when to lead or follow."
 
 # game/day24.rpy:76
-translate french day24_choices_35311a8f_1:
+translate french day24_choices_35311a8f:
 
     # woman "But the most important is that you let yourself flow with the music."
-    woman "Mais le plus important, c'est que tu te laisses aller à la musique."
+    woman "But the most important is that you let yourself flow with the music."
 
 # game/day24.rpy:77
-translate french day24_choices_b4aeb8c3_1:
+translate french day24_choices_b4aeb8c3:
 
     # woman "Now, if you'd like to take her hand, I'll turn up the music."
-    woman "Maintenant, si vous voulez bien prendre sa main, je vais monter le volume."
+    woman "Now, if you'd like to take her hand, I'll turn up the music."
 
 # game/day24.rpy:79
-translate french day24_choices_e2bf7e89_1:
+translate french day24_choices_e2bf7e89:
 
     # "{i}You take [l_name]'s soft hand in yours and she looks shyly at you."
-    "{i}Tu prends la main douce de [l_name] dans la tienne et elle te regarde timidement."
+    "{i}You take [l_name]'s soft hand in yours and she looks shyly at you."
 
 # game/day24.rpy:80
-translate french day24_choices_2921098f_1:
+translate french day24_choices_2921098f:
 
     # p "Don't worry, you'll do great!"
-    p "Ne vous inquiétez pas, vous vous en sortirez très bien !"
+    p "Don't worry, you'll do great!"
 
 # game/day24.rpy:81
-translate french day24_choices_17fe307a_1:
+translate french day24_choices_17fe307a:
 
     # woman "We'll start simple. Listen to the beat and then three steps forward."
-    woman "On va commencer simplement. Écoutez le battement, puis trois pas en avant."
+    woman "We'll start simple. Listen to the beat and then three steps forward."
 
 # game/day24.rpy:83
-translate french day24_choices_9977bf86_1:
+translate french day24_choices_9977bf86:
 
     # "{i}Following the advice of your instructor, you lead [l_name] through the room. She's a little ill at ease at first, but lets herself be guided by you."
-    "{i}Sur les conseils de votre instructeur, vous guidez [l_name] à travers la salle. Elle est un peu mal à l'aise au début, mais se laisse guider par vous."
+    "{i}Following the advice of your instructor, you lead [l_name] through the room. She's a little ill at ease at first, but lets herself be guided by you."
 
 # game/day24.rpy:85
-translate french day24_choices_3ab42b10_1:
+translate french day24_choices_af3f55f4:
 
     # "{i}Soon, you're both completely absorbed by the music, the dance and everything else falls away. Your sister smiles at you."
-    "{i}Bientôt, vous êtes tous les deux complètement absorbés par la musique et la danse et tout le reste disparaît. Ta sœur te sourit."
+    "{i}Soon, you're both completely absorbed by the music, the dance and everything else falls away. Your sister smiles at you."
 
 # game/day24.rpy:87
-translate french day24_choices_8bebe446_1:
+translate french day24_choices_6543ed83:
 
     # "{i}Soon, you're both completely absorbed by the music, the dance and everything else falls away. Your friend smiles at you."
-    "{i}Bientôt, vous êtes tous les deux complètement absorbés par la musique et la danse et tout le reste disparaît. Ton ami te sourit."
+    "{i}Soon, you're both completely absorbed by the music, the dance and everything else falls away. Your friend smiles at you."
 
 # game/day24.rpy:90
-translate french day24_choices_c996a892_1:
+translate french day24_choices_c996a892:
 
     # woman "{i}(Young love! That's what makes it all worth it. What a cute couple.)"
-    woman "{i}(Jeune amour ! C'est ce qui fait que ça en vaut la peine. Quel joli couple.)"
+    woman "{i}(Young love! That's what makes it all worth it. What a cute couple.)"
 
 # game/day24.rpy:91
-translate french day24_choices_3e84fb18_1:
+translate french day24_choices_3e84fb18:
 
     # woman "{i}(She seems very shy, but he brings out the best in her when they dance.)"
-    woman "{i}(Elle a l'air très timide, mais il fait ressortir le meilleur d'elle quand ils dansent.)"
+    woman "{i}(She seems very shy, but he brings out the best in her when they dance.)"
 
 # game/day24.rpy:92
-translate french day24_choices_1a57fcae_1:
+translate french day24_choices_1a57fcae:
 
     # woman "Spin her around and try to finish with a flourish."
-    woman "Faites-la tourner et essayez de finir en beauté."
+    woman "Spin her around and try to finish with a flourish."
 
 # game/day24.rpy:94
-translate french day24_choices_314477dc_1:
+translate french day24_choices_314477dc:
 
     # "{i}Reluctantly, you release her, the touch of her soft body still lingering on your fingertips and she twirls around."
-    "{i}A contrecœur, vous la relâchez, le toucher de son corps mou s'attarde encore sur le bout de vos doigts et elle tourne en rond."
+    "{i}Reluctantly, you release her, the touch of her soft body still lingering on your fingertips and she twirls around."
 
 # game/day24.rpy:96
-translate french day24_choices_183fa019_1:
+translate french day24_choices_183fa019:
 
     # woman "Very good!"
-    woman "Très bien !"
+    woman "Very good!"
 
 # game/day24.rpy:97
-translate french day24_choices_eafc63c4_1:
+translate french day24_choices_eafc63c4:
 
     # p "{i}(Now for the flourish.)"
-    p "{i}Maintenant, pour les fleurs."
+    p "{i}(Now for the flourish.)"
 
 # game/day24.rpy:103
-translate french day24_choices_aab1929a_1:
+translate french day24_choices_aab1929a:
 
     # p "{i}(Time for some acrobatics.)"
-    p "{i}C'est l'heure des acrobaties."
+    p "{i}(Time for some acrobatics.)"
 
 # game/day24.rpy:105
-translate french day24_choices_6ecbca8e_1:
+translate french day24_choices_6ecbca8e:
 
     # "{i}You hold [l_name] firmly by the waist and lift her in the air."
-    "{i}Tu tiens [l_name] fermement par la taille et tu la soulèves en l'air."
+    "{i}You hold [l_name] firmly by the waist and lift her in the air."
 
 # game/day24.rpy:106
-translate french day24_choices_85d50c69_1:
+translate french day24_choices_85d50c69:
 
     # l "No, [p_name]! What are you doing?! Put me down!"
-    l "Non, [p_name] ! Qu'est-ce que tu fais ?! Pose-moi à terre !"
+    l "No, [p_name]! What are you doing?! Put me down!"
 
 # game/day24.rpy:107
-translate french day24_choices_a116f39a_1:
+translate french day24_choices_a116f39a:
 
     # woman "{i}(That was unexpected...)"
-    woman "{i}(C'était inattendu...)"
+    woman "{i}(That was unexpected...)"
 
 # game/day24.rpy:108
-translate french day24_choices_72b1fd17_1:
+translate french day24_choices_72b1fd17:
 
     # p "{i}(Shit, I thought she'd like that.)"
-    p "{i}(Merde, je pensais qu'elle aimerait ça.)"
+    p "{i}(Shit, I thought she'd like that.)"
 
 # game/day24.rpy:109
-translate french day24_choices_22aefcef_1:
+translate french day24_choices_22aefcef:
 
     # "{i}You quickly lower her down and she backs away from you."
-    "{i}Vous l'abaissez rapidement et elle s'éloigne de vous."
+    "{i}You quickly lower her down and she backs away from you."
 
 # game/day24.rpy:110
-translate french day24_choices_5900ded1_1:
+translate french day24_choices_5900ded1:
 
     # p "Sorry!"
-    p "Désolé !"
+    p "Sorry!"
 
 # game/day24.rpy:112
-translate french day24_choices_f59b6b58_1:
+translate french day24_choices_f59b6b58:
 
     # l "I was just afraid you'd drop me."
-    l "J'avais peur que tu me laisses tomber."
+    l "I was just afraid you'd drop me."
 
 # game/day24.rpy:113
-translate french day24_choices_43a68b5b_1:
+translate french day24_choices_43a68b5b:
 
     # p "I would never..."
-    p "Je n'aurais jamais...."
+    p "I would never..."
 
 # game/day24.rpy:117
-translate french day24_choices_0d9456cf_1:
+translate french day24_choices_0d9456cf:
 
     # "{i}Hungry for her touch, you pull her close and you dance body to body."
-    "{i}Affamée de son toucher, vous la tirez près de vous et vous dansez corps à corps."
+    "{i}Hungry for her touch, you pull her close and you dance body to body."
 
 # game/day24.rpy:119
-translate french day24_choices_fe6f4ca3_1:
+translate french day24_choices_fe6f4ca3:
 
     # woman "{i}(Look at them! I wonder if they'd notice if I would just leave.)"
-    woman "{i}Regarde-les ! Je me demande s'ils remarqueraient que je m'en vais."
+    woman "{i}(Look at them! I wonder if they'd notice if I would just leave.)"
 
 # game/day24.rpy:120
-translate french day24_choices_90124cee_1:
+translate french day24_choices_90124cee:
 
     # p "Don't be alarmed, but I'm going to make a sudden turn."
-    p "Ne vous inquiétez pas, mais je vais faire un virage soudain."
+    p "Don't be alarmed, but I'm going to make a sudden turn."
 
 # game/day24.rpy:121
-translate french day24_choices_826799d5_1:
+translate french day24_choices_826799d5:
 
     # l "Okay, I'll follow."
-    l "D'accord, je vous suis."
+    l "Okay, I'll follow."
 
 # game/day24.rpy:123
-translate french day24_choices_40da1551_1:
+translate french day24_choices_40da1551:
 
     # "{i}Perfectly timed to the music, you slightly lift [l_name] and drop her to the floor, catching her with your right hand."
-    "{i}Parfaitement chronométré au son de la musique, vous soulevez légèrement [l_name] et la laissez tomber sur le sol, la rattrapant de la main droite."
+    "{i}Perfectly timed to the music, you slightly lift [l_name] and drop her to the floor, catching her with your right hand."
 
 # game/day24.rpy:124
-translate french day24_choices_92664b8f_1:
+translate french day24_choices_92664b8f:
 
     # "{i}A look of fear quickly flashes across her face, but in the end [l_name] is smiling as she lets herself be held by you."
-    "{i}Un regard de peur surgit rapidement sur son visage, mais à la fin, [l_name] sourit en se laissant tenir par vous."
+    "{i}A look of fear quickly flashes across her face, but in the end [l_name] is smiling as she lets herself be held by you."
 
 # game/day24.rpy:126
-translate french day24_choices_b1ff5307_1:
+translate french day24_choices_00ec60fd:
 
     # "{i}While the last notes of the song fade away, you continue your intimate dance, looking deeply into each other's eyes."
-    "{i}Pendant que les dernières notes de la chanson s'estompent, vous continuez votre danse intime, en vous regardant profondément dans les yeux."
+    "{i}While the last notes of the song fade away, you continue your intimate dance, looking deeply into each other's eyes."
 
 # game/day24.rpy:129
-translate french day24_choices_5af3dd12_1:
+translate french day24_choices_5af3dd12:
 
     # woman "Wonderful! That was some great dancing for a first lesson."
-    woman "Merveilleux ! C'était de la bonne danse pour une première leçon."
+    woman "Wonderful! That was some great dancing for a first lesson."
 
 # game/day24.rpy:131
-translate french day24_choices_b84c7874_1:
+translate french day24_choices_b84c7874:
 
     # l "Just dumb luck, I guess."
-    l "Juste de la chance, je suppose."
+    l "Just dumb luck, I guess."
 
 # game/day24.rpy:133
-translate french day24_choices_97aea908_1:
+translate french day24_choices_97aea908:
 
     # l "I had the perfect partner!"
-    l "J'avais le partenaire parfait !"
+    l "I had the perfect partner!"
 
 # game/day24.rpy:134
-translate french day24_choices_41129f86_1:
+translate french day24_choices_41129f86:
 
     # woman "So when is the wedding, or are you guys not engaged?"
-    woman "Alors, c'est quand le mariage, ou vous n'êtes pas fiancés ?"
+    woman "So when is the wedding, or are you guys not engaged?"
 
 # game/day24.rpy:135
-translate french day24_choices_6a14d45d_1:
+translate french day24_choices_6a14d45d:
 
     # l "Oh! We're not... We're..."
-    l "Oh ! Nous ne sommes pas.... Nous sommes...."
+    l "Oh! We're not... We're..."
 
 # game/day24.rpy:136
-translate french day24_choices_5f97b09e_1:
+translate french day24_choices_5f97b09e:
 
     # p "We don't have plans, just thought it might be fun to take lessons."
-    p "On n'a rien de prévu, on a juste pensé que ça pourrait être amusant de prendre des leçons."
+    p "We don't have plans, just thought it might be fun to take lessons."
 
 # game/day24.rpy:137
-translate french day24_choices_54a8b82d_1:
+translate french day24_choices_54a8b82d:
 
     # woman "Well, just so you know, you make a perfectly cute couple."
-    woman "Eh bien, juste pour que tu le saches, tu fais un couple parfaitement mignon."
+    woman "Well, just so you know, you make a perfectly cute couple."
 
 # game/day24.rpy:138
-translate french day24_choices_b8e3e19c_1:
+translate french day24_choices_b8e3e19c:
 
     # p "Thank you!"
-    p "Je vous remercie !"
+    p "Thank you!"
 
 # game/day24.rpy:139
-translate french day24_choices_26f26c07_1:
+translate french day24_choices_26f26c07:
 
     # woman "I'll give you some privacy before the next class arrives."
-    woman "Je vous laisserai un peu d'intimité avant l'arrivée du prochain cours."
+    woman "I'll give you some privacy before the next class arrives."
 
 # game/day24.rpy:142
-translate french day24_choices_11918a53_1:
+translate french day24_choices_11918a53:
 
     # p "So, did you enjoy yourself?"
-    p "Alors, tu t'es amusée ?"
+    p "So, did you enjoy yourself?"
 
 # game/day24.rpy:143
-translate french day24_choices_fbc0668a_1:
+translate french day24_choices_fbc0668a:
 
     # l "Yes, but you shouldn't surprise me like that, lifting me up..."
-    l "Oui, mais tu ne devrais pas me surprendre comme ça, en me soulevant...."
+    l "Yes, but you shouldn't surprise me like that, lifting me up..."
 
 # game/day24.rpy:144
-translate french day24_choices_fa6a424d_1:
+translate french day24_choices_fa6a424d:
 
     # p "I'm sorry, I thought it would be fun."
-    p "Je suis désolé, je pensais que ce serait amusant."
+    p "I'm sorry, I thought it would be fun."
 
 # game/day24.rpy:145
-translate french day24_choices_2483962a_1:
+translate french day24_choices_2483962a:
 
     # l "I know, lets stop worrying about it."
-    l "Je sais, arrêtons de nous en faire pour ça."
+    l "I know, lets stop worrying about it."
 
 # game/day24.rpy:147
-translate french day24_choices_dfb16472_1:
+translate french day24_choices_dfb16472:
 
     # l "I enjoyed this very much, [p_name], thank you."
-    l "J'ai beaucoup aimé ça, [p_name], merci."
+    l "I enjoyed this very much, [p_name], thank you."
 
 # game/day24.rpy:149
-translate french day24_choices_25fa2f9a_1:
+translate french day24_choices_25fa2f9a:
 
     # p "And we make a cute couple!"
-    p "Et nous formons un joli couple !"
+    p "And we make a cute couple!"
 
 # game/day24.rpy:152
-translate french day24_choices_91552f69_1:
+translate french day24_choices_91552f69:
 
     # l "You didn't correct her, [p_name]?"
-    l "Tu ne l'as pas corrigée, [p_name] ?"
+    l "You didn't correct her, [p_name]?"
 
 # game/day24.rpy:153
-translate french day24_choices_9ae0e922_1:
+translate french day24_choices_9ae0e922:
 
     # p "What? That we're brother and sister?"
-    p "Quoi ? Quoi ? Qu'on est frère et soeur ?"
+    p "What? That we're brother and sister?"
 
 # game/day24.rpy:154
-translate french day24_choices_0fc3d868_1:
+translate french day24_choices_0fc3d868:
 
     # l "Yes! What if she finds out?"
-    l "Oui ! Et si elle le découvre ?"
+    l "Yes! What if she finds out?"
 
 # game/day24.rpy:155
-translate french day24_choices_30b77c73_1:
+translate french day24_choices_30b77c73:
 
     # p "Let her. I'm not worried."
-    p "Laissez-la faire. Je ne suis pas inquiet."
+    p "Let her. I'm not worried."
 
 # game/day24.rpy:156
-translate french day24_choices_ea5bdef5_1:
+translate french day24_choices_ea5bdef5:
 
     # p "And she's right, we do make a great couple."
-    p "Et elle a raison, on fait un beau couple."
+    p "And she's right, we do make a great couple."
 
 # game/day24.rpy:157
-translate french day24_choices_defd4068_2:
+translate french day24_choices_defd4068:
 
     # l "[p_name]!"
-    l "[p_name] !"
+    l "[p_name]!"
 
 # game/day24.rpy:159
-translate french day24_choices_b5c0d111_1:
+translate french day24_choices_b5c0d111:
 
     # l "We do, don't we?"
-    l "C'est vrai, n'est-ce pas ?"
+    l "We do, don't we?"
 
 # game/day24.rpy:160
-translate french day24_choices_0dcde6ad_1:
+translate french day24_choices_0dcde6ad:
 
     # p "I think so, yes."
-    p "Je pense que oui, oui."
+    p "I think so, yes."
 
 # game/day24.rpy:164
-translate french day24_choices_8156814f_1:
+translate french day24_choices_8156814f:
 
     # "{i}Seizing the moment, you pull your sister towards you and kiss her lips."
-    "{i}Saisissant l'instant présent, vous tirez votre sœur vers vous et l'embrassez sur les lèvres."
+    "{i}Seizing the moment, you pull your sister towards you and kiss her lips."
 
 # game/day24.rpy:166
-translate french day24_choices_ebfbdd55_1:
+translate french day24_choices_ebfbdd55:
 
     # "{i}Seizing the moment, you pull your friend towards you and kiss her lips."
-    "{i}Saisissant l'instant, vous tirez votre amie vers vous et l'embrassez sur les lèvres."
+    "{i}Seizing the moment, you pull your friend towards you and kiss her lips."
 
 # game/day24.rpy:167
-translate french day24_choices_9e19b723_1:
+translate french day24_choices_9e19b723:
 
     # p "I love you, [l_name]."
-    p "Je t'aime, [l_name]."
+    p "I love you, [l_name]."
 
 # game/day24.rpy:168
-translate french day24_choices_755be90a_1:
+translate french day24_choices_755be90a:
 
     # l "Mmmm, I love you too."
-    l "Mmmm, je t'aime aussi."
+    l "Mmmm, I love you too."
 
 # game/day24.rpy:169
-translate french day24_choices_c6794a44_1:
+translate french day24_choices_c6794a44:
 
     # p "{i}(There it is, without hesitation! My wonderful girl!)"
-    p "{i}La voilà, sans hésitation ! Ma merveilleuse fille !"
+    p "{i}(There it is, without hesitation! My wonderful girl!)"
 
 # game/day24.rpy:170
-translate french day24_choices_910affd5_1:
+translate french day24_choices_910affd5:
 
     # "{i}You back up against the wall, as your kissing intensifies. [l_name] tousles your hair as you kiss her neck. She breathes heavily in your ear, her voice a hoarse whisper."
-    "{i}Tu recules contre le mur, comme ton baiser s'intensifie. [l_name] te touche les cheveux quand tu l'embrasses au cou. Elle respire fortement dans votre oreille, sa voix est rauque."
+    "{i}You back up against the wall, as your kissing intensifies. [l_name] tousles your hair as you kiss her neck. She breathes heavily in your ear, her voice a hoarse whisper."
 
 # game/day24.rpy:171
-translate french day24_choices_13cbd0f4_1:
+translate french day24_choices_13cbd0f4:
 
     # l "We should stop. There's another class."
-    l "On devrait arrêter. Il y a une autre classe."
+    l "We should stop. There's another class."
 
 # game/day24.rpy:172
-translate french day24_choices_07c2419c_1:
+translate french day24_choices_07c2419c:
 
     # p "You're right."
-    p "Vous avez raison."
+    p "You're right."
 
 # game/day24.rpy:174
-translate french day24_choices_5fee2bc0_1:
+translate french day24_choices_5fee2bc0:
 
     # "{i}You don't stop, however and [l_name] doesn't either. Your hands explore the curves of her body through the thin layer of fabric of her dress."
-    "{i}Mais tu n'arrêtes pas, et [l_name] non plus. Vos mains explorent les courbes de son corps à travers la fine couche de tissu de sa robe."
+    "{i}You don't stop, however and [l_name] doesn't either. Your hands explore the curves of her body through the thin layer of fabric of her dress."
 
 # game/day24.rpy:175
-translate french day24_choices_b089fa87_1:
+translate french day24_choices_b089fa87:
 
     # l "Oh god, [p_name], what are you doing to me?"
-    l "Oh mon Dieu, [p_name], qu'est-ce que tu me fais ?"
+    l "Oh god, [p_name], what are you doing to me?"
 
 # game/day24.rpy:176
-translate french day24_choices_fd7ac374_1:
+translate french day24_choices_fd7ac374:
 
     # p "I want you, [l_name]."
-    p "Je te veux, [l_name]."
+    p "I want you, [l_name]."
 
 # game/day24.rpy:177
-translate french day24_choices_91c056ac_1:
+translate french day24_choices_91c056ac:
 
     # l "Mmmmm."
-    l "Mmmmmmm."
+    l "Mmmmm."
 
 # game/day24.rpy:179
-translate french day24_choices_ce1dc83b_1:
+translate french day24_choices_ce1dc83b:
 
     # "{i}The only other occasions you've seen her burn with passion, like this, were when you were alone with her in your room and that night on the beach."
-    "{i}Les seules autres occasions où vous l'avez vue brûler de passion, comme celle-ci, étaient lorsque vous étiez seule avec elle dans votre chambre et cette nuit-là sur la plage."
+    "{i}The only other occasions you've seen her burn with passion, like this, were when you were alone with her in your room and that night on the beach."
 
 # game/day24.rpy:181
-translate french day24_choices_8f28e2e3_1:
+translate french day24_choices_8f28e2e3:
 
     # "{i}The only other occasion you've seen her burn with passion, like this, was when you were alone with her that night on the beach."
-    "{i}La seule autre occasion où vous l'avez vue brûler de passion, comme celle-ci, c'est lorsque vous étiez seule avec elle cette nuit-là sur la plage."
+    "{i}The only other occasion you've seen her burn with passion, like this, was when you were alone with her that night on the beach."
 
 # game/day24.rpy:183
-translate french day24_choices_cf0e33a1_1:
+translate french day24_choices_cf0e33a1:
 
     # "{i}The only other occasion you've seen her burn with passion, like this, was when you were alone with her in your room."
-    "{i}La seule autre occasion où vous l'avez vue brûler de passion, comme celle-ci, c'est quand vous étiez seule avec elle dans votre chambre."
+    "{i}The only other occasion you've seen her burn with passion, like this, was when you were alone with her in your room."
 
 # game/day24.rpy:185
-translate french day24_choices_56d26cf4_1:
+translate french day24_choices_56d26cf4:
 
     # "{i}Eager to enjoy more of her, you let your hand rest on her upper leg and stroke her thigh. You half expect her to stop you, instead she lifts her leg to give you better access."
-    "{i}Désireux d'en profiter davantage, vous laissez votre main reposer sur son haut de jambe et lui caressez la cuisse. Tu t'attends à ce qu'elle t'arrête, mais elle lève la jambe pour te donner un meilleur accès."
+    "{i}Eager to enjoy more of her, you let your hand rest on her upper leg and stroke her thigh. You half expect her to stop you, instead she lifts her leg to give you better access."
 
 # game/day24.rpy:187
-translate french day24_choices_59467a4b_1:
+translate french day24_choices_59467a4b:
 
     # l "I'm burning up, [p_name]!"
-    l "Je brûle, [p_name] !"
+    l "I'm burning up, [p_name]!"
 
 # game/day24.rpy:188
-translate french day24_choices_68b81b7b_1:
+translate french day24_choices_68b81b7b:
 
     # p "I know baby, I..."
-    p "Je connais bébé, je...."
+    p "I know baby, I..."
 
 # game/day24.rpy:189
-translate french day24_choices_ed0543dd_1:
+translate french day24_choices_ed0543dd:
 
     # "{i}Right at that moment the door is pushed open and you narrowly avoid being caught by the dance teacher."
-    "{i}C'est à ce moment-là que la porte s'ouvre et que l'on évite de justesse d'être attrapé par le professeur de danse."
+    "{i}Right at that moment the door is pushed open and you narrowly avoid being caught by the dance teacher."
 
 # game/day24.rpy:190
-translate french day24_choices_f0b590b7_1:
+translate french day24_choices_f0b590b7:
 
     # p "{i}(Fuck! We should have found something more private.)"
-    p "{i}(Merde ! On aurait dû trouver quelque chose de plus privé.)"
+    p "{i}(Fuck! We should have found something more private.)"
 
 # game/day24.rpy:192
-translate french day24_choices_cc2a51a5_1:
+translate french day24_choices_cc2a51a5:
 
     # l "Oh... eh... Hi..."
-    l "Oh.... eh..... Salut...."
+    l "Oh... eh... Hi..."
 
 # game/day24.rpy:193
-translate french day24_choices_83c6cca4_1:
+translate french day24_choices_83c6cca4:
 
     # p "We were just finishing up."
-    p "On était en train de finir."
+    p "We were just finishing up."
 
 # game/day24.rpy:194
-translate french day24_choices_1d6d8893_1:
+translate french day24_choices_1d6d8893:
 
     # woman "Have a great day!"
-    woman "Passez une bonne journée !"
+    woman "Have a great day!"
 
 # game/day24.rpy:195
-translate french day24_choices_032aace5_1:
+translate french day24_choices_032aace5:
 
     # p "You too!"
-    p "Toi aussi !"
+    p "You too!"
 
 # game/day24.rpy:197
-translate french day24_choices_9377cb7a_1:
+translate french day24_choices_9377cb7a:
 
     # "{i}Passing the pupils of the next class, you both leave the dance school and head back home. [l_name] appears to be too flustered to say anything."
-    "{i}En passant les élèves de la classe suivante, vous quittez tous les deux l'école de danse et rentrez chez vous. [l_name] semble trop agitée pour dire quoi que ce soit."
+    "{i}Passing the pupils of the next class, you both leave the dance school and head back home. [l_name] appears to be too flustered to say anything."
 
 # game/day24.rpy:199
-translate french day24_choices_3e72564d_1:
+translate french day24_choices_3e72564d:
 
     # l "Thank you, that was great."
-    l "Merci, c'était super."
+    l "Thank you, that was great."
 
 # game/day24.rpy:201
-translate french day24_choices_1b8516e3_1:
+translate french day24_choices_1b8516e3:
 
     # "{i}A little uneasy, [l_name] kisses you on the cheek."
-    "{i}Un peu mal à l'aise, [l_name] t'embrasse sur la joue."
+    "{i}A little uneasy, [l_name] kisses you on the cheek."
 
 # game/day24.rpy:202
-translate french day24_choices_aa406b1a_1:
+translate french day24_choices_aa406b1a:
 
     # p "{i}(Well, that was a let-down. Maybe I should...)"
-    p "{i}(Eh bien, c'était une déception. Peut-être que je devrais...)"
+    p "{i}(Well, that was a let-down. Maybe I should...)"
 
 # game/day24.rpy:209
-translate french day24_choices_178858ae_1:
+translate french day24_choices_178858ae:
 
     # "{i}Overcome with desire, you grab her and plant your lips on hers. After the initial shock has subsided she struggles from your grasp."
-    "{i}Surmonté par le désir, vous l'attrapez et vous plantez vos lèvres sur les siennes. Après que le choc initial s'est apaisé, elle lutte contre vous."
+    "{i}Overcome with desire, you grab her and plant your lips on hers. After the initial shock has subsided she struggles from your grasp."
 
 # game/day24.rpy:211
-translate french day24_choices_a639b068_1:
+translate french day24_choices_a639b068:
 
     # l "No! What are you doing?!"
-    l "Non ! Qu'est-ce que tu fais ?!"
+    l "No! What are you doing?!"
 
 # game/day24.rpy:212
-translate french day24_choices_780ea351_1:
+translate french day24_choices_780ea351:
 
     # p "I... Shit... I..."
-    p "I... Merde.... I..."
+    p "I... Shit... I..."
 
 # game/day24.rpy:213
-translate french day24_choices_74206bff_1:
+translate french day24_choices_74206bff:
 
     # l "No... No... This isn't right..."
-    l "Non... Non... Ce n'est pas juste...."
+    l "No... No... This isn't right..."
 
 # game/day24.rpy:214
-translate french day24_choices_b74c997c_1:
+translate french day24_choices_b74c997c:
 
     # "{i}The girl looks at you in disbelief and then runs from your room."
-    "{i}La fille te regarde avec incrédulité et s'enfuit de ta chambre."
+    "{i}The girl looks at you in disbelief and then runs from your room."
 
 # game/day24.rpy:216
-translate french day24_choices_400cdbd8_1:
+translate french day24_choices_400cdbd8:
 
     # p "{i}(Fuck, that wasn't supposed to happen...)"
-    p "{i}(Putain, c'était pas censé arriver...)"
+    p "{i}(Fuck, that wasn't supposed to happen...)"
 
 # game/day24.rpy:217
-translate french day24_choices_10344ad8_1:
+translate french day24_choices_10344ad8:
 
     # p "{i}(I'd better leave her for a while and try to make things right later.)"
-    p "{i}Je ferais mieux de la laisser un peu et d'essayer d'arranger les choses plus tard."
+    p "{i}(I'd better leave her for a while and try to make things right later.)"
 
 # game/day24.rpy:220
-translate french day24_choices_1e9f8b95_1:
+translate french day24_choices_1e9f8b95:
 
     # "{i}Suddenly you're overcome with desire for her, but keep it in check by sheer force of will."
-    "{i}Soudain, vous êtes submergé par le désir pour elle, mais gardez-le sous contrôle par la seule force de la volonté."
+    "{i}Suddenly you're overcome with desire for her, but keep it in check by sheer force of will."
 
 # game/day24.rpy:222
-translate french day24_choices_67619164_1:
+translate french day24_choices_67619164:
 
     # p "I had a great time too."
-    p "J'ai passé un bon moment aussi."
+    p "I had a great time too."
 
 # game/day24.rpy:223
-translate french day24_choices_cfb09950_1:
+translate french day24_choices_cfb09950:
 
     # l "I hope I didn't step on your toes too often."
-    l "J'espère que je ne t'ai pas marché sur les pieds trop souvent."
+    l "I hope I didn't step on your toes too often."
 
 # game/day24.rpy:224
-translate french day24_choices_800a3988_1:
+translate french day24_choices_800a3988:
 
     # p "It wasn't too bad, nothing an icepack or two can't fix."
-    p "Ce n'était pas si mal, rien qu'un icepack ou deux ne puisse réparer."
+    p "It wasn't too bad, nothing an icepack or two can't fix."
 
 # game/day24.rpy:225
-translate french day24_choices_defd4068_3:
+translate french day24_choices_defd4068_1:
 
     # l "[p_name]!"
-    l "[p_name] !"
+    l "[p_name]!"
 
 # game/day24.rpy:226
-translate french day24_choices_c73963e2_1:
+translate french day24_choices_c73963e2:
 
     # p "No, trust me, you were great."
-    p "Non, crois-moi, tu as été super."
+    p "No, trust me, you were great."
 
 # game/day24.rpy:227
-translate french day24_choices_6bd544ae_1:
+translate french day24_choices_6bd544ae:
 
     # p "You'll do great on the dance floor at our wedding!"
-    p "Tu seras très bien sur la piste de danse à notre mariage !"
+    p "You'll do great on the dance floor at our wedding!"
 
 # game/day24.rpy:229
-translate french day24_choices_63d24054_1:
+translate french day24_choices_63d24054:
 
     # l "You shouldn't joke about that..."
-    l "Vous ne devriez pas plaisanter à ce sujet...."
+    l "You shouldn't joke about that..."
 
 # game/day24.rpy:230
-translate french day24_choices_b3e0ae8e_1:
+translate french day24_choices_b3e0ae8e:
 
     # p "Sorry, I just thought it was funny."
-    p "Désolé, j'ai trouvé ça drôle."
+    p "Sorry, I just thought it was funny."
 
 # game/day24.rpy:232
-translate french day24_choices_2b6ca677_1:
+translate french day24_choices_2b6ca677:
 
     # l "I know... But the things we did. They shouldn't happen between brother and sister..."
-    l "Je sais.... Mais les choses qu'on a faites. Ça ne devrait pas arriver entre frère et soeur...."
+    l "I know... But the things we did. They shouldn't happen between brother and sister..."
 
 # game/day24.rpy:233
-translate french day24_choices_f6ed09e9_1:
+translate french day24_choices_f6ed09e9:
 
     # p "You know I have a different opinion about that."
-    p "Tu sais que j'ai une opinion différente à ce sujet."
+    p "You know I have a different opinion about that."
 
 # game/day24.rpy:234
-translate french day24_choices_34b8bda1_1:
+translate french day24_choices_34b8bda1:
 
     # l "I guess..."
-    l "Je suppose...."
+    l "I guess..."
 
 # game/day24.rpy:236
-translate french day24_choices_4863e00c_1:
+translate french day24_choices_4863e00c:
 
     # l "I know..."
-    l "Je sais...."
+    l "I know..."
 
 # game/day24.rpy:237
-translate french day24_choices_c5edf114_1:
+translate french day24_choices_c5edf114:
 
     # l "I'm going to get some rest now, dancing is hard work."
-    l "Je vais me reposer, la danse est un dur labeur."
+    l "I'm going to get some rest now, dancing is hard work."
 
 # game/day24.rpy:238
-translate french day24_choices_15922f84_1:
+translate french day24_choices_15922f84:
 
     # p "It sure is. Sleep well, dearest."
-    p "Bien sûr que si. Dors bien, ma chérie."
+    p "It sure is. Sleep well, dearest."
 
 # game/day24.rpy:239
-translate french day24_choices_90f9af99_1:
+translate french day24_choices_90f9af99:
 
     # "{i}[l_name] leaves your room with a radiant smile on her face."
-    "{i}[l_name] quitte votre chambre avec un sourire radieux sur son visage."
+    "{i}[l_name] leaves your room with a radiant smile on her face."
 
 # game/day24.rpy:244
-translate french day24_choices_46e52dc9_1:
+translate french day24_choices_46e52dc9:
 
     # p "{i}(God, I hate that I can't speak to [m_name]. But maybe I can visit her another way...)"
-    p "{i}(Dieu, je déteste ne pas pouvoir parler à [m_name]. Mais peut-être que je pourrais lui rendre visite d'une autre façon...)"
+    p "{i}(God, I hate that I can't speak to [m_name]. But maybe I can visit her another way...)"
 
 # game/day24.rpy:246
-translate french day24_choices_17b8daeb_1:
+translate french day24_choices_17b8daeb:
 
     # p "{i}(God, I long for another session with [m_name] at our favorite place...)"
-    p "{i}(Dieu, j'ai envie d'une autre séance avec [m_name] à notre endroit préféré...)"
+    p "{i}(God, I long for another session with [m_name] at our favorite place...)"
 
 # game/day24.rpy:249
-translate french day24_choices_0d677f23_1:
+translate french day24_choices_0d677f23:
 
     # ad "Discreet Inc. How may I be of service?"
-    ad "Discreet Inc. En quoi puis-je vous être utile ?"
+    ad "Discreet Inc. How may I be of service?"
 
 # game/day24.rpy:250
-translate french day24_choices_75417485_1:
+translate french day24_choices_75417485:
 
     # p "{i}(You really know how to service a man, Adriana...)"
-    p "{i}(Tu sais vraiment comment servir un homme, Adriana...)"
+    p "{i}(You really know how to service a man, Adriana...)"
 
 # game/day24.rpy:251
-translate french day24_choices_b7d15eb9_1:
+translate french day24_choices_b7d15eb9:
 
     # p "Holmes here, I'd like to schedule a meeting with the Mistress."
-    p "Holmes, j'aimerais prendre rendez-vous avec la maîtresse."
+    p "Holmes here, I'd like to schedule a meeting with the Mistress."
 
 # game/day24.rpy:252
-translate french day24_choices_f09050e4_1:
+translate french day24_choices_f09050e4:
 
     # ad "Ah yes. I'm afraid she isn't at the offices today."
-    ad "Ah oui. Je crains qu'elle ne soit pas au bureau aujourd'hui."
+    ad "Ah yes. I'm afraid she isn't at the offices today."
 
 # game/day24.rpy:253
-translate french day24_choices_51b5ba5d_1:
+translate french day24_choices_51b5ba5d:
 
     # p "{i}(Hmmm, she didn't feel up to going in to work. I wonder where she is?)"
-    p "{i}(Hmmm, elle ne s'est pas sentie prête à aller travailler. Je me demande où elle est ?)"
+    p "{i}(Hmmm, she didn't feel up to going in to work. I wonder where she is?)"
 
 # game/day24.rpy:254
-translate french day24_choices_c91778b3_1:
+translate french day24_choices_c91778b3:
 
     # p "I understand. Could you just pencil me in for the next available appointment?"
-    p "Je comprends. Pouvez-vous m'inscrire au crayon pour le prochain rendez-vous disponible ?"
+    p "I understand. Could you just pencil me in for the next available appointment?"
 
 # game/day24.rpy:255
-translate french day24_choices_6743b6a6_1:
+translate french day24_choices_6743b6a6:
 
     # ad "Of course, sir. At 2PM in two days?"
-    ad "Bien sûr, monsieur. A 14h en deux jours ?"
+    ad "Of course, sir. At 2PM in two days?"
 
 # game/day24.rpy:256
-translate french day24_choices_bac1f10e_1:
+translate french day24_choices_bac1f10e:
 
     # p "That would be great."
-    p "Ce serait formidable."
+    p "That would be great."
 
 # game/day24.rpy:257
-translate french day24_choices_e6c56f8f_1:
+translate french day24_choices_e6c56f8f:
 
     # ad "Good, we'll call you if anything changes, otherwise the appointment is set for 2PM."
-    ad "Bien, nous vous appellerons si quelque chose change, sinon le rendez-vous est fixé à 14h."
+    ad "Good, we'll call you if anything changes, otherwise the appointment is set for 2PM."
 
 # game/day24.rpy:258
-translate french day24_choices_668ecbeb_1:
+translate french day24_choices_668ecbeb:
 
     # p "Look forward to it."
-    p "J'ai hâte d'y être."
+    p "Look forward to it."
 
 # game/day24.rpy:259
-translate french day24_choices_fb3a704d_1:
+translate french day24_choices_fb3a704d:
 
     # ad "Likewise, have a nice day, Mr. Holmes."
-    ad "De même, passez une bonne journée, M. Holmes."
+    ad "Likewise, have a nice day, Mr. Holmes."
 
 # game/day24.rpy:260
-translate french day24_choices_eb8cccc8_1:
+translate french day24_choices_eb8cccc8:
 
     # p "You too, Adriana."
-    p "Toi aussi, Adriana."
+    p "You too, Adriana."
 
 # game/day24.rpy:261
-translate french day24_choices_3b6967c8_1:
+translate french day24_choices_3b6967c8:
 
     # p "{i}(That's settled then.)"
-    p "{i}(C'est réglé alors.)"
+    p "{i}(That's settled then.)"
 
 # game/day24.rpy:266
-translate french day24_choices_57418553_1:
+translate french day24_choices_57418553:
 
     # p "{i}(Time to pick up [b_name] at the coffeeshop.)"
-    p "{i}(C'est l'heure d'aller chercher [b_name] au café.)"
+    p "{i}(Time to pick up [b_name] at the coffeeshop.)"
 
 # game/day24.rpy:268
-translate french day24_choices_a2c853bf_1:
+translate french day24_choices_a2c853bf:
 
     # "{i}[b_name] is already standing outside when you arrive, nervously fidgeting with the apron of her work uniform. Without saying a word you head to the alleyway."
-    "{i}[b_name] est déjà dehors quand vous arrivez, agitant nerveusement le tablier de son uniforme de travail. Sans dire un mot, tu vas dans la ruelle."
+    "{i}[b_name] is already standing outside when you arrive, nervously fidgeting with the apron of her work uniform. Without saying a word you head to the alleyway."
 
 # game/day24.rpy:271
-translate french day24_choices_d149181a_1:
+translate french day24_choices_d149181a:
 
     # b "I can't do this, [p_name]!"
-    b "Je ne peux pas faire ça, [p_name] !"
+    b "I can't do this, [p_name]!"
 
 # game/day24.rpy:272
-translate french day24_choices_4bf608d6_1:
+translate french day24_choices_4bf608d6:
 
     # p "He can't do anything to you, [b_name]. He's just a sad little twerp, you'll see."
-    p "Il ne peut rien te faire, [b_name]. C'est juste un petit crétin triste, tu verras."
+    p "He can't do anything to you, [b_name]. He's just a sad little twerp, you'll see."
 
 # game/day24.rpy:273
-translate french day24_choices_b2d3a79a_1:
+translate french day24_choices_b2d3a79a:
 
     # b "I know, but he had so much power over me."
-    b "Je sais, mais il avait tellement de pouvoir sur moi."
+    b "I know, but he had so much power over me."
 
 # game/day24.rpy:274
-translate french day24_choices_0b739121_1:
+translate french day24_choices_0b739121:
 
     # p "Had. That's all over now."
-    p "Avait. C'est fini maintenant."
+    p "Had. That's all over now."
 
 # game/day24.rpy:276
-translate french day24_choices_40be77ee_1:
+translate french day24_choices_40be77ee:
 
     # b "Yes! Thanks to you."
-    b "Oui ! Grâce à vous."
+    b "Yes! Thanks to you."
 
 # game/day24.rpy:277
-translate french day24_choices_3015c28d_2:
+translate french day24_choices_3015c28d:
 
     # p "I'll be close by in case you need me."
-    p "Je serai à côté au cas où vous auriez besoin de moi."
+    p "I'll be close by in case you need me."
 
 # game/day24.rpy:278
-translate french day24_choices_eae748e1_1:
+translate french day24_choices_eae748e1:
 
     # b "That's a reassuring thought."
-    b "C'est une pensée rassurante."
+    b "That's a reassuring thought."
 
 # game/day24.rpy:280
-translate french day24_choices_ca0da4b5_1:
+translate french day24_choices_ca0da4b5:
 
     # b "Let's get this over with."
-    b "Finissons-en avec ça."
+    b "Let's get this over with."
 
 # game/day24.rpy:281
-translate french day24_choices_3015c28d_3:
+translate french day24_choices_3015c28d_1:
 
     # p "I'll be close by in case you need me."
-    p "Je serai à côté au cas où vous auriez besoin de moi."
+    p "I'll be close by in case you need me."
 
 # game/day24.rpy:282
-translate french day24_choices_295db2da_1:
+translate french day24_choices_295db2da:
 
     # b "I won't."
-    b "Je ne le ferai pas."
+    b "I won't."
 
 # game/day24.rpy:284
-translate french day24_choices_e0bed3b9_1:
+translate french day24_choices_e0bed3b9:
 
     # "{i}You position yourself just around the corner, within earshot, but out of sight. The waiting begins."
-    "{i}Vous vous positionnez au coin de la rue, à portée de voix, mais hors de vue. L'attente commence."
+    "{i}You position yourself just around the corner, within earshot, but out of sight. The waiting begins."
 
 # game/day24.rpy:286
-translate french day24_choices_3cca0e68_1:
+translate french day24_choices_3cca0e68:
 
     # b "There he is..."
-    b "Le voilà..."
+    b "There he is..."
 
 # game/day24.rpy:287
-translate french day24_choices_5a75419f_1:
+translate french day24_choices_5a75419f:
 
     # p "Is he alone?"
-    p "Est-il seul ?"
+    p "Is he alone?"
 
 # game/day24.rpy:288
-translate french day24_choices_7e827160_1:
+translate french day24_choices_7e827160:
 
     # b "I think so."
-    b "Je pense que oui."
+    b "I think so."
 
 # game/day24.rpy:290
-translate french day24_choices_0cb0c908_1:
+translate french day24_choices_0cb0c908:
 
     # b "He looks like he's about to wet himself."
-    b "On dirait qu'il est sur le point de se pisser dessus."
+    b "He looks like he's about to wet himself."
 
 # game/day24.rpy:292
-translate french day24_choices_a2230a07_1:
+translate french day24_choices_a2230a07:
 
     # b "He looks like he's about to wet himself. Pathetic."
-    b "On dirait qu'il est sur le point de se pisser dessus. Pathétique."
+    b "He looks like he's about to wet himself. Pathetic."
 
 # game/day24.rpy:294
-translate french day24_choices_4b11aa46_1:
+translate french day24_choices_4b11aa46:
 
     # "{i}Slowly Dwayne approaches, he seems truly frightened by the whole situation."
-    "{i}Lentement Dwayne s'approche, il semble vraiment effrayé par toute cette situation."
+    "{i}Slowly Dwayne approaches, he seems truly frightened by the whole situation."
 
 # game/day24.rpy:297
-translate french day24_choices_76fa4f47_1:
+translate french day24_choices_76fa4f47:
 
     # "{i}Still at a safe distance from your sister, Dwayne stops. [b_name] looks at him long and hard. When she finally speaks, you detect a small quiver of fear in her voice."
-    "{i}Toujours à bonne distance de votre sœur, Dwayne s'arrête. [b_name] le regarde longuement et durement. Quand elle parle enfin, vous détectez un petit carquois de peur dans sa voix."
+    "{i}Still at a safe distance from your sister, Dwayne stops. [b_name] looks at him long and hard. When she finally speaks, you detect a small quiver of fear in her voice."
 
 # game/day24.rpy:299
-translate french day24_choices_f0faa684_1:
+translate french day24_choices_f0faa684:
 
     # "{i}Still at a safe distance from your friend, Dwayne stops. [b_name] looks at him long and hard. When she finally speaks, you detect a small quiver of fear in her voice."
-    "{i}Toujours à bonne distance de votre ami, Dwayne s'arrête. [b_name] le regarde longuement et durement. Quand elle parle enfin, vous détectez un petit carquois de peur dans sa voix."
+    "{i}Still at a safe distance from your friend, Dwayne stops. [b_name] looks at him long and hard. When she finally speaks, you detect a small quiver of fear in her voice."
 
 # game/day24.rpy:300
-translate french day24_choices_bd5e7286_1:
+translate french day24_choices_bd5e7286:
 
     # b "So, you're Dwayne."
-    b "Donc, vous êtes Dwayne."
+    b "So, you're Dwayne."
 
 # game/day24.rpy:301
-translate french day24_choices_34912bb0_1:
+translate french day24_choices_34912bb0:
 
     # dw "Y-y-yes..."
-    dw "O-y-y-oui....."
+    dw "Y-y-yes..."
 
 # game/day24.rpy:302
-translate french day24_choices_c3eb4121_1:
+translate french day24_choices_c3eb4121:
 
     # b "Or should I call you MisterX?"
-    b "Ou devrais-je vous appeler MisterX ?"
+    b "Or should I call you MisterX?"
 
 # game/day24.rpy:303
-translate french day24_choices_de602922_1:
+translate french day24_choices_de602922:
 
     # dw "N-n-no. I stopped all that."
-    dw "N-n-n-non. J'ai arrêté tout ça."
+    dw "N-n-no. I stopped all that."
 
 # game/day24.rpy:304
-translate french day24_choices_7950c5ab_1:
+translate french day24_choices_7950c5ab:
 
     # b "I wanted to talk to you Dwayne. About what you did. How it has affected me."
-    b "Je voulais te parler Dwayne. A propos de ce que tu as fait. Comment cela m'a affecté."
+    b "I wanted to talk to you Dwayne. About what you did. How it has affected me."
 
 # game/day24.rpy:306
-translate french day24_choices_48a6b395_1:
+translate french day24_choices_48a6b395:
 
     # b "You made me live in fear for months. The constant threat of the publication of those photos. The endless requests for money..."
-    b "Tu m'as fait vivre dans la peur pendant des mois. La menace constante de la publication de ces photos. Les interminables demandes d'argent...."
+    b "You made me live in fear for months. The constant threat of the publication of those photos. The endless requests for money..."
 
 # game/day24.rpy:307
-translate french day24_choices_e34f52f1_1:
+translate french day24_choices_e34f52f1:
 
     # b "Do you have any fucking clue how it is to live like that?! How could you do that to someone?!"
-    b "T'as la moindre idée de ce que c'est que de vivre comme ça ?! Comment as-tu pu faire ça à quelqu'un ?!"
+    b "Do you have any fucking clue how it is to live like that?! How could you do that to someone?!"
 
 # game/day24.rpy:309
-translate french day24_choices_c1af12be_1:
+translate french day24_choices_c1af12be:
 
     # dw "I just thought..."
-    dw "Je pensais juste...."
+    dw "I just thought..."
 
 # game/day24.rpy:310
-translate french day24_choices_c3dd684d_1:
+translate french day24_choices_c3dd684d:
 
     # b "You just thought I was a dumb bitch and I shouldn't have sent those pictures in the first place?"
-    b "Tu pensais que j'étais une salope stupide et que je n'aurais pas dû envoyer ces photos en premier lieu ?"
+    b "You just thought I was a dumb bitch and I shouldn't have sent those pictures in the first place?"
 
 # game/day24.rpy:311
-translate french day24_choices_0e9b2e68_1:
+translate french day24_choices_0e9b2e68:
 
     # dw "N-no?"
-    dw "N-non ?"
+    dw "N-no?"
 
 # game/day24.rpy:312
-translate french day24_choices_fffe820f_1:
+translate french day24_choices_fffe820f:
 
     # b "How can you justify what you did then? Did you think I needed to learn a lesson?"
-    b "Comment pouvez-vous justifier ce que vous avez fait ? Tu pensais que j'avais besoin d'apprendre une leçon ?"
+    b "How can you justify what you did then? Did you think I needed to learn a lesson?"
 
 # game/day24.rpy:313
-translate french day24_choices_d0755ca6_1:
+translate french day24_choices_d0755ca6:
 
     # dw "I just thought you looked nice, but girls are never interested in me."
-    dw "Je t'ai trouvée jolie, mais les filles ne s'intéressent jamais à moi."
+    dw "I just thought you looked nice, but girls are never interested in me."
 
 # game/day24.rpy:314
-translate french day24_choices_0c7546af_1:
+translate french day24_choices_0c7546af:
 
     # b "So you fucking scam them into giving you dirty pictures and demand money afterwards?"
-    b "Alors tu les arnaques pour qu'ils te donnent des photos cochonnes et qu'ils te demandent de l'argent après ?"
+    b "So you fucking scam them into giving you dirty pictures and demand money afterwards?"
 
 # game/day24.rpy:315
-translate french day24_choices_452bfbad_1:
+translate french day24_choices_452bfbad:
 
     # dw "No, no, it wasn't like that!"
-    dw "Non, non, non, ce n'était pas comme ça !"
+    dw "No, no, it wasn't like that!"
 
 # game/day24.rpy:316
-translate french day24_choices_05d12dd7_1:
+translate french day24_choices_05d12dd7:
 
     # b "It was exactly like that. "
-    b "C'était exactement comme ça. "
+    b "It was exactly like that. "
 
 # game/day24.rpy:317
-translate french day24_choices_1c278d8c_1:
+translate french day24_choices_1c278d8c:
 
     # b "How many other 'nice' women did you ruin, you sick fuck?"
-    b "Combien d'autres "gentilles" femmes as-tu détruites, espèce de malade ?"
+    b "How many other 'nice' women did you ruin, you sick fuck?"
 
 # game/day24.rpy:318
-translate french day24_choices_8e8d52ee_1:
+translate french day24_choices_8e8d52ee:
 
     # dw "None."
-    dw "Aucune."
+    dw "None."
 
 # game/day24.rpy:319
-translate french day24_choices_55b43907_1:
+translate french day24_choices_55b43907:
 
     # b "Don't fucking lie to me."
-    b "Ne me mens pas, putain."
+    b "Don't fucking lie to me."
 
 # game/day24.rpy:320
-translate french day24_choices_fdb0c35a_1:
+translate french day24_choices_fdb0c35a:
 
     # dw "A couple."
-    dw "Un couple."
+    dw "A couple."
 
 # game/day24.rpy:321
-translate french day24_choices_efd8df34_1:
+translate french day24_choices_efd8df34:
 
     # "{i}The tension mounts and you hear that [b_name]'s voice is at the cusp of breaking. You're surprised by a meaty wet slap."
-    "{i}La tension monte et on entend que la voix de [b_name] est au bord de la rupture. Tu es surpris par une gifle humide et charnue."
+    "{i}The tension mounts and you hear that [b_name]'s voice is at the cusp of breaking. You're surprised by a meaty wet slap."
 
 # game/day24.rpy:323
-translate french day24_choices_35326811_1:
+translate french day24_choices_35326811:
 
     # b "Take that, motherfucker!"
-    b "Prends ça, enfoiré !"
+    b "Take that, motherfucker!"
 
 # game/day24.rpy:324
-translate french day24_choices_6efa0288_1:
+translate french day24_choices_6efa0288:
 
     # dw "Ouch."
-    dw "Aïe."
+    dw "Ouch."
 
 # game/day24.rpy:325
-translate french day24_choices_7d0a6e39_1:
+translate french day24_choices_7d0a6e39:
 
     # p "{i}(Yeah, bitchslap!)"
-    p "{i}(Ouais, gifle de salope !)"
+    p "{i}(Yeah, bitchslap!)"
 
 # game/day24.rpy:326
-translate french day24_choices_b99b65c1_1:
+translate french day24_choices_b99b65c1:
 
     # b "Kneel."
-    b "Agenouillez-vous."
+    b "Kneel."
 
 # game/day24.rpy:328
-translate french day24_choices_8f850abc_1:
+translate french day24_choices_8f850abc:
 
     # "{i}When you peek around the corner you see Dwayne lower himself to the ground before [b_name]."
-    "{i}Quand vous regardez au coin de la rue, vous voyez Dwayne s'abaisser au sol devant [b_name]."
+    "{i}When you peek around the corner you see Dwayne lower himself to the ground before [b_name]."
 
 # game/day24.rpy:329
-translate french day24_choices_5d91075d_1:
+translate french day24_choices_5d91075d:
 
     # p "{i}(What does she have in store for him?)"
-    p "{i}Qu'est-ce qu'elle lui réserve ?"
+    p "{i}(What does she have in store for him?)"
 
 # game/day24.rpy:332
-translate french day24_choices_71ba6533_1:
+translate french day24_choices_71ba6533:
 
     # b "I'm going to give you a taste of your own medicine."
-    b "Je vais vous donner un avant-goût de votre propre médecine."
+    b "I'm going to give you a taste of your own medicine."
 
 # game/day24.rpy:333
-translate french day24_choices_94681873_1:
+translate french day24_choices_94681873:
 
     # b "Get naked."
-    b "Mets-toi à poil."
+    b "Get naked."
 
 # game/day24.rpy:334
-translate french day24_choices_6428e499_1:
+translate french day24_choices_6428e499:
 
     # p "{i}(What?!)"
-    p "{i}(Quoi ?!!)"
+    p "{i}(What?!)"
 
 # game/day24.rpy:335
-translate french day24_choices_93abcbdd_1:
+translate french day24_choices_93abcbdd:
 
     # dw "What?!"
-    dw "Quoi ?!"
+    dw "What?!"
 
 # game/day24.rpy:336
-translate french day24_choices_9e91d915_1:
+translate french day24_choices_9e91d915:
 
     # b "Remove your fucking clothes, creep."
-    b "Enlève tes putains de vêtements, sale type."
+    b "Remove your fucking clothes, creep."
 
 # game/day24.rpy:337
-translate french day24_choices_6f5894cd_1:
+translate french day24_choices_6f5894cd:
 
     # p "{i}(Wow.)"
     p "{i}(Wow.)"
 
 # game/day24.rpy:340
-translate french day24_choices_42d6974f_1:
+translate french day24_choices_42d6974f:
 
     # "{i}Slowly and with palpable foreboding, Dwayne complies and stands naked before your sister."
-    "{i}Lentement et avec un pressentiment palpable, Dwayne se conforme et se tient nu devant votre sœur."
+    "{i}Slowly and with palpable foreboding, Dwayne complies and stands naked before your sister."
 
 # game/day24.rpy:342
-translate french day24_choices_e7933b53_1:
+translate french day24_choices_e7933b53:
 
     # "{i}Slowly and with palpable foreboding, Dwayne complies and stands naked before your friend."
-    "{i}Lentement et avec un pressentiment palpable, Dwayne se conforme et se tient nu devant votre ami."
+    "{i}Slowly and with palpable foreboding, Dwayne complies and stands naked before your friend."
 
 # game/day24.rpy:344
-translate french day24_choices_909c9666_1:
+translate french day24_choices_909c9666:
 
     # b "You know Dwayne, the more I come to know you, the more pathetic I think you are."
-    b "Tu connais Dwayne, plus j'apprends à te connaître, plus je te trouve pathétique."
+    b "You know Dwayne, the more I come to know you, the more pathetic I think you are."
 
 # game/day24.rpy:345
-translate french day24_choices_d67a1607_1:
+translate french day24_choices_d67a1607:
 
     # b "You've tormented me with your twisted schemes and now you stand before me with your pencil dick dangling in the wind."
-    b "Tu m'as tourmenté avec tes plans tortueux et maintenant tu te tiens devant moi avec ta queue de crayon suspendue au vent."
+    b "You've tormented me with your twisted schemes and now you stand before me with your pencil dick dangling in the wind."
 
 # game/day24.rpy:346
-translate french day24_choices_417e5c42_1:
+translate french day24_choices_417e5c42:
 
     # b "You don't seem so frightening anymore."
-    b "Tu n'as plus l'air si effrayant."
+    b "You don't seem so frightening anymore."
 
 # game/day24.rpy:347
-translate french day24_choices_c4db65eb_1:
+translate french day24_choices_c4db65eb:
 
     # p "{i}(Hell yeah, hit him where it hurts, baby!)"
-    p "{i}(Bien sûr que oui, frappe-le là où ça fait mal, bébé !)"
+    p "{i}(Hell yeah, hit him where it hurts, baby!)"
 
 # game/day24.rpy:348
-translate french day24_choices_8223f1dd_1:
+translate french day24_choices_8223f1dd:
 
     # b "Now, this is what you're going to do."
-    b "Voilà ce que vous allez faire."
+    b "Now, this is what you're going to do."
 
 # game/day24.rpy:349
-translate french day24_choices_126ad686_1:
+translate french day24_choices_126ad686:
 
     # b "You're going to leave your clothes here and make a run for it."
-    b "Tu vas laisser tes vêtements ici et t'enfuir."
+    b "You're going to leave your clothes here and make a run for it."
 
 # game/day24.rpy:350
-translate french day24_choices_2c836c7e_1:
+translate french day24_choices_2c836c7e:
 
     # dw "R-run for it?"
-    dw "Tu as couru pour ça ?"
+    dw "R-run for it?"
 
 # game/day24.rpy:351
-translate french day24_choices_bbf270c1_1:
+translate french day24_choices_bbf270c1:
 
     # b "That's right, run towards the street. Give the world a taste of your glorious body."
-    b "C'est ça, cours vers la rue. Donnez au monde un avant-goût de votre corps glorieux."
+    b "That's right, run towards the street. Give the world a taste of your glorious body."
 
 # game/day24.rpy:352
-translate french day24_choices_55779f48_1:
+translate french day24_choices_55779f48:
 
     # dw "B-but it's the middle of the day?!"
-    dw "Mais c'est le milieu de la journée ?!"
+    dw "B-but it's the middle of the day?!"
 
 # game/day24.rpy:353
-translate french day24_choices_58ca8152_1:
+translate french day24_choices_58ca8152:
 
     # b "So what? Run."
-    b "Et alors ? Et alors ? Cours."
+    b "So what? Run."
 
 # game/day24.rpy:355
-translate french day24_choices_5e5c781c_1:
+translate french day24_choices_5e5c781c:
 
     # p "{i}Woah, he's actually doing it!"
-    p "{i}Woah, il est en train de le faire !"
+    p "{i}Woah, he's actually doing it!"
 
 # game/day24.rpy:356
-translate french day24_choices_38cfb7e1_1:
+translate french day24_choices_38cfb7e1:
 
     # "{i}Dwayne turns around and jogs down the alley towards the main road, when [b_name] screams at him he accelerates in panic, not even bothering to cover himself."
-    "{i}Dwayne fait demi-tour et court dans l'allée en direction de la route principale, quand [b_name] lui crie dessus, il accélère dans la panique, ne prenant même pas la peine de se couvrir."
+    "{i}Dwayne turns around and jogs down the alley towards the main road, when [b_name] screams at him he accelerates in panic, not even bothering to cover himself."
 
 # game/day24.rpy:358
-translate french day24_choices_c7e4e824_1:
+translate french day24_choices_c7e4e824:
 
     # b "Hahaha! Look at him run!"
-    b "Hahahaha ! Regardez-le courir !"
+    b "Hahaha! Look at him run!"
 
 # game/day24.rpy:359
-translate french day24_choices_9706826d_1:
+translate french day24_choices_9706826d:
 
     # p "You're evil, [b_name], absolutely evil!"
-    p "Tu es diabolique, [b_name], absolument diabolique !"
+    p "You're evil, [b_name], absolutely evil!"
 
 # game/day24.rpy:360
-translate french day24_choices_d719e59c_1:
+translate french day24_choices_d719e59c:
 
     # b "Hahaha!"
-    b "Hahahaha !"
+    b "Hahaha!"
 
 # game/day24.rpy:362
-translate french day24_choices_8b9fe044_1:
+translate french day24_choices_8b9fe044:
 
     # "{i}As Dwayne turns the corner, [b_name] beams at you, smiling from ear to ear."
-    "{i}Alors que Dwayne tourne au coin de la rue, [b_name] vous regarde en souriant d'une oreille à l'autre."
+    "{i}As Dwayne turns the corner, [b_name] beams at you, smiling from ear to ear."
 
 # game/day24.rpy:363
-translate french day24_choices_a61ab928_1:
+translate french day24_choices_a61ab928:
 
     # b "That was so totally worth it!"
-    b "Ça valait vraiment le coup !"
+    b "That was so totally worth it!"
 
 # game/day24.rpy:364
-translate french day24_choices_f0e80dc3_1:
+translate french day24_choices_f0e80dc3:
 
     # p "Remind me to never fuck with you."
-    p "Rappelle-moi de ne jamais te faire chier."
+    p "Remind me to never fuck with you."
 
 # game/day24.rpy:365
-translate french day24_choices_d3e3acc0_1:
+translate french day24_choices_d3e3acc0:
 
     # b "You've been warned, mister!"
-    b "Vous avez été prévenu, monsieur !"
+    b "You've been warned, mister!"
 
 # game/day24.rpy:366
-translate french day24_choices_b9474d35_1:
+translate french day24_choices_b9474d35:
 
     # "{i}You hear shouting from the main road and car horns blaring."
-    "{i}Vous entendez des cris sur la route principale et des klaxons de voiture qui retentissent."
+    "{i}You hear shouting from the main road and car horns blaring."
 
 # game/day24.rpy:367
-translate french day24_choices_723eaf9b_1:
+translate french day24_choices_723eaf9b:
 
     # p "I think Dwayne has the city's attention."
-    p "Je pense que Dwayne a l'attention de la ville."
+    p "I think Dwayne has the city's attention."
 
 # game/day24.rpy:368
-translate french day24_choices_539161a2_1:
+translate french day24_choices_539161a2:
 
     # b "It sure sounds like it!"
-    b "Ça en a tout l'air !"
+    b "It sure sounds like it!"
 
 # game/day24.rpy:370
-translate french day24_choices_5babe352_1:
+translate french day24_choices_5babe352:
 
     # "{i}Police sirens begin to wail, shocking you both."
-    "{i}Les sirènes de la police commencent à gémir, ce qui vous choque tous les deux."
+    "{i}Police sirens begin to wail, shocking you both."
 
 # game/day24.rpy:371
-translate french day24_choices_95eb6032_1:
+translate french day24_choices_95eb6032:
 
     # b "Shit. What if they take him in and he points the cops in our direction?!"
-    b "Merde. Et s'ils l'arrêtent et qu'il pointe les flics dans notre direction ?!!"
+    b "Shit. What if they take him in and he points the cops in our direction?!"
 
 # game/day24.rpy:373
-translate french day24_choices_9330396b_1:
+translate french day24_choices_9330396b:
 
     # p "Yeah, it's our turn to run now!"
-    p "Ouais, c'est notre tour de courir maintenant !"
+    p "Yeah, it's our turn to run now!"
 
 # game/day24.rpy:376
-translate french day24_choices_dad7cabb_1:
+translate french day24_choices_dad7cabb:
 
     # "{i}A little panicked, you run in the opposite direction. [b_name]'s hand is in yours and you grip it tightly. Your sister is still laughing nervously about what just happened."
-    "{i}Un peu paniqué, tu cours dans la direction opposée. La main de [b_name] est dans la tienne et tu la serres fort. Ta sœur rit encore nerveusement de ce qui vient de se passer."
+    "{i}A little panicked, you run in the opposite direction. [b_name]'s hand is in yours and you grip it tightly. Your sister is still laughing nervously about what just happened."
 
 # game/day24.rpy:378
-translate french day24_choices_441d294e_1:
+translate french day24_choices_441d294e:
 
     # "{i}A little panicked, you run in the opposite direction. [b_name]'s hand is in yours and you grip it tightly. Your friend is still laughing nervously about what just happened."
-    "{i}Un peu paniqué, tu cours dans la direction opposée. La main de [b_name] est dans la tienne et tu la serres fort. Votre ami rit encore nerveusement de ce qui vient de se passer."
+    "{i}A little panicked, you run in the opposite direction. [b_name]'s hand is in yours and you grip it tightly. Your friend is still laughing nervously about what just happened."
 
 # game/day24.rpy:380
-translate french day24_choices_49781082_1:
+translate french day24_choices_49781082:
 
     # "{i}When you've run for a few blocks you stop to catch your breath."
-    "{i}Quand vous avez couru quelques pâtés de maisons, vous vous arrêtez pour reprendre votre souffle."
+    "{i}When you've run for a few blocks you stop to catch your breath."
 
 # game/day24.rpy:382
-translate french day24_choices_9a082794_1:
+translate french day24_choices_9a082794:
 
     # b "Damn, that was tense!"
-    b "Merde, c'était tendu !"
+    b "Damn, that was tense!"
 
 # game/day24.rpy:383
-translate french day24_choices_f4b39611_1:
+translate french day24_choices_f4b39611:
 
     # p "It sure was."
-    p "Bien sûr que si."
+    p "It sure was."
 
 # game/day24.rpy:384
-translate french day24_choices_640d31b5_1:
+translate french day24_choices_640d31b5:
 
     # b "Shall we do something fun? Blow off some steam?"
-    b "On fait quelque chose d'amusant ? Se défouler un peu ?"
+    b "Shall we do something fun? Blow off some steam?"
 
 # game/day24.rpy:385
-translate french day24_choices_babd741e_1:
+translate french day24_choices_babd741e:
 
     # p "Sounds good."
-    p "Ça a l'air bien."
+    p "Sounds good."
 
 # game/day24.rpy:386
-translate french day24_choices_0ae5d57e_1:
+translate french day24_choices_0ae5d57e:
 
     # b "The cinema is nearby, care for a movie?"
-    b "Le cinéma est tout près, vous voulez voir un film ?"
+    b "The cinema is nearby, care for a movie?"
 
 # game/day24.rpy:387
-translate french day24_choices_b0211c7f_1:
+translate french day24_choices_b0211c7f:
 
     # p "With you? Always."
-    p "Avec vous ? Toujours."
+    p "With you? Always."
 
 # game/day24.rpy:389
-translate french day24_choices_f8d5ec1a_1:
+translate french day24_choices_f8d5ec1a:
 
     # "{i}You head towards the building that houses the movie theater. [b_name] doesn't voice any preferences for a movie, so you book a random showing, just to allow you wait for the adrenaline to subside."
-    "{i}Vous vous dirigez vers le bâtiment qui abrite le cinéma. [b_name] n'exprime aucune préférence pour un film, alors vous réservez une projection au hasard, juste pour vous permettre d'attendre que l'adrénaline baisse."
+    "{i}You head towards the building that houses the movie theater. [b_name] doesn't voice any preferences for a movie, so you book a random showing, just to allow you wait for the adrenaline to subside."
 
 # game/day24.rpy:391
-translate french day24_choices_aa2a5f07_1:
+translate french day24_choices_aa2a5f07:
 
     # b "It's empty, but I still want to sit in the back!"
-    b "C'est vide, mais je veux quand même m'asseoir à l'arrière !"
+    b "It's empty, but I still want to sit in the back!"
 
 # game/day24.rpy:392
-translate french day24_choices_6ce068e9_1:
+translate french day24_choices_6ce068e9:
 
     # p "As you wish, milady."
-    p "Comme vous voudrez, madame."
+    p "As you wish, milady."
 
 # game/day24.rpy:394
-translate french day24_choices_24bef986_1:
+translate french day24_choices_24bef986:
 
     # "{i}You sit in the back of the theater and wait for the movie to start."
-    "{i}Tu t'assois à l'arrière du cinéma et tu attends que le film commence."
+    "{i}You sit in the back of the theater and wait for the movie to start."
 
 # game/day24.rpy:395
-translate french day24_choices_681a3694_1:
+translate french day24_choices_681a3694:
 
     # b "I think we picked a very bad movie, the place is still empty."
-    b "Je pense qu'on a choisi un très mauvais film, l'endroit est encore vide."
+    b "I think we picked a very bad movie, the place is still empty."
 
 # game/day24.rpy:396
-translate french day24_choices_73bd79fc_1:
+translate french day24_choices_73bd79fc:
 
     # p "Midday showings aren't popular, I think."
-    p "Les spectacles de midi ne sont pas populaires, je crois."
+    p "Midday showings aren't popular, I think."
 
 # game/day24.rpy:397
-translate french day24_choices_401b45dd_1:
+translate french day24_choices_401b45dd:
 
     # b "Or you booked a children's movie by mistake?"
-    b "Ou vous avez réservé un film pour enfants par erreur ?"
+    b "Or you booked a children's movie by mistake?"
 
 # game/day24.rpy:398
-translate french day24_choices_fd1bee19_1:
+translate french day24_choices_fd1bee19:
 
     # p "No complaining, you loved those animated pink princesses pining for their noble princes when you were younger."
-    p "Ne vous plaignez pas, vous aimiez ces princesses roses animées qui se languissaient de leurs nobles princes quand vous étiez plus jeune."
+    p "No complaining, you loved those animated pink princesses pining for their noble princes when you were younger."
 
 # game/day24.rpy:399
-translate french day24_choices_bc630259_1:
+translate french day24_choices_bc630259:
 
     # b "And then I grew up."
-    b "Et puis j'ai grandi."
+    b "And then I grew up."
 
 # game/day24.rpy:400
-translate french day24_choices_5c83b7b4_1:
+translate french day24_choices_5c83b7b4:
 
     # p "Deep down..."
-    p "Au fond..."
+    p "Deep down..."
 
 # game/day24.rpy:401
-translate french day24_choices_ec3bec0c_1:
+translate french day24_choices_ec3bec0c:
 
     # b "Yes, yes... and deep down you still want to be one of those ridiculous masked ninja amphibians you worshipped as a boy."
-    b "Oui, oui... et au fond de toi, tu veux toujours être un de ces ridicules amphibiens ninja masqués que tu adorais quand tu étais petit."
+    b "Yes, yes... and deep down you still want to be one of those ridiculous masked ninja amphibians you worshipped as a boy."
 
 # game/day24.rpy:402
-translate french day24_choices_0d94ee9c_1:
+translate french day24_choices_0d94ee9c:
 
     # p "Hey now, no pissing on my ninja dreams."
-    p "Ne pisse pas sur mes rêves de ninja."
+    p "Hey now, no pissing on my ninja dreams."
 
 # game/day24.rpy:403
-translate french day24_choices_25984501_1:
+translate french day24_choices_25984501:
 
     # b "As you wish, noble prince."
-    b "Comme vous voulez, noble prince."
+    b "As you wish, noble prince."
 
 # game/day24.rpy:404
-translate french day24_choices_4a412d10_1:
+translate french day24_choices_4a412d10:
 
     # "{i}After the opening titles roll, it becomes clear that the film is some bland romantic comedy flick. You both choose to concentrate on each other instead of the movie."
-    "{i}Après le générique d'ouverture, il devient clair que le film est un film de comédie romantique fade. Vous avez tous les deux choisi de vous concentrer l'un sur l'autre plutôt que sur le film."
+    "{i}After the opening titles roll, it becomes clear that the film is some bland romantic comedy flick. You both choose to concentrate on each other instead of the movie."
 
 # game/day24.rpy:406
-translate french day24_choices_89a3b29b_1:
+translate french day24_choices_89a3b29b:
 
     # b "Thank you for doing this for me."
-    b "Merci de faire ça pour moi."
+    b "Thank you for doing this for me."
 
 # game/day24.rpy:407
-translate french day24_choices_ea93a4c0_1:
+translate french day24_choices_ea93a4c0:
 
     # p "What, going to this boring movie with you?"
-    p "Quoi, aller voir ce film ennuyeux avec toi ?"
+    p "What, going to this boring movie with you?"
 
 # game/day24.rpy:408
-translate french day24_choices_7ffdc63c_1:
+translate french day24_choices_7ffdc63c:
 
     # b "No doofus, arranging that thing with Dwayne."
-    b "Pas d'idiot, arranger ce truc avec Dwayne."
+    b "No doofus, arranging that thing with Dwayne."
 
 # game/day24.rpy:409
-translate french day24_choices_b07e8732_1:
+translate french day24_choices_b07e8732:
 
     # b "I've got to admit that I was scared in that alley. Confronting him like that."
-    b "Je dois admettre que j'avais peur dans cette ruelle. Le confronter comme ça."
+    b "I've got to admit that I was scared in that alley. Confronting him like that."
 
 # game/day24.rpy:410
-translate french day24_choices_bfa736be_1:
+translate french day24_choices_bfa736be:
 
     # b "But when I saw him, I thought to myself: 'Fuck it. I'm not going to let him get the better of me.'"
-    b "Mais quand je l'ai vu, je me suis dit : "Merde. Je ne vais pas le laisser prendre le dessus sur moi."
+    b "But when I saw him, I thought to myself: 'Fuck it. I'm not going to let him get the better of me.'"
 
 # game/day24.rpy:411
-translate french day24_choices_827a2d33_1:
+translate french day24_choices_827a2d33:
 
     # p "He sure didn't!"
-    p "Il ne l'a pas fait !"
+    p "He sure didn't!"
 
 # game/day24.rpy:412
-translate french day24_choices_a73bf169_1:
+translate french day24_choices_a73bf169:
 
     # b "Do you think I was too harsh?"
-    b "Tu penses que j'ai été trop dur ?"
+    b "Do you think I was too harsh?"
 
 # game/day24.rpy:413
-translate french day24_choices_56536ee8_1:
+translate french day24_choices_56536ee8:
 
     # p "Fuck no. He deserved every minute of it. I hope he has to cool down in some jail cell for indecent exposure."
-    p "Putain, non. Il en méritait chaque minute. J'espère qu'il devra se calmer dans une cellule pour exhibitionnisme."
+    p "Fuck no. He deserved every minute of it. I hope he has to cool down in some jail cell for indecent exposure."
 
 # game/day24.rpy:414
-translate french day24_choices_44e341d8_1:
+translate french day24_choices_44e341d8:
 
     # b "That would be a nice finish, yes."
-    b "Ce serait une belle fin, oui."
+    b "That would be a nice finish, yes."
 
 # game/day24.rpy:416
-translate french day24_choices_a9cef6c6_1:
+translate french day24_choices_a9cef6c6:
 
     # "{i}[b_name] suddenly sits upright and faces you, her lips touch yours and you're kissing her in the semi-darkness of the movie theater."
-    "{i}[b_name] s'assoit soudain debout et vous fait face, ses lèvres touchent les vôtres et vous l'embrassez dans la pénombre de la salle de cinéma."
+    "{i}[b_name] suddenly sits upright and faces you, her lips touch yours and you're kissing her in the semi-darkness of the movie theater."
 
 # game/day24.rpy:417
-translate french day24_choices_ef068625_1:
+translate french day24_choices_ef068625:
 
     # b "You make me so happy!"
-    b "Tu me rends si heureuse !"
+    b "You make me so happy!"
 
 # game/day24.rpy:418
-translate french day24_choices_e0579f1c_1:
+translate french day24_choices_e0579f1c:
 
     # p "And you're the best thing that's happened to me!"
-    p "Et tu es la meilleure chose qui me soit arrivée !"
+    p "And you're the best thing that's happened to me!"
 
 # game/day24.rpy:420
-translate french day24_choices_e08c3c55_1:
+translate french day24_choices_e08c3c55:
 
     # "{i}A sudden outburst in the movie makes you mindful of your surroundings again and you continue watching the film."
-    "{i}Une explosion soudaine dans le film vous rend à nouveau conscient de votre environnement et vous continuez à regarder le film."
+    "{i}A sudden outburst in the movie makes you mindful of your surroundings again and you continue watching the film."
 
 # game/day24.rpy:421
-translate french day24_choices_7b3f982b_1:
+translate french day24_choices_7b3f982b:
 
     # "{i}As you glance at [b_name], you see a smile cross her face."
-    "{i}En regardant [b_name], vous voyez un sourire sur son visage."
+    "{i}As you glance at [b_name], you see a smile cross her face."
 
 # game/day24.rpy:422
-translate french day24_choices_505e98ae_1:
+translate french day24_choices_505e98ae:
 
     # b "Why don't we have a little fun while we're here?"
-    b "Si on s'amusait un peu pendant qu'on est là ?"
+    b "Why don't we have a little fun while we're here?"
 
 # game/day24.rpy:423
-translate french day24_choices_d4ca92e2_1:
+translate french day24_choices_d4ca92e2:
 
     # p "You mean?"
-    p "Vous voulez dire ?"
+    p "You mean?"
 
 # game/day24.rpy:424
-translate french day24_choices_4b2343ad_1:
+translate french day24_choices_4b2343ad:
 
     # b "Yes. Don't worry, I'll do the work..."
-    b "Oui. Ne vous inquiétez pas, je ferai le travail...."
+    b "Yes. Don't worry, I'll do the work..."
 
 # game/day24.rpy:427
-translate french day24_choices_f448c0b1_1:
+translate french day24_choices_f448c0b1:
 
     # "{i}Teasingly slow, your sister unzips your pants and frees your erection which is growing in anticipation."
-    "{i}Lentement taquine, votre sœur ouvre votre pantalon et libère votre érection qui grandit dans l'attente."
+    "{i}Teasingly slow, your sister unzips your pants and frees your erection which is growing in anticipation."
 
 # game/day24.rpy:429
-translate french day24_choices_21b221e4_1:
+translate french day24_choices_21b221e4:
 
     # "{i}Teasingly slow, your friend unzips your pants and frees your erection which is growing in anticipation."
-    "{i}Lentement taquin, votre ami ouvre votre pantalon et libère votre érection qui grandit dans l'anticipation."
+    "{i}Teasingly slow, your friend unzips your pants and frees your erection which is growing in anticipation."
 
 # game/day24.rpy:430
-translate french day24_choices_b8fa0169_1:
+translate french day24_choices_b8fa0169:
 
     # b "You don't need much encouragement, do you?"
-    b "Tu n'as pas besoin de beaucoup d'encouragement, n'est-ce pas ?"
+    b "You don't need much encouragement, do you?"
 
 # game/day24.rpy:431
-translate french day24_choices_8c65b140_1:
+translate french day24_choices_8c65b140:
 
     # p "I'm terrible at self-control..."
-    p "Je suis nulle pour la maîtrise de soi...."
+    p "I'm terrible at self-control..."
 
 # game/day24.rpy:433
-translate french day24_choices_b17c1b9b_2:
+translate french day24_choices_b17c1b9b:
 
     # "{i}[b_name] snakes her warm fingers around your shaft, her touch sends shivers down your spine."
-    "{i}[b_name] serpente ses doigts chauds autour de ton corps, son toucher fait frissonner ta colonne vertébrale."
+    "{i}[b_name] snakes her warm fingers around your shaft, her touch sends shivers down your spine."
 
 # game/day24.rpy:434
-translate french day24_choices_5ac5bdd8_1:
+translate french day24_choices_5ac5bdd8:
 
     # b "What am I going to do with you?"
-    b "Qu'est-ce que je vais faire de toi ?"
+    b "What am I going to do with you?"
 
 # game/day24.rpy:436
-translate french day24_choices_c536c59c_1:
+translate french day24_choices_c536c59c:
 
     # "{i}At first you think she's going to jerk you off, but the girl drops on her knees and looks up at you with her big blue eyes, her soft lips touching your glans."
-    "{i}Au début, vous pensez qu'elle va vous branler, mais la fille se met à genoux et vous regarde avec ses grands yeux bleus, ses lèvres douces qui touchent votre gland."
+    "{i}At first you think she's going to jerk you off, but the girl drops on her knees and looks up at you with her big blue eyes, her soft lips touching your glans."
 
 # game/day24.rpy:437
-translate french day24_choices_588bfeb2_1:
+translate french day24_choices_588bfeb2:
 
     # b "Does your dick like kisses as well?"
-    b "Ta bite aime aussi les baisers ?"
+    b "Does your dick like kisses as well?"
 
 # game/day24.rpy:438
-translate french day24_choices_cc4c23cb_1:
+translate french day24_choices_cc4c23cb:
 
     # p "Y-y-yes."
-    p "Y-y-y-yes."
+    p "Y-y-yes."
 
 # game/day24.rpy:439
-translate french day24_choices_5622981a_1:
+translate french day24_choices_5622981a:
 
     # b "Good."
-    b "Bien."
+    b "Good."
 
 # game/day24.rpy:441
-translate french day24_choices_2e7c6246_1:
+translate french day24_choices_2e7c6246:
 
     # "{i}With those words, [b_name] kisses the tip of your dick lightly. The wet sensation almost makes you cum instantly."
-    "{i}Avec ces mots, [b_name] embrasse légèrement le bout de ta bite. La sensation d'humidité vous fait presque jouir instantanément."
+    "{i}With those words, [b_name] kisses the tip of your dick lightly. The wet sensation almost makes you cum instantly."
 
 # game/day24.rpy:442
-translate french day24_choices_9073349b_1:
+translate french day24_choices_9073349b:
 
     # b "Not so fast mister. Or did you just twitch?"
-    b "Pas si vite, monsieur. Ou est-ce que tu viens de trembler ?"
+    b "Not so fast mister. Or did you just twitch?"
 
 # game/day24.rpy:443
-translate french day24_choices_6b3673f0_1:
+translate french day24_choices_6b3673f0:
 
     # p "You're amazing, [b_name]."
-    p "Tu es incroyable, [b_name]."
+    p "You're amazing, [b_name]."
 
 # game/day24.rpy:446
-translate french day24_choices_a5975cb5_2:
+translate french day24_choices_a5975cb5:
 
     # "{i}Diligently, your sister laps up the precum that covers the head of your cock."
-    "{i}Diligemment, ta soeur remonte le précum qui couvre la tête de ta bite."
+    "{i}Diligently, your sister laps up the precum that covers the head of your cock."
 
 # game/day24.rpy:448
-translate french day24_choices_0559bb86_2:
+translate french day24_choices_0559bb86:
 
     # "{i}Diligently, [b_name] laps up the precum that covers the head of your cock."
-    "{i}Diligemment, [b_name] remonte le précum qui couvre la tête de ta bite."
+    "{i}Diligently, [b_name] laps up the precum that covers the head of your cock."
 
 # game/day24.rpy:449
-translate french day24_choices_615f67a0_1:
+translate french day24_choices_615f67a0:
 
     # b "Mmmm, a taste of what's to come."
-    b "Mmmm, un avant-goût de ce qui est à venir."
+    b "Mmmm, a taste of what's to come."
 
 # game/day24.rpy:451
-translate french day24_choices_71b2b175_2:
+translate french day24_choices_71b2b175:
 
     # "{i}[b_name] continues exploring the head with her tongue, enveloping more and more of your dick with her mouth as she covers it with her warm saliva."
-    "{i}[b_name] continue d'explorer la tête avec sa langue, enveloppant de plus en plus votre bite avec sa bouche pendant qu'elle la couvre de sa salive chaude."
+    "{i}[b_name] continues exploring the head with her tongue, enveloping more and more of your dick with her mouth as she covers it with her warm saliva."
 
 # game/day24.rpy:453
-translate french day24_choices_e7436135_2:
+translate french day24_choices_e7436135:
 
     # "{i}When she finally takes your member fully in her mouth and starts sucking, it's like all your nerve endings explode in pleasure."
-    "{i}Quand elle prend enfin votre membre dans sa bouche et commence à sucer, c'est comme si toutes vos terminaisons nerveuses explosaient de plaisir."
+    "{i}When she finally takes your member fully in her mouth and starts sucking, it's like all your nerve endings explode in pleasure."
 
 # game/day24.rpy:454
-translate french day24_choices_afa9afa1_1:
+translate french day24_choices_afa9afa1:
 
     # p "G-g-god... [b_name]!!!"
-    p "G-g-dieu.... [b_name] !!!!!"
+    p "G-g-god... [b_name]!!!"
 
 # game/day24.rpy:455
-translate french day24_choices_b7ba16a0_2:
+translate french day24_choices_b7ba16a0:
 
     # "{i}During the quieter moments of the movie, the silence is filled with the wet sounds of [b_name] working on your cock in the back of the theater."
-    "{i}Pendant les moments les plus calmes du film, le silence est rempli des sons humides de [b_name] travaillant sur votre queue à l'arrière du cinéma."
+    "{i}During the quieter moments of the movie, the silence is filled with the wet sounds of [b_name] working on your cock in the back of the theater."
 
 # game/day24.rpy:458
-translate french day24_choices_36a6ba48_2:
+translate french day24_choices_36a6ba48:
 
     # "{i}Your sister stops stimulating your shaft with her hand and massages your balls instead, letting her mouth do all the hard work."
-    "{i}Votre sœur cesse de stimuler votre corps avec sa main et vous masse les couilles à la place, laissant sa bouche faire tout le travail difficile."
+    "{i}Your sister stops stimulating your shaft with her hand and massages your balls instead, letting her mouth do all the hard work."
 
 # game/day24.rpy:460
-translate french day24_choices_86adf004_2:
+translate french day24_choices_86adf004:
 
     # "{i}Your girl stops stimulating your shaft with her hand and massages your balls instead, letting her mouth do all the hard work."
-    "{i}Ta copine arrête de stimuler ton corps avec sa main et te masse les couilles à la place, laissant sa bouche faire tout le dur travail."
+    "{i}Your girl stops stimulating your shaft with her hand and massages your balls instead, letting her mouth do all the hard work."
 
 # game/day24.rpy:461
-translate french day24_choices_597e5618_2:
+translate french day24_choices_597e5618:
 
     # "{i}The feeling that you're about to explode is getting stronger and stronger and [b_name] intensifies her sucking, urging you to come."
-    "{i}La sensation que vous êtes sur le point d'exploser devient de plus en plus forte et [b_name] intensifie sa succion, vous incitant à venir."
+    "{i}The feeling that you're about to explode is getting stronger and stronger and [b_name] intensifies her sucking, urging you to come."
 
 # game/day24.rpy:465
-translate french day24_choices_5b70a97e_2:
+translate french day24_choices_5b70a97e:
 
     # p "G-g-oood yes, [b_name], I'm cumming, I'm cumming..."
-    p "G-g-oood oui, [b_name], je suis en train de jouir, je suis en train de jouir...."
+    p "G-g-oood yes, [b_name], I'm cumming, I'm cumming..."
 
 # game/day24.rpy:468
-translate french day24_choices_d4edc6ed_1:
+translate french day24_choices_d4edc6ed:
 
     # "{i}Sucking, licking, and stroking you with her mouth right until the last moment before you erupt, [b_name] pulls your cock from her mouth and points it at her face. Thick streams of cum cover her cheeks and forehead."
-    "{i}Suce, lèche et caresse avec sa bouche jusqu'au dernier moment avant que tu n'exploses, [b_name] retire ta bite de sa bouche et la pointe vers son visage. D'épais jets de sperme recouvrent ses joues et son front."
+    "{i}Sucking, licking, and stroking you with her mouth right until the last moment before you erupt, [b_name] pulls your cock from her mouth and points it at her face. Thick streams of cum cover her cheeks and forehead."
 
 # game/day24.rpy:470
-translate french day24_choices_5b70a97e_3:
+translate french day24_choices_5b70a97e_1:
 
     # p "G-g-oood yes, [b_name], I'm cumming, I'm cumming..."
-    p "G-g-oood oui, [b_name], je suis en train de jouir, je suis en train de jouir...."
+    p "G-g-oood yes, [b_name], I'm cumming, I'm cumming..."
 
 # game/day24.rpy:473
-translate french day24_choices_a7f54eac_1:
+translate french day24_choices_a7f54eac:
 
     # "{i}Thick streams of cum fill her mouth. She keeps stimulating your glans and shaft until the last drops of semen have entered, and then she swallows."
-    "{i}D'épais jets de sperme remplissent sa bouche. Elle continue à stimuler votre gland et votre tige jusqu'à ce que les dernières gouttes de sperme soient entrées, puis elle avale."
+    "{i}Thick streams of cum fill her mouth. She keeps stimulating your glans and shaft until the last drops of semen have entered, and then she swallows."
 
 # game/day24.rpy:475
-translate french day24_choices_0f40afbb_1:
+translate french day24_choices_0f40afbb:
 
     # "{i}Satisfied, [b_name] rests her head on your lap and you watch the rest of the movie in silence before returning home."
-    "{i}Satisfaite, [b_name] se repose la tête sur vos genoux et vous regardez le reste du film en silence avant de rentrer chez vous."
+    "{i}Satisfied, [b_name] rests her head on your lap and you watch the rest of the movie in silence before returning home."
 
 # game/day24.rpy:479
-translate french day24_choices_7e4df58d_1:
+translate french day24_choices_7e4df58d:
 
     # "{i}[b_name] surprises you by kicking the kneeling Dwayne hard, causing him to topple over."
-    "{i}[b_name] vous surprend en donnant un coup de pied à Dwayne à genoux, le faisant basculer."
+    "{i}[b_name] surprises you by kicking the kneeling Dwayne hard, causing him to topple over."
 
 # game/day24.rpy:480
-translate french day24_choices_3cb6293e_1:
+translate french day24_choices_3cb6293e:
 
     # b "You utter fucking piece of trash! That's how if feels to be miserable."
-    b "Espèce d'ordure ! C'est comme ça qu'on se sent malheureux."
+    b "You utter fucking piece of trash! That's how if feels to be miserable."
 
 # game/day24.rpy:482
-translate french day24_choices_ee193a8b_1:
+translate french day24_choices_ee193a8b:
 
     # "{i}Dwayne lies defeated in the dirt, next to his glasses. That doesn't stop [b_name] from kicking him over and over again."
-    "{i}Dwayne est vaincu dans la terre, à côté de ses lunettes. Ça n'empêche pas [b_name] de lui donner des coups de pied encore et encore."
+    "{i}Dwayne lies defeated in the dirt, next to his glasses. That doesn't stop [b_name] from kicking him over and over again."
 
 # game/day24.rpy:483
-translate french day24_choices_783c724b_1:
+translate french day24_choices_783c724b:
 
     # b "I FUCKING HATE YOU!"
-    b "PUTAIN, JE TE DÉTESTE !"
+    b "I FUCKING HATE YOU!"
 
 # game/day24.rpy:484
-translate french day24_choices_59221eaa_1:
+translate french day24_choices_59221eaa:
 
     # p "{i}(Jesus Christ, he'll end up in the hospital if I don't do something.)"
-    p "{i}(Jésus Christ, il va finir à l'hôpital si je ne fais rien.)"
+    p "{i}(Jesus Christ, he'll end up in the hospital if I don't do something.)"
 
 # game/day24.rpy:487
-translate french day24_choices_255c51cc_1:
+translate french day24_choices_255c51cc:
 
     # "{i}You sweep up your sister from behind and remove her bodily from Dwayne. Her last kicks end up hitting the air."
-    "{i}Vous balayez votre soeur par derrière et vous lui enlevez son corps de Dwayne. Ses derniers coups de pied finissent dans les airs."
+    "{i}You sweep up your sister from behind and remove her bodily from Dwayne. Her last kicks end up hitting the air."
 
 # game/day24.rpy:489
-translate french day24_choices_0a7497cd_1:
+translate french day24_choices_0a7497cd:
 
     # "{i}You sweep up [b_name] from behind and remove her bodily from Dwayne. Her last kicks end up hitting the air."
-    "{i}Vous balayez [b_name] par derrière et lui enlevez son corps de Dwayne. Ses derniers coups de pied finissent dans les airs."
+    "{i}You sweep up [b_name] from behind and remove her bodily from Dwayne. Her last kicks end up hitting the air."
 
 # game/day24.rpy:490
-translate french day24_choices_8d1d7f26_1:
+translate french day24_choices_8d1d7f26:
 
     # p "Ssssssh, take it easy."
-    p "Ssssssssh, doucement."
+    p "Ssssssh, take it easy."
 
 # game/day24.rpy:491
-translate french day24_choices_c9d1e507_1:
+translate french day24_choices_c9d1e507:
 
     # b "I fucking hate him! I fucking hate him!"
-    b "Je le déteste, putain ! Je le déteste, putain !"
+    b "I fucking hate him! I fucking hate him!"
 
 # game/day24.rpy:492
-translate french day24_choices_f7de13a7_1:
+translate french day24_choices_f7de13a7:
 
     # "{i}Her last mutterings have lost all aggression as she sobs against your chest. Dwayne remains motionless on the ground, but moans intermittently."
-    "{i}Ses derniers marmonnements ont perdu toute agressivité alors qu'elle sanglote contre votre poitrine. Dwayne reste immobile au sol, mais gémit par intermittence."
+    "{i}Her last mutterings have lost all aggression as she sobs against your chest. Dwayne remains motionless on the ground, but moans intermittently."
 
 # game/day24.rpy:493
-translate french day24_choices_942a0cf5_1:
+translate french day24_choices_942a0cf5:
 
     # p "He can't hurt you anymore, [b_name]. I'll keep you safe."
-    p "Il ne peut plus te faire de mal, [b_name]. Je te garderai en sécurité."
+    p "He can't hurt you anymore, [b_name]. I'll keep you safe."
 
 # game/day24.rpy:495
-translate french day24_choices_1042cc85_1:
+translate french day24_choices_1042cc85:
 
     # "{i}Your sister is unable to speak and you just hold her close."
-    "{i}Votre sœur est incapable de parler et vous la serrez contre vous."
+    "{i}Your sister is unable to speak and you just hold her close."
 
 # game/day24.rpy:497
-translate french day24_choices_0621b687_1:
+translate french day24_choices_0621b687:
 
     # "{i}Your friend is unable to speak and you just hold her close."
-    "{i}Votre amie est incapable de parler et vous la serrez contre vous."
+    "{i}Your friend is unable to speak and you just hold her close."
 
 # game/day24.rpy:499
-translate french day24_choices_ff00032f_1:
+translate french day24_choices_ff00032f:
 
     # man "Hey, what...?"
-    man "Hey, quoi.... ?"
+    man "Hey, what...?"
 
 # game/day24.rpy:500
-translate french day24_choices_3f9d910b_1:
+translate french day24_choices_3f9d910b:
 
     # p "Fuck! We need to leave, [b_name]."
-    p "Putain de merde ! Nous devons partir, [b_name]."
+    p "Fuck! We need to leave, [b_name]."
 
 # game/day24.rpy:502
-translate french day24_choices_56a13f1d_1:
+translate french day24_choices_56a13f1d:
 
     # "{i}[b_name] allows herself to be dragged along by you as you escape the scene."
-    "{i}[b_name] se laisse entraîner par vous alors que vous fuyez la scène."
+    "{i}[b_name] allows herself to be dragged along by you as you escape the scene."
 
 # game/day24.rpy:504
-translate french day24_choices_268b0d50_1:
+translate french day24_choices_268b0d50:
 
     # "{i}Dwayne is still lying on the ground when the man from the street reaches him. You're already at a safe distance, but keep running."
-    "{i}Dwayne est toujours allongé sur le sol quand l'homme de la rue l'atteint. Vous êtes déjà à bonne distance, mais continuez à courir."
+    "{i}Dwayne is still lying on the ground when the man from the street reaches him. You're already at a safe distance, but keep running."
 
 # game/day24.rpy:505
-translate french day24_choices_b2ae3cc3_1:
+translate french day24_choices_b2ae3cc3:
 
     # "{i}During your escape [b_name] has regained her composure and you don't have to drag her along. When you've run for a few blocks you stop to catch your breath."
-    "{i}Pendant votre évasion, [b_name] a retrouvé son sang-froid et vous n'avez pas besoin de l'entraîner avec vous. Quand vous avez couru quelques pâtés de maisons, vous vous arrêtez pour reprendre votre souffle."
+    "{i}During your escape [b_name] has regained her composure and you don't have to drag her along. When you've run for a few blocks you stop to catch your breath."
 
 # game/day24.rpy:507
-translate french day24_choices_4cb19557_1:
+translate french day24_choices_4cb19557:
 
     # p "Damn, that was close."
-    p "Merde, c'était pas loin."
+    p "Damn, that was close."
 
 # game/day24.rpy:508
-translate french day24_choices_55844dc2_1:
+translate french day24_choices_55844dc2:
 
     # b "That man couldn't have seen us from that distance."
-    b "Cet homme n'aurait pas pu nous voir de cette distance."
+    b "That man couldn't have seen us from that distance."
 
 # game/day24.rpy:509
-translate french day24_choices_6b4d50d5_1:
+translate french day24_choices_6b4d50d5:
 
     # p "No, I think we're safe."
-    p "Non, je crois qu'on est en sécurité."
+    p "No, I think we're safe."
 
 # game/day24.rpy:510
-translate french day24_choices_08956a32_1:
+translate french day24_choices_08956a32:
 
     # p "Let's blow off some steam. The cinema is nearby."
-    p "Détendons-nous un peu. Le cinéma est à proximité."
+    p "Let's blow off some steam. The cinema is nearby."
 
 # game/day24.rpy:512
-translate french day24_choices_2cb15ff8_1:
+translate french day24_choices_2cb15ff8:
 
     # "{i}[b_name] doesn't voice any protests and follows you to the movie theater where you book a random showing, just to allow you to wait for the adrenaline to subside."
-    "{i}[b_name] ne proteste pas et vous suit jusqu'au cinéma où vous réservez une projection au hasard, juste pour vous permettre d'attendre que l'adrénaline baisse."
+    "{i}[b_name] doesn't voice any protests and follows you to the movie theater where you book a random showing, just to allow you to wait for the adrenaline to subside."
 
 # game/day24.rpy:514
-translate french day24_choices_e0e267ec_1:
+translate french day24_choices_e0e267ec:
 
     # "{i}The movie turns out to be some inane comedy, which you both watch with little interest."
-    "{i}Le film s'avère être une comédie stupide, que vous regardez tous les deux avec peu d'intérêt."
+    "{i}The movie turns out to be some inane comedy, which you both watch with little interest."
 
 # game/day24.rpy:515
-translate french day24_choices_cb10a2ec_1:
+translate french day24_choices_cb10a2ec:
 
     # p "{i}(Maybe we can spice things up a little bit. Blow off some steam?)"
-    p "{i}(Peut-être qu'on pourrait pimenter un peu les choses. Se défouler un peu ?)"
+    p "{i}(Maybe we can spice things up a little bit. Blow off some steam?)"
 
 # game/day24.rpy:521
-translate french day24_choices_c2469b9d_1:
+translate french day24_choices_c2469b9d:
 
     # "{i}You unzip your pants and wait for your sister to notice your growing erection."
-    "{i}Dézippez votre pantalon et attendez que votre sœur remarque votre érection grandissante."
+    "{i}You unzip your pants and wait for your sister to notice your growing erection."
 
 # game/day24.rpy:523
-translate french day24_choices_ef266da0_1:
+translate french day24_choices_ef266da0:
 
     # "{i}You unzip your pants and wait for [b_name] to notice your growing erection."
-    "{i}Dézippez votre pantalon et attendez que [b_name] remarque votre érection grandissante."
+    "{i}You unzip your pants and wait for [b_name] to notice your growing erection."
 
 # game/day24.rpy:526
-translate french day24_choices_009d6b3a_1:
+translate french day24_choices_009d6b3a:
 
     # "{i}When she finally does, her reaction isn't horror or shock, instead she hesitantly lays a hand on your thigh."
-    "{i}Quand elle finit par le faire, sa réaction n'est pas l'horreur ou le choc, elle pose plutôt une main sur votre cuisse avec hésitation."
+    "{i}When she finally does, her reaction isn't horror or shock, instead she hesitantly lays a hand on your thigh."
 
 # game/day24.rpy:527
-translate french day24_choices_2a01b12d_1:
+translate french day24_choices_2a01b12d:
 
     # "{i}Slowly but surely her hand moves towards your erection."
-    "{i}Lentement mais sûrement, sa main se dirige vers votre érection."
+    "{i}Slowly but surely her hand moves towards your erection."
 
 # game/day24.rpy:529
-translate french day24_choices_eea3a172_1:
+translate french day24_choices_eea3a172:
 
     # "{i}When she finally does, you take hold of one of her hands a put it on your thigh."
-    "{i}Quand elle finit par le faire, tu prends une de ses mains et tu la mets sur ta cuisse."
+    "{i}When she finally does, you take hold of one of her hands a put it on your thigh."
 
 # game/day24.rpy:530
-translate french day24_choices_139feee7_1:
+translate french day24_choices_139feee7:
 
     # b "You want me to?"
-    b "Tu veux que je le fasse ?"
+    b "You want me to?"
 
 # game/day24.rpy:531
-translate french day24_choices_ecd502cb_1:
+translate french day24_choices_ecd502cb:
 
     # p "Do as you like, but I'm still very tense after that stunt we pulled with Dwayne."
-    p "Fais comme tu veux, mais je suis encore très tendu après ce coup qu'on a fait avec Dwayne."
+    p "Do as you like, but I'm still very tense after that stunt we pulled with Dwayne."
 
 # game/day24.rpy:533
-translate french day24_choices_b17c1b9b_3:
+translate french day24_choices_b17c1b9b_1:
 
     # "{i}[b_name] snakes her warm fingers around your shaft, her touch sends shivers down your spine."
-    "{i}[b_name] serpente ses doigts chauds autour de ton corps, son toucher fait frissonner ta colonne vertébrale."
+    "{i}[b_name] snakes her warm fingers around your shaft, her touch sends shivers down your spine."
 
 # game/day24.rpy:534
-translate french day24_choices_17e757d2_1:
+translate french day24_choices_17e757d2:
 
     # p "Mmmm, yes [b_name], take care of me."
-    p "Mmmm, oui [b_name], prends soin de moi."
+    p "Mmmm, yes [b_name], take care of me."
 
 # game/day24.rpy:536
-translate french day24_choices_45991781_1:
+translate french day24_choices_45991781:
 
     # "{i}At first you think she's going to jerk you off, but the girl drops to her knees of her own volition, her soft lips going right for your glans."
-    "{i}Au début, vous pensez qu'elle va vous branler, mais la fille s'agenouille de son plein gré, ses lèvres douces allant droit sur votre gland."
+    "{i}At first you think she's going to jerk you off, but the girl drops to her knees of her own volition, her soft lips going right for your glans."
 
 # game/day24.rpy:538
-translate french day24_choices_e85153db_1:
+translate french day24_choices_e85153db:
 
     # "{i}Without saying a word, [b_name] kisses the tip of your dick lightly. The wet sensation almost makes you cum instantly."
-    "{i}Sans dire un mot, [b_name] embrasse la pointe de ta bite légèrement. La sensation d'humidité vous fait presque jouir instantanément."
+    "{i}Without saying a word, [b_name] kisses the tip of your dick lightly. The wet sensation almost makes you cum instantly."
 
 # game/day24.rpy:539
-translate french day24_choices_d53a8842_1:
+translate french day24_choices_d53a8842:
 
     # "{i}By sheer force of will you manage to stave off your orgasm, though precum has already spurted from your meatus, streaming down over your glans."
-    "{i}Par la seule force de votre volonté, vous parvenez à arrêter votre orgasme, bien que le précum ait déjà jailli de votre méat, coulant vers le bas sur votre gland."
+    "{i}By sheer force of will you manage to stave off your orgasm, though precum has already spurted from your meatus, streaming down over your glans."
 
 # game/day24.rpy:542
-translate french day24_choices_a5975cb5_3:
+translate french day24_choices_a5975cb5_1:
 
     # "{i}Diligently, your sister laps up the precum that covers the head of your cock."
-    "{i}Diligemment, ta soeur remonte le précum qui couvre la tête de ta bite."
+    "{i}Diligently, your sister laps up the precum that covers the head of your cock."
 
 # game/day24.rpy:544
-translate french day24_choices_0559bb86_3:
+translate french day24_choices_0559bb86_1:
 
     # "{i}Diligently, [b_name] laps up the precum that covers the head of your cock."
-    "{i}Diligemment, [b_name] remonte le précum qui couvre la tête de ta bite."
+    "{i}Diligently, [b_name] laps up the precum that covers the head of your cock."
 
 # game/day24.rpy:545
-translate french day24_choices_85eef047_1:
+translate french day24_choices_85eef047:
 
     # p "A little taste of what's to come."
-    p "Un petit avant-goût de ce qui nous attend."
+    p "A little taste of what's to come."
 
 # game/day24.rpy:546
-translate french day24_choices_16c6f644_1:
+translate french day24_choices_16c6f644:
 
     # p "Keep going, sweetling."
-    p "Continue, ma chérie."
+    p "Keep going, sweetling."
 
 # game/day24.rpy:548
-translate french day24_choices_71b2b175_3:
+translate french day24_choices_71b2b175_1:
 
     # "{i}[b_name] continues exploring the head with her tongue, enveloping more and more of your dick with her mouth as she covers it with her warm saliva."
-    "{i}[b_name] continue d'explorer la tête avec sa langue, enveloppant de plus en plus votre bite avec sa bouche pendant qu'elle la couvre de sa salive chaude."
+    "{i}[b_name] continues exploring the head with her tongue, enveloping more and more of your dick with her mouth as she covers it with her warm saliva."
 
 # game/day24.rpy:550
-translate french day24_choices_e7436135_3:
+translate french day24_choices_e7436135_1:
 
     # "{i}When she finally takes your member fully in her mouth and starts sucking, it's like all your nerve endings explode in pleasure."
-    "{i}Quand elle prend enfin votre membre dans sa bouche et commence à sucer, c'est comme si toutes vos terminaisons nerveuses explosaient de plaisir."
+    "{i}When she finally takes your member fully in her mouth and starts sucking, it's like all your nerve endings explode in pleasure."
 
 # game/day24.rpy:551
-translate french day24_choices_4eb69aa0_1:
+translate french day24_choices_4eb69aa0:
 
     # p "G-g-god... [b_name], right there!"
-    p "G-g-dieu.... [b_name], juste là !"
+    p "G-g-god... [b_name], right there!"
 
 # game/day24.rpy:552
-translate french day24_choices_b7ba16a0_3:
+translate french day24_choices_b7ba16a0_1:
 
     # "{i}During the quieter moments of the movie, the silence is filled with the wet sounds of [b_name] working on your cock in the back of the theater."
-    "{i}Pendant les moments les plus calmes du film, le silence est rempli des sons humides de [b_name] travaillant sur votre queue à l'arrière du cinéma."
+    "{i}During the quieter moments of the movie, the silence is filled with the wet sounds of [b_name] working on your cock in the back of the theater."
 
 # game/day24.rpy:555
-translate french day24_choices_36a6ba48_3:
+translate french day24_choices_36a6ba48_1:
 
     # "{i}Your sister stops stimulating your shaft with her hand and massages your balls instead, letting her mouth do all the hard work."
-    "{i}Votre sœur cesse de stimuler votre corps avec sa main et vous masse les couilles à la place, laissant sa bouche faire tout le travail difficile."
+    "{i}Your sister stops stimulating your shaft with her hand and massages your balls instead, letting her mouth do all the hard work."
 
 # game/day24.rpy:557
-translate french day24_choices_86adf004_3:
+translate french day24_choices_86adf004_1:
 
     # "{i}Your girl stops stimulating your shaft with her hand and massages your balls instead, letting her mouth do all the hard work."
-    "{i}Ta copine arrête de stimuler ton corps avec sa main et te masse les couilles à la place, laissant sa bouche faire tout le dur travail."
+    "{i}Your girl stops stimulating your shaft with her hand and massages your balls instead, letting her mouth do all the hard work."
 
 # game/day24.rpy:558
-translate french day24_choices_597e5618_3:
+translate french day24_choices_597e5618_1:
 
     # "{i}The feeling that you're about to explode is getting stronger and stronger and [b_name] intensifies her sucking, urging you to come."
-    "{i}La sensation que vous êtes sur le point d'exploser devient de plus en plus forte et [b_name] intensifie sa succion, vous incitant à venir."
+    "{i}The feeling that you're about to explode is getting stronger and stronger and [b_name] intensifies her sucking, urging you to come."
 
 # game/day24.rpy:562
-translate french day24_choices_15724afa_1:
+translate french day24_choices_15724afa:
 
     # p "I'm cumming, [b_name], I'm cumming... Show me that pretty face of yours."
-    p "Je suis en train de jouir, [b_name], je suis en train de jouir.... Montre-moi ton joli visage."
+    p "I'm cumming, [b_name], I'm cumming... Show me that pretty face of yours."
 
 # game/day24.rpy:565
-translate french day24_choices_c81a3959_1:
+translate french day24_choices_c81a3959:
 
     # "{i}Sucking, licking, and stroking you with her mouth right until the last moment, [b_name] pulls your cock from her mouth and points it dutifully at her face. Thick streams of cum cover her cheeks and forehead."
-    "{i}Suce, lèche et caresse ta bouche jusqu'au dernier moment, [b_name] retire ta bite de sa bouche et la pointe consciencieusement vers son visage. D'épais jets de sperme recouvrent ses joues et son front."
+    "{i}Sucking, licking, and stroking you with her mouth right until the last moment, [b_name] pulls your cock from her mouth and points it dutifully at her face. Thick streams of cum cover her cheeks and forehead."
 
 # game/day24.rpy:567
-translate french day24_choices_367fcf46_1:
+translate french day24_choices_367fcf46:
 
     # p "G-g-oood yes, [b_name], I'm cumming, I'm cumming... Keep going!"
-    p "G-g-oood oui, [b_name], je suis en train de jouir, je suis en train de jouir.... Continuez d'avancer !"
+    p "G-g-oood yes, [b_name], I'm cumming, I'm cumming... Keep going!"
 
 # game/day24.rpy:570
-translate french day24_choices_91dea99a_1:
+translate french day24_choices_91dea99a:
 
     # "{i}Thick streams of cum fill her mouth and she dutifully keeps stimulating your glans and shaft until the last drops of semen have entered, then she swallows."
-    "{i}D'épais jets de sperme remplissent sa bouche et elle continue consciencieusement à stimuler votre gland et votre tige jusqu'à ce que les dernières gouttes de sperme soient entrées, puis elle avale."
+    "{i}Thick streams of cum fill her mouth and she dutifully keeps stimulating your glans and shaft until the last drops of semen have entered, then she swallows."
 
 # game/day24.rpy:572
-translate french day24_choices_a53e7326_1:
+translate french day24_choices_a53e7326:
 
     # "{i}[b_name] sits next to you again and you watch the remainder of the film in silence. She doesn't object to your arm on her shoulder and when you glance sideways, you think you see a vague smile gracing her face."
-    "{i}[b_name] s'assoit à nouveau à côté de vous et vous regardez le reste du film en silence. Elle ne s'oppose pas à votre bras sur son épaule et quand vous regardez de côté, vous pensez voir un vague sourire sur son visage."
+    "{i}[b_name] sits next to you again and you watch the remainder of the film in silence. She doesn't object to your arm on her shoulder and when you glance sideways, you think you see a vague smile gracing her face."
 
 # game/day24.rpy:575
-translate french day24_choices_83abbcf9_1:
+translate french day24_choices_83abbcf9:
 
     # p "{i}(Nah, better not. She just went through that whole ordeal with Dwayne...)"
-    p "{i}(Non, il vaut mieux pas. Elle vient de traverser toute cette épreuve avec Dwayne...)"
+    p "{i}(Nah, better not. She just went through that whole ordeal with Dwayne...)"
 
 # game/day24.rpy:577
-translate french day24_choices_71b18094_1:
+translate french day24_choices_71b18094:
 
     # "{i}You both continue watching and she doesn't object to your arm on her shoulder and when you glance sideways, you think you see a vague smile gracing her face."
-    "{i}Vous continuez tous les deux à la regarder et elle ne s'oppose pas à votre bras sur son épaule et quand vous regardez de côté, vous pensez voir un vague sourire sur son visage."
+    "{i}You both continue watching and she doesn't object to your arm on her shoulder and when you glance sideways, you think you see a vague smile gracing her face."
 
 # game/day24.rpy:582
-translate french day24_choices_a58990c0_1:
+translate french day24_choices_a58990c0:
 
     # "{i}You play some games and surf the web, largely ignoring your mobile phone, until evening falls."
-    "{i}Vous jouez à des jeux et surfez sur le web, en ignorant largement votre téléphone portable, jusqu'à ce que le soir tombe."
+    "{i}You play some games and surf the web, largely ignoring your mobile phone, until evening falls."
 
 # game/day24.rpy:584
-translate french day24_choices_311f2cca_1:
+translate french day24_choices_311f2cca:
 
     # "{i}You play some games and surf the web until evening falls."
-    "{i}Vous jouez à des jeux et surfez sur le web jusqu'à la tombée de la nuit."
+    "{i}You play some games and surf the web until evening falls."
 
 # game/day24.rpy:588
-translate french day24_choices_0e4fb73e_1:
+translate french day24_choices_0e4fb73e:
 
     # p "{i}(I still haven't deleted those pictures, like I promised [b_name].)"
-    p "{i}(Je n'ai toujours pas effacé ces photos, comme je l'avais promis à [b_name].)"
+    p "{i}(I still haven't deleted those pictures, like I promised [b_name].)"
 
 # game/day24.rpy:589
-translate french day24_choices_3211021c_1:
+translate french day24_choices_3211021c:
 
     # p "{i}(It's still a gamble, she hasn't come to my room yet, though she sucked my cock voluntarily today, so I guess she isn't done with me...)"
-    p "{i}(C'est toujours un pari, elle n'est pas encore venue dans ma chambre, bien qu'elle m'ait sucé la bite volontairement aujourd'hui, donc je suppose qu'elle n'a pas fini avec moi...)"
+    p "{i}(It's still a gamble, she hasn't come to my room yet, though she sucked my cock voluntarily today, so I guess she isn't done with me...)"
 
 # game/day24.rpy:590
-translate french day24_choices_2e2634f0_1:
+translate french day24_choices_2e2634f0:
 
     # p "{i}(Fuck it, here goes...)"
-    p "{i}(Merde, c'est parti....)"
+    p "{i}(Fuck it, here goes...)"
 
 # game/day24.rpy:591
-translate french day24_choices_d1fffb05_1:
+translate french day24_choices_d1fffb05:
 
     # "{i}You select the images of Bella and delete them from your hard drive."
-    "{i}Vous sélectionnez les images de [b_name] et vous les supprimez de votre disque dur."
+    "{i}You select the images of Bella and delete them from your hard drive."
 
 # game/day24.rpy:598
-translate french day24_choices_0002599c_1:
+translate french day24_choices_0002599c:
 
     # "{i}[b_name] storms in without knocking, wearing a furious expression."
-    "{i}[b_name] fait irruption sans frapper, avec une expression furieuse."
+    "{i}[b_name] storms in without knocking, wearing a furious expression."
 
 # game/day24.rpy:599
-translate french day24_choices_37309b6f_1:
+translate french day24_choices_37309b6f:
 
     # b "What the fuck were you thinking?! I waited for you, for hours!!!"
-    b "Putain, à quoi tu pensais ?! Je t'ai attendu pendant des heures !!!!!"
+    b "What the fuck were you thinking?! I waited for you, for hours!!!"
 
 # game/day24.rpy:600
-translate french day24_choices_68f1a87c_1:
+translate french day24_choices_68f1a87c:
 
     # p "{i}(Oh shit...)"
-    p "{i}(Oh merde....)"
+    p "{i}(Oh shit...)"
 
 # game/day24.rpy:601
-translate french day24_choices_71ee24ad_1:
+translate french day24_choices_71ee24ad:
 
     # b "Didn't you think it was important to me, meeting that fuck-wad?!"
-    b "Tu ne pensais pas que c'était important pour moi de rencontrer cet enfoiré ?!"
+    b "Didn't you think it was important to me, meeting that fuck-wad?!"
 
 # game/day24.rpy:602
-translate french day24_choices_bddae924_1:
+translate french day24_choices_bddae924:
 
     # p "I'm..."
-    p "Je suis...."
+    p "I'm..."
 
 # game/day24.rpy:603
-translate french day24_choices_b6a0290f_1:
+translate french day24_choices_b6a0290f:
 
     # b "Don't bother, you piece of shit! Whatever we had, whatever we did, it's over."
-    b "T'en fais pas, espèce de merde ! Quoi qu'on ait eu, quoi qu'on ait fait, c'est fini."
+    b "Don't bother, you piece of shit! Whatever we had, whatever we did, it's over."
 
 # game/day24.rpy:605
-translate french day24_choices_d191b303_2:
+translate french day24_choices_d191b303:
 
     # p "{i}(Fuck.)"
-    p "{i}(Putain.)"
+    p "{i}(Fuck.)"
 
 # game/day24.rpy:611
-translate french day24_choices_8328d5c4_1:
+translate french day24_choices_8328d5c4:
 
     # "{i}Soon after, there's another knock on your door."
-    "{i}Peu de temps après, on frappe à votre porte."
+    "{i}Soon after, there's another knock on your door."
 
 # game/day24.rpy:613
-translate french day24_choices_4c8ee41e_1:
+translate french day24_choices_4c8ee41e:
 
     # "{i}There's a knock on your door."
-    "{i}On frappe à votre porte."
+    "{i}There's a knock on your door."
 
 # game/day24.rpy:615
-translate french day24_choices_fd6ab696_1:
+translate french day24_choices_fd6ab696:
 
     # l "Hey..."
     l "Hey..."
 
 # game/day24.rpy:616
-translate french day24_choices_36a6916f_1:
+translate french day24_choices_36a6916f:
 
     # l "I thought we were supposed to be meeting each other today."
-    l "Je croyais qu'on devait se voir aujourd'hui."
+    l "I thought we were supposed to be meeting each other today."
 
 # game/day24.rpy:617
-translate french day24_choices_2a2fdc6d_1:
+translate french day24_choices_2a2fdc6d:
 
     # p "{i}(Fuck...)"
-    p "{i}(Putain...)"
+    p "{i}(Fuck...)"
 
 # game/day24.rpy:618
-translate french day24_choices_2bfbde32_1:
+translate french day24_choices_2bfbde32:
 
     # l "I didn't do something wrong, did I?"
-    l "Je n'ai rien fait de mal, n'est-ce pas ?"
+    l "I didn't do something wrong, did I?"
 
 # game/day24.rpy:619
-translate french day24_choices_bbe69352_1:
+translate french day24_choices_bbe69352:
 
     # p "No you didn't..."
-    p "Non, vous ne l'avez pas fait...."
+    p "No you didn't..."
 
 # game/day24.rpy:620
-translate french day24_choices_3c54f4dd_1:
+translate french day24_choices_3c54f4dd:
 
     # l "Oh..."
-    l "Oh...."
+    l "Oh..."
 
 # game/day24.rpy:621
-translate french day24_choices_9062fe7f_1:
+translate french day24_choices_9062fe7f:
 
     # l "I don't think I can do this anymore, [p_name]... It's over..."
-    l "Je ne pense pas pouvoir continuer, [p_name]... C'est terminé...."
+    l "I don't think I can do this anymore, [p_name]... It's over..."
 
 # game/day24.rpy:622
-translate french day24_choices_758b9472_1:
+translate french day24_choices_758b9472:
 
     # p "No!"
-    p "Non !"
+    p "No!"
 
 # game/day24.rpy:623
-translate french day24_choices_5aa82095_1:
+translate french day24_choices_5aa82095:
 
     # l "Don't try to convince me."
-    l "N'essayez pas de me convaincre."
+    l "Don't try to convince me."
 
 # game/day24.rpy:625
-translate french day24_choices_8936c575_1:
+translate french day24_choices_8936c575:
 
     # "{i}[l_name] leaves the room, crying."
-    "{i}[l_name] quitte la pièce en pleurant."
+    "{i}[l_name] leaves the room, crying."
 
 # game/day24.rpy:626
-translate french day24_choices_d191b303_3:
+translate french day24_choices_d191b303_1:
 
     # p "{i}(Fuck.)"
-    p "{i}(Putain.)"
+    p "{i}(Fuck.)"
 
 # game/day24.rpy:636
-translate french day24_evening_choices_c87e73c2_1:
+translate french day24_evening_choices_c87e73c2:
 
     # p "{i}(I wonder if [l_name] has already recovered from our dance class together.)"
-    p "{i}(Je me demande si [l_name] s'est déjà remise de notre cours de danse ensemble.)"
+    p "{i}(I wonder if [l_name] has already recovered from our dance class together.)"
 
 # game/day24.rpy:638
-translate french day24_evening_choices_96021e66_1:
+translate french day24_evening_choices_96021e66:
 
     # l "{i}(Hmmmm, I can't sleep.)"
-    l "{i}(Hmmmmmm, je ne peux pas dormir.)"
+    l "{i}(Hmmmm, I can't sleep.)"
 
 # game/day24.rpy:639
-translate french day24_evening_choices_18c84958_1:
+translate french day24_evening_choices_18c84958:
 
     # l "{i}(I don't know what came over me today, after the dance class.)"
-    l "{i}(Je ne sais pas ce qui m'a pris aujourd'hui, après le cours de danse.)"
+    l "{i}(I don't know what came over me today, after the dance class.)"
 
 # game/day24.rpy:640
-translate french day24_evening_choices_7c5b21b2_1:
+translate french day24_evening_choices_7c5b21b2:
 
     # l "{i}(The dancing was amazing, the way we moved through the room. The way he lead me.)"
-    l "{i}(La danse était incroyable, la façon dont nous nous déplacions dans la pièce. La façon dont il m'a guidé.)"
+    l "{i}(The dancing was amazing, the way we moved through the room. The way he lead me.)"
 
 # game/day24.rpy:642
-translate french day24_evening_choices_d6f704e1_1:
+translate french day24_evening_choices_d6f704e1:
 
     # l "{i}(But those... those urges... I've never felt anything so strong.)"
-    l "{i}Mais ces... ces pulsions... Je n'ai jamais rien ressenti d'aussi fort."
+    l "{i}(But those... those urges... I've never felt anything so strong.)"
 
 # game/day24.rpy:643
-translate french day24_evening_choices_3cbc1725_1:
+translate french day24_evening_choices_3cbc1725:
 
     # l "{i}(Maybe I'm just horny?)"
-    l "{i}(Peut-être que je suis juste excitée ?)"
+    l "{i}(Maybe I'm just horny?)"
 
 # game/day24.rpy:644
-translate french day24_evening_choices_02645f0d_1:
+translate french day24_evening_choices_02645f0d:
 
     # l "{i}(I was never horny... But that was before...)"
-    l "{i}(Je n'ai jamais été excité... Mais c'était avant...)"
+    l "{i}(I was never horny... But that was before...)"
 
 # game/day24.rpy:645
-translate french day24_evening_choices_cddb261a_1:
+translate french day24_evening_choices_cddb261a:
 
     # l "{i}(I'm just going to touch myself, just a little bit.)"
-    l "{i}(Je vais juste me toucher, juste un petit peu.)"
+    l "{i}(I'm just going to touch myself, just a little bit.)"
 
 # game/day24.rpy:647
-translate french day24_evening_choices_117ee799_1:
+translate french day24_evening_choices_117ee799:
 
     # l "{i}(Mmmmm. That feels good.)"
-    l "{i}(Mmmmmmm. Ca fait du bien.)"
+    l "{i}(Mmmmm. That feels good.)"
 
 # game/day24.rpy:648
-translate french day24_evening_choices_f7f616cf_1:
+translate french day24_evening_choices_f7f616cf:
 
     # l "{i}(What if somebody enters the room and sees me lying here, exposed?)"
-    l "{i}(Et si quelqu'un entre dans la pièce et me voit allongé ici, exposé ?)"
+    l "{i}(What if somebody enters the room and sees me lying here, exposed?)"
 
 # game/day24.rpy:650
-translate french day24_evening_choices_f74bcfb0_1:
+translate french day24_evening_choices_f74bcfb0:
 
     # l "Aaah!"
-    l "Aaah !"
+    l "Aaah!"
 
 # game/day24.rpy:651
-translate french day24_evening_choices_9b376897_1:
+translate french day24_evening_choices_9b376897:
 
     # l "{i}(I'm so wet, how can I be so wet?)"
-    l "{i}(Je suis si mouillé, comment je peux être si mouillé ?)"
+    l "{i}(I'm so wet, how can I be so wet?)"
 
 # game/day24.rpy:652
-translate french day24_evening_choices_2ed3fe55_1:
+translate french day24_evening_choices_2ed3fe55:
 
     # l "{i}(I was only thinking of [p_name]. His strong arms, his body close to mine...)"
-    l "{i}(Je ne pensais qu'à Léon. Ses bras forts, son corps près du mien...)"
+    l "{i}(I was only thinking of [p_name]. His strong arms, his body close to mine...)"
 
 # game/day24.rpy:654
-translate french day24_evening_choices_e00b402f_1:
+translate french day24_evening_choices_e00b402f:
 
     # l "{i}(I should slip a finger in, that feels so nice.)"
-    l "{i}(Je devrais y glisser un doigt, ça fait du bien.)"
+    l "{i}(I should slip a finger in, that feels so nice.)"
 
 # game/day24.rpy:655
-translate french day24_evening_choices_5c161461_1:
+translate french day24_evening_choices_5c161461:
 
     # l "{i}(And I could pretend it was his...)"
-    l "{i}(Et je pouvais prétendre que c'était le sien...)"
+    l "{i}(And I could pretend it was his...)"
 
 # game/day24.rpy:656
-translate french day24_evening_choices_a66c0813_1:
+translate french day24_evening_choices_a66c0813:
 
     # l "{i}(Damnit. I shouldn't think like that.)"
-    l "{i}(Merde. Je ne devrais pas penser comme ça.)"
+    l "{i}(Damnit. I shouldn't think like that.)"
 
 # game/day24.rpy:657
-translate french day24_evening_choices_3124a776_1:
+translate french day24_evening_choices_3124a776:
 
     # l "{i}(But it feels so good! I wonder what it would feel like if he...)"
-    l "{i}(Mais ça fait du bien ! Je me demande ce que ça ferait s'il...)"
+    l "{i}(But it feels so good! I wonder what it would feel like if he...)"
 
 # game/day24.rpy:658
-translate french day24_evening_choices_ae8b0feb_1:
+translate french day24_evening_choices_ae8b0feb:
 
     # l "{i}(No!)"
-    l "{i}(Non !)"
+    l "{i}(No!)"
 
 # game/day24.rpy:659
-translate french day24_evening_choices_37bc17c2_1:
+translate french day24_evening_choices_37bc17c2:
 
     # l "{i}(I could use that thing... No harm in trying...)"
-    l "{i}(Je pourrais utiliser cette chose.... Il n'y a pas de mal à essayer...)"
+    l "{i}(I could use that thing... No harm in trying...)"
 
 # game/day24.rpy:661
-translate french day24_evening_choices_75351201_1:
+translate french day24_evening_choices_75351201:
 
     # l "{i}(Now, where did I leave it?)"
-    l "{i}(Maintenant, où l'ai-je laissé ?)"
+    l "{i}(Now, where did I leave it?)"
 
 # game/day24.rpy:662
-translate french day24_evening_choices_cbf43995_1:
+translate french day24_evening_choices_cbf43995:
 
     # l "{i}(I tucked it away somewhere under my bras.)"
-    l "{i}Je l'ai caché quelque part sous mon soutien-gorge."
+    l "{i}(I tucked it away somewhere under my bras.)"
 
 # game/day24.rpy:664
-translate french day24_evening_choices_0474ea86_1:
+translate french day24_evening_choices_0474ea86:
 
     # l "{i}(Gosh, that thing is so obscene. All those bulges and ribs... I bet it feels cold inside.)"
-    l "{i}(Mon Dieu, cette chose est tellement obscène. Tous ces bourrelets et ces côtes.... Je parie qu'il fait froid à l'intérieur.)"
+    l "{i}(Gosh, that thing is so obscene. All those bulges and ribs... I bet it feels cold inside.)"
 
 # game/day24.rpy:666
-translate french day24_evening_choices_5927cf3e_1:
+translate french day24_evening_choices_5927cf3e:
 
     # l "{i}(Surely, only cheap porn stars use this...)"
-    l "{i}(Sûrement, seules les stars du porno bon marché l'utilisent...)"
+    l "{i}(Surely, only cheap porn stars use this...)"
 
 # game/day24.rpy:667
-translate french day24_evening_choices_4211705b_1:
+translate french day24_evening_choices_4211705b:
 
     # l "{i}(Let's turn it on...)"
-    l "{i}(Allumons-le....)"
+    l "{i}(Let's turn it on...)"
 
 # game/day24.rpy:669
-translate french day24_evening_choices_aefd12d0_1:
+translate french day24_evening_choices_aefd12d0:
 
     # l "{i}(Oh god, that's far too intense! That thing buzzes like an angry bee.)"
-    l "{i}(Oh mon Dieu, c'est beaucoup trop intense ! Ce truc bourdonne comme une abeille en colère.)"
+    l "{i}(Oh god, that's far too intense! That thing buzzes like an angry bee.)"
 
 # game/day24.rpy:670
-translate french day24_evening_choices_ad217b4b_1:
+translate french day24_evening_choices_ad217b4b:
 
     # l "{i}(No way I'm going to put that inside of me...)"
-    l "{i}(Pas question que je mette ça en moi...)"
+    l "{i}(No way I'm going to put that inside of me...)"
 
 # game/day24.rpy:671
-translate french day24_evening_choices_a27cdeef_1:
+translate french day24_evening_choices_a27cdeef:
 
     # l "{i}(Let's see how it feels against my lips.)"
-    l "{i}Voyons ce que ça fait contre mes lèvres."
+    l "{i}(Let's see how it feels against my lips.)"
 
 # game/day24.rpy:673
-translate french day24_evening_choices_819d64c5_1:
+translate french day24_evening_choices_819d64c5:
 
     # l "Ooh god!"
-    l "Ooh mon dieu !"
+    l "Ooh god!"
 
 # game/day24.rpy:674
-translate french day24_evening_choices_e139ff9f_1:
+translate french day24_evening_choices_e139ff9f:
 
     # l "{i}(Shit! Did I do that out loud?)"
-    l "{i}(Merde ! J'ai fait ça à voix haute ?)"
+    l "{i}(Shit! Did I do that out loud?)"
 
 # game/day24.rpy:675
-translate french day24_evening_choices_541edf9a_1:
+translate french day24_evening_choices_541edf9a:
 
     # l "{i}(It feels so soft and the vibrations aren't too strong. Maybe I should press it harder against my pussy.)"
-    l "{i}(C'est si doux au toucher et les vibrations ne sont pas trop fortes. Je devrais peut-être appuyer plus fort contre ma chatte.)"
+    l "{i}(It feels so soft and the vibrations aren't too strong. Maybe I should press it harder against my pussy.)"
 
 # game/day24.rpy:677
-translate french day24_evening_choices_daa4514e_1:
+translate french day24_evening_choices_daa4514e:
 
     # l "Ooh god yes!!!"
-    l "Ooh mon dieu oui !!!!!"
+    l "Ooh god yes!!!"
 
 # game/day24.rpy:678
-translate french day24_evening_choices_8546bc73_1:
+translate french day24_evening_choices_8546bc73:
 
     # l "{i}(I want it in me!)"
-    l "{i}(Je le veux en moi !)"
+    l "{i}(I want it in me!)"
 
 # game/day24.rpy:680
-translate french day24_evening_choices_bbe2a246_1:
+translate french day24_evening_choices_bbe2a246:
 
     # p "{i}(Better knock first, maybe she's already asleep.)"
-    p "{i}(Mieux vaut frapper d'abord, peut-être qu'elle dort déjà.)"
+    p "{i}(Better knock first, maybe she's already asleep.)"
 
 # game/day24.rpy:682
-translate french day24_evening_choices_dda64edc_1:
+translate french day24_evening_choices_dda64edc:
 
     # l "{i}(No! No! Not now!!!)"
-    l "{i}(Non ! Non ! Non ! Pas maintenant !!!!!)"
+    l "{i}(No! No! Not now!!!)"
 
 # game/day24.rpy:683
-translate french day24_evening_choices_b2267e91_1:
+translate french day24_evening_choices_b2267e91:
 
     # l "Whoever it is, please go away!"
-    l "Qui que ce soit, allez-vous-en !"
+    l "Whoever it is, please go away!"
 
 # game/day24.rpy:684
-translate french day24_evening_choices_ee5d2a57_1:
+translate french day24_evening_choices_ee5d2a57:
 
     # l "{i}(Please don't come in, not like this! Please!)"
-    l "{i}(S'il vous plaît n'entrez pas, pas comme ça ! S'il vous plaît !)"
+    l "{i}(Please don't come in, not like this! Please!)"
 
 # game/day24.rpy:685
-translate french day24_evening_choices_82822a0c_3:
+translate french day24_evening_choices_82822a0c:
 
     # l "..."
     l "..."
 
 # game/day24.rpy:686
-translate french day24_evening_choices_82822a0c_4:
+translate french day24_evening_choices_82822a0c_1:
 
     # l "..."
     l "..."
 
 # game/day24.rpy:687
-translate french day24_evening_choices_daaddcaa_1:
+translate french day24_evening_choices_daaddcaa:
 
     # l "{i}(I think it's safe again.)"
-    l "{i}(Je pense que c'est à nouveau sûr.)"
+    l "{i}(I think it's safe again.)"
 
 # game/day24.rpy:689
-translate french day24_evening_choices_62a851fe_1:
+translate french day24_evening_choices_62a851fe:
 
     # l "{i}(But now the mood is completely ruined.)"
-    l "{i}Mais maintenant, l'ambiance est complètement ruinée."
+    l "{i}(But now the mood is completely ruined.)"
 
 # game/day24.rpy:690
-translate french day24_evening_choices_e8f4bcb5_1:
+translate french day24_evening_choices_e8f4bcb5:
 
     # l "{i}(Stupid thing.)"
-    l "{i}(Stupide chose.)"
+    l "{i}(Stupid thing.)"
 
 # game/day24.rpy:691
-translate french day24_evening_choices_83d4f7fb_1:
+translate french day24_evening_choices_83d4f7fb:
 
     # l "{i}(I hate you.)"
-    l "{i}(Je te déteste.)"
+    l "{i}(I hate you.)"
 
 # game/day24.rpy:692
-translate french day24_evening_choices_f1bc8cc9_1:
+translate french day24_evening_choices_f1bc8cc9:
 
     # l "{i}(Why am I talking to a vibrator?)"
-    l "{i}(Pourquoi est-ce que je parle à un vibromasseur ?)"
+    l "{i}(Why am I talking to a vibrator?)"
 
 # game/day24.rpy:693
-translate french day24_evening_choices_288197ec_1:
+translate french day24_evening_choices_288197ec:
 
     # l "{i}(I'd better get some rest and bury that filthy thing in a pile of laundry again tomorrow.)"
-    l "{i}(Je ferais mieux de me reposer et d'enterrer cette sale chose dans une pile de linge demain.)"
+    l "{i}(I'd better get some rest and bury that filthy thing in a pile of laundry again tomorrow.)"
 
 # game/day24.rpy:695
-translate french day24_evening_choices_80445dad_1:
+translate french day24_evening_choices_80445dad:
 
     # l "{i}(I'm so tired...)"
-    l "{i}(Je suis si fatiguée...)"
+    l "{i}(I'm so tired...)"
 
 # game/day24.rpy:696
-translate french day24_evening_choices_82822a0c_5:
+translate french day24_evening_choices_82822a0c_2:
 
     # l "..."
     l "..."
 
 # game/day24.rpy:701
-translate french day24_evening_choices_b65770b5_1:
+translate french day24_evening_choices_b65770b5:
 
     # "{i}On your way back from [l_name]'s room, you notice that somebody is in the bathroom."
-    "{i}En revenant de la chambre de [l_name], vous remarquez qu'il y a quelqu'un dans la salle de bains."
+    "{i}On your way back from [l_name]'s room, you notice that somebody is in the bathroom."
 
 # game/day24.rpy:703
-translate french day24_evening_choices_5c282617_1:
+translate french day24_evening_choices_5c282617:
 
     # "{i}When everybody is getting ready for bed, you hear [r_name] go inside the bathroom."
-    "{i}Quand tout le monde se prépare pour aller se coucher, on entend [r_name] entrer dans la salle de bains."
+    "{i}When everybody is getting ready for bed, you hear [r_name] go inside the bathroom."
 
 # game/day24.rpy:704
-translate french day24_evening_choices_bc73cc6f_1:
+translate french day24_evening_choices_bc73cc6f:
 
     # p "{i}(I haven't spoken to [r_name] all day. Let's change that.)"
-    p "{i}Je n'ai pas parlé à [r_name] de la journée. Changeons ça."
+    p "{i}(I haven't spoken to [r_name] all day. Let's change that.)"
 
 # game/day24.rpy:706
-translate french day24_evening_choices_c5b27efe_1:
+translate french day24_evening_choices_c5b27efe:
 
     # "{i}After you knock on the bathroom door and tell [r_name] it's you, you're quickly invited in."
-    "{i}Après avoir frappé à la porte de la salle de bains et dit à [r_name] que c'est vous, vous êtes rapidement invité à entrer."
+    "{i}After you knock on the bathroom door and tell [r_name] it's you, you're quickly invited in."
 
 # game/day24.rpy:708
-translate french day24_evening_choices_faf33115_1:
+translate french day24_evening_choices_faf33115:
 
     # r "Hey handsome!"
-    r "Hé, beau gosse !"
+    r "Hey handsome!"
 
 # game/day24.rpy:709
-translate french day24_evening_choices_b7950153_1:
+translate french day24_evening_choices_b7950153:
 
     # p "How was your first day at school?"
-    p "Comment s'est passé ton premier jour à l'école ?"
+    p "How was your first day at school?"
 
 # game/day24.rpy:710
-translate french day24_evening_choices_8a91cb86_1:
+translate french day24_evening_choices_8a91cb86:
 
     # r "I forgot how utterly boring it was."
-    r "J'avais oublié à quel point c'était ennuyeux."
+    r "I forgot how utterly boring it was."
 
 # game/day24.rpy:711
-translate french day24_evening_choices_c7f06fb0_1:
+translate french day24_evening_choices_c7f06fb0:
 
     # r "But Ana and Alina pulled me through."
-    r "Mais Ana et Alina m'ont aidé."
+    r "But Ana and Alina pulled me through."
 
 # game/day24.rpy:712
-translate french day24_evening_choices_84c620c1_1:
+translate french day24_evening_choices_84c620c1:
 
     # p "What?! You didn't think of me once?"
-    p "Quoi ?! Tu n'as pas pensé à moi une fois ?"
+    p "What?! You didn't think of me once?"
 
 # game/day24.rpy:713
-translate french day24_evening_choices_7d4bdbf7_1:
+translate french day24_evening_choices_7d4bdbf7:
 
     # r "Of course I did, silly, you were on my mind the rest of the time."
-    r "Bien sûr que si, idiot, je pensais à toi le reste du temps."
+    r "Of course I did, silly, you were on my mind the rest of the time."
 
 # game/day24.rpy:715
-translate french day24_evening_choices_3bdcda22_1:
+translate french day24_evening_choices_3bdcda22:
 
     # p "Are you done?"
-    p "Vous avez fini ?"
+    p "Are you done?"
 
 # game/day24.rpy:716
-translate french day24_evening_choices_3915c8e5_1:
+translate french day24_evening_choices_3915c8e5:
 
     # r "Do you want me to be?"
-    r "Tu veux que je le sois ?"
+    r "Do you want me to be?"
 
 # game/day24.rpy:717
-translate french day24_evening_choices_d5151d80_1:
+translate french day24_evening_choices_d5151d80:
 
     # p "No! I've missed you all day and you look so gorgeous."
-    p "Non ! Tu m'as manqué toute la journée et tu es si belle."
+    p "No! I've missed you all day and you look so gorgeous."
 
 # game/day24.rpy:718
-translate french day24_evening_choices_486dc62e_1:
+translate french day24_evening_choices_486dc62e:
 
     # r "Why don't you slide in with me, the water is still warm."
-    r "Pourquoi ne pas vous glisser avec moi, l'eau est encore chaude."
+    r "Why don't you slide in with me, the water is still warm."
 
 # game/day24.rpy:720
-translate french day24_evening_choices_8c5ced7c_1:
+translate french day24_evening_choices_8c5ced7c:
 
     # "{i}[r_name] nestles herself against you, her ass rubbing against your cock."
-    "{i}[r_name] se blottit contre toi, son cul se frotte contre ta bite."
+    "{i}[r_name] nestles herself against you, her ass rubbing against your cock."
 
 # game/day24.rpy:721
-translate french day24_evening_choices_86e48495_1:
+translate french day24_evening_choices_86e48495:
 
     # r "You're already getting a hard-on?!"
-    r "Tu as déjà une érection ?!"
+    r "You're already getting a hard-on?!"
 
 # game/day24.rpy:722
-translate french day24_evening_choices_e88a0767_1:
+translate french day24_evening_choices_e88a0767:
 
     # p "Sorry."
-    p "Désolée."
+    p "Sorry."
 
 # game/day24.rpy:723
-translate french day24_evening_choices_ed3dc877_1:
+translate french day24_evening_choices_ed3dc877:
 
     # r "I don't mind!"
-    r "Ça ne me dérange pas !"
+    r "I don't mind!"
 
 # game/day24.rpy:724
-translate french day24_evening_choices_cf0eaf12_1:
+translate french day24_evening_choices_cf0eaf12:
 
     # r "God, I'm so tired."
-    r "Mon Dieu, je suis si fatiguée."
+    r "God, I'm so tired."
 
 # game/day24.rpy:725
-translate french day24_evening_choices_071ad574_1:
+translate french day24_evening_choices_071ad574:
 
     # p "You're tense as well, the muscles in your shoulders feel way too hard."
-    p "Vous êtes aussi tendu, les muscles de vos épaules sont beaucoup trop durs."
+    p "You're tense as well, the muscles in your shoulders feel way too hard."
 
 # game/day24.rpy:726
-translate french day24_evening_choices_a0743e29_1:
+translate french day24_evening_choices_a0743e29:
 
     # r "What are you going to do about it?"
-    r "Qu'est-ce que tu vas faire ?"
+    r "What are you going to do about it?"
 
 # game/day24.rpy:727
-translate french day24_evening_choices_4ecf5b30_1:
+translate french day24_evening_choices_4ecf5b30:
 
     # p "I know just the thing."
-    p "Je sais exactement ce qu'il faut faire."
+    p "I know just the thing."
 
 # game/day24.rpy:730
-translate french day24_evening_choices_6d5c04b2_1:
+translate french day24_evening_choices_6d5c04b2:
 
     # "{i}You put your hands on her shoulders and massage her back, your sister closes her eyes in pleasure."
-    "{i}Vous posez vos mains sur ses épaules et lui massez le dos, votre sœur ferme les yeux avec plaisir."
+    "{i}You put your hands on her shoulders and massage her back, your sister closes her eyes in pleasure."
 
 # game/day24.rpy:732
-translate french day24_evening_choices_ffc27df2_1:
+translate french day24_evening_choices_ffc27df2:
 
     # "{i}You put your hands on her shoulders and massage her back, your friend closes her eyes in pleasure."
-    "{i}Vous posez vos mains sur ses épaules et lui massez le dos, votre amie ferme les yeux avec plaisir."
+    "{i}You put your hands on her shoulders and massage her back, your friend closes her eyes in pleasure."
 
 # game/day24.rpy:733
-translate french day24_evening_choices_37fe5aac_1:
+translate french day24_evening_choices_37fe5aac:
 
     # r "Mmmmm. Now you have to do this every day."
-    r "Mmmmmmm. Maintenant tu dois faire ça tous les jours."
+    r "Mmmmm. Now you have to do this every day."
 
 # game/day24.rpy:734
-translate french day24_evening_choices_e6e01fc5_1:
+translate french day24_evening_choices_e6e01fc5:
 
     # p "I really, really don't mind."
-    p "Ça ne me dérange vraiment, vraiment pas."
+    p "I really, really don't mind."
 
 # game/day24.rpy:735
-translate french day24_evening_choices_07dfdc59_1:
+translate french day24_evening_choices_07dfdc59:
 
     # r "Kiss me!"
-    r "Embrasse-moi !"
+    r "Kiss me!"
 
 # game/day24.rpy:737
-translate french day24_evening_choices_eb2bfd06_1:
+translate french day24_evening_choices_eb2bfd06:
 
     # "{i}When you focus your attention to her lips and kiss her passionately. [r_name] turns her face fully towards you and moans slightly as her ass touches your cock again."
-    "{i}Quand vous concentrez votre attention sur ses lèvres et l'embrassez avec passion. [r_name] tourne son visage complètement vers toi et gémit légèrement quand son cul touche à nouveau ta bite."
+    "{i}When you focus your attention to her lips and kiss her passionately. [r_name] turns her face fully towards you and moans slightly as her ass touches your cock again."
 
 # game/day24.rpy:738
-translate french day24_evening_choices_55fbac4d_1:
+translate french day24_evening_choices_55fbac4d:
 
     # p "Mmm, I think something else is too tense as well."
-    p "Mmm, je pense que quelque chose d'autre est aussi trop tendu."
+    p "Mmm, I think something else is too tense as well."
 
 # game/day24.rpy:740
-translate french day24_evening_choices_29a1976e_1:
+translate french day24_evening_choices_29a1976e:
 
     # "{i}Your hand dips beneath the waterline and you touch her soft pussy, the girl lays an encouraging hand on top of yours."
-    "{i}Votre main plonge sous la ligne de flottaison et vous touchez sa chatte douce, la fille pose une main encourageante sur la vôtre."
+    "{i}Your hand dips beneath the waterline and you touch her soft pussy, the girl lays an encouraging hand on top of yours."
 
 # game/day24.rpy:741
-translate french day24_evening_choices_1c10fcb0_1:
+translate french day24_evening_choices_1c10fcb0:
 
     # r "Yes, I'm really tense there..."
-    r "Oui, je suis vraiment tendu là...."
+    r "Yes, I'm really tense there..."
 
 # game/day24.rpy:743
-translate french day24_evening_choices_51e8ab07_1:
+translate french day24_evening_choices_51e8ab07:
 
     # "{i}Roused by her words, you touch her pussy and stimulate her clitoris, while cupping her small breast in your other hand."
-    "{i}Excité par ses paroles, vous touchez sa chatte et stimulez son clitoris, tout en lui tamponnant son petit sein dans votre autre main."
+    "{i}Roused by her words, you touch her pussy and stimulate her clitoris, while cupping her small breast in your other hand."
 
 # game/day24.rpy:744
-translate french day24_evening_choices_ffd0dbde_1:
+translate french day24_evening_choices_ffd0dbde:
 
     # r "Y-y-yes [p_name], t-touch me right there."
-    r "Oui, oui, Léon, touche-moi juste là."
+    r "Y-y-yes [p_name], t-touch me right there."
 
 # game/day24.rpy:745
-translate french day24_evening_choices_249929b7_1:
+translate french day24_evening_choices_249929b7:
 
     # r "Aaaaah!"
-    r "Aaaaaaah !"
+    r "Aaaaah!"
 
 # game/day24.rpy:747
-translate french day24_evening_choices_02dd6072_1:
+translate french day24_evening_choices_02dd6072:
 
     # b "Can I come in, [r_name]?"
-    b "Je peux entrer, [r_name] ?"
+    b "Can I come in, [r_name]?"
 
 # game/day24.rpy:748
-translate french day24_evening_choices_55fab30a_1:
+translate french day24_evening_choices_55fab30a:
 
     # b "I really need to pee!"
-    b "J'ai vraiment besoin de faire pipi !"
+    b "I really need to pee!"
 
 # game/day24.rpy:749
-translate french day24_evening_choices_f118db0c_1:
+translate french day24_evening_choices_f118db0c:
 
     # r "Fuck! It's [b_name]!"
-    r "Putain de merde ! C'est [b_name] !"
+    r "Fuck! It's [b_name]!"
 
 # game/day24.rpy:750
-translate french day24_evening_choices_47ac2dc7_1:
+translate french day24_evening_choices_47ac2dc7:
 
     # r "Hide!!!"
-    r "Cache-toi !!!!!"
+    r "Hide!!!"
 
 # game/day24.rpy:751
-translate french day24_evening_choices_24cdadc7_1:
+translate french day24_evening_choices_24cdadc7:
 
     # r "Just a minute, sis!"
-    r "Une minute, soeurette !"
+    r "Just a minute, sis!"
 
 # game/day24.rpy:753
-translate french day24_evening_choices_ef9c89de_1:
+translate french day24_evening_choices_ef9c89de:
 
     # "{i}The slippery water makes it difficult to exit the bath quickly, but with some acrobatics you manage to reach the shower and close the curtain."
-    "{i}L'eau glissante rend difficile la sortie rapide du bain, mais avec un peu d'acrobatie, on arrive à atteindre la douche et à fermer le rideau."
+    "{i}The slippery water makes it difficult to exit the bath quickly, but with some acrobatics you manage to reach the shower and close the curtain."
 
 # game/day24.rpy:754
-translate french day24_evening_choices_d3cba48b_1:
+translate french day24_evening_choices_d3cba48b:
 
     # r "Come in!"
-    r "Entrez ! Entrez !"
+    r "Come in!"
 
 # game/day24.rpy:756
-translate french day24_evening_choices_390a81d1_1:
+translate french day24_evening_choices_390a81d1:
 
     # b "Hey, thanks!"
-    b "Hey, merci !"
+    b "Hey, thanks!"
 
 # game/day24.rpy:757
-translate french day24_evening_choices_7d04d132_1:
+translate french day24_evening_choices_7d04d132:
 
     # b "Are you okay? There was a lot of noise back there?"
-    b "Est-ce que ça va ? Il y avait beaucoup de bruit là-bas ?"
+    b "Are you okay? There was a lot of noise back there?"
 
 # game/day24.rpy:758
-translate french day24_evening_choices_f2c4d976_1:
+translate french day24_evening_choices_f2c4d976:
 
     # r "Yes... er... I though I'd locked the door and wanted to open it for you."
-    r "Oui... euh...... J'ai cru que j'avais verrouillé la porte et que je voulais l'ouvrir pour toi."
+    r "Yes... er... I though I'd locked the door and wanted to open it for you."
 
 # game/day24.rpy:759
-translate french day24_evening_choices_6f6ed129_1:
+translate french day24_evening_choices_6f6ed129:
 
     # b "The door was open."
-    b "La porte était ouverte."
+    b "The door was open."
 
 # game/day24.rpy:760
-translate french day24_evening_choices_1fcc4145_1:
+translate french day24_evening_choices_1fcc4145:
 
     # r "I realized that when I was halfway there, that was the noises you heard. Probably."
-    r "J'ai réalisé que quand j'étais à mi-chemin, c'était les bruits que tu entendais. Probablement."
+    r "I realized that when I was halfway there, that was the noises you heard. Probably."
 
 # game/day24.rpy:761
-translate french day24_evening_choices_2b4a84c9_1:
+translate french day24_evening_choices_2b4a84c9:
 
     # p "{i}(Don't mind me, I'm not here. And for fuck's sake, don't take a shower!!!)"
-    p "{i}(Ne fais pas attention à moi, je ne suis pas là. Et bordel, ne prends pas de douche !!!!!)"
+    p "{i}(Don't mind me, I'm not here. And for fuck's sake, don't take a shower!!!)"
 
 # game/day24.rpy:763
-translate french day24_evening_choices_9e694855_1:
+translate french day24_evening_choices_9e694855:
 
     # b "Probably."
-    b "Probablement."
+    b "Probably."
 
 # game/day24.rpy:764
-translate french day24_evening_choices_16d84762_1:
+translate french day24_evening_choices_16d84762:
 
     # b "God. Thank you again for letting me in. I really needed to go."
-    b "Dieu. Merci encore de m'avoir laissé entrer. J'avais vraiment besoin d'y aller."
+    b "God. Thank you again for letting me in. I really needed to go."
 
 # game/day24.rpy:765
-translate french day24_evening_choices_314fc477_1:
+translate french day24_evening_choices_314fc477:
 
     # r "No problem."
-    r "Pas de problème."
+    r "No problem."
 
 # game/day24.rpy:766
-translate french day24_evening_choices_03a95e67_1:
+translate french day24_evening_choices_03a95e67:
 
     # b "So you've started school again today?"
-    b "Tu as repris l'école aujourd'hui ?"
+    b "So you've started school again today?"
 
 # game/day24.rpy:767
-translate french day24_evening_choices_eb6544d5_1:
+translate french day24_evening_choices_eb6544d5:
 
     # r "Yup. Hated it."
-    r "Ouaip. Je détestais ça."
+    r "Yup. Hated it."
 
 # game/day24.rpy:768
-translate french day24_evening_choices_907473de_1:
+translate french day24_evening_choices_907473de:
 
     # b "Don't worry, once you have your diploma, you can do whatever you like."
-    b "Ne vous inquiétez pas, une fois que vous avez votre diplôme, vous pouvez faire ce que vous voulez."
+    b "Don't worry, once you have your diploma, you can do whatever you like."
 
 # game/day24.rpy:769
-translate french day24_evening_choices_9e58e45e_1:
+translate french day24_evening_choices_9e58e45e:
 
     # r "Did you have a good day?"
-    r "Tu as passé une bonne journée ?"
+    r "Did you have a good day?"
 
 # game/day24.rpy:771
-translate french day24_evening_choices_8bab34f6_1:
+translate french day24_evening_choices_8bab34f6:
 
     # b "Yes, I really did!"
-    b "Oui, je l'ai vraiment fait !"
+    b "Yes, I really did!"
 
 # game/day24.rpy:772
-translate french day24_evening_choices_63f9a95f_1:
+translate french day24_evening_choices_63f9a95f:
 
     # r "Tell me!"
-    r "Dis-moi !"
+    r "Tell me!"
 
 # game/day24.rpy:773
-translate french day24_evening_choices_070ecb41_1:
+translate french day24_evening_choices_070ecb41:
 
     # b "Long story!"
-    b "Longue histoire !"
+    b "Long story!"
 
 # game/day24.rpy:775
-translate french day24_evening_choices_8f376377_1:
+translate french day24_evening_choices_8f376377:
 
     # r "Come now, [b_name], you're positively glowing."
-    r "Allons, [b_name], tu rayonnes positivement."
+    r "Come now, [b_name], you're positively glowing."
 
 # game/day24.rpy:776
-translate french day24_evening_choices_5cf30c78_1:
+translate french day24_evening_choices_5cf30c78:
 
     # b "I know, I know. I think for once, things are working out."
-    b "Je sais, je sais, je sais. Je pense que pour une fois, les choses s'arrangent."
+    b "I know, I know. I think for once, things are working out."
 
 # game/day24.rpy:777
-translate french day24_evening_choices_bee3ef17_1:
+translate french day24_evening_choices_bee3ef17:
 
     # p "{i}(Yes, today was a great day.)"
-    p "{i}(Oui, aujourd'hui était un grand jour.)"
+    p "{i}(Yes, today was a great day.)"
 
 # game/day24.rpy:778
-translate french day24_evening_choices_0122e9ae_1:
+translate french day24_evening_choices_0122e9ae:
 
     # r "You're in love!!! I just know it!"
-    r "Tu es amoureux !!!!! Je le sais, c'est tout !"
+    r "You're in love!!! I just know it!"
 
 # game/day24.rpy:779
-translate french day24_evening_choices_2993e132_1:
+translate french day24_evening_choices_2993e132:
 
     # b "Maybe..."
-    b "Peut-être...."
+    b "Maybe..."
 
 # game/day24.rpy:780
-translate french day24_evening_choices_45116a39_1:
+translate french day24_evening_choices_45116a39:
 
     # r "Who?! You have to tell me!"
-    r "Qui ?! Tu dois me le dire !"
+    r "Who?! You have to tell me!"
 
 # game/day24.rpy:781
-translate french day24_evening_choices_12ff8583_1:
+translate french day24_evening_choices_12ff8583:
 
     # b "Just enjoy your bath. I'll tell you when I'm ready."
-    b "Profite de ton bain. Je te dirai quand je serai prêt."
+    b "Just enjoy your bath. I'll tell you when I'm ready."
 
 # game/day24.rpy:782
-translate french day24_evening_choices_72562e9e_1:
+translate french day24_evening_choices_72562e9e:
 
     # p "{i}(Will she ever be ready?)"
-    p "{i}(Sera-t-elle un jour prête ?)"
+    p "{i}(Will she ever be ready?)"
 
 # game/day24.rpy:784
-translate french day24_evening_choices_d8a5cb24_1:
+translate french day24_evening_choices_d8a5cb24:
 
     # b "Well, you know, same old, same old."
-    b "Eh bien, tu sais, toujours la même chose, toujours la même chose."
+    b "Well, you know, same old, same old."
 
 # game/day24.rpy:785
-translate french day24_evening_choices_555666ff_1:
+translate french day24_evening_choices_555666ff:
 
     # r "Yeah."
-    r "Ouais."
+    r "Yeah."
 
 # game/day24.rpy:786
-translate french day24_evening_choices_22dcb7fa_1:
+translate french day24_evening_choices_22dcb7fa:
 
     # b "I'll leave you to your bath."
-    b "Je te laisse à ton bain."
+    b "I'll leave you to your bath."
 
 # game/day24.rpy:787
-translate french day24_evening_choices_35cc7ca5_1:
+translate french day24_evening_choices_35cc7ca5:
 
     # p "{i}(Don't look to the right!)"
-    p "{i}(Ne regarde pas à droite !)"
+    p "{i}(Don't look to the right!)"
 
 # game/day24.rpy:788
-translate french day24_evening_choices_b93142cc_1:
+translate french day24_evening_choices_b93142cc:
 
     # r "Thanks, sleep tight."
-    r "Merci, dormez bien."
+    r "Thanks, sleep tight."
 
 # game/day24.rpy:789
-translate french day24_evening_choices_14aef3ff_1:
+translate french day24_evening_choices_14aef3ff:
 
     # b "You too, sis."
-    b "Toi aussi, soeurette."
+    b "You too, sis."
 
 # game/day24.rpy:794
-translate french day24_evening_choices_d31f2b7e_1:
+translate french day24_evening_choices_d31f2b7e:
 
     # r "I think she's gone."
-    r "Je crois qu'elle est partie."
+    r "I think she's gone."
 
 # game/day24.rpy:795
-translate french day24_evening_choices_f13c71aa_1:
+translate french day24_evening_choices_f13c71aa:
 
     # r "How's my peeping Tom?"
-    r "Comment va mon voyeur ?"
+    r "How's my peeping Tom?"
 
 # game/day24.rpy:796
-translate french day24_evening_choices_db0dba76_1:
+translate french day24_evening_choices_db0dba76:
 
     # p "Scared shitless, but I'll manage."
-    p "Peur de rien, mais je me débrouillerai."
+    p "Scared shitless, but I'll manage."
 
 # game/day24.rpy:797
-translate french day24_evening_choices_306b895b_1:
+translate french day24_evening_choices_306b895b:
 
     # r "Let's have a shower together then, get rid of all that sweat."
-    r "Allons prendre une douche ensemble, alors, débarrassons-nous de toute cette sueur."
+    r "Let's have a shower together then, get rid of all that sweat."
 
 # game/day24.rpy:800
-translate french day24_evening_choices_0ba03374_1:
+translate french day24_evening_choices_0ba03374:
 
     # "{i}You rinse your sister's body with your hands, getting rid of all the soap suds and giving you an excuse to touch her as you please. Not that [r_name] complains."
-    "{i}Vous rincez le corps de votre sœur avec vos mains, en vous débarrassant de toute la mousse de savon et en vous donnant une excuse pour la toucher comme vous voulez. Non pas que [r_name] se plaigne."
+    "{i}You rinse your sister's body with your hands, getting rid of all the soap suds and giving you an excuse to touch her as you please. Not that [r_name] complains."
 
 # game/day24.rpy:802
-translate french day24_evening_choices_c8affe1d_1:
+translate french day24_evening_choices_c8affe1d:
 
     # "{i}You rinse your friend's body with your hands, getting rid of all the soap suds and giving you an excuse to touch her as you please. Not that [r_name] complains."
-    "{i}Vous rincez le corps de votre amie avec vos mains, en vous débarrassant de toute la mousse de savon et en vous donnant une excuse pour la toucher comme bon vous semble. Non pas que [r_name] se plaigne."
+    "{i}You rinse your friend's body with your hands, getting rid of all the soap suds and giving you an excuse to touch her as you please. Not that [r_name] complains."
 
 # game/day24.rpy:803
-translate french day24_evening_choices_3943a244_1:
+translate french day24_evening_choices_3943a244:
 
     # r "Mmmm, this feels nice as well."
-    r "Mmmm, ça fait du bien aussi."
+    r "Mmmm, this feels nice as well."
 
 # game/day24.rpy:804
-translate french day24_evening_choices_102cd8bd_1:
+translate french day24_evening_choices_102cd8bd:
 
     # r "Listen, [p_name], I know I said I was tired..."
-    r "Ecoute, [p_name], je sais que j'ai dit que j'étais fatigué..."
+    r "Listen, [p_name], I know I said I was tired..."
 
 # game/day24.rpy:805
-translate french day24_evening_choices_b1388a61_1:
+translate french day24_evening_choices_b1388a61:
 
     # p "Yes... I have a feeling I like where this is going."
-    p "Oui... J'ai l'impression que j'aime la tournure que ça prend."
+    p "Yes... I have a feeling I like where this is going."
 
 # game/day24.rpy:807
-translate french day24_evening_choices_510cc1ff_1:
+translate french day24_evening_choices_510cc1ff:
 
     # "{i}Noticing your erection, [r_name] pulls up her leg and rubs her pussy along the shaft."
-    "{i}Remarquant votre érection, [r_name] remonte sa jambe et se frotte la chatte le long de la tige."
+    "{i}Noticing your erection, [r_name] pulls up her leg and rubs her pussy along the shaft."
 
 # game/day24.rpy:809
-translate french day24_evening_choices_8fdada81_1:
+translate french day24_evening_choices_8fdada81:
 
     # r "I really want to have sex."
-    r "Je veux vraiment faire l'amour."
+    r "I really want to have sex."
 
 # game/day24.rpy:811
-translate french day24_evening_choices_64ba66d3_1:
+translate french day24_evening_choices_64ba66d3:
 
     # r "I want you inside of me."
-    r "Je te veux en moi."
+    r "I want you inside of me."
 
 # game/day24.rpy:812
-translate french day24_evening_choices_a7109580_1:
+translate french day24_evening_choices_a7109580:
 
     # r "Feel you, feel your cum inside of me."
-    r "Touche-toi, touche ton sperme à l'intérieur de moi."
+    r "Feel you, feel your cum inside of me."
 
 # game/day24.rpy:814
-translate french day24_evening_choices_1ed5dfd9_1:
+translate french day24_evening_choices_1ed5dfd9:
 
     # "{i}Despite the water you're able to slip your cock inside her pussy. You grab her butt tightly and gently thrust your shaft inside her, eliciting a small moan from [r_name]."
-    "{i}Malgré l'eau, tu peux glisser ta bite dans sa chatte. Vous lui agrippez les fesses serrées et vous poussez doucement votre tige à l'intérieur d'elle, provoquant un petit gémissement de la part de [r_name]."
+    "{i}Despite the water you're able to slip your cock inside her pussy. You grab her butt tightly and gently thrust your shaft inside her, eliciting a small moan from [r_name]."
 
 # game/day24.rpy:816
-translate french day24_evening_choices_8a7c140b_1:
+translate french day24_evening_choices_8a7c140b:
 
     # r "Ah yes, fuck me. I want to feel you so bad."
-    r "Ah oui, va te faire foutre. Je veux tellement te sentir mal."
+    r "Ah yes, fuck me. I want to feel you so bad."
 
 # game/day24.rpy:818
-translate french day24_evening_choices_69f4a87e_1:
+translate french day24_evening_choices_69f4a87e:
 
     # "{i}Afraid you'll fall, you let [r_name] rest her hand against the wall, so you can fuck her without restraint."
-    "{i}Tu as peur de tomber, tu laisses [r_name] reposer sa main contre le mur, pour pouvoir la baiser sans contrainte."
+    "{i}Afraid you'll fall, you let [r_name] rest her hand against the wall, so you can fuck her without restraint."
 
 # game/day24.rpy:819
-translate french day24_evening_choices_488f2b52_1:
+translate french day24_evening_choices_488f2b52:
 
     # r "G-g-god, fuck me harder! I want you [p_name]! Fuck me!"
-    r "Mon Dieu, baise-moi plus fort ! Je te veux [p_name] ! Putain de merde !"
+    r "G-g-god, fuck me harder! I want you [p_name]! Fuck me!"
 
 # game/day24.rpy:821
-translate french day24_evening_choices_16c49674_1:
+translate french day24_evening_choices_16c49674:
 
     # "{i}[r_name] claws at your wet hair as you nibble on her earlobe. With each thrust you seem to pull her closer towards you, her ass smacking against your abdomen."
-    "{i}[r_name] griffe tes cheveux mouillés pendant que tu grignotes son lobe d'oreille. A chaque poussée, vous semblez la rapprocher de vous, son cul se cognant contre votre abdomen."
+    "{i}[r_name] claws at your wet hair as you nibble on her earlobe. With each thrust you seem to pull her closer towards you, her ass smacking against your abdomen."
 
 # game/day24.rpy:822
-translate french day24_evening_choices_8a8d4ccb_1:
+translate french day24_evening_choices_8a8d4ccb:
 
     # p "I love you so much, [r_name]!"
-    p "Je t'aime tellement, [r_name] !"
+    p "I love you so much, [r_name]!"
 
 # game/day24.rpy:823
-translate french day24_evening_choices_50b82d1f_1:
+translate french day24_evening_choices_50b82d1f:
 
     # r "Aaaaah, keep going!"
-    r "Aaaaaaah, continuez !"
+    r "Aaaaah, keep going!"
 
 # game/day24.rpy:825
-translate french day24_evening_choices_4ce5ecb2_1:
+translate french day24_evening_choices_4ce5ecb2:
 
     # "{i}You turn her around, so you can look her in the eyes when you orgasm. Despite the warm water her breath is hot against your cheeks when she moans in pleasure."
-    "{i}Tu la retournes pour pouvoir la regarder dans les yeux quand tu as un orgasme. Malgré l'eau chaude, son haleine est chaude contre vos joues quand elle gémit de plaisir."
+    "{i}You turn her around, so you can look her in the eyes when you orgasm. Despite the warm water her breath is hot against your cheeks when she moans in pleasure."
 
 # game/day24.rpy:830
-translate french day24_evening_choices_f6992741_2:
+translate french day24_evening_choices_f6992741:
 
     # p "G-g-god, I'm ready, [r_name]!"
-    p "Mon Dieu, je suis prêt, [r_name] !"
+    p "G-g-god, I'm ready, [r_name]!"
 
 # game/day24.rpy:831
-translate french day24_evening_choices_33470745_1:
+translate french day24_evening_choices_33470745:
 
     # r "Keep fucking me! Please!"
-    r "Continue de me baiser ! S'il vous plaît !"
+    r "Keep fucking me! Please!"
 
 # game/day24.rpy:834
-translate french day24_evening_choices_c0a02d04_2:
+translate french day24_evening_choices_c0a02d04:
 
     # p "G-g-aaaaah!"
-    p "G-g-aaaaaaah !"
+    p "G-g-aaaaah!"
 
 # game/day24.rpy:835
-translate french day24_evening_choices_6fbc588f_1:
+translate french day24_evening_choices_6fbc588f:
 
     # "{i}You fulfil her wish and keep pounding her deeply until your cream drips from her pussy and mixes with the water from the shower."
-    "{i}Vous exaucez son souhait et continuez à la frapper profondément jusqu'à ce que votre crème coule de sa chatte et se mélange avec l'eau de la douche."
+    "{i}You fulfil her wish and keep pounding her deeply until your cream drips from her pussy and mixes with the water from the shower."
 
 # game/day24.rpy:837
-translate french day24_evening_choices_f6992741_3:
+translate french day24_evening_choices_f6992741_1:
 
     # p "G-g-god, I'm ready, [r_name]!"
-    p "Mon Dieu, je suis prêt, [r_name] !"
+    p "G-g-god, I'm ready, [r_name]!"
 
 # game/day24.rpy:838
-translate french day24_evening_choices_50ed1e49_1:
+translate french day24_evening_choices_50ed1e49:
 
     # p "On your knees baby, I want to see that lovely face of yours."
-    p "A genoux, bébé, je veux voir ton joli visage."
+    p "On your knees baby, I want to see that lovely face of yours."
 
 # game/day24.rpy:841
-translate french day24_evening_choices_c0a02d04_3:
+translate french day24_evening_choices_c0a02d04_1:
 
     # p "G-g-aaaaah!"
-    p "G-g-aaaaaaah !"
+    p "G-g-aaaaah!"
 
 # game/day24.rpy:842
-translate french day24_evening_choices_3e62347d_1:
+translate french day24_evening_choices_3e62347d:
 
     # "{i}[r_name] fingers herself as her face is covered in your semen. Some of it enters her mouth and she swallows without hesitation."
-    "{i}[r_name] se doigte car son visage est couvert de votre sperme. Une partie entre dans sa bouche et elle avale sans hésitation."
+    "{i}[r_name] fingers herself as her face is covered in your semen. Some of it enters her mouth and she swallows without hesitation."
 
 # game/day24.rpy:845
-translate french day24_evening_choices_21a88cd7_1:
+translate french day24_evening_choices_21a88cd7:
 
     # "{i}You keep [r_name] close as the remnants of your coupling wash away. Afterwards, you kiss each other goodnight and leave the bathroom separately."
-    "{i}Tu gardes [r_name] près de toi pendant que les restes de ton accouplement s'envolent. Ensuite, vous vous embrassez pour vous souhaiter bonne nuit et quittez la salle de bains séparément."
+    "{i}You keep [r_name] close as the remnants of your coupling wash away. Afterwards, you kiss each other goodnight and leave the bathroom separately."
 
 # game/day24.rpy:850
-translate french day24_evening_choices_832ebc96_1:
+translate french day24_evening_choices_832ebc96:
 
     # "{i}You're nearly ready for bed when there's a knock on your door."
-    "{i}Tu es presque prête à aller au lit quand on frappe à ta porte."
+    "{i}You're nearly ready for bed when there's a knock on your door."
 
 # game/day24.rpy:851
-translate french day24_evening_choices_6134cf25_1:
+translate french day24_evening_choices_6134cf25:
 
     # p "{i}(Could that be?!)"
-    p "{i}(Serait-ce possible ?!!)"
+    p "{i}(Could that be?!)"
 
 # game/day24.rpy:852
-translate french day24_evening_choices_5860b101_1:
+translate french day24_evening_choices_5860b101:
 
     # p "Come in!"
-    p "Entrez ! Entrez !"
+    p "Come in!"
 
 # game/day24.rpy:856
-translate french day24_b_night_post_8df664d4_1:
+translate french day24_b_night_post_8df664d4:
 
     # p "{i}(I knew she would come back! I just knew it!)"
-    p "{i}(Je savais qu'elle reviendrait ! Je le savais !)"
+    p "{i}(I knew she would come back! I just knew it!)"
 
 # game/day24.rpy:857
-translate french day24_b_night_post_4b465b5c_1:
+translate french day24_b_night_post_4b465b5c:
 
     # p "{i}(She's hooked now, I'm certain. This is the start of something beautiful!)"
-    p "{i}(Elle est accro maintenant, j'en suis sûr. C'est le début de quelque chose de beau !)"
+    p "{i}(She's hooked now, I'm certain. This is the start of something beautiful!)"
 
 # game/day24.rpy:858
-translate french day24_b_night_post_a140a9fb_1:
+translate french day24_b_night_post_a140a9fb:
 
     # "{i}Your thoughts are all over the place when you finally fall asleep."
-    "{i}Tes pensées sont partout quand tu t'endors enfin."
+    "{i}Your thoughts are all over the place when you finally fall asleep."
 
 # game/day24.rpy:860
-translate french day24_b_night_post_8bea7e2b_1:
+translate french day24_b_night_post_8bea7e2b:
 
     # "{i}Exhausted you fall asleep very quickly, a new day approaching."
-    "{i}Épuisé, vous vous endormez très vite, un nouveau jour approche."
+    "{i}Exhausted you fall asleep very quickly, a new day approaching."
 
 translate french strings:
 
     # day24.rpy:40
     old "Go dancing with [l_name]"
-    new "Va danser avec [l_name]"
+    new "Go dancing with [l_name]"
 
     # day24.rpy:40
     old "Call Discreet Inc."
@@ -3211,20 +3210,21 @@ translate french strings:
 
     # day24.rpy:40
     old "Meet [b_name]"
-    new "Rencontrez [b_name]"
+    new "Meet [b_name]"
 
     # day24.rpy:99
     old "Lift her up"
-    new "Soulevez-la vers le haut"
+    new "Lift her up"
 
     # day24.rpy:99
     old "Hold her close"
-    new "Tiens-la près d'elle"
+    new "Hold her close"
 
     # day24.rpy:204
     old "Grab her"
-    new "Attrapez-la"
+    new "Grab her"
 
     # day24.rpy:516
     old "Pull out your cock"
-    new "Sors ta bite"
+    new "Pull out your cock"
+
